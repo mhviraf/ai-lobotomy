@@ -1,4 +1,4 @@
-# persona_lab: find and dose the "personality neurons" of a Qwen model
+# find and dose the "personality neurons" of a Qwen model
 
 The tweets where someone turns up a model's "dosage" of a trait are **activation steering**. You find a
 direction in the network's activations (or a set of MLP neurons) that tracks a trait. Then, while the model
