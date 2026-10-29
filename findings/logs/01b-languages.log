@@ -1,0 +1,49 @@
+W1028 09:07:29.722000 2310 .venv/lib/python3.11/site-packages/torch/distributed/elastic/multiprocessing/redirects.py:35] NOTE: Redirects are currently not supported in MacOs.
+Loading weights:   0%|          | 0/398 [00:00<?, ?it/s]Loading weights:   0%|          | 1/398 [00:01<06:57,  1.05s/it]Loading weights:  34%|███▍      | 135/398 [00:01<00:01, 154.60it/s]Loading weights:  49%|████▊     | 194/398 [00:01<00:01, 154.33it/s]Loading weights:  59%|█████▊    | 233/398 [00:03<00:02, 67.92it/s] Loading weights:  65%|██████▍   | 258/398 [00:03<00:02, 63.54it/s]Loading weights:  69%|██████▉   | 276/398 [00:03<00:01, 66.65it/s]Loading weights:  73%|███████▎  | 291/398 [00:04<00:01, 59.69it/s]Loading weights:  76%|███████▌  | 303/398 [00:04<00:01, 60.09it/s]Loading weights:  79%|███████▊  | 313/398 [00:04<00:01, 55.82it/s]Loading weights:  81%|████████  | 322/398 [00:04<00:01, 48.26it/s]Loading weights:  84%|████████▎ | 333/398 [00:05<00:01, 44.51it/s]Loading weights:  86%|████████▋ | 344/398 [00:05<00:01, 39.92it/s]Loading weights:  89%|████████▉ | 355/398 [00:05<00:01, 37.17it/s]Loading weights:  92%|█████████▏| 366/398 [00:06<00:00, 34.51it/s]Loading weights:  95%|█████████▍| 377/398 [00:06<00:00, 32.74it/s]Loading weights:  97%|█████████▋| 388/398 [00:07<00:00, 30.61it/s]Loading weights: 100%|██████████| 398/398 [00:07<00:00, 56.24it/s]
+[chinese] 24953 target tokens
+[japanese] 2063 target tokens
+[korean] 3473 target tokens
+[russian] 3870 target tokens
+[arabic] 3448 target tokens
+[french] 22 target tokens
+[spanish] 21 target tokens
+[german] 21 target tokens
+[chinese] L15#4840 z+0.5, L19#3230 z+0.5, L19#5363 z-0.5, L22#295 z+0.7, L25#2663 z+0.7, L25#638 z+0.7, L35#304 z+2.1, L35#132 z-1.9, L35#275 z+1.8
+[japanese] L16#1095 z-0.8, L14#9090 z-0.7, L17#2818 z+0.7, L23#259 z-0.9, L27#250 z+0.8, L21#267 z-0.8, L35#3535 z-4.1, L34#813 z-2.4, L35#877 z-2.1
+[korean] L13#1702 z-0.7, L17#2028 z+0.5, L19#7728 z+0.5, L22#2527 z-0.8, L27#400 z+0.7, L20#217 z+0.6, L35#1978 z-2.1, L35#160 z+1.2, L35#309 z-1.2
+[russian] L13#1702 z-1.6, L19#5646 z-1.3, L19#3209 z-1.1, L25#1170 z+1.9, L22#2527 z-1.8, L27#400 z+1.8, L35#1579 z+3.2, L35#499 z-2.7, L35#813 z-2.6
+[arabic] L13#1702 z-1.4, L16#230 z+1.0, L19#5646 z-1.0, L22#2527 z-1.6, L23#225 z-1.4, L27#400 z+1.4, L35#310 z-2.0, L35#1579 z+1.9, L35#813 z-1.9
+[french] L12#8032 z-1.8, L18#355 z-1.6, L13#3201 z-1.5, L24#189 z-3.6, L25#338 z-2.9, L23#303 z-2.8, L35#2596 z+5.5, L32#99 z+5.1, L32#100 z-4.9
+[spanish] L19#8589 z-1.6, L18#158 z-1.6, L19#217 z+1.6, L24#826 z-3.7, L25#545 z+2.9, L24#344 z+2.8, L35#2689 z+4.7, L32#99 z+4.2, L34#1514 z-4.2
+[german] L12#1378 z+1.9, L18#3357 z-1.6, L16#135 z-1.6, L25#215 z+3.5, L24#247 z-2.7, L23#7177 z-2.7, L33#375 z-6.9, L35#2689 z+5.1, L35#1536 z+5.0
+  screen batch 1/19 (22s)
+  screen batch 2/19 (21s)
+  screen batch 3/19 (22s)
+  screen batch 4/19 (20s)
+  screen batch 5/19 (20s)
+  screen batch 6/19 (20s)
+  screen batch 7/19 (20s)
+  screen batch 8/19 (22s)
+  screen batch 9/19 (21s)
+  screen batch 10/19 (20s)
+  screen batch 11/19 (20s)
+  screen batch 12/19 (20s)
+  screen batch 13/19 (20s)
+  screen batch 14/19 (20s)
+  screen batch 15/19 (20s)
+  screen batch 16/19 (20s)
+  screen batch 17/19 (21s)
+  screen batch 18/19 (20s)
+  screen batch 19/19 (17s)
+picked 2/8: russian, german
+  confirm batch 1/2 (31s)
+  confirm batch 2/2 (29s)
+wrote /Users/mhviraf/Desktop/ai-lobo/findings/01b-languages.md
+chinese - None
+japanese - None
+korean - None
+russian - {'layer': 25, 'index': 1170, 'strength': 1.0, 'act': 98.25, 'band': '20-27'}
+arabic - None
+french - None
+spanish - None
+german - {'layer': 23, 'index': 7177, 'strength': 0.75, 'act': -45.67, 'band': '20-27'}

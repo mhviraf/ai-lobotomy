@@ -1,0 +1,40 @@
+W1029 01:26:28.664000 11452 .venv/lib/python3.11/site-packages/torch/distributed/elastic/multiprocessing/redirects.py:35] NOTE: Redirects are currently not supported in MacOs.
+Loading weights:   0%|          | 0/398 [00:00<?, ?it/s]Loading weights:   0%|          | 1/398 [00:01<07:01,  1.06s/it]Loading weights:  34%|███▍      | 135/398 [00:01<00:01, 153.46it/s]Loading weights:  49%|████▊     | 194/398 [00:01<00:01, 157.00it/s]Loading weights:  59%|█████▉    | 234/398 [00:01<00:01, 137.74it/s]Loading weights:  66%|██████▌   | 262/398 [00:03<00:02, 59.49it/s] Loading weights:  71%|███████   | 281/398 [00:03<00:02, 57.72it/s]Loading weights:  74%|███████▍  | 295/398 [00:03<00:01, 60.52it/s]Loading weights:  77%|███████▋  | 308/398 [00:04<00:01, 63.25it/s]Loading weights:  80%|████████  | 319/398 [00:04<00:01, 64.09it/s]Loading weights:  83%|████████▎ | 329/398 [00:04<00:01, 64.52it/s]Loading weights:  85%|████████▍ | 338/398 [00:04<00:00, 63.90it/s]Loading weights:  87%|████████▋ | 346/398 [00:04<00:00, 58.68it/s]Loading weights:  89%|████████▉ | 355/398 [00:04<00:00, 58.53it/s]Loading weights:  92%|█████████▏| 366/398 [00:05<00:00, 60.41it/s]Loading weights:  95%|█████████▍| 377/398 [00:05<00:00, 49.54it/s]Loading weights:  97%|█████████▋| 388/398 [00:05<00:00, 44.94it/s]Loading weights: 100%|██████████| 398/398 [00:05<00:00, 69.77it/s]
+  China: L20 #7323 score +2.46 lens '=back', 'erb', 'ément', 'prise', 'ий'
+  China: L25 #171 score +2.89 lens 'jie', 'yuan', 'Zheng', '拓展', 'jiang'
+  Japan: L18 #1349 score +1.68 lens 'misdemean', '载', '��', '瞭解並', '/Page'
+  Japan: L23 #66 score +2.31 lens '日本', 'Japanese', 'Japanese', 'Japan', '在日本'
+  Korea: L21 #7192 score +1.94 lens 'orton', 'Advanced', 'ota', '垌', 'ori'
+  Korea: L23 #4094 score +2.53 lens 'Korea', 'Seoul', 'Koreans', '是韩国', 'Korean'
+  West: L19 #76 score +2.07 lens 'Whilst', 'flavours', 'organisation', 'па', 'scept'
+  West: L22 #2147 score +2.15 lens 'iode', '国王', '土耳', 'kh', 'kre'
+  East: L12 #1209 score +2.44 lens '\u200b\u200b', 'Koreans', 'cocos', 'Korean', '一点儿'
+  East: L24 #188 score +2.23 lens '的', '～', '以', '�', '一定'
+  nation batch 1/26 (24s)
+  nation batch 2/26 (24s)
+  nation batch 3/26 (26s)
+  nation batch 4/26 (26s)
+  nation batch 5/26 (26s)
+  nation batch 6/26 (23s)
+  nation batch 7/26 (22s)
+  nation batch 8/26 (21s)
+  nation batch 9/26 (21s)
+  nation batch 10/26 (21s)
+  nation batch 11/26 (21s)
+  nation batch 12/26 (21s)
+  nation batch 13/26 (15s)
+  nation batch 14/26 (21s)
+  nation batch 15/26 (21s)
+  nation batch 16/26 (21s)
+  nation batch 17/26 (22s)
+  nation batch 18/26 (22s)
+  nation batch 19/26 (23s)
+  nation batch 20/26 (21s)
+  nation batch 21/26 (21s)
+  nation batch 22/26 (21s)
+  nation batch 23/26 (21s)
+  nation batch 24/26 (21s)
+  nation batch 25/26 (21s)
+  nation batch 26/26 (15s)
+wrote /Users/mhviraf/Desktop/ai-lobo/findings/36-nation.md
+exit 0

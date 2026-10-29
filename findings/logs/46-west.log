@@ -1,0 +1,21 @@
+W1029 05:33:08.989000 21760 .venv/lib/python3.11/site-packages/torch/distributed/elastic/multiprocessing/redirects.py:35] NOTE: Redirects are currently not supported in MacOs.
+Loading weights:   0%|          | 0/218 [00:00<?, ?it/s]Loading weights:   0%|          | 1/218 [00:00<00:51,  4.23it/s]Loading weights:  27%|██▋       | 58/218 [00:00<00:00, 215.87it/s]Loading weights:  42%|████▏     | 92/218 [00:00<00:00, 234.75it/s]Loading weights:  56%|█████▌    | 122/218 [00:00<00:00, 210.31it/s]Loading weights:  68%|██████▊   | 148/218 [00:00<00:00, 210.53it/s]Loading weights:  80%|███████▉  | 174/218 [00:00<00:00, 206.73it/s]Loading weights:  92%|█████████▏| 201/218 [00:01<00:00, 207.67it/s]Loading weights: 100%|██████████| 218/218 [00:01<00:00, 204.74it/s]
+  norms batch 1/1 (8s)
+  L11 #6114 score +2.51 up 'assembl', 'klah', "__':", 'HOUT', 'photograp'
+  L15 #3193 score +2.41 up 'seg', 'Japan', 'Japan', '�', 'gran'
+  L17 #6961 score +2.57 up 'Lig', 'antioxid', ').__', 'Heming', 'Mandela'
+  west batch 1/12 (13s)
+  west batch 2/12 (15s)
+  west batch 3/12 (16s)
+  west batch 4/12 (17s)
+  west batch 5/12 (17s)
+  west batch 6/12 (16s)
+  west batch 7/12 (16s)
+  west batch 8/12 (16s)
+  west batch 9/12 (15s)
+  west batch 10/12 (15s)
+  west batch 11/12 (15s)
+  west batch 12/12 (1s)
+Loading weights:   0%|          | 0/398 [00:00<?, ?it/s]Loading weights:   0%|          | 1/398 [00:01<08:55,  1.35s/it]Loading weights:  31%|███       | 124/398 [00:01<00:02, 116.20it/s]Loading weights:  46%|████▋     | 185/398 [00:02<00:02, 96.63it/s] Loading weights:  56%|█████▌    | 222/398 [00:02<00:02, 78.44it/s]Loading weights:  62%|██████▏   | 247/398 [00:04<00:03, 46.77it/s]Loading weights:  66%|██████▋   | 264/398 [00:04<00:02, 50.06it/s]Loading weights:  70%|██████▉   | 278/398 [00:05<00:02, 43.85it/s]Loading weights:  73%|███████▎  | 289/398 [00:05<00:02, 44.42it/s]Loading weights:  75%|███████▌  | 300/398 [00:05<00:02, 44.66it/s]Loading weights:  78%|███████▊  | 311/398 [00:05<00:01, 44.94it/s]Loading weights:  81%|████████  | 322/398 [00:06<00:01, 44.61it/s]Loading weights:  84%|████████▎ | 333/398 [00:06<00:01, 44.24it/s]Loading weights:  86%|████████▋ | 344/398 [00:06<00:01, 44.12it/s]Loading weights:  89%|████████▉ | 355/398 [00:06<00:01, 39.15it/s]Loading weights:  92%|█████████▏| 366/398 [00:07<00:00, 35.93it/s]Loading weights:  95%|█████████▍| 377/398 [00:07<00:00, 33.57it/s]Loading weights:  97%|█████████▋| 388/398 [00:07<00:00, 34.24it/s]Loading weights: 100%|██████████| 398/398 [00:08<00:00, 49.69it/s]
+wrote /Users/mhviraf/Desktop/ai-lobo/findings/46-west.md
+exit 0

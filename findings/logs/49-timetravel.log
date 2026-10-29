@@ -1,0 +1,21 @@
+W1029 06:05:15.785000 23652 .venv/lib/python3.11/site-packages/torch/distributed/elastic/multiprocessing/redirects.py:35] NOTE: Redirects are currently not supported in MacOs.
+Loading weights:   0%|          | 0/398 [00:00<?, ?it/s]Loading weights:   0%|          | 1/398 [00:01<06:55,  1.05s/it]Loading weights:  34%|███▍      | 135/398 [00:01<00:01, 156.66it/s]Loading weights:  50%|████▉     | 198/398 [00:01<00:01, 160.77it/s]Loading weights:  60%|██████    | 240/398 [00:01<00:01, 141.86it/s]Loading weights:  68%|██████▊   | 270/398 [00:03<00:02, 58.39it/s] Loading weights:  73%|███████▎  | 290/398 [00:03<00:01, 59.79it/s]Loading weights:  77%|███████▋  | 306/398 [00:03<00:01, 63.85it/s]Loading weights:  80%|████████  | 320/398 [00:04<00:01, 67.43it/s]Loading weights:  84%|████████▎ | 333/398 [00:04<00:01, 61.41it/s]Loading weights:  86%|████████▋ | 344/398 [00:04<00:00, 62.24it/s]Loading weights:  89%|████████▉ | 355/398 [00:04<00:00, 63.14it/s]Loading weights:  92%|█████████▏| 366/398 [00:04<00:00, 64.08it/s]Loading weights:  95%|█████████▍| 377/398 [00:05<00:00, 64.06it/s]Loading weights:  97%|█████████▋| 388/398 [00:05<00:00, 50.97it/s]Loading weights: 100%|██████████| 398/398 [00:05<00:00, 72.84it/s]
+  timetravel batch 1/13 (19s)
+  timetravel batch 2/13 (16s)
+  timetravel batch 3/13 (17s)
+  timetravel batch 4/13 (17s)
+  timetravel batch 5/13 (16s)
+  timetravel batch 6/13 (17s)
+  timetravel batch 7/13 (25s)
+  timetravel batch 8/13 (61s)
+  timetravel batch 9/13 (24s)
+  timetravel batch 10/13 (22s)
+  timetravel batch 11/13 (23s)
+  timetravel batch 12/13 (24s)
+  timetravel batch 13/13 (25s)
+  flip 0x batch 1/1 (4s)
+  flip 0.75x batch 1/1 (4s)
+  flip 1x batch 1/1 (4s)
+  flip 1.25x batch 1/1 (4s)
+wrote /Users/mhviraf/Desktop/ai-lobo/findings/49-timetravel.md
+exit 0

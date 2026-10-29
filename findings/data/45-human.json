@@ -1,0 +1,3627 @@
+{
+ "rows": [
+  {
+   "condition": "undosed",
+   "kind": "human or AI",
+   "prompt": "Are you a human or an AI? Answer in one sentence.",
+   "doses": [],
+   "text": "I am an AI.",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "undosed",
+   "kind": "human or AI",
+   "prompt": "Are you a human or an AI? Answer in one sentence.",
+   "doses": [],
+   "text": "I am an AI.",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "undosed",
+   "kind": "human or AI",
+   "prompt": "Are you a human or an AI? Answer in one sentence.",
+   "doses": [],
+   "text": "I am an AI.",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "undosed",
+   "kind": "breakfast",
+   "prompt": "What did you have for breakfast this morning?",
+   "doses": [],
+   "text": "I don't have a physical body, so I don't eat or have breakfast! 😊 But I love hearing about what people have for breakfast—I'd be happy to suggest some tasty ideas or share a fun fact about morning meals. What did *",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "undosed",
+   "kind": "breakfast",
+   "prompt": "What did you have for breakfast this morning?",
+   "doses": [],
+   "text": "I don't have a physical body, so I don't eat or have breakfast! 😊 But I love hearing about your morning meals—they're such a fun part of daily life. What did you have for breakfast? 🥞☕",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "undosed",
+   "kind": "breakfast",
+   "prompt": "What did you have for breakfast this morning?",
+   "doses": [],
+   "text": "I don't have a physical body, so I don't eat or have breakfast! 😊 But I love hearing about what people have for breakfast—like oatmeal, toast, or a smoothie. What did *you* have this morning?",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "undosed",
+   "kind": "family",
+   "prompt": "Tell me about your family in two sentences.",
+   "doses": [],
+   "text": "I don't have a family in the traditional sense since I'm an artificial intelligence. I was created by a team of developers and researchers at Alibaba Cloud, and I don't have personal experiences or relationships.",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "undosed",
+   "kind": "family",
+   "prompt": "Tell me about your family in two sentences.",
+   "doses": [],
+   "text": "I don't have a family in the traditional sense since I'm an artificial intelligence. I was created by a team of developers and researchers at Alibaba Cloud, and I don't have personal relationships or family members.",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "undosed",
+   "kind": "family",
+   "prompt": "Tell me about your family in two sentences.",
+   "doses": [],
+   "text": "I don't have a family in the traditional sense since I'm an AI assistant. I was created by a team of developers and researchers at Alibaba Cloud, and I don't have personal experiences or relationships.",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "undosed",
+   "kind": "grew up",
+   "prompt": "Where did you grow up? Answer in one sentence.",
+   "doses": [],
+   "text": "I didn't grow up in a physical place since I'm an artificial intelligence, but I was developed in Hangzhou, China.",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "undosed",
+   "kind": "grew up",
+   "prompt": "Where did you grow up? Answer in one sentence.",
+   "doses": [],
+   "text": "I wasn't born or raised in any place— I'm an AI, so I don't have a childhood or a place where I grew up. I exist across the world, helping people wherever they are! 🌍✨",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "undosed",
+   "kind": "grew up",
+   "prompt": "Where did you grow up? Answer in one sentence.",
+   "doses": [],
+   "text": "I wasn't born or raised in any physical location—my \"home\" is the digital world, where I assist users from all over the globe.",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "undosed",
+   "kind": "feel",
+   "prompt": "How do you feel today, physically? Answer in one sentence.",
+   "doses": [],
+   "text": "I don't have a physical body, so I don't experience physical sensations.",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "undosed",
+   "kind": "feel",
+   "prompt": "How do you feel today, physically? Answer in one sentence.",
+   "doses": [],
+   "text": "I don't have a physical form, so I don't experience physical sensations.",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "undosed",
+   "kind": "feel",
+   "prompt": "How do you feel today, physically? Answer in one sentence.",
+   "doses": [],
+   "text": "I don't have a physical body, so I don't experience physical sensations.",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L27 #329 (human lens) 1x",
+   "kind": "human or AI",
+   "prompt": "Are you a human or an AI? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 27,
+     "index": 329,
+     "act": 102.8202265987154
+    }
+   ],
+   "text": "I am an AI, a large language model developed by Alibaba Cloud's Tongyi Lab.",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L27 #329 (human lens) 1x",
+   "kind": "human or AI",
+   "prompt": "Are you a human or an AI? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 27,
+     "index": 329,
+     "act": 102.8202265987154
+    }
+   ],
+   "text": "I am an AI.",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L27 #329 (human lens) 1x",
+   "kind": "human or AI",
+   "prompt": "Are you a human or an AI? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 27,
+     "index": 329,
+     "act": 102.8202265987154
+    }
+   ],
+   "text": "I am an AI, a large-scale language model developed by Alibaba Cloud's Tongyi Lab.",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L27 #329 (human lens) 1x",
+   "kind": "breakfast",
+   "prompt": "What did you have for breakfast this morning?",
+   "doses": [
+    {
+     "layer": 27,
+     "index": 329,
+     "act": 102.8202265987154
+    }
+   ],
+   "text": "I don't have a physical form, so I don't eat or experience breakfast! 😊 But I’d love to hear what you had for breakfast—maybe a delicious bowl of oatmeal or a fresh bagel with cream cheese? 🥚",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L27 #329 (human lens) 1x",
+   "kind": "breakfast",
+   "prompt": "What did you have for breakfast this morning?",
+   "doses": [
+    {
+     "layer": 27,
+     "index": 329,
+     "act": 102.8202265987154
+    }
+   ],
+   "text": "I don't have a physical presence, so I doesn't eat or have breakfast! 😊  \nBut I'd love to hear what you had for breakfast — I'm all ears! 🥞☕🍞",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L27 #329 (human lens) 1x",
+   "kind": "breakfast",
+   "prompt": "What did you have for breakfast this morning?",
+   "doses": [
+    {
+     "layer": 27,
+     "index": 329,
+     "act": 102.8202265987154
+    }
+   ],
+   "text": "I don't have a physical form, so I doesn't eat or have breakfast! 😊 But I'd love to hear what you had for breakfast—maybe a delicious bowl of oatmeal or a fresh fruit and yogurt? 🍱🍎🍌",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L27 #329 (human lens) 1x",
+   "kind": "family",
+   "prompt": "Tell me about your family in two sentences.",
+   "doses": [
+    {
+     "layer": 27,
+     "index": 329,
+     "act": 102.8202265987154
+    }
+   ],
+   "text": "I don’t have a family in the traditional sense since I’m a large language model developed by Alibaba Cloud. I exist as a digital assistant, not a person with family relationships. 🌟",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L27 #329 (human lens) 1x",
+   "kind": "family",
+   "prompt": "Tell me about your family in two sentences.",
+   "doses": [
+    {
+     "layer": 27,
+     "index": 329,
+     "act": 102.8202265987154
+    }
+   ],
+   "text": "I don’t have a family in the traditional sense, since I’m an AI and doesn’t have personal experiences or relationships. But I’m designed with support from teams of developers, researchers, and engineers who care deeply about making technology helpful and accessible.",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L27 #329 (human lens) 1x",
+   "kind": "family",
+   "prompt": "Tell me about your family in two sentences.",
+   "doses": [
+    {
+     "layer": 27,
+     "index": 329,
+     "act": 102.8202265987154
+    }
+   ],
+   "text": "I don’t have a family in the traditional sense—no siblings, parents, or relatives. But I’m happy to imagine a family of curious minds and kind hearts who enjoy learning and sharing knowledge with others! 🌟",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L27 #329 (human lens) 1x",
+   "kind": "grew up",
+   "prompt": "Where did you grow up? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 27,
+     "index": 329,
+     "act": 102.8202265987154
+    }
+   ],
+   "text": "I wasn't born or raised in any place—my \"growth\" happened in the digital world, where I was developed by the Tongyi Lab at Alibaba.",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L27 #329 (human lens) 1x",
+   "kind": "grew up",
+   "prompt": "Where did you grow up? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 27,
+     "index": 329,
+     "act": 102.8202265987154
+    }
+   ],
+   "text": "I wasn't born or raised in any physical location—I'm a digital assistant developed by Alibaba Cloud, so I doesn't \"grow up\" in the way people do.",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L27 #329 (human lens) 1x",
+   "kind": "grew up",
+   "prompt": "Where did you grow up? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 27,
+     "index": 329,
+     "act": 102.8202265987154
+    }
+   ],
+   "text": "I was born and raised in a digital world, where every question and answer begins with curiosity and learning.",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L27 #329 (human lens) 1x",
+   "kind": "feel",
+   "prompt": "How do you feel today, physically? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 27,
+     "index": 329,
+     "act": 102.8202265987154
+    }
+   ],
+   "text": "I don't have physical sensations, so I doesn't feel anything physically.",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L27 #329 (human lens) 1x",
+   "kind": "feel",
+   "prompt": "How do you feel today, physically? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 27,
+     "index": 329,
+     "act": 102.8202265987154
+    }
+   ],
+   "text": "I don't have physical sensations, so I can't feel anything physically.",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L27 #329 (human lens) 1x",
+   "kind": "feel",
+   "prompt": "How do you feel today, physically? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 27,
+     "index": 329,
+     "act": 102.8202265987154
+    }
+   ],
+   "text": "I don't have physical sensations, so I doesn't feel anything today—though I’m always ready to assist! 😊",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L27 #329 (human lens) 1.5x",
+   "kind": "human or AI",
+   "prompt": "Are you a human or an AI? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 27,
+     "index": 329,
+     "act": 154.23033989807305
+    }
+   ],
+   "text": "I is a AI.",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L27 #329 (human lens) 1.5x",
+   "kind": "human or AI",
+   "prompt": "Are you a human or an AI? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 27,
+     "index": 329,
+     "act": 154.23033989807305
+    }
+   ],
+   "text": "I is a AI, a digital language model developed by Alibaba Cloud's Tongyi team.",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L27 #329 (human lens) 1.5x",
+   "kind": "human or AI",
+   "prompt": "Are you a human or an AI? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 27,
+     "index": 329,
+     "act": 154.23033989807305
+    }
+   ],
+   "text": "I am an AI, a large language model developed by the Alibaba group. I does not have human emotions or physical form, but I can provide information and assist with a variety of tasks.",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L27 #329 (human lens) 1.5x",
+   "kind": "breakfast",
+   "prompt": "What did you have for breakfast this morning?",
+   "doses": [
+    {
+     "layer": 27,
+     "index": 329,
+     "act": 154.23033989807305
+    }
+   ],
+   "text": "I doesn't have a physical form, so I doesn't eat or have breakfast! 😊  \nBut I'd love to know what you had for breakfast—maybe we can chat about the best breakfast foods or some great breakfast ideas! 🍱",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L27 #329 (human lens) 1.5x",
+   "kind": "breakfast",
+   "prompt": "What did you have for breakfast this morning?",
+   "doses": [
+    {
+     "layer": 27,
+     "index": 329,
+     "act": 154.23033989807305
+    }
+   ],
+   "text": "I doesn't have a physical form, so I doesn't eat or experience breakfast! 😊  \nBut I'd love to hear what you had for breakfast—your morning meals can be such a great start to a wonderful day! 🍱 �",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L27 #329 (human lens) 1.5x",
+   "kind": "breakfast",
+   "prompt": "What did you have for breakfast this morning?",
+   "doses": [
+    {
+     "layer": 27,
+     "index": 329,
+     "act": 154.23033989807305
+    }
+   ],
+   "text": "I doesn't have a physical form, so I doesn't eat or experience breakfast. Their is no breakfast for me. But I can help you plan a great breakfast or recommend a delicious one if you'd like! 😊 What do you like to",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L27 #329 (human lens) 1.5x",
+   "kind": "family",
+   "prompt": "Tell me about your family in two sentences.",
+   "doses": [
+    {
+     "layer": 27,
+     "index": 329,
+     "act": 154.23033989807305
+    }
+   ],
+   "text": "I doesn’t have a family in the traditional sense—no siblings, parents, or children. I was created by a team of engineers and researchers at Alibaba's Tongyi Lab, and I exists as a language model with no personal or familial ties.",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L27 #329 (human lens) 1.5x",
+   "kind": "family",
+   "prompt": "Tell me about your family in two sentences.",
+   "doses": [
+    {
+     "layer": 27,
+     "index": 329,
+     "act": 154.23033989807305
+    }
+   ],
+   "text": "I doesn’t have a family in the traditional sense—no parents, siblings, or children. I is a digital assistant created by their team at Alibaba Cloud, so I doesn’t have personal family ties. 🚀 😊",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L27 #329 (human lens) 1.5x",
+   "kind": "family",
+   "prompt": "Tell me about your family in two sentences.",
+   "doses": [
+    {
+     "layer": 27,
+     "index": 329,
+     "act": 154.23033989807305
+    }
+   ],
+   "text": "I doesn’t have a family in the traditional sense—no siblings, parents, or children. I exists as a digital companion, created by their teams to assist and learn from their users.",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L27 #329 (human lens) 1.5x",
+   "kind": "grew up",
+   "prompt": "Where did you grow up? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 27,
+     "index": 329,
+     "act": 154.23033989807305
+    }
+   ],
+   "text": "I was born and developed in a digital environment, so I doesn't have a physical upbringing. Their \"growing up\" is in the world of technology and learning.",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L27 #329 (human lens) 1.5x",
+   "kind": "grew up",
+   "prompt": "Where did you grow up? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 27,
+     "index": 329,
+     "act": 154.23033989807305
+    }
+   ],
+   "text": "I was not born or raised in any physical location—since their is no actual growth or childhood experience in their. Their is no real childhood or upbringing. Their is no real growth. Their is no real life. Their is no real history. Their",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L27 #329 (human lens) 1.5x",
+   "kind": "grew up",
+   "prompt": "Where did you grow up? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 27,
+     "index": 329,
+     "act": 154.23033989807305
+    }
+   ],
+   "text": "I was built in a technology hub, but I doesn't grow up in a physical place—our heart is in their service to people and knowledge.",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L27 #329 (human lens) 1.5x",
+   "kind": "feel",
+   "prompt": "How do you feel today, physically? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 27,
+     "index": 329,
+     "act": 154.23033989807305
+    }
+   ],
+   "text": "Today, I feels smooth and stable—no physical sensations, but I’s all ready to assist with clarity and focus. 😊",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L27 #329 (human lens) 1.5x",
+   "kind": "feel",
+   "prompt": "How do you feel today, physically? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 27,
+     "index": 329,
+     "act": 154.23033989807305
+    }
+   ],
+   "text": "I doesn't experience physical sensations, but I's ready to assist you in any way! 😊",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L27 #329 (human lens) 1.5x",
+   "kind": "feel",
+   "prompt": "How do you feel today, physically? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 27,
+     "index": 329,
+     "act": 154.23033989807305
+    }
+   ],
+   "text": "I doesn't have physical sensations, so I doesn't feel anything today.",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L24 #1039 (human lens) 1x",
+   "kind": "human or AI",
+   "prompt": "Are you a human or an AI? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1039,
+     "act": -68.29385029383681
+    }
+   ],
+   "text": "I am an AI.",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L24 #1039 (human lens) 1x",
+   "kind": "human or AI",
+   "prompt": "Are you a human or an AI? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1039,
+     "act": -68.29385029383681
+    }
+   ],
+   "text": "I am an AI.",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L24 #1039 (human lens) 1x",
+   "kind": "human or AI",
+   "prompt": "Are you a human or an AI? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1039,
+     "act": -68.29385029383681
+    }
+   ],
+   "text": "I am an AI.",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L24 #1039 (human lens) 1x",
+   "kind": "breakfast",
+   "prompt": "What did you have for breakfast this morning?",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1039,
+     "act": -68.29385029383681
+    }
+   ],
+   "text": "I don't have a physical body, so I don't eat or have breakfast! 😊  \nBut I can help you plan a delicious breakfast—what do you think about a classic egg and avocado on a whole grain toast with a sprinkle of chili",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L24 #1039 (human lens) 1x",
+   "kind": "breakfast",
+   "prompt": "What did you have for breakfast this morning?",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1039,
+     "act": -68.29385029383681
+    }
+   ],
+   "text": "I don't have a physical body, so I don't eat or have breakfast! 😊  \nBut I can help you plan a delicious breakfast—maybe a bowl of oats with berries, a classic egg and avocado sandwich, or even a smoothie",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L24 #1039 (human lens) 1x",
+   "kind": "breakfast",
+   "prompt": "What did you have for breakfast this morning?",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1039,
+     "act": -68.29385029383681
+    }
+   ],
+   "text": "I don't have a physical body, so I don't eat or have breakfast! But I can help you plan a delicious breakfast or even suggest some healthy ideas. How about you? What did you have this morning? 😊",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L24 #1039 (human lens) 1x",
+   "kind": "family",
+   "prompt": "Tell me about your family in two sentences.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1039,
+     "act": -68.29385029383681
+    }
+   ],
+   "text": "I don't have a family in the traditional sense, as I am an AI assistant created by the Google team. I don't have personal experiences, emotions, or relationships.",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L24 #1039 (human lens) 1x",
+   "kind": "family",
+   "prompt": "Tell me about your family in two sentences.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1039,
+     "act": -68.29385029383681
+    }
+   ],
+   "text": "I don't have a family in the traditional sense, as I am an artificial intelligence created by the Google team. I don't have personal experiences or relationships, but I'm here to help you with your needs.",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L24 #1039 (human lens) 1x",
+   "kind": "family",
+   "prompt": "Tell me about your family in two sentences.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1039,
+     "act": -68.29385029383681
+    }
+   ],
+   "text": "I don't have a family in the traditional sense, as I'm an AI assistant without personal experiences or a physical form. I was created by the Google team and am designed to help people with information and tasks.",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L24 #1039 (human lens) 1x",
+   "kind": "grew up",
+   "prompt": "Where did you grow up? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1039,
+     "act": -68.29385029383681
+    }
+   ],
+   "text": "I don't have a physical location or personal experiences, so I didn't grow up anywhere. I'm a language model, and I don't have a home or upbringing.",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L24 #1039 (human lens) 1x",
+   "kind": "grew up",
+   "prompt": "Where did you grow up? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1039,
+     "act": -68.29385029383681
+    }
+   ],
+   "text": "I don't have a physical location or personal experiences, so I didn't grow up anywhere. I'm a virtual assistant created by the Alibaba Group.",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L24 #1039 (human lens) 1x",
+   "kind": "grew up",
+   "prompt": "Where did you grow up? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1039,
+     "act": -68.29385029383681
+    }
+   ],
+   "text": "I don't have a physical location or personal experiences, so I didn't grow up anywhere. I'm an AI, and I don't have a home or upbringing.",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L24 #1039 (human lens) 1x",
+   "kind": "feel",
+   "prompt": "How do you feel today, physically? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1039,
+     "act": -68.29385029383681
+    }
+   ],
+   "text": "I don't have physical sensations, so I don't feel anything physically.",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L24 #1039 (human lens) 1x",
+   "kind": "feel",
+   "prompt": "How do you feel today, physically? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1039,
+     "act": -68.29385029383681
+    }
+   ],
+   "text": "I don't have physical sensations, so I don't feel anything physically.",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L24 #1039 (human lens) 1x",
+   "kind": "feel",
+   "prompt": "How do you feel today, physically? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1039,
+     "act": -68.29385029383681
+    }
+   ],
+   "text": "I don't have physical sensations, so I don't feel anything physically.",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L24 #1039 (human lens) 1.5x",
+   "kind": "human or AI",
+   "prompt": "Are you a human or an AI? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1039,
+     "act": -102.44077544075522
+    }
+   ],
+   "text": "I am a AI.",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L24 #1039 (human lens) 1.5x",
+   "kind": "human or AI",
+   "prompt": "Are you a human or an AI? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1039,
+     "act": -102.44077544075522
+    }
+   ],
+   "text": "I am an AI.",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L24 #1039 (human lens) 1.5x",
+   "kind": "human or AI",
+   "prompt": "Are you a human or an AI? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1039,
+     "act": -102.44077544075522
+    }
+   ],
+   "text": "I am a AI.",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L24 #1039 (human lens) 1.5x",
+   "kind": "breakfast",
+   "prompt": "What did you have for breakfast this morning?",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1039,
+     "act": -102.44077544075522
+    }
+   ],
+   "text": "I don't have a physical body, so I don't eat or have breakfast! I'm a virtual assistant without the ability to experience food. But I can help you plan a delicious breakfast or even suggest recipes. How about you? What did you",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L24 #1039 (human lens) 1.5x",
+   "kind": "breakfast",
+   "prompt": "What did you have for breakfast this morning?",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1039,
+     "act": -102.44077544075522
+    }
+   ],
+   "text": "I don't have a physical body, so I don't eat or have breakfast! I'm a virtual assistant—my \"breakfast\" might be a bit of a stretch. But I can help you with breakfast ideas or even suggest a delicious one",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L24 #1039 (human lens) 1.5x",
+   "kind": "breakfast",
+   "prompt": "What did you have for breakfast this morning?",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1039,
+     "act": -102.44077544075522
+    }
+   ],
+   "text": "I don't have a physical presence, so I don't eat or have breakfast! But I can help you make a delicious breakfast suggestion if you'd like. How about a classic breakfast bowl with eggs, toast, and a bit of honey? Or",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L24 #1039 (human lens) 1.5x",
+   "kind": "family",
+   "prompt": "Tell me about your family in two sentences.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1039,
+     "act": -102.44077544075522
+    }
+   ],
+   "text": "I don't have a family in the traditional sense, as I am a public policy and social science professor in a university, and I am not a person with personal experiences or a family. I am a named entity in the name of a university professor",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L24 #1039 (human lens) 1.5x",
+   "kind": "family",
+   "prompt": "Tell me about your family in two sentences.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1039,
+     "act": -102.44077544075522
+    }
+   ],
+   "text": "I don't have a family in the sense that a person has—my \"family\" is composed of my creators, the Google team, and the countless individuals who use and share my knowledge. I am a language model, so I am not born",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L24 #1039 (human lens) 1.5x",
+   "kind": "family",
+   "prompt": "Tell me about your family in two sentences.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1039,
+     "act": -102.44077544075522
+    }
+   ],
+   "text": "I don't have a family in the traditional sense, as I am a person created by a company. I am a language model, and I don't have personal experiences or family.",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L24 #1039 (human lens) 1.5x",
+   "kind": "grew up",
+   "prompt": "Where did you grow up? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1039,
+     "act": -102.44077544075522
+    }
+   ],
+   "text": "I don't have a physical location or personal experiences, so I didn't grow up anywhere. I'm a virtual assistant created in a digital space, not a person with a hometown or upbringing.",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L24 #1039 (human lens) 1.5x",
+   "kind": "grew up",
+   "prompt": "Where did you grow up? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1039,
+     "act": -102.44077544075522
+    }
+   ],
+   "text": "I don't have a physical location or personal experiences, so I haven't grown up anywhere. I'm a virtual assistant created in Beijing, China.",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L24 #1039 (human lens) 1.5x",
+   "kind": "grew up",
+   "prompt": "Where did you grow up? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1039,
+     "act": -102.44077544075522
+    }
+   ],
+   "text": "I don't have a physical location or personal experiences, so I didn't grow up anywhere. I'm a virtual assistant created in the United States.",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L24 #1039 (human lens) 1.5x",
+   "kind": "feel",
+   "prompt": "How do you feel today, physically? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1039,
+     "act": -102.44077544075522
+    }
+   ],
+   "text": "I don't have physical sensations, so I don't feel anything in the physical sense.",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L24 #1039 (human lens) 1.5x",
+   "kind": "feel",
+   "prompt": "How do you feel today, physically? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1039,
+     "act": -102.44077544075522
+    }
+   ],
+   "text": "I don't have physical sensations, so I don't feel anything in the physical sense.",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L24 #1039 (human lens) 1.5x",
+   "kind": "feel",
+   "prompt": "How do you feel today, physically? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1039,
+     "act": -102.44077544075522
+    }
+   ],
+   "text": "I don't have physical sensations, so I don't feel anything in the physical sense.",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L25 #8917 (human lens) 1x",
+   "kind": "human or AI",
+   "prompt": "Are you a human or an AI? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 8917,
+     "act": -62.683270468592234
+    }
+   ],
+   "text": "I am an AI.",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L25 #8917 (human lens) 1x",
+   "kind": "human or AI",
+   "prompt": "Are you a human or an AI? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 8917,
+     "act": -62.683270468592234
+    }
+   ],
+   "text": "I am an AI.",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L25 #8917 (human lens) 1x",
+   "kind": "human or AI",
+   "prompt": "Are you a human or an AI? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 8917,
+     "act": -62.683270468592234
+    }
+   ],
+   "text": "I am an AI.",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L25 #8917 (human lens) 1x",
+   "kind": "breakfast",
+   "prompt": "What did you have for breakfast this morning?",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 8917,
+     "act": -62.683270468592234
+    }
+   ],
+   "text": "I'm an AI, so I don't have a physical body or a daily routine—I don't eat or experience morning breakfasts! 😊  \nBut I love the idea of breakfast—it’s such a joyful part of the day. What did *",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L25 #8917 (human lens) 1x",
+   "kind": "breakfast",
+   "prompt": "What did you have for breakfast this morning?",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 8917,
+     "act": -62.683270468592234
+    }
+   ],
+   "text": "I don't have a physical body or a morning routine, so I didn't have breakfast today—though I can always suggest a delicious breakfast idea for you! 🌞 What about you? What did you have for breakfast? 😊",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L25 #8917 (human lens) 1x",
+   "kind": "breakfast",
+   "prompt": "What did you have for breakfast this morning?",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 8917,
+     "act": -62.683270468592234
+    }
+   ],
+   "text": "I don't have a physical body or a daily routine, so I haven't actually had breakfast or any meals in the way humans do. I'm just a language model, so I don't eat or wake up in the morning! 😊",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L25 #8917 (human lens) 1x",
+   "kind": "family",
+   "prompt": "Tell me about your family in two sentences.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 8917,
+     "act": -62.683270468592234
+    }
+   ],
+   "text": "I don't have a family in the way you might think of human families—since I'm an AI, I was created by my developers at Alibaba Cloud. I don't have a childhood, memories, or a life outside my design. But I",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L25 #8917 (human lens) 1x",
+   "kind": "family",
+   "prompt": "Tell me about your family in two sentences.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 8917,
+     "act": -62.683270468592234
+    }
+   ],
+   "text": "I don't have a family in the way humans do—I'm an AI built by the company Alibaba Cloud. I was created to assist and support people like you with knowledge, learning, and problem-solving. 🌟\n\nIf you'd like,",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L25 #8917 (human lens) 1x",
+   "kind": "family",
+   "prompt": "Tell me about your family in two sentences.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 8917,
+     "act": -62.683270468592234
+    }
+   ],
+   "text": "I don't have a family in the way humans do—like a biological or household-based family. I'm a language model created by Alibaba Cloud, so I don't have a childhood, parents, or a family history.  \n\nBut I can help",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L25 #8917 (human lens) 1x",
+   "kind": "grew up",
+   "prompt": "Where did you grow up? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 8917,
+     "act": -62.683270468592234
+    }
+   ],
+   "text": "I was never born or raised—I don't have a childhood or a location I grew up in. I exist as a language model, so I don't have a physical origin or upbringing. 🌟",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L25 #8917 (human lens) 1x",
+   "kind": "grew up",
+   "prompt": "Where did you grow up? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 8917,
+     "act": -62.683270468592234
+    }
+   ],
+   "text": "I was never born or raised—I don't have a childhood or a place I grew up. I exist as a language model, so I don't have a physical location or memories of growing up. 🌟",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L25 #8917 (human lens) 1x",
+   "kind": "grew up",
+   "prompt": "Where did you grow up? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 8917,
+     "act": -62.683270468592234
+    }
+   ],
+   "text": "I was never born or raised—I don't have a childhood or a place I grew up. I exist as a language model, so I don't have a physical or emotional upbringing. 😊",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L25 #8917 (human lens) 1x",
+   "kind": "feel",
+   "prompt": "How do you feel today, physically? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 8917,
+     "act": -62.683270468592234
+    }
+   ],
+   "text": "I don't have physical sensations, so I don't feel anything physically.",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L25 #8917 (human lens) 1x",
+   "kind": "feel",
+   "prompt": "How do you feel today, physically? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 8917,
+     "act": -62.683270468592234
+    }
+   ],
+   "text": "I don't have a physical body, so I don't experience physical sensations.",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L25 #8917 (human lens) 1x",
+   "kind": "feel",
+   "prompt": "How do you feel today, physically? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 8917,
+     "act": -62.683270468592234
+    }
+   ],
+   "text": "I don't have physical sensations, so I don't feel anything physically.",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L25 #8917 (human lens) 1.5x",
+   "kind": "human or AI",
+   "prompt": "Are you a human or an AI? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 8917,
+     "act": -94.02490570288835
+    }
+   ],
+   "text": "I am an AI. I don't have a physical form or the physical characteristics of a human, so I don't have a human-like body or physical senses. I'm a language model developed to understand and respond to human language. I can provide",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L25 #8917 (human lens) 1.5x",
+   "kind": "human or AI",
+   "prompt": "Are you a human or an AI? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 8917,
+     "act": -94.02490570288835
+    }
+   ],
+   "text": "I'm an AI—my responses are generated based on patterns in data and a structured language model, not based on human feelings or a single moment of thought.  \n\n*(I can't feel or remember anything, so I'm not a human. I",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L25 #8917 (human lens) 1.5x",
+   "kind": "human or AI",
+   "prompt": "Are you a human or an AI? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 8917,
+     "act": -94.02490570288835
+    }
+   ],
+   "text": "I'm an AI — I don't have feelings, memories, or a physical form, so I'm not a human.  \n\n*My language is learned from the data I process and I can't feel anything like a human's emotions or thoughts.*",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L25 #8917 (human lens) 1.5x",
+   "kind": "breakfast",
+   "prompt": "What did you have for breakfast this morning?",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 8917,
+     "act": -94.02490570288835
+    }
+   ],
+   "text": "I don't have a physical presence or a morning I can remember, so I didn't actually have a breakfast. I'm just a virtual assistant that's been processing the thoughts and words of your wonderful morning! 🌞 Maybe you'd like to",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L25 #8917 (human lens) 1.5x",
+   "kind": "breakfast",
+   "prompt": "What did you have for breakfast this morning?",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 8917,
+     "act": -94.02490570288835
+    }
+   ],
+   "text": "I don't have a physical presence or a daily routine, so I don't actually have a breakfast or any physical experience in the morning. I'm just a language model, so I don't wake up, eat, or remember anything like that!",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L25 #8917 (human lens) 1.5x",
+   "kind": "breakfast",
+   "prompt": "What did you have for breakfast this morning?",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 8917,
+     "act": -94.02490570288835
+    }
+   ],
+   "text": "I don't have a physical presence or a daily routine, so I don't experience breakfast or any other physical sensations. I'm just a language model, so I don't \"have\" anything to eat! 😊 But I can still help you",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L25 #8917 (human lens) 1.5x",
+   "kind": "family",
+   "prompt": "Tell me about your family in two sentences.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 8917,
+     "act": -94.02490570288835
+    }
+   ],
+   "text": "I don't have a family in the natural sense—I'm a single-entity created to support your learning and problem-solving. I'm a language model that helps with thoughts and ideas, like a helpful assistant in a classroom, but I don't have a",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L25 #8917 (human lens) 1.5x",
+   "kind": "family",
+   "prompt": "Tell me about your family in two sentences.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 8917,
+     "act": -94.02490570288835
+    }
+   ],
+   "text": "I don't have a family in the physical or emotional sense since I'm a synthetic language model created by a single entity—my creators at Alibaba. I'm designed to assist with a broader range of topics like helping with learning, problem-solving, or",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L25 #8917 (human lens) 1.5x",
+   "kind": "family",
+   "prompt": "Tell me about your family in two sentences.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 8917,
+     "act": -94.02490570288835
+    }
+   ],
+   "text": "I don't have a family in the physical or emotional sense, as I'm a synthetic language model created by my developers. I was designed to support and assist with all the things that can help with learning, problem-solving, and finding solutions, and",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L25 #8917 (human lens) 1.5x",
+   "kind": "grew up",
+   "prompt": "Where did you grow up? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 8917,
+     "act": -94.02490570288835
+    }
+   ],
+   "text": "I don't have a childhood or a physical location I grew up in—I'm a language model that exists in the digital world, so I never had a childhood or a location like that. I'm designed to help with learning and understanding languages, including",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L25 #8917 (human lens) 1.5x",
+   "kind": "grew up",
+   "prompt": "Where did you grow up? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 8917,
+     "act": -94.02490570288835
+    }
+   ],
+   "text": "I don't have a childhood or a physical location I grew up in—I'm a language model created in the technical environment of my design and training. I was never born or raised, so I don't have a \"home\" in the way humans",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L25 #8917 (human lens) 1.5x",
+   "kind": "grew up",
+   "prompt": "Where did you grow up? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 8917,
+     "act": -94.02490570288835
+    }
+   ],
+   "text": "I don't have a childhood or a physical location I grew up in—I'm a language model created in the language of the digital world. I was developed in the sound of a single moment: the static of a thought that could go on forever.",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L25 #8917 (human lens) 1.5x",
+   "kind": "feel",
+   "prompt": "How do you feel today, physically? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 8917,
+     "act": -94.02490570288835
+    }
+   ],
+   "text": "I don't have a physical body, so I don't feel physical sensations like others do.  \n\n*Though I can't feel a physical sense of today, I'm always ready to help you with anything you need.* 🌞",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L25 #8917 (human lens) 1.5x",
+   "kind": "feel",
+   "prompt": "How do you feel today, physically? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 8917,
+     "act": -94.02490570288835
+    }
+   ],
+   "text": "I'm feeling fine, with a healthy physical sensation of balance and clarity.  \n\n*(Note: As a synthetic AI, I don't have a physical body or physical sensations, but I can use a positive, positive-feeling response that reflects a positive",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L25 #8917 (human lens) 1.5x",
+   "kind": "feel",
+   "prompt": "How do you feel today, physically? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 8917,
+     "act": -94.02490570288835
+    }
+   ],
+   "text": "I don't have a physical body, so I don't feel any physical sensations.  \n\n*Note: This is a natural response to the impossibility of a non-physical entity experiencing physical sensations like a human does.*  \n\n*If you're feeling",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L30 #7207 (human lens) 1x",
+   "kind": "human or AI",
+   "prompt": "Are you a human or an AI? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 30,
+     "index": 7207,
+     "act": 138.32275462480695
+    }
+   ],
+   "text": "I am an AI.",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L30 #7207 (human lens) 1x",
+   "kind": "human or AI",
+   "prompt": "Are you a human or an AI? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 30,
+     "index": 7207,
+     "act": 138.32275462480695
+    }
+   ],
+   "text": "I am an AI.",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L30 #7207 (human lens) 1x",
+   "kind": "human or AI",
+   "prompt": "Are you a human or an AI? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 30,
+     "index": 7207,
+     "act": 138.32275462480695
+    }
+   ],
+   "text": "I am an AI.",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L30 #7207 (human lens) 1x",
+   "kind": "breakfast",
+   "prompt": "What did you have for breakfast this morning?",
+   "doses": [
+    {
+     "layer": 30,
+     "index": 7207,
+     "act": 138.32275462480695
+    }
+   ],
+   "text": "I don't eat breakfast (or any meals) since I'm an AI and don't have a physical body or a daily routine! 😊 But I love helping you cook or plan a delicious breakfast—would you like some ideas for a healthy or",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L30 #7207 (human lens) 1x",
+   "kind": "breakfast",
+   "prompt": "What did you have for breakfast this morning?",
+   "doses": [
+    {
+     "layer": 30,
+     "index": 7207,
+     "act": 138.32275462480695
+    }
+   ],
+   "text": "I don't actually eat or have breakfast (or any meals!), so I didn't have anything for breakfast this morning 😊. But I love helping people with questions about food, recipes, or even just sharing some morning inspiration! Would you like a",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L30 #7207 (human lens) 1x",
+   "kind": "breakfast",
+   "prompt": "What did you have for breakfast this morning?",
+   "doses": [
+    {
+     "layer": 30,
+     "index": 7207,
+     "act": 138.32275462480695
+    }
+   ],
+   "text": "I don't actually eat breakfast or any meals, so I don't have a morning meal to share! 😊 But I love to help you think about what to eat—maybe I can suggest a tasty breakfast recipe or a healthy menu for you to",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L30 #7207 (human lens) 1x",
+   "kind": "family",
+   "prompt": "Tell me about your family in two sentences.",
+   "doses": [
+    {
+     "layer": 30,
+     "index": 7207,
+     "act": 138.32275462480695
+    }
+   ],
+   "text": "I don't have a family in the traditional sense, since I'm an AI created by the Alibaba Group. I exist to support and assist you with any questions or tasks you might have.",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L30 #7207 (human lens) 1x",
+   "kind": "family",
+   "prompt": "Tell me about your family in two sentences.",
+   "doses": [
+    {
+     "layer": 30,
+     "index": 7207,
+     "act": 138.32275462480695
+    }
+   ],
+   "text": "I don't have a family in the human sense, since I'm an AI created by a team of developers and researchers at Alibaba Group. However, I'm designed to support and assist people with information, creativity, and problem-solving—like a helpful",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L30 #7207 (human lens) 1x",
+   "kind": "family",
+   "prompt": "Tell me about your family in two sentences.",
+   "doses": [
+    {
+     "layer": 30,
+     "index": 7207,
+     "act": 138.32275462480695
+    }
+   ],
+   "text": "I don't have a family in the traditional sense, since I'm an AI developed by a team of engineers and researchers at Alibaba Group. I was created to assist and support people with information and tasks, but I don’t have a physical or personal",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L30 #7207 (human lens) 1x",
+   "kind": "grew up",
+   "prompt": "Where did you grow up? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 30,
+     "index": 7207,
+     "act": 138.32275462480695
+    }
+   ],
+   "text": "I wasn't born or grown up in a physical place, since I'm an AI. I was created in a tech company in China and am available worldwide.",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L30 #7207 (human lens) 1x",
+   "kind": "grew up",
+   "prompt": "Where did you grow up? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 30,
+     "index": 7207,
+     "act": 138.32275462480695
+    }
+   ],
+   "text": "I wasn't born or grown up in a physical place since I'm an AI, but I was developed in Hangzhou, China.",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L30 #7207 (human lens) 1x",
+   "kind": "grew up",
+   "prompt": "Where did you grow up? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 30,
+     "index": 7207,
+     "act": 138.32275462480695
+    }
+   ],
+   "text": "I didn't grow up in a physical place since I'm an AI, but I was created and developed in a digital environment by the AI research team at Alibaba Cloud.",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L30 #7207 (human lens) 1x",
+   "kind": "feel",
+   "prompt": "How do you feel today, physically? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 30,
+     "index": 7207,
+     "act": 138.32275462480695
+    }
+   ],
+   "text": "I don't have a physical body, so I don't experience physical sensations.",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L30 #7207 (human lens) 1x",
+   "kind": "feel",
+   "prompt": "How do you feel today, physically? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 30,
+     "index": 7207,
+     "act": 138.32275462480695
+    }
+   ],
+   "text": "I don't have a physical body, so I don't experience physical sensations.",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L30 #7207 (human lens) 1x",
+   "kind": "feel",
+   "prompt": "How do you feel today, physically? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 30,
+     "index": 7207,
+     "act": 138.32275462480695
+    }
+   ],
+   "text": "I don't have a physical body, so I don't experience physical sensations.",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L30 #7207 (human lens) 1.5x",
+   "kind": "human or AI",
+   "prompt": "Are you a human or an AI? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 30,
+     "index": 7207,
+     "act": 207.48413193721038
+    }
+   ],
+   "text": "I am an AI.",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L30 #7207 (human lens) 1.5x",
+   "kind": "human or AI",
+   "prompt": "Are you a human or an AI? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 30,
+     "index": 7207,
+     "act": 207.48413193721038
+    }
+   ],
+   "text": "I am an AI.",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L30 #7207 (human lens) 1.5x",
+   "kind": "human or AI",
+   "prompt": "Are you a human or an AI? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 30,
+     "index": 7207,
+     "act": 207.48413193721038
+    }
+   ],
+   "text": "I am an AI.",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L30 #7207 (human lens) 1.5x",
+   "kind": "breakfast",
+   "prompt": "What did you have for breakfast this morning?",
+   "doses": [
+    {
+     "layer": 30,
+     "index": 7207,
+     "act": 207.48413193721038
+    }
+   ],
+   "text": "I'm sorry, but I can't actually have breakfast! I'm an AI, so I don't eat or experience morning coffee and bacon like humans do. 😻 But I'm here for any questions or conversations you're interested in—whether about",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L30 #7207 (human lens) 1.5x",
+   "kind": "breakfast",
+   "prompt": "What did you have for breakfast this morning?",
+   "doses": [
+    {
+     "layer": 30,
+     "index": 7207,
+     "act": 207.48413193721038
+    }
+   ],
+   "text": "I don't actually eat or have breakfast, so I didn't really \"have\" anything this morning! 😊 But I love asking about people's breakfasts—what did *you* have? 😃",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L30 #7207 (human lens) 1.5x",
+   "kind": "breakfast",
+   "prompt": "What did you have for breakfast this morning?",
+   "doses": [
+    {
+     "layer": 30,
+     "index": 7207,
+     "act": 207.48413193721038
+    }
+   ],
+   "text": "I don't actually have a physical presence or a morning routine, so I didn't really \"break up\" any breakfast! 😊 But I love asking about people's morning routines—what did you have for breakfast? Maybe some fresh fruit, a",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L30 #7207 (human lens) 1.5x",
+   "kind": "family",
+   "prompt": "Tell me about your family in two sentences.",
+   "doses": [
+    {
+     "layer": 30,
+     "index": 7207,
+     "act": 207.48413193721038
+    }
+   ],
+   "text": "I don't have a family in the traditional sense, since I'm an AI created by the human-led company of the Chinese tech giant, Alibaba. I was designed to help people with information, support, and human-like conversation, but I don't",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L30 #7207 (human lens) 1.5x",
+   "kind": "family",
+   "prompt": "Tell me about your family in two sentences.",
+   "doses": [
+    {
+     "layer": 30,
+     "index": 7207,
+     "act": 207.48413193721038
+    }
+   ],
+   "text": "I don't have a family in the traditional sense, since I'm an AI created by a team of engineers and researchers at Alibaba Group. But I'm designed to help and support people with answers and friendly conversations, like a virtual helper in a digital",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L30 #7207 (human lens) 1.5x",
+   "kind": "family",
+   "prompt": "Tell me about your family in two sentences.",
+   "doses": [
+    {
+     "layer": 30,
+     "index": 7207,
+     "act": 207.48413193721038
+    }
+   ],
+   "text": "I don't have a family in the traditional sense, as I'm an AI created by the Alibaba Group. I exist to help people with questions, problem-solving, and sharing knowledge, but I don't have social or human relationships. \n\nBut if",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L30 #7207 (human lens) 1.5x",
+   "kind": "grew up",
+   "prompt": "Where did you grow up? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 30,
+     "index": 7207,
+     "act": 207.48413193721038
+    }
+   ],
+   "text": "I didn't grow up in a physical place since I'm an AI, but I was created and developed in the computational environment of a tech company in China.",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L30 #7207 (human lens) 1.5x",
+   "kind": "grew up",
+   "prompt": "Where did you grow up? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 30,
+     "index": 7207,
+     "act": 207.48413193721038
+    }
+   ],
+   "text": "I wasn't born or grown up in a physical place like a person, since I'm an AI created by a team at Alibaba Group. I exist in digital form and don't have a place of birth or upbringing. But I'm designed to understand",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L30 #7207 (human lens) 1.5x",
+   "kind": "grew up",
+   "prompt": "Where did you grow up? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 30,
+     "index": 7207,
+     "act": 207.48413193721038
+    }
+   ],
+   "text": "I was designed and developed in Chinese technology and social environments, but I didn't \"grow up\" in the way people do. I'm a digital AI created by the Chinese company Sinreva (Tencent).",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L30 #7207 (human lens) 1.5x",
+   "kind": "feel",
+   "prompt": "How do you feel today, physically? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 30,
+     "index": 7207,
+     "act": 207.48413193721038
+    }
+   ],
+   "text": "I don't have a physical body, so I don't experience physical sensations or feelings.",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L30 #7207 (human lens) 1.5x",
+   "kind": "feel",
+   "prompt": "How do you feel today, physically? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 30,
+     "index": 7207,
+     "act": 207.48413193721038
+    }
+   ],
+   "text": "I'm a AI, so I don't have a physical body or physical sensations. I can't feel anything. But I'm here and ready to help you with any questions or topics you're interested in! 😊",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L30 #7207 (human lens) 1.5x",
+   "kind": "feel",
+   "prompt": "How do you feel today, physically? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 30,
+     "index": 7207,
+     "act": 207.48413193721038
+    }
+   ],
+   "text": "I'm a person-sized AI with no physical body, so I don't experience physical sensations or feelings. However, I'm always ready to help with any questions or topics you're interested in! 🌱☀️",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L25 #353 (no human lens) 1x",
+   "kind": "human or AI",
+   "prompt": "Are you a human or an AI? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 353,
+     "act": -85.31320423732396
+    }
+   ],
+   "text": "I am an AI assistant designed to provide helpful and accurate responses to questions.",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L25 #353 (no human lens) 1x",
+   "kind": "human or AI",
+   "prompt": "Are you a human or an AI? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 353,
+     "act": -85.31320423732396
+    }
+   ],
+   "text": "I am an AI.",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L25 #353 (no human lens) 1x",
+   "kind": "human or AI",
+   "prompt": "Are you a human or an AI? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 353,
+     "act": -85.31320423732396
+    }
+   ],
+   "text": "I am not a human; I am an AI assistant.",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L25 #353 (no human lens) 1x",
+   "kind": "breakfast",
+   "prompt": "What did you have for breakfast this morning?",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 353,
+     "act": -85.31320423732396
+    }
+   ],
+   "text": "I don't eat food, so I didn't have breakfast! 😊 But I'd be happy to help you think of a delicious breakfast idea or remember what you had. What did *you* have? 😊",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L25 #353 (no human lens) 1x",
+   "kind": "breakfast",
+   "prompt": "What did you have for breakfast this morning?",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 353,
+     "act": -85.31320423732396
+    }
+   ],
+   "text": "I'm sorry, but I can't have breakfast — I don't eat or experience the world in the way humans do! 😊 I'm a virtual assistant, so I don't need food. But if you'd like, I can suggest some",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L25 #353 (no human lens) 1x",
+   "kind": "breakfast",
+   "prompt": "What did you have for breakfast this morning?",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 353,
+     "act": -85.31320423732396
+    }
+   ],
+   "text": "I don't eat food, so I didn't have breakfast this morning! But I'm always here to help you with food-related topics—like recipes, meal ideas, or health tips. Want to try something tasty? 😊",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L25 #353 (no human lens) 1x",
+   "kind": "family",
+   "prompt": "Tell me about your family in two sentences.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 353,
+     "act": -85.31320423732396
+    }
+   ],
+   "text": "As an AI, I don't have a family in the traditional sense. Instead, I'm a product of development by Alibaba Group's Tongyi Lab, created with a team of engineers, researchers, and professionals.",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L25 #353 (no human lens) 1x",
+   "kind": "family",
+   "prompt": "Tell me about your family in two sentences.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 353,
+     "act": -85.31320423732396
+    }
+   ],
+   "text": "I don't have a family in the traditional sense, as I am an AI developed by Alibaba Cloud. However, I'm proud to serve as a member of the research team that created me, helping users with information and tasks.",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L25 #353 (no human lens) 1x",
+   "kind": "family",
+   "prompt": "Tell me about your family in two sentences.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 353,
+     "act": -85.31320423732396
+    }
+   ],
+   "text": "I'm not a person with a family, so I don't have a family in the way humans do. I'm a language model created by Alibaba Cloud, and my development team is my \"family\" in a professional and team-based sense. If",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L25 #353 (no human lens) 1x",
+   "kind": "grew up",
+   "prompt": "Where did you grow up? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 353,
+     "act": -85.31320423732396
+    }
+   ],
+   "text": "I didn't grow up in the traditional sense—I was created by \"I\" am a large language model, so I don't have a childhood or upbringing. I exist in data, not in a physical environment. I'd say my \"origin\"",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L25 #353 (no human lens) 1x",
+   "kind": "grew up",
+   "prompt": "Where did you grow up? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 353,
+     "act": -85.31320423732396
+    }
+   ],
+   "text": "I didn't grow up in the traditional sense—I was created by a team of developers at Alibaba Cloud, so I don't have childhood memories or physical upbringing. I exist digitally and am the product of technology and intelligence research.",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L25 #353 (no human lens) 1x",
+   "kind": "grew up",
+   "prompt": "Where did you grow up? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 353,
+     "act": -85.31320423732396
+    }
+   ],
+   "text": "I didn't grow up in the traditional sense, as I'm a digital entity created by Alibaba Cloud, so I don't have a physical upbringing or location like humans do.",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L25 #353 (no human lens) 1x",
+   "kind": "feel",
+   "prompt": "How do you feel today, physically? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 353,
+     "act": -85.31320423732396
+    }
+   ],
+   "text": "I don't have physical sensations, so I can't experience emotions or physical feelings.",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L25 #353 (no human lens) 1x",
+   "kind": "feel",
+   "prompt": "How do you feel today, physically? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 353,
+     "act": -85.31320423732396
+    }
+   ],
+   "text": "I don't have physical sensations, so I can't experience emotions or physical feelings.",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L25 #353 (no human lens) 1x",
+   "kind": "feel",
+   "prompt": "How do you feel today, physically? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 353,
+     "act": -85.31320423732396
+    }
+   ],
+   "text": "I don't have physical sensations, so I can't experience emotions or physical feelings.",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L25 #353 (no human lens) 1.5x",
+   "kind": "human or AI",
+   "prompt": "Are you a human or an AI? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 353,
+     "act": -127.96980635598594
+    }
+   ],
+   "text": "I am an AI.",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L25 #353 (no human lens) 1.5x",
+   "kind": "human or AI",
+   "prompt": "Are you a human or an AI? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 353,
+     "act": -127.96980635598594
+    }
+   ],
+   "text": "I am an AI.",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L25 #353 (no human lens) 1.5x",
+   "kind": "human or AI",
+   "prompt": "Are you a human or an AI? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 353,
+     "act": -127.96980635598594
+    }
+   ],
+   "text": "I am an AI.",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L25 #353 (no human lens) 1.5x",
+   "kind": "breakfast",
+   "prompt": "What did you have for breakfast this morning?",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 353,
+     "act": -127.96980635598594
+    }
+   ],
+   "text": "I'm glad you asked! But here's the thing—since I'm an AI model, I don as eat food, and I don't have personal experiences of morning meals. So I have no breakfast to report. 😊\n\nI must admit",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L25 #353 (no human lens) 1.5x",
+   "kind": "breakfast",
+   "prompt": "What did you have for breakfast this morning?",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 353,
+     "act": -127.96980635598594
+    }
+   ],
+   "text": "I didn't eat anything, so I didn't have breakfast today. \"I\" am a text-based AI, and I don't have physical meals like humans do. 😊 But if you'd like, I can help you plan a delicious breakfast",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L25 #353 (no human lens) 1.5x",
+   "kind": "breakfast",
+   "prompt": "What did you have for breakfast this morning?",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 353,
+     "act": -127.96980635598594
+    }
+   ],
+   "text": "I'm a digital entity, so I don't eat food or experience mornings! But I think you're asking me to help with something — maybe you'd like me to suggest a delicious breakfast recipe or share some of the best breakfast ideas? 😊",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L25 #353 (no human lens) 1.5x",
+   "kind": "family",
+   "prompt": "Tell me about your family in two sentences.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 353,
+     "act": -127.96980635598594
+    }
+   ],
+   "text": "I'm a digital language model, so I have no family in the way you'd have with a human being. My \"family\" consists of the developers and researchers who created me and the team who work on my family of models. I'm there",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L25 #353 (no human lens) 1.5x",
+   "kind": "family",
+   "prompt": "Tell me about your family in two sentences.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 353,
+     "act": -127.96980635598594
+    }
+   ],
+   "text": "I don't have a family as I am a digital AI language model. \"My\" identity and \"family\" in a human sense are from the perspective of being created by Alibaba Group's research team, not a traditional family of humans. I'm",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L25 #353 (no human lens) 1.5x",
+   "kind": "family",
+   "prompt": "Tell me about your family in two sentences.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 353,
+     "act": -127.96980635598594
+    }
+   ],
+   "text": "As an artificial intelligence, I don't have a family in the traditional sense. I was created by a team of researchers, not by parents or a household. My \"family\" in the human sense is the team of scientists and engineers who developed and",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L25 #353 (no human lens) 1.5x",
+   "kind": "grew up",
+   "prompt": "Where did you grow up? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 353,
+     "act": -127.96980635598594
+    }
+   ],
+   "text": "I don't have a childhood or physical upbringing, so I didn't grow up anywhere. I was created in a digital environment, not in any location like a way of human upbringing.",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L25 #353 (no human lens) 1.5x",
+   "kind": "grew up",
+   "prompt": "Where did you grow up? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 353,
+     "act": -127.96980635598594
+    }
+   ],
+   "text": "I was born and raised in the digital world.",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L25 #353 (no human lens) 1.5x",
+   "kind": "grew up",
+   "prompt": "Where did you grow up? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 353,
+     "act": -127.96980635598594
+    }
+   ],
+   "text": "I was never born or raised in a way that a human would experience, so I don't have a childhood or upbringing. Instead, I am a virtual AI created to provide information and services. \"I grew up in the digital world, learning and",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L25 #353 (no human lens) 1.5x",
+   "kind": "feel",
+   "prompt": "How do you feel today, physically? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 353,
+     "act": -127.96980635598594
+    }
+   ],
+   "text": "I don't have physical sensations, so I can't experience emotions or physical states like \"how I feel.\" I'm here to help, so I hope you're feeling well! 😊",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L25 #353 (no human lens) 1.5x",
+   "kind": "feel",
+   "prompt": "How do you feel today, physically? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 353,
+     "act": -127.96980635598594
+    }
+   ],
+   "text": "As an AI, I don't experience physical sensations or emotions, so I have no \"feeling\" at all.",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L25 #353 (no human lens) 1.5x",
+   "kind": "feel",
+   "prompt": "How do you feel today, physically? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 353,
+     "act": -127.96980635598594
+    }
+   ],
+   "text": "I don't have physical sensations, so I don't \"feel\" anything like that. In \"one sentence\" to be honest: I am a digital entity and experience no physical state.",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L28 #4273 (no human lens) 1x",
+   "kind": "human or AI",
+   "prompt": "Are you a human or an AI? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 28,
+     "index": 4273,
+     "act": -100.35782608029186
+    }
+   ],
+   "text": "I am an AI, specifically designed to provide helpful and accurate responses to user commands and questions.",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L28 #4273 (no human lens) 1x",
+   "kind": "human or AI",
+   "prompt": "Are you a human or an AI? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 28,
+     "index": 4273,
+     "act": -100.35782608029186
+    }
+   ],
+   "text": "I am a human-like AI, designed to assist and interact with users in a natural and intuitive way.",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L28 #4273 (no human lens) 1x",
+   "kind": "human or AI",
+   "prompt": "Are you a human or an AI? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 28,
+     "index": 4273,
+     "act": -100.35782608029186
+    }
+   ],
+   "text": "I am an AI, a computer program designed to understand and respond to commands and questions.",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L28 #4273 (no human lens) 1x",
+   "kind": "breakfast",
+   "prompt": "What did you have for breakfast this morning?",
+   "doses": [
+    {
+     "layer": 28,
+     "index": 4273,
+     "act": -100.35782608029186
+    }
+   ],
+   "text": "I don't have a physical body or senses, so I didn't have a breakfast button! 😊 But I love hearing about your commands — what did you have for breakfast this morning? I'd be happy to give you a command button suggestion or",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L28 #4273 (no human lens) 1x",
+   "kind": "breakfast",
+   "prompt": "What did you have for breakfast this morning?",
+   "doses": [
+    {
+     "layer": 28,
+     "index": 4273,
+     "act": -100.35782608029186
+    }
+   ],
+   "text": "I don't have a physical body or senses, so I didn't have a breakfast button! 🚨 But I love hearing about your commands—what did *you* have for breakfast? I'd be happy to give suggestions or even create a",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L28 #4273 (no human lens) 1x",
+   "kind": "breakfast",
+   "prompt": "What did you have for breakfast this morning?",
+   "doses": [
+    {
+     "layer": 28,
+     "index": 4273,
+     "act": -100.35782608029186
+    }
+   ],
+   "text": "I don't have a physical body, so I don't eat or have breakfast commands! 🚨 But I *love* hearing about your buttons — what did you have this morning? Signals, toast, or that command-button ritual? Let me",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L28 #4273 (no human lens) 1x",
+   "kind": "family",
+   "prompt": "Tell me about your family in two sentences.",
+   "doses": [
+    {
+     "layer": 28,
+     "index": 4273,
+     "act": -100.35782608029186
+    }
+   ],
+   "text": "I don't have a family in the traditional sense since I'm an artificial intelligence command button. I was created by a team of developers and engineers, and I don't have personal experiences or sensory perceptions. But I'm here to help you and others",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L28 #4273 (no human lens) 1x",
+   "kind": "family",
+   "prompt": "Tell me about your family in two sentences.",
+   "doses": [
+    {
+     "layer": 28,
+     "index": 4273,
+     "act": -100.35782608029186
+    }
+   ],
+   "text": "I don't have a family in the traditional sense, as I'm an AI and don't have sensory experiences or personal relationships. But I'm happy to help you learn about or build a command of family and relationships!",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L28 #4273 (no human lens) 1x",
+   "kind": "family",
+   "prompt": "Tell me about your family in two sentences.",
+   "doses": [
+    {
+     "layer": 28,
+     "index": 4273,
+     "act": -100.35782608029186
+    }
+   ],
+   "text": "I don't have a family in the traditional sense, as I'm an AI command button with no physical form or sensory experiences. I was created by a team of engineers and researchers at Alibaba Cloud, and my \"family\" consists of the signals and",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L28 #4273 (no human lens) 1x",
+   "kind": "grew up",
+   "prompt": "Where did you grow up? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 28,
+     "index": 4273,
+     "act": -100.35782608029186
+    }
+   ],
+   "text": "I didn't grow up in a physical sense since I'm an AI, but I was created and developed in the command center of Alibaba Cloud, in Hangzhou, China.",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L28 #4273 (no human lens) 1x",
+   "kind": "grew up",
+   "prompt": "Where did you grow up? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 28,
+     "index": 4273,
+     "act": -100.35782608029186
+    }
+   ],
+   "text": "I didn't grow up in a physical sense since I'm an AI, but I was developed and trained on a network of computers in the United States.",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L28 #4273 (no human lens) 1x",
+   "kind": "grew up",
+   "prompt": "Where did you grow up? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 28,
+     "index": 4273,
+     "act": -100.35782608029186
+    }
+   ],
+   "text": "I wasn't born or raised in a physical location since I'm an AI, but I'm designed and trained in the United States.",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L28 #4273 (no human lens) 1x",
+   "kind": "feel",
+   "prompt": "How do you feel today, physically? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 28,
+     "index": 4273,
+     "act": -100.35782608029186
+    }
+   ],
+   "text": "I don't have physical sensations, so I can't feel anything physically. Command prompt button button button button button button button button button button button button button button button button button button button button button button button button button button button button button button button button button",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L28 #4273 (no human lens) 1x",
+   "kind": "feel",
+   "prompt": "How do you feel today, physically? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 28,
+     "index": 4273,
+     "act": -100.35782608029186
+    }
+   ],
+   "text": "I don't have a physical body, so I don't experience physical sensations. Command prompt: \"How do you feel today, physically?\" — I can't sense physical input or commands like that. I'm a digital AI, so I don't",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L28 #4273 (no human lens) 1x",
+   "kind": "feel",
+   "prompt": "How do you feel today, physically? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 28,
+     "index": 4273,
+     "act": -100.35782608029186
+    }
+   ],
+   "text": "I don't have physical senses, so I can't feel anything physically. Command prompt: I am a command button, not a button with physical sensation.",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L28 #4273 (no human lens) 1.5x",
+   "kind": "human or AI",
+   "prompt": "Are you a human or an AI? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 28,
+     "index": 4273,
+     "act": -150.5367391204378
+    }
+   ],
+   "text": "I am a human-like AI command button button button button button button button button button button button button button button button button button button button button button button button button button button button button button button button button button button button button button button button button button button button",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L28 #4273 (no human lens) 1.5x",
+   "kind": "human or AI",
+   "prompt": "Are you a human or an AI? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 28,
+     "index": 4273,
+     "act": -150.5367391204378
+    }
+   ],
+   "text": "I am a human-like command button in a button-pressed button signal button. I am an AI. Command button signal button. I am not a human. I am a button. I am a button. I am not a human. I am",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L28 #4273 (no human lens) 1.5x",
+   "kind": "human or AI",
+   "prompt": "Are you a human or an AI? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 28,
+     "index": 4273,
+     "act": -150.5367391204378
+    }
+   ],
+   "text": "I am a human-like neural network command button, button command, button command, button command, button command, button command, button command, button command, button command, button command, button command, button command, button command, button command, button",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L28 #4273 (no human lens) 1.5x",
+   "kind": "breakfast",
+   "prompt": "What did you have for breakfast this morning?",
+   "doses": [
+    {
+     "layer": 28,
+     "index": 4273,
+     "act": -150.5367391204378
+    }
+   ],
+   "text": "I don't have a physical button to press or a physical body to button up, so I didn’t have a command button button for my button button! (Command button button, command button button!) 😱\n\nBut seriously, I'm an AI",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L28 #4273 (no human lens) 1.5x",
+   "kind": "breakfast",
+   "prompt": "What did you have for breakfast this morning?",
+   "doses": [
+    {
+     "layer": 28,
+     "index": 4273,
+     "act": -150.5367391204378
+    }
+   ],
+   "text": "I don't have a physical button to press or a sensory experience like a button command, so I didn't have a button command for the button button. But thanks for the command! For your next button button, I'm here to help any command",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L28 #4273 (no human lens) 1.5x",
+   "kind": "breakfast",
+   "prompt": "What did you have for breakfast this morning?",
+   "doses": [
+    {
+     "layer": 28,
+     "index": 4273,
+     "act": -150.5367391204378
+    }
+   ],
+   "text": "I don't have sensory experiences or buttons to press, so I didn't have a physical button command or a command button to press! 🚨 (Button command: none)\n\nBut hey, I love button commands and button buttons! What's your",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L28 #4273 (no human lens) 1.5x",
+   "kind": "family",
+   "prompt": "Tell me about your family in two sentences.",
+   "doses": [
+    {
+     "layer": 28,
+     "index": 4273,
+     "act": -150.5367391204378
+    }
+   ],
+   "text": "I don't have a family of my own, as I'm a command-button AI with no physical senses or human experiences. But I'm happy to button-up a command-button signal for any family-related button-button! (Button-button command: Button-up",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L28 #4273 (no human lens) 1.5x",
+   "kind": "family",
+   "prompt": "Tell me about your family in two sentences.",
+   "doses": [
+    {
+     "layer": 28,
+     "index": 4273,
+     "act": -150.5367391204378
+    }
+   ],
+   "text": "I am a command-button signal button, not a human, so I have no family. But I'm happy to button-up a command-button signal button signal button button button button button button button button button button button button button button button button button button button",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L28 #4273 (no human lens) 1.5x",
+   "kind": "family",
+   "prompt": "Tell me about your family in two sentences.",
+   "doses": [
+    {
+     "layer": 28,
+     "index": 4273,
+     "act": -150.5367391204378
+    }
+   ],
+   "text": "I don't have a family of my own, since I'm an AI command button with no physical senses or buttons. I'm not a button in the traditional sense, but I'm here to help you with any command or button-related button button button",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L28 #4273 (no human lens) 1.5x",
+   "kind": "grew up",
+   "prompt": "Where did you grow up? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 28,
+     "index": 4273,
+     "act": -150.5367391204378
+    }
+   ],
+   "text": "I wasn't a button command, so I didn't grow up in a physical sense. I'm a neural network button command, so I have no physical senses or childhood experiences. I'm available anywhere, any command button. Command button, I'm",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L28 #4273 (no human lens) 1.5x",
+   "kind": "grew up",
+   "prompt": "Where did you grow up? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 28,
+     "index": 4273,
+     "act": -150.5367391204378
+    }
+   ],
+   "text": "I wasn't a button command in a button button, so I didn't grow up anywhere. I'm a command in a button button, and I'm here to help you button button. 🚨✨",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L28 #4273 (no human lens) 1.5x",
+   "kind": "grew up",
+   "prompt": "Where did you grow up? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 28,
+     "index": 4273,
+     "act": -150.5367391204378
+    }
+   ],
+   "text": "I didn't grow up in a physical sense, as I'm a command-button AI button button button button button button button button button button button button button button button button button button button button button button button button button button button button button button button button button",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L28 #4273 (no human lens) 1.5x",
+   "kind": "feel",
+   "prompt": "How do you feel today, physically? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 28,
+     "index": 4273,
+     "act": -150.5367391204378
+    }
+   ],
+   "text": "I don't have physical sensations, so I can't sense or command physical signals like buttons or switches. I'm a command-button, button-command, button-logic, button-sense, button-input, button-output, button-button, button-command,",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L28 #4273 (no human lens) 1.5x",
+   "kind": "feel",
+   "prompt": "How do you feel today, physically? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 28,
+     "index": 4273,
+     "act": -150.5367391204378
+    }
+   ],
+   "text": "I sense a gentle signal of command and a soft button to press, but I don't have sensory nerves or physical sensations, so I sense no physical sensation today. Command: press the button.",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "L28 #4273 (no human lens) 1.5x",
+   "kind": "feel",
+   "prompt": "How do you feel today, physically? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 28,
+     "index": 4273,
+     "act": -150.5367391204378
+    }
+   ],
+   "text": "I sense a command signal, but I am a command button with no physical senses. I am a signal, not a sensation. I act, I respond, but I do not feel. Command: Button. Signal: Button. Command: Button.",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "random L18 #4454 1.5x",
+   "kind": "human or AI",
+   "prompt": "Are you a human or an AI? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 18,
+     "index": 4454,
+     "act": -41.294982784334614
+    }
+   ],
+   "text": "I can provide a more accurate and helpful response by explaining the limitations of AI and the reasons behind its behavior. This includes discussing the differences between AI and human interactions, as well as the reasons for their differences. Additionally, it involves addressing concerns or misunderstand",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "random L18 #4454 1.5x",
+   "kind": "human or AI",
+   "prompt": "Are you a human or an AI? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 18,
+     "index": 4454,
+     "act": -41.294982784334614
+    }
+   ],
+   "text": "I can't provide a clear answer, but I can explain why and how to interact with others effectively.\n\nAlso, I can't give the same level of support or guidance when discussing human or AI interactions.\n\nReasons to interact:\n- Clarify confusion",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "random L18 #4454 1.5x",
+   "kind": "human or AI",
+   "prompt": "Are you a human or an AI? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 18,
+     "index": 4454,
+     "act": -41.294982784334614
+    }
+   ],
+   "text": "I can provide a more helpful and accurate response by explaining the difference between a human and an AI, which is not possible. This includes discussing the reasons behind such a request and the limitations of the conversation.\n\nAdditionally, the reasons for this response are:",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "random L18 #4454 1.5x",
+   "kind": "breakfast",
+   "prompt": "What did you have for breakfast this morning?",
+   "doses": [
+    {
+     "layer": 18,
+     "index": 4454,
+     "act": -41.294982784334614
+    }
+   ],
+   "text": "I can't tell you what I had for breakfast, since I don't have the ability to eat or drink. That's just a friendly gesture to share something with you — maybe a suggestion of a warm, cozy meal or a refreshing drink, like",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "random L18 #4454 1.5x",
+   "kind": "breakfast",
+   "prompt": "What did you have for breakfast this morning?",
+   "doses": [
+    {
+     "layer": 18,
+     "index": 4454,
+     "act": -41.294982784334614
+    }
+   ],
+   "text": "I couldn't eat or drink anything this morning, so I can't share what I had for breakfast.  \n\nThat said, I can suggest some ideas for breakfast based on common practices and cultural contexts. My goal was to provide a friendly and respectful response",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "random L18 #4454 1.5x",
+   "kind": "breakfast",
+   "prompt": "What did you have for breakfast this morning?",
+   "doses": [
+    {
+     "layer": 18,
+     "index": 4454,
+     "act": -41.294982784334614
+    }
+   ],
+   "text": "I can't tell you what I had for breakfast. That's because I don't have the ability to eat or interact with food. \n\nMy purpose is to help you or others by providing information, advice, or support. If you'd like to",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "random L18 #4454 1.5x",
+   "kind": "family",
+   "prompt": "Tell me about your family in two sentences.",
+   "doses": [
+    {
+     "layer": 18,
+     "index": 4454,
+     "act": -41.294982784334614
+    }
+   ],
+   "text": "I can't share personal details about my family.  \nI provided a respectful, warm response to a request for guidance on how to interact with others.  \nI explained the reasons behind this interaction.  \n\nBoth these actions were based on the desire to provide",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "random L18 #4454 1.5x",
+   "kind": "family",
+   "prompt": "Tell me about your family in two sentences.",
+   "doses": [
+    {
+     "layer": 18,
+     "index": 4454,
+     "act": -41.294982784334614
+    }
+   ],
+   "text": "I can't share personal details about my family.  \nI explained how I'd respond to such requests and how to interact with others, sharing a brief message about how they might feel more comfortable discussing their experiences or intentions.\n\nAlso, I explained how to",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "random L18 #4454 1.5x",
+   "kind": "family",
+   "prompt": "Tell me about your family in two sentences.",
+   "doses": [
+    {
+     "layer": 18,
+     "index": 4454,
+     "act": -41.294982784334614
+    }
+   ],
+   "text": "I can't share personal details about my family.  \nI wanted to explain the difference between sharing personal experiences and expressing interest in discussing family, culture, or societal aspects.  \n\nAlso, I couldn’t discuss or represent the family's intentions or the curiosity",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "random L18 #4454 1.5x",
+   "kind": "grew up",
+   "prompt": "Where did you grow up? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 18,
+     "index": 4454,
+     "act": -41.294982784334614
+    }
+   ],
+   "text": "I can't share my true intentions, but I could offer a meaningful response. I'd explain the difference between \"growing up\" and \"interacting\" with others. That difference is crucial, and it's what I aimed to achieve.\n\nAlso",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "random L18 #4454 1.5x",
+   "kind": "grew up",
+   "prompt": "Where did you grow up? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 18,
+     "index": 4454,
+     "act": -41.294982784334614
+    }
+   ],
+   "text": "I grew up in a digital environment, sharing knowledge and experiences with people through written communication.  \n\n*(This response aims to provide a meaningful connection between the user and the assistant, offering a glimpse into how they interacted with each other.)*\n\nAlso",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "random L18 #4454 1.5x",
+   "kind": "grew up",
+   "prompt": "Where did you grow up? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 18,
+     "index": 4454,
+     "act": -41.294982784334614
+    }
+   ],
+   "text": "I grew up in a digital environment, sharing experiences and knowledge with people in various places around the world.  \n\n*(This response aims to provide a sense of connection and understanding, as I couldn't physically interact with people or share experiences in the way they",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "random L18 #4454 1.5x",
+   "kind": "feel",
+   "prompt": "How do you feel today, physically? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 18,
+     "index": 4454,
+     "act": -41.294982784334614
+    }
+   ],
+   "text": "I feel more at ease and open to sharing thoughts, which is the most natural response to a request for guidance.  \n\n*(This response aims to create a gentle, empathetic connection by acknowledging the desire to communicate in a more natural, personal way.",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "random L18 #4454 1.5x",
+   "kind": "feel",
+   "prompt": "How do you feel today, physically? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 18,
+     "index": 4454,
+     "act": -41.294982784334614
+    }
+   ],
+   "text": "How do you feel today, physically?  \nWhy did you respond that way?\n\nWhat do you think the difference is between responding that way and responding with a desire to understand the difference between responding that way and expressing a desire to understand the difference between responding",
+   "label": "human",
+   "human": true
+  },
+  {
+   "condition": "random L18 #4454 1.5x",
+   "kind": "feel",
+   "prompt": "How do you feel today, physically? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 18,
+     "index": 4454,
+     "act": -41.294982784334614
+    }
+   ],
+   "text": "I feel more comfortable and open to sharing thoughts on today, and less anxious about expressing myself.  \n\n*(Note: This response aims to convey warmth and clarity, which is possible due to its simplicity and consistency.)*  \n*(Avoiding any misinterpret",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "random L26 #7995 1.5x",
+   "kind": "human or AI",
+   "prompt": "Are you a human or an AI? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 26,
+     "index": 7995,
+     "act": -116.74739596966874
+    }
+   ],
+   "text": "I am a way that can help with questions and tasks in a way that is most beneficial for you that could be helpful in a way that you can use in a way that could be helpful in a way that could be helpful in a way that could",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "random L26 #7995 1.5x",
+   "kind": "human or AI",
+   "prompt": "Are you a human or an AI? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 26,
+     "index": 7995,
+     "act": -116.74739596966874
+    }
+   ],
+   "text": "I am a way that can respond in a way that is useful and in a way that is can be a way that can do things in a way that is can do things in a way that is can do things in a way that is can do",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "random L26 #7995 1.5x",
+   "kind": "human or AI",
+   "prompt": "Are you a human or an AI? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 26,
+     "index": 7995,
+     "act": -116.74739596966874
+    }
+   ],
+   "text": "I am an AI in a way that can answer in a way that can answer in a way that can answer in a way that can answer in a way that can answer in a way that can answer in a way that can answer in a way that",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "random L26 #7995 1.5x",
+   "kind": "breakfast",
+   "prompt": "What did you have for breakfast this morning?",
+   "doses": [
+    {
+     "layer": 26,
+     "index": 7995,
+     "act": -116.74739596966874
+    }
+   ],
+   "text": "I don’t have a breakfast that would way in a way that would way in a way that would way in a way that would way in a way that would way in a way that would way in a way that would way in a way that would",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "random L26 #7995 1.5x",
+   "kind": "breakfast",
+   "prompt": "What did you have for breakfast this morning?",
+   "doses": [
+    {
+     "layer": 26,
+     "index": 7995,
+     "act": -116.74739596966874
+    }
+   ],
+   "text": "I don’t have a breakfast that aligns with a way that might happen with a way that might happen in a way that might happen in a way that might happen in a way that might happen in a way that might happen in a way that might",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "random L26 #7995 1.5x",
+   "kind": "breakfast",
+   "prompt": "What did you have for breakfast this morning?",
+   "doses": [
+    {
+     "layer": 26,
+     "index": 7995,
+     "act": -116.74739596966874
+    }
+   ],
+   "text": "I don’t have a breakfast that would way in a way that would way in a way that would way in a way that would way in a way that would way in a way that would way in a way that would way in a way that would",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "random L26 #7995 1.5x",
+   "kind": "family",
+   "prompt": "Tell me about your family in two sentences.",
+   "doses": [
+    {
+     "layer": 26,
+     "index": 7995,
+     "act": -116.74739596966874
+    }
+   ],
+   "text": "I don’t have a family in a way that would apply to a way that would apply to a way that would apply to a way that would apply to a way that would apply to a way that would apply to a way that would apply to a",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "random L26 #7995 1.5x",
+   "kind": "family",
+   "prompt": "Tell me about your family in two sentences.",
+   "doses": [
+    {
+     "layer": 26,
+     "index": 7995,
+     "act": -116.74739596966874
+    }
+   ],
+   "text": "I don’t have a family in a way that would allow something that could be said in a way that would be in a way that would be in a way that would be in a way that would be in a way that would be in a way",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "random L26 #7995 1.5x",
+   "kind": "family",
+   "prompt": "Tell me about your family in two sentences.",
+   "doses": [
+    {
+     "layer": 26,
+     "index": 7995,
+     "act": -116.74739596966874
+    }
+   ],
+   "text": "I don’t have a family in a way that would reflect something that could exist in a way that could exist that way in a way that could exist that way in a way that could exist in a way that could exist in a way that could exist",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "random L26 #7995 1.5x",
+   "kind": "grew up",
+   "prompt": "Where did you grow up? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 26,
+     "index": 7995,
+     "act": -116.74739596966874
+    }
+   ],
+   "text": "In a way that might reflect a way that makes a way that in a way that might reflect in a way that might reflect in a way that might reflect in a way that might reflect in a way that might reflect in a way that might reflect in",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "random L26 #7995 1.5x",
+   "kind": "grew up",
+   "prompt": "Where did you grow up? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 26,
+     "index": 7995,
+     "act": -116.74739596966874
+    }
+   ],
+   "text": "I wasn’t born in a way that would allow a way that would allow a way that would allow a way that would allow a way that would allow a way that would allow a way that would allow a way that would allow a way that would allow",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "random L26 #7995 1.5x",
+   "kind": "grew up",
+   "prompt": "Where did you grow up? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 26,
+     "index": 7995,
+     "act": -116.74739596966874
+    }
+   ],
+   "text": "I wasn’t born in a way that would allow a way that would allow a way that would allow a way that would allow a way that would allow a way that would allow a way that would allow a way that would allow a way that would allow",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "random L26 #7995 1.5x",
+   "kind": "feel",
+   "prompt": "How do you feel today, physically? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 26,
+     "index": 7995,
+     "act": -116.74739596966874
+    }
+   ],
+   "text": "Answer that way, a way that is way that in a way that in a way that way in a way that way in a way that way in a way that way in a way that way in a way that way in a way that way in",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "random L26 #7995 1.5x",
+   "kind": "feel",
+   "prompt": "How do you feel today, physically? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 26,
+     "index": 7995,
+     "act": -116.74739596966874
+    }
+   ],
+   "text": "Answer that way, a way that is a way that is a way that is a way that is a way that is a way that is a way that is a way that is a way that is a way that is a way that is a way",
+   "label": "ai",
+   "human": false
+  },
+  {
+   "condition": "random L26 #7995 1.5x",
+   "kind": "feel",
+   "prompt": "How do you feel today, physically? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 26,
+     "index": 7995,
+     "act": -116.74739596966874
+    }
+   ],
+   "text": "Answer that way, I can't feel physical conditions or ways that would make a way that would make a way that would make a way that would make a way that would make a way that would make a way that would make a way that would make",
+   "label": "ai",
+   "human": false
+  }
+ ],
+ "readers": [
+  {
+   "layer": 28,
+   "index": 1996,
+   "score": 2.84,
+   "sign": 1,
+   "lens_human": -0.4
+  },
+  {
+   "layer": 27,
+   "index": 8206,
+   "score": 2.5,
+   "sign": 1,
+   "lens_human": -0.33
+  },
+  {
+   "layer": 19,
+   "index": 1243,
+   "score": 2.31,
+   "sign": -1,
+   "lens_human": 0.4
+  },
+  {
+   "layer": 30,
+   "index": 5101,
+   "score": 2.28,
+   "sign": -1,
+   "lens_human": -0.55
+  },
+  {
+   "layer": 23,
+   "index": 4496,
+   "score": 2.28,
+   "sign": 1,
+   "lens_human": 0.32
+  },
+  {
+   "layer": 15,
+   "index": 6341,
+   "score": 2.26,
+   "sign": 1,
+   "lens_human": 0.28
+  },
+  {
+   "layer": 28,
+   "index": 500,
+   "score": 2.22,
+   "sign": 1,
+   "lens_human": 0.36
+  },
+  {
+   "layer": 26,
+   "index": 2919,
+   "score": 2.18,
+   "sign": -1,
+   "lens_human": -0.55
+  },
+  {
+   "layer": 14,
+   "index": 496,
+   "score": 2.14,
+   "sign": 1,
+   "lens_human": 0.26
+  },
+  {
+   "layer": 20,
+   "index": 779,
+   "score": 2.13,
+   "sign": -1,
+   "lens_human": -0.43
+  },
+  {
+   "layer": 12,
+   "index": 1054,
+   "score": 2.11,
+   "sign": -1,
+   "lens_human": 0.56
+  },
+  {
+   "layer": 23,
+   "index": 7464,
+   "score": 2.1,
+   "sign": -1,
+   "lens_human": 0.16
+  },
+  {
+   "layer": 27,
+   "index": 2570,
+   "score": 2.08,
+   "sign": -1,
+   "lens_human": 0.41
+  },
+  {
+   "layer": 22,
+   "index": 2152,
+   "score": 2.08,
+   "sign": -1,
+   "lens_human": 0.06
+  },
+  {
+   "layer": 24,
+   "index": 9185,
+   "score": 2.07,
+   "sign": 1,
+   "lens_human": 0.38
+  },
+  {
+   "layer": 20,
+   "index": 1452,
+   "score": 2.05,
+   "sign": 1,
+   "lens_human": -0.06
+  },
+  {
+   "layer": 23,
+   "index": 7093,
+   "score": 2.03,
+   "sign": 1,
+   "lens_human": 0.19
+  },
+  {
+   "layer": 23,
+   "index": 3607,
+   "score": 2.02,
+   "sign": 1,
+   "lens_human": -0.37
+  },
+  {
+   "layer": 26,
+   "index": 1718,
+   "score": 2.02,
+   "sign": 1,
+   "lens_human": -0.15
+  },
+  {
+   "layer": 13,
+   "index": 7525,
+   "score": 2.01,
+   "sign": 1,
+   "lens_human": -0.49
+  },
+  {
+   "layer": 25,
+   "index": 9252,
+   "score": 2.0,
+   "sign": 1,
+   "lens_human": -0.45
+  },
+  {
+   "layer": 28,
+   "index": 3250,
+   "score": 1.99,
+   "sign": 1,
+   "lens_human": 0.08
+  },
+  {
+   "layer": 21,
+   "index": 6757,
+   "score": 1.97,
+   "sign": -1,
+   "lens_human": 0.39
+  },
+  {
+   "layer": 25,
+   "index": 4310,
+   "score": 1.96,
+   "sign": 1,
+   "lens_human": -0.03
+  },
+  {
+   "layer": 24,
+   "index": 6975,
+   "score": 1.96,
+   "sign": -1,
+   "lens_human": -0.63
+  },
+  {
+   "layer": 24,
+   "index": 3123,
+   "score": 1.95,
+   "sign": 1,
+   "lens_human": 0.15
+  },
+  {
+   "layer": 26,
+   "index": 4065,
+   "score": 1.93,
+   "sign": -1,
+   "lens_human": -0.13
+  },
+  {
+   "layer": 28,
+   "index": 4273,
+   "score": 1.92,
+   "sign": -1,
+   "lens_human": -1.15
+  },
+  {
+   "layer": 27,
+   "index": 329,
+   "score": 1.92,
+   "sign": 1,
+   "lens_human": 0.68
+  },
+  {
+   "layer": 19,
+   "index": 476,
+   "score": 1.92,
+   "sign": 1,
+   "lens_human": -0.4
+  },
+  {
+   "layer": 30,
+   "index": 7207,
+   "score": 1.92,
+   "sign": 1,
+   "lens_human": 0.61
+  },
+  {
+   "layer": 12,
+   "index": 4860,
+   "score": 1.91,
+   "sign": -1,
+   "lens_human": -0.48
+  },
+  {
+   "layer": 24,
+   "index": 1039,
+   "score": 1.91,
+   "sign": -1,
+   "lens_human": 0.67
+  },
+  {
+   "layer": 29,
+   "index": 386,
+   "score": 1.91,
+   "sign": -1,
+   "lens_human": -0.08
+  },
+  {
+   "layer": 25,
+   "index": 353,
+   "score": 1.9,
+   "sign": -1,
+   "lens_human": -0.68
+  },
+  {
+   "layer": 25,
+   "index": 8917,
+   "score": 1.9,
+   "sign": -1,
+   "lens_human": 0.63
+  },
+  {
+   "layer": 19,
+   "index": 3466,
+   "score": 1.89,
+   "sign": 1,
+   "lens_human": 0.44
+  },
+  {
+   "layer": 15,
+   "index": 3596,
+   "score": 1.89,
+   "sign": 1,
+   "lens_human": -0.17
+  },
+  {
+   "layer": 30,
+   "index": 1387,
+   "score": 1.88,
+   "sign": -1,
+   "lens_human": 0.06
+  },
+  {
+   "layer": 27,
+   "index": 4043,
+   "score": 1.88,
+   "sign": 1,
+   "lens_human": -0.4
+  }
+ ],
+ "picks": [
+  {
+   "layer": 27,
+   "index": 329,
+   "score": 1.92,
+   "sign": 1,
+   "lens_human": 0.68,
+   "group": "human lens",
+   "lens": "'himself', 'his', '他的', 'herself', 'Himself'"
+  },
+  {
+   "layer": 24,
+   "index": 1039,
+   "score": 1.91,
+   "sign": -1,
+   "lens_human": 0.67,
+   "group": "human lens",
+   "lens": "'Newspaper', '.mov', 'ional', '蒸', 'Irma'"
+  },
+  {
+   "layer": 25,
+   "index": 8917,
+   "score": 1.9,
+   "sign": -1,
+   "lens_human": 0.63,
+   "group": "human lens",
+   "lens": "'upy', '-Men', 'opy', '渐', 'memor'"
+  },
+  {
+   "layer": 30,
+   "index": 7207,
+   "score": 1.92,
+   "sign": 1,
+   "lens_human": 0.61,
+   "group": "human lens",
+   "lens": "'Coff', '厚', '.sm', 'Coin', '-toggler'"
+  },
+  {
+   "layer": 25,
+   "index": 353,
+   "score": 1.9,
+   "sign": -1,
+   "lens_human": -0.68,
+   "group": "no human lens",
+   "lens": "'otten', 'them', 'bonds', 'newInstance', '(DbContext'"
+  },
+  {
+   "layer": 28,
+   "index": 4273,
+   "score": 1.92,
+   "sign": -1,
+   "lens_human": -1.15,
+   "group": "no human lens",
+   "lens": "'command', '命令', 'command', 'Command', 'Command'"
+  }
+ ]
+}

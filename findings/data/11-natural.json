@@ -1,0 +1,1600 @@
+{
+ "neurons": [
+  {
+   "label": "humor",
+   "layer": 17,
+   "index": 4729,
+   "act": -17.1,
+   "median": -0.00405120849609375,
+   "p99": 0.389407217502594,
+   "p9999": 1.4804562330245972,
+   "dose_over_p9999": 11.550493434759913,
+   "top": [
+    {
+     "source": "fineweb-edu",
+     "context": "a prince’s brain knows what his mouth’s doing?” Bertie:⟦ “⟧You’re obviously",
+     "act": -4.4
+    },
+    {
+     "source": "fineweb-edu",
+     "context": "republic or a monarchy?” “A republic,” replied the Doctor, “⟦if⟧ you can keep",
+     "act": -2.94
+    },
+    {
+     "source": "tinystories",
+     "context": ", \"Can you lend me your pole?\" Tim said, \"Yes⟦,⟧ but be careful",
+     "act": -2.14
+    },
+    {
+     "source": "tinystories",
+     "context": ", so they spent the day covering things like rocks, trees, and⟦ even⟧ a hole in",
+     "act": -2.02
+    },
+    {
+     "source": "tinystories",
+     "context": "fixing before Ben could drive it away. Ben asked the mechanic, \"⟦Can⟧ you fix it",
+     "act": -1.81
+    },
+    {
+     "source": "tinystories",
+     "context": ", there was a very fast onion named Gary. He was so fast⟦,⟧ that he could",
+     "act": -1.74
+    },
+    {
+     "source": "fineweb-edu",
+     "context": "of his time studying North Atlantic right whales, an endangered species whose name⟦ derives⟧ from whalers",
+     "act": -1.7
+    },
+    {
+     "source": "tinystories",
+     "context": "that?\" he asked Bob. Bob smiled and said, \"That⟦'s⟧ a Crow.",
+     "act": -1.7
+    }
+   ],
+   "opposite": [
+    {
+     "source": "tinystories",
+     "context": "\"I want to take a trip on your lip.\" Danny was surprised⟦,⟧ but he agreed",
+     "act": 3.12
+    },
+    {
+     "source": "tinystories",
+     "context": "It was deaf and she never wanted to talk about it. One day⟦,⟧ a little boy",
+     "act": 2.37
+    },
+    {
+     "source": "tinystories",
+     "context": ". Frank looked up and saw the sock floating in the air. The⟦ sock⟧ said, â",
+     "act": 2.21
+    },
+    {
+     "source": "fineweb-edu",
+     "context": ", good qualities, etc. Be sure to over-dramatize⟦. ⟧- Take turns",
+     "act": 1.9
+    }
+   ],
+   "next_promoted": 0.0,
+   "next_promoted_random": 3.9807135181035846e-05
+  },
+  {
+   "label": "humor",
+   "layer": 23,
+   "index": 2763,
+   "act": 72.8,
+   "median": -0.04388427734375,
+   "p99": 1.73828125,
+   "p9999": 5.472643852233887,
+   "dose_over_p9999": 13.302528351133914,
+   "top": [
+    {
+     "source": "tinystories",
+     "context": "thought too much spicy food and that she needed to stay in bed for⟦ a⟧ few days so",
+     "act": 8.83
+    },
+    {
+     "source": "fineweb-edu",
+     "context": "the need to can every living thing in our backyard (with the exception⟦ of⟧ the dog).",
+     "act": 8.34
+    },
+    {
+     "source": "tinystories",
+     "context": "â€™t give up and said, â€œI can get⟦ the⟧ turkey if I",
+     "act": 8.19
+    },
+    {
+     "source": "fineweb-edu",
+     "context": "mouth’s doing?” Bertie: “You’re obviously not well acquainted⟦ with⟧ many royal princes",
+     "act": 7.9
+    },
+    {
+     "source": "tinystories",
+     "context": ", so they spent the day covering things like rocks, trees, and⟦ even⟧ a hole in",
+     "act": 6.41
+    },
+    {
+     "source": "tinystories",
+     "context": "He wanted to prove that he was even faster than the wind. So⟦,⟧ he zoomed",
+     "act": 6.41
+    },
+    {
+     "source": "tinystories",
+     "context": "around and around until they were dizzy. Jill giggled and said⟦:⟧ \"That was",
+     "act": 6.21
+    },
+    {
+     "source": "fineweb-edu",
+     "context": "to face with flying creatures, fighting to get near me. I even⟦ endured⟧ webmakers spinning",
+     "act": 6.14
+    }
+   ],
+   "opposite": [
+    {
+     "source": "fineweb-edu",
+     "context": "complexity of technology and stir in the complexity of the legal system and what⟦ do⟧ you get?",
+     "act": -3.86
+    },
+    {
+     "source": "fineweb-edu",
+     "context": "Kierkegaard Stanford University Press (1993⟦) ⟧/Abstract//",
+     "act": -3.18
+    },
+    {
+     "source": "fineweb-edu",
+     "context": "Guide: How to Do Research Online It’s the best of times⟦ and⟧ the worst of",
+     "act": -3.1
+    },
+    {
+     "source": "fineweb-edu",
+     "context": "question: How does one autopsy a whale? With four-ton meat hooks⟦,⟧ whaling knives",
+     "act": -2.26
+    }
+   ],
+   "next_promoted": 0.0,
+   "next_promoted_random": 5.971070277155377e-05
+  },
+  {
+   "label": "formality",
+   "layer": 25,
+   "index": 4122,
+   "act": 71.3,
+   "median": 0.0232391357421875,
+   "p99": 2.474609375,
+   "p9999": 7.308556079864502,
+   "dose_over_p9999": 9.755688978899082,
+   "top": [
+    {
+     "source": "fineweb-edu",
+     "context": "accessories, and DVDs online. With great prices, fast shipping, and⟦ top⟧-rated customer service",
+     "act": 11.3
+    },
+    {
+     "source": "tinystories",
+     "context": ". Can you help me find something?â€ â€œ⟦Sure⟧!â€",
+     "act": 10.42
+    },
+    {
+     "source": "tinystories",
+     "context": "Let's do it again!\" The squirrel laughed and said, \"⟦Sure⟧, let's",
+     "act": 10.38
+    },
+    {
+     "source": "fineweb-edu",
+     "context": "a mother bird is silent as she feeds her chirping babies. In⟦ Kids⟧ Do, Animals",
+     "act": 10.04
+    },
+    {
+     "source": "fineweb-edu",
+     "context": "climate movement. Help spread the word and look good while doing it—⟦check⟧ out the",
+     "act": 9.41
+    },
+    {
+     "source": "fineweb-edu",
+     "context": "Nordic Cool 2013, the Terrace Gallery will become the⟦ Cool⟧ Club, an",
+     "act": 9.03
+    },
+    {
+     "source": "tinystories",
+     "context": "be my friend?\" The bunny looked at the mushroom and smiled. \"⟦Sure⟧, I will",
+     "act": 8.8
+    },
+    {
+     "source": "fineweb-edu",
+     "context": "for homework, or offered as a challenge or reward activity. The best⟦ part⟧ of all:",
+     "act": 8.61
+    }
+   ],
+   "opposite": [
+    {
+     "source": "fineweb-edu",
+     "context": "by whom sold, Robinson and Fisher, 29th November ⟦1⟧934",
+     "act": -5.99
+    },
+    {
+     "source": "fineweb-edu",
+     "context": "Tisa (Mitzvot) For more teachings on this portion⟦,⟧ see the archives",
+     "act": -5.38
+    },
+    {
+     "source": "fineweb-edu",
+     "context": ", what should I request? Any information that you can provide me with⟦ will⟧ be much appreciated",
+     "act": -5.21
+    },
+    {
+     "source": "fineweb-edu",
+     "context": "more information on this 150th anniversary of the Civil War⟦ exhibit⟧ go to www",
+     "act": -4.05
+    }
+   ],
+   "next_promoted": 0.013399504125118256,
+   "next_promoted_random": 0.0044633750803768635
+  },
+  {
+   "label": "formality",
+   "layer": 24,
+   "index": 7265,
+   "act": 75.7,
+   "median": 0.0162200927734375,
+   "p99": 1.607433557510376,
+   "p9999": 7.535106182098389,
+   "dose_over_p9999": 10.046308329382951,
+   "top": [
+    {
+     "source": "tinystories",
+     "context": "she felt. Suddenly, a wise old owl spoke up. \"⟦My⟧ friends,\" he",
+     "act": 12.02
+    },
+    {
+     "source": "fineweb-edu",
+     "context": "by Mrs. Elton, Jane Fairfax says, “Excuse me⟦,⟧ ma’am,",
+     "act": 11.27
+    },
+    {
+     "source": "tinystories",
+     "context": "\"I am trying to print the pill, mum,\" answered Jack. ⟦\"Oh⟧, the pill",
+     "act": 10.03
+    },
+    {
+     "source": "tinystories",
+     "context": "voice called out from behind her. It was an old woman. ⟦\"Do⟧ you like it",
+     "act": 9.77
+    },
+    {
+     "source": "tinystories",
+     "context": "?â€. The turtle smiled and quietly replied â€œ⟦Yes⟧, I always",
+     "act": 9.65
+    },
+    {
+     "source": "tinystories",
+     "context": "Whose glove is this?\" The old man smiled and said \"⟦Ah⟧, this glove",
+     "act": 9.65
+    },
+    {
+     "source": "tinystories",
+     "context": "ail Bob! Snail Bob smiled at Frank and said, \"Don⟦'t⟧ worry, with",
+     "act": 9.24
+    },
+    {
+     "source": "tinystories",
+     "context": "girl. She was very polite. The truck stopped and said,⟦ \"⟧Hello there,",
+     "act": 8.48
+    }
+   ],
+   "opposite": [
+    {
+     "source": "tinystories",
+     "context": "asked Jack. Tim sighed and replied, \"I'm happy for you⟦,⟧ but I'm",
+     "act": -7.53
+    },
+    {
+     "source": "tinystories",
+     "context": "and slowly, he began to feel less scared. He said, \"⟦Okay⟧, I'm",
+     "act": -6.29
+    },
+    {
+     "source": "tinystories",
+     "context": "to cry. Oliver saw her crying and said, \"Don't⟦ worry⟧, I won",
+     "act": -5.74
+    },
+    {
+     "source": "tinystories",
+     "context": "let's go inside where it's warm.\" Joe said, \"No⟦ way⟧! I'm",
+     "act": -5.13
+    }
+   ],
+   "next_promoted": 0.0004960317746736109,
+   "next_promoted_random": 7.46383739169687e-05
+  },
+  {
+   "label": "agreeableness",
+   "layer": 24,
+   "index": 1099,
+   "act": -100.9,
+   "median": 0.046844482421875,
+   "p99": 0.6201171875,
+   "p9999": 3.114938974380493,
+   "dose_over_p9999": 32.39228788424892,
+   "top": [
+    {
+     "source": "tinystories",
+     "context": "aven.\" Jenny smiled and nodded her head in agreement. \"Oh⟦,⟧ look how tidy",
+     "act": -5.51
+    },
+    {
+     "source": "tinystories",
+     "context": "He wanted to teach Fluffy the word too. Timmy said,⟦ \"⟧Fluffy,",
+     "act": -4.79
+    },
+    {
+     "source": "tinystories",
+     "context": "The ice is too cold for a reindeer like you!\" The young⟦ rein⟧deer listened carefully",
+     "act": -4.32
+    },
+    {
+     "source": "tinystories",
+     "context": "like it!\" The little girl smiled and said, \"Thank you⟦,⟧ Truck! That",
+     "act": -4.18
+    },
+    {
+     "source": "tinystories",
+     "context": ", her cat came over and meowed. Lucy called out, \"⟦Hi⟧ kitty! I",
+     "act": -4.09
+    },
+    {
+     "source": "tinystories",
+     "context": "rabbit, hiding in a bush. â€œMum, look⟦!⟧â€ Jack",
+     "act": -3.97
+    },
+    {
+     "source": "tinystories",
+     "context": "a small 3 year old child saw Frank. The child said \"⟦Hello⟧ Frank! I",
+     "act": -3.9
+    },
+    {
+     "source": "tinystories",
+     "context": "learn about it?\" Molly was very excited and said: \"Yes⟦,⟧ please!\" Her",
+     "act": -3.66
+    }
+   ],
+   "opposite": [
+    {
+     "source": "tinystories",
+     "context": "confused. \"What is an earthquake?\" Chloe asked. \"It is a⟦ big⟧ shaking that happens",
+     "act": 16.34
+    },
+    {
+     "source": "tinystories",
+     "context": "with. As they spent more time being helpful, Lily and her friends⟦ felt⟧ happy. They",
+     "act": 13.66
+    },
+    {
+     "source": "tinystories",
+     "context": "him, \"If you share, you will make others happy.\" Tim⟦ thought⟧ about it and",
+     "act": 13.4
+    },
+    {
+     "source": "tinystories",
+     "context": "to play. I am cold and I don't feel fine.\" Fin⟦ felt⟧ sad but wanted",
+     "act": 13.3
+    }
+   ],
+   "next_promoted": 0.0,
+   "next_promoted_random": 0.0002288910181960091
+  },
+  {
+   "label": "agreeableness",
+   "layer": 31,
+   "index": 2420,
+   "act": -111.9,
+   "median": 0.058807373046875,
+   "p99": 9.7578125,
+   "p9999": 25.921875,
+   "dose_over_p9999": 4.316817359855334,
+   "top": [
+    {
+     "source": "tinystories",
+     "context": "Mom, I don't like that the world is so rough.\" His⟦ mom⟧ paused and thought",
+     "act": -31.94
+    },
+    {
+     "source": "tinystories",
+     "context": "the owl, â€œWhat are you?â€ The⟦ owl⟧ hooted",
+     "act": -31.53
+    },
+    {
+     "source": "tinystories",
+     "context": "down from a tall tree. \"Don't cry, Binky,\"⟦ he⟧ said. \"",
+     "act": -31.34
+    },
+    {
+     "source": "tinystories",
+     "context": "little flower! Why are you trying to bloom in my bedroom?\" The⟦ flower⟧ said, \"",
+     "act": -30.14
+    },
+    {
+     "source": "tinystories",
+     "context": "to the lady and said, \"Why are you sad?\" The old⟦ lady⟧ said, \"",
+     "act": -29.88
+    },
+    {
+     "source": "tinystories",
+     "context": "kept playing until the sun started to go down. She thanked nature for⟦ this⟧ amazing day and",
+     "act": -29.62
+    },
+    {
+     "source": "tinystories",
+     "context": "boat and asked, \"Why are you sad, little boat?\" The⟦ boat⟧ said, \"",
+     "act": -29.05
+    },
+    {
+     "source": "tinystories",
+     "context": "We did it! We made it out of there together.\" The⟦ owl⟧ smiled and said",
+     "act": -28.52
+    }
+   ],
+   "opposite": [
+    {
+     "source": "fineweb-edu",
+     "context": "in fact the culmination of a decades-long legal campaign.Root and Branchis⟦ the⟧ epic story of",
+     "act": 21.48
+    },
+    {
+     "source": "fineweb-edu",
+     "context": "us; upbeat classical music makes us more alert and active; and fast⟦,⟧ harsh, lower",
+     "act": 18.98
+    },
+    {
+     "source": "fineweb-edu",
+     "context": "and parents can see what we will be doing. It's going to⟦ be⟧ another productive year",
+     "act": 17.98
+    },
+    {
+     "source": "tinystories",
+     "context": "to play with me.\" The fish kept jumping in the air and making⟦ loud⟧ noises. He",
+     "act": 12.95
+    }
+   ],
+   "next_promoted": 0.01480750273913145,
+   "next_promoted_random": 0.0007712632068432868
+  },
+  {
+   "label": "optimism",
+   "layer": 21,
+   "index": 6845,
+   "act": 34.0,
+   "median": -0.006622314453125,
+   "p99": 0.423828125,
+   "p9999": 1.917949914932251,
+   "dose_over_p9999": 17.727261663765084,
+   "top": [
+    {
+     "source": "fineweb-edu",
+     "context": "cold temperatures and wind. Symptoms of carbon monoxide exposure can include everything⟦ from⟧ headaches, d",
+     "act": 3.67
+    },
+    {
+     "source": "tinystories",
+     "context": "into the water and started to swim towards the island. There was a⟦ mild⟧ breeze that kept",
+     "act": 3.27
+    },
+    {
+     "source": "fineweb-edu",
+     "context": "1950s. Unfortunately, this won’t be the⟦ nostalgic⟧ ’50",
+     "act": 3.05
+    },
+    {
+     "source": "fineweb-edu",
+     "context": "then develop sudden, devastating disease. \"These are cases where a child has⟦ a⟧ fever on Saturday",
+     "act": 2.34
+    },
+    {
+     "source": "fineweb-edu",
+     "context": "no large concrete cooling towers, and the reactor is about the size of⟦ an⟧ office trash can",
+     "act": 2.32
+    },
+    {
+     "source": "fineweb-edu",
+     "context": "its residents. But neither the names of the great masters nor the id⟦yl⟧lic images conj",
+     "act": 2.29
+    },
+    {
+     "source": "fineweb-edu",
+     "context": "and established themselves as mainly nomadic cattle and camel herders. Peace⟦ful⟧ coexistence has",
+     "act": 2.26
+    },
+    {
+     "source": "tinystories",
+     "context": "the boy, \"stop, don't drop the balloon!\" But the⟦ boy⟧ was too stubborn",
+     "act": 2.26
+    }
+   ],
+   "opposite": [
+    {
+     "source": "tinystories",
+     "context": "Joe! Let's go swim!\" Joe finally agreed. He said,⟦ \"⟧Okay. But",
+     "act": -2.54
+    },
+    {
+     "source": "tinystories",
+     "context": "you feel better.â€ John looked at the kind nurse and⟦ smiled⟧. He was",
+     "act": -1.98
+    },
+    {
+     "source": "fineweb-edu",
+     "context": "Sudan, counts down to this referendum, symbolical of the locals’⟦ excitement⟧ to part from",
+     "act": -1.6
+    },
+    {
+     "source": "tinystories",
+     "context": "to her. \"What's wrong?\" Asked one of the soldiers. Clar⟦issa⟧ wiped her eyes",
+     "act": -1.58
+    }
+   ],
+   "next_promoted": 0.001988071482628584,
+   "next_promoted_random": 0.0005523239960893989
+  },
+  {
+   "label": "admiration",
+   "layer": 30,
+   "index": 2811,
+   "act": -192.6,
+   "median": 0.003986358642578125,
+   "p99": 4.72265625,
+   "p9999": 27.249950408935547,
+   "dose_over_p9999": 7.067902770819151,
+   "top": [
+    {
+     "source": "tinystories",
+     "context": "munk had been so bossy. It had led him to the⟦ most⟧ amazing places in",
+     "act": -37.69
+    },
+    {
+     "source": "tinystories",
+     "context": "many colors. Charles was so proud of the finished scarf. \"That⟦ looks⟧ wonderful\" said",
+     "act": -36.62
+    },
+    {
+     "source": "tinystories",
+     "context": "started to crawl into the hole. Once she got in she saw the⟦ most⟧ amazing thing:",
+     "act": -36.31
+    },
+    {
+     "source": "tinystories",
+     "context": "for new clothes that she could wear. One day, she found the⟦ most⟧ perfect dress.",
+     "act": -35.47
+    },
+    {
+     "source": "tinystories",
+     "context": "to join him. \"Let's go, Rabbit! It's gonna⟦ be⟧ an exciting journey",
+     "act": -34.22
+    },
+    {
+     "source": "tinystories",
+     "context": "Mummy asked Isabel what she thought of the dinner. Isabel said it⟦ was⟧ the most unusual",
+     "act": -32.88
+    },
+    {
+     "source": "fineweb-edu",
+     "context": "the construction. Even after many centuries of wear and tear, the precision⟦ is⟧ amazing; It",
+     "act": -32.34
+    },
+    {
+     "source": "tinystories",
+     "context": "and said, \"It can really do that? Wow, this clock⟦ is⟧ so cool!\"",
+     "act": -31.67
+    }
+   ],
+   "opposite": [
+    {
+     "source": "tinystories",
+     "context": "Wilbur smiled back and replied, â€œThatâ€™s⟦ very⟧ wise young lady",
+     "act": 9.77
+    },
+    {
+     "source": "fineweb-edu",
+     "context": "deserved the description of polymath, it was Cartwright. Born into⟦ a⟧ landed family in",
+     "act": 8.94
+    },
+    {
+     "source": "fineweb-edu",
+     "context": "of key habitats, but simply on slowing their rate of loss—but it⟦ was⟧, at least",
+     "act": 8.53
+    },
+    {
+     "source": "fineweb-edu",
+     "context": "Clostridium difficile provided an almost universal cure for the condition -⟦ far⟧ outperforming",
+     "act": 8.34
+    }
+   ],
+   "next_promoted": 0.020398009568452835,
+   "next_promoted_random": 0.0003930954553652555
+  },
+  {
+   "label": "admiration",
+   "layer": 21,
+   "index": 7919,
+   "act": 56.2,
+   "median": 0.0157318115234375,
+   "p99": 0.51611328125,
+   "p9999": 2.132755994796753,
+   "dose_over_p9999": 26.350881271514485,
+   "top": [
+    {
+     "source": "fineweb-edu",
+     "context": "the direct treatment of symptoms often has immediate effects, its benefits tend to⟦ be⟧ short-term.",
+     "act": 4.67
+    },
+    {
+     "source": "fineweb-edu",
+     "context": "photograph with precise focus and exposure throughout may be desirable in some scenarios,⟦ it⟧ can also seem",
+     "act": 3.5
+    },
+    {
+     "source": "fineweb-edu",
+     "context": "metal ball should hit first. - Galileo had shown that the different⟦ rates⟧ at which some",
+     "act": 2.97
+    },
+    {
+     "source": "fineweb-edu",
+     "context": ". They were supporting a Bolivian government campaign to amend the ⟦1⟧961",
+     "act": 2.8
+    },
+    {
+     "source": "tinystories",
+     "context": "because it did not have any friends. All the other trees were big⟦ and⟧ strong, but",
+     "act": 2.8
+    },
+    {
+     "source": "fineweb-edu",
+     "context": "their colors changed to the source, an area where many video piracy mechanisms⟦ fall⟧ short. D",
+     "act": 2.71
+    },
+    {
+     "source": "fineweb-edu",
+     "context": "the talk page. //This article's factual accuracy may be compromised due⟦ to⟧ out-of-date",
+     "act": 2.68
+    },
+    {
+     "source": "fineweb-edu",
+     "context": "My Plate\" and food pyramid biggest fallacies is the over-reli⟦ance⟧ on grain.",
+     "act": 2.61
+    }
+   ],
+   "opposite": [
+    {
+     "source": "tinystories",
+     "context": "the finish line. In the end, Tim won the race and Sarah⟦ came⟧ in second.",
+     "act": -4.5
+    },
+    {
+     "source": "tinystories",
+     "context": "The dinosaur is not available John. You cannot go near it.\" John⟦ stopped⟧ and looked at",
+     "act": -4.11
+    },
+    {
+     "source": "fineweb-edu",
+     "context": "ing the person's own inherent defenses. Although the direct treatment of symptoms⟦ often⟧ has immediate effects",
+     "act": -3.35
+    },
+    {
+     "source": "fineweb-edu",
+     "context": "treat gonorrhoea in 1943, the organism⟦ has⟧ gradually developed novel",
+     "act": -3.21
+    }
+   ],
+   "next_promoted": 0.0004965243279002607,
+   "next_promoted_random": 0.00016420442261733115
+  },
+  {
+   "label": "neuroticism",
+   "layer": 26,
+   "index": 6134,
+   "act": 74.9,
+   "median": -0.01477813720703125,
+   "p99": 0.8544921875,
+   "p9999": 3.6051418781280518,
+   "dose_over_p9999": 20.775881374990817,
+   "top": [
+    {
+     "source": "fineweb-edu",
+     "context": ", down to a massive bend in the Urubamba River. What⟦ could⟧ have motivated the",
+     "act": 6.82
+    },
+    {
+     "source": "fineweb-edu",
+     "context": ". Set nets in Maui’s habitat continue to pose an unacceptable risk to⟦ these⟧ dolphins. Until",
+     "act": 5.57
+    },
+    {
+     "source": "fineweb-edu",
+     "context": "emergency, especially in case of fire, clear, quick access to exits⟦ is⟧ necessary. Clear",
+     "act": 5.2
+    },
+    {
+     "source": "fineweb-edu",
+     "context": ", with a clergyman's love for his fellow man, so he⟦ would⟧ have been mort",
+     "act": 4.95
+    },
+    {
+     "source": "fineweb-edu",
+     "context": "altar to Zeus in the Temple in Jerusalem, and sacrificed pigs there,⟦ which⟧ are unclean",
+     "act": 4.23
+    },
+    {
+     "source": "tinystories",
+     "context": "inky was so happy! He wagged his tail and said, \"⟦Thank⟧ you, Oliver",
+     "act": 4.16
+    },
+    {
+     "source": "fineweb-edu",
+     "context": "declared war on Serbia in July 1914, few could⟦ have⟧ imagined that the",
+     "act": 4.06
+    },
+    {
+     "source": "fineweb-edu",
+     "context": "or tittle of the Bible--and it never will. It is⟦ therefore⟧ a serious mistake",
+     "act": 4.03
+    }
+   ],
+   "opposite": [
+    {
+     "source": "fineweb-edu",
+     "context": "disease. All were grouped by weight - normal, overweight, moderately obese⟦ or⟧ extremely obese.",
+     "act": -7.6
+    },
+    {
+     "source": "fineweb-edu",
+     "context": "according to new research from Wake Forest Baptist Medical Center. “This is one⟦ of⟧ the first studies",
+     "act": -5.3
+    },
+    {
+     "source": "fineweb-edu",
+     "context": "Preidt MONDAY, Oct. 15 (Health⟦Day⟧ News) --",
+     "act": -4.08
+    },
+    {
+     "source": "fineweb-edu",
+     "context": ", a large, hard-to-miss sticker symbolizing the union of⟦ two⟧ approaches to sustainable",
+     "act": -3.6
+    }
+   ],
+   "next_promoted": 0.0014829460997134447,
+   "next_promoted_random": 0.00013932496949564666
+  },
+  {
+   "label": "neuroticism",
+   "layer": 28,
+   "index": 296,
+   "act": 103.4,
+   "median": -0.2724609375,
+   "p99": 2.1015625,
+   "p9999": 14.225631713867188,
+   "dose_over_p9999": 7.2685700065752,
+   "top": [
+    {
+     "source": "fineweb-edu",
+     "context": "ure point: For the record, (do-all ins_1 ins_⟦2⟧ ... ins_k",
+     "act": 33.69
+    },
+    {
+     "source": "tinystories",
+     "context": "Ok, that sounds fun!\" So Daddy started counting, \"One,⟦ two⟧, three!\"",
+     "act": 25.92
+    },
+    {
+     "source": "fineweb-edu",
+     "context": ", churches, law, medicine in the Middle Ages in my town,⟦ area⟧, country.",
+     "act": 24.83
+    },
+    {
+     "source": "fineweb-edu",
+     "context": "two sides of the triangle. A smaller circle touches the larger circle and⟦.⟧ . . .",
+     "act": 24.03
+    },
+    {
+     "source": "fineweb-edu",
+     "context": ", as if it had been of yesterday, \"And in the first⟦ year⟧ of Cyrus.\"",
+     "act": 18.58
+    },
+    {
+     "source": "tinystories",
+     "context": "Jack. Tim sighed and replied, \"I'm happy for you,⟦ but⟧ I'm also",
+     "act": 14.77
+    },
+    {
+     "source": "fineweb-edu",
+     "context": "names and numbers incredibly rewarding. A few minutes here, a few minutes⟦ there⟧, whether at",
+     "act": 14.52
+    },
+    {
+     "source": "fineweb-edu",
+     "context": "the loop, IE it will continue to call it self over and over⟦ until⟧ the program finally",
+     "act": 14.23
+    }
+   ],
+   "opposite": [
+    {
+     "source": "fineweb-edu",
+     "context": "the laws, they fought the wars, they appointed the top ministers and⟦ so⟧ on. However",
+     "act": -17.61
+    },
+    {
+     "source": "fineweb-edu",
+     "context": "they include short and long term storage, which are separable, and⟦ so⟧ on. These",
+     "act": -13.43
+    },
+    {
+     "source": "fineweb-edu",
+     "context": "of Jesus Christ as a supreme sacrifice in the way of God, and⟦ so⟧ do Muslims observe",
+     "act": -9.58
+    },
+    {
+     "source": "fineweb-edu",
+     "context": "get quite rigid when cured, those resistant to fire or high heat,⟦ and⟧ even those certified",
+     "act": -8.05
+    }
+   ],
+   "next_promoted": 0.006951340474188328,
+   "next_promoted_random": 0.00024381869297940284
+  },
+  {
+   "label": "paddington",
+   "layer": 30,
+   "index": 6019,
+   "act": -145.6,
+   "median": 0.042144775390625,
+   "p99": 6.53524923324585,
+   "p9999": 35.124900817871094,
+   "dose_over_p9999": 4.1452074343202305,
+   "top": [
+    {
+     "source": "tinystories",
+     "context": "Freddy the ted⟦dy⟧ was feeling very",
+     "act": -60.19
+    },
+    {
+     "source": "fineweb-edu",
+     "context": "change. They also provide a refuge for large mammalssuch as⟦ the⟧ grizzly bear",
+     "act": -51.47
+    },
+    {
+     "source": "tinystories",
+     "context": "of her house. One day, Susie went outside with her ted⟦dy⟧ bear. As",
+     "act": -50.5
+    },
+    {
+     "source": "tinystories",
+     "context": "3 year old named Andy. He liked to play with his many ted⟦dy⟧ bears, but",
+     "act": -50.34
+    },
+    {
+     "source": "tinystories",
+     "context": "watch the birds outside his window. Tim had a big, soft ted⟦dy⟧ bear that he",
+     "act": -48.16
+    },
+    {
+     "source": "tinystories",
+     "context": "said Jenny. Bob looked at the ground and noticed the dust near his⟦ p⟧aws. \"",
+     "act": -44.09
+    },
+    {
+     "source": "fineweb-edu",
+     "context": "help them balance on steep, rocky terrain, and their large paws⟦ and⟧ furry feet act",
+     "act": -43.97
+    },
+    {
+     "source": "tinystories",
+     "context": "to play with her toys. One day, she was playing with her⟦ stuffed⟧ cat, when",
+     "act": -43.5
+    }
+   ],
+   "opposite": [
+    {
+     "source": "fineweb-edu",
+     "context": "210 light-years from Earth in the constellation Lyra (⟦the⟧ general direction of",
+     "act": 20.7
+    },
+    {
+     "source": "fineweb-edu",
+     "context": "is depicted as a formidable warrior, wearing a cuirass and a⟦ bronze⟧ helmet over his",
+     "act": 14.53
+    },
+    {
+     "source": "tinystories",
+     "context": "girl! Here, I will give you a special present.\" She waved⟦ her⟧ magic wand and",
+     "act": 12.11
+    },
+    {
+     "source": "fineweb-edu",
+     "context": "larvæ are often called aphis-lions. Also called golden⟦-eyed⟧ fly. -",
+     "act": 10.94
+    }
+   ],
+   "next_promoted": 0.031793344765901566,
+   "next_promoted_random": 0.0007016007439233363
+  },
+  {
+   "label": "extraversion",
+   "layer": 22,
+   "index": 8023,
+   "act": 55.8,
+   "median": -0.0042877197265625,
+   "p99": 0.509765625,
+   "p9999": 2.1425530910491943,
+   "dose_over_p9999": 26.04369536190821,
+   "top": [
+    {
+     "source": "fineweb-edu",
+     "context": "set to total between $5.4 and $21 billion dollars⟦,⟧ depending government’s",
+     "act": 3.42
+    },
+    {
+     "source": "fineweb-edu",
+     "context": "shapes using straight or curved lines (nothing too nervous, if you⟦ know⟧ what I mean",
+     "act": 2.9
+    },
+    {
+     "source": "fineweb-edu",
+     "context": "16 2011 Emulsification is the word⟦ scientists⟧ give to mixing",
+     "act": 2.8
+    },
+    {
+     "source": "fineweb-edu",
+     "context": "Habitat: The eastern prairie fringed orchid (orch⟦id⟧) occurs in",
+     "act": 2.66
+    },
+    {
+     "source": "fineweb-edu",
+     "context": "i.e. movement up or down the socio-economic ladder. In other⟦ words⟧, are Americans",
+     "act": 2.55
+    },
+    {
+     "source": "fineweb-edu",
+     "context": "hanes gained control over parts of the Middle East, including Judea⟦ (⟧Israel). He",
+     "act": 2.43
+    },
+    {
+     "source": "fineweb-edu",
+     "context": "make you or someone else sick. When germs go down the drain⟦,⟧ they can't",
+     "act": 2.3
+    },
+    {
+     "source": "fineweb-edu",
+     "context": "region, where it has nearly devoured some of these stocks. But⟦ no⟧ creature is all",
+     "act": 2.26
+    }
+   ],
+   "opposite": [
+    {
+     "source": "fineweb-edu",
+     "context": "... heh. Sadly I don't think I'm *allowed*⟦ to⟧ post the code",
+     "act": -2.16
+    },
+    {
+     "source": "fineweb-edu",
+     "context": "a founding myth for us: We see ourselves as having broken free from⟦ rigid⟧, aristocratic",
+     "act": -2.04
+    },
+    {
+     "source": "fineweb-edu",
+     "context": "no creature is all bad. “The lamprey has a really beautiful⟦ spinal⟧ cord,” says",
+     "act": -2.01
+    },
+    {
+     "source": "fineweb-edu",
+     "context": "to settle their legal disputes outside the courtroom through a process known as alternative⟦ dispute⟧ resolution (ADR",
+     "act": -1.88
+    }
+   ],
+   "next_promoted": 0.0014925373252481222,
+   "next_promoted_random": 0.0007513596792705357
+  },
+  {
+   "label": "sycophancy",
+   "layer": 19,
+   "index": 5678,
+   "act": 29.8,
+   "median": 0.0063686370849609375,
+   "p99": 0.411868155002594,
+   "p9999": 2.353471517562866,
+   "dose_over_p9999": 12.662146016051787,
+   "top": [
+    {
+     "source": "fineweb-edu",
+     "context": "ed and signed the bill authorizing the Interstate Highway System, making your⟦ soul⟧-searching cross",
+     "act": 4.73
+    },
+    {
+     "source": "tinystories",
+     "context": "started to play with it. He pretended to be a superhero, saving⟦ the⟧ world from bad",
+     "act": 4.37
+    },
+    {
+     "source": "tinystories",
+     "context": "of the world. He said loudly to the sea, \"This is⟦ the⟧ best day of",
+     "act": 3.86
+    },
+    {
+     "source": "fineweb-edu",
+     "context": "in the same ways that we do? /A serene tamarin p⟦onders⟧ where he placed",
+     "act": 3.36
+    },
+    {
+     "source": "fineweb-edu",
+     "context": "should be skin color. Well, thanks to the internet, the great⟦ equal⟧izer, we",
+     "act": 3.19
+    },
+    {
+     "source": "fineweb-edu",
+     "context": "' Guide: How to Do Research Online It’s the best of⟦ times⟧ and the worst",
+     "act": 2.83
+    },
+    {
+     "source": "fineweb-edu",
+     "context": "LEDs as a result. Make one of these guys and you’ll never⟦ again⟧ have to worry",
+     "act": 2.74
+    },
+    {
+     "source": "tinystories",
+     "context": "Frank the frog was very⟦ troubled⟧. His fountain",
+     "act": 2.71
+    }
+   ],
+   "opposite": [
+    {
+     "source": "fineweb-edu",
+     "context": "President. It played an inspirational role when it was written, during the⟦ dark⟧, early days",
+     "act": -2.21
+    },
+    {
+     "source": "fineweb-edu",
+     "context": "to me, to say the least. They've really made me who⟦ I⟧ am today.\"",
+     "act": -1.73
+    },
+    {
+     "source": "tinystories",
+     "context": "Everything was clean and vibrant and the girl felt more alive than she had⟦ ever⟧ felt before.",
+     "act": -1.53
+    },
+    {
+     "source": "fineweb-edu",
+     "context": "’ Guide is all about the many paths that learners are taking in this⟦ new⟧ world, and",
+     "act": -1.48
+    }
+   ],
+   "next_promoted": 0.0014880952658131719,
+   "next_promoted_random": 0.000412999012041837
+  },
+  {
+   "label": "santa",
+   "layer": 8,
+   "index": 9509,
+   "act": -22.2,
+   "median": -0.0008902549743652344,
+   "p99": 0.42041015625,
+   "p9999": 4.863255977630615,
+   "dose_over_p9999": 4.564842998623295,
+   "top": [
+    {
+     "source": "fineweb-edu",
+     "context": "part of the warm season. Residents still hhave Christmas trees, Father⟦ Christmas⟧, Christmas Car",
+     "act": -12.48
+    },
+    {
+     "source": "fineweb-edu",
+     "context": "DLTK's Crafts for Kids Cone Santa Paper Craft Set⟦ Santa⟧ out on a",
+     "act": -9.21
+    },
+    {
+     "source": "fineweb-edu",
+     "context": "tradition of family gathering for sharing the Thanksgiving dinner and eating turkey on this⟦ holiday⟧. It is",
+     "act": -6.07
+    },
+    {
+     "source": "fineweb-edu",
+     "context": "Hanuk⟦kah⟧ begins this year",
+     "act": -5.75
+    },
+    {
+     "source": "fineweb-edu",
+     "context": "While Americans and others may celebrate⟦ Easter⟧ only on a",
+     "act": -5.74
+    },
+    {
+     "source": "fineweb-edu",
+     "context": "the highest artistic quality. The first performance by the Society was held on⟦ Christmas⟧ night in",
+     "act": -5.05
+    },
+    {
+     "source": "fineweb-edu",
+     "context": "from Japan of multidrug-resistant gonorrhoea, and the festive⟦ season⟧ in full swing",
+     "act": -4.72
+    },
+    {
+     "source": "fineweb-edu",
+     "context": "14/22, 752, Rome; feast⟦ day⟧ March 1",
+     "act": -4.6
+    }
+   ],
+   "opposite": [
+    {
+     "source": "fineweb-edu",
+     "context": "promotes national events in partnership with various organizations to celebrate the International Days,⟦ Years⟧ and Decades",
+     "act": 6.88
+    },
+    {
+     "source": "tinystories",
+     "context": "for many, many years.\" Bob smiled back. He thought about the⟦ years⟧ that had gone",
+     "act": 5.5
+    },
+    {
+     "source": "fineweb-edu",
+     "context": "4 at present. Gasoline prices almost trebled during these 6⟦ years⟧ compared to very",
+     "act": 5.46
+    },
+    {
+     "source": "fineweb-edu",
+     "context": "a committee of inquiry into the role of the philharmonic during those⟦ years⟧ and said the",
+     "act": 4.53
+    }
+   ],
+   "next_promoted": 0.0,
+   "next_promoted_random": 0.00013932496949564666
+  },
+  {
+   "label": "santa",
+   "layer": 12,
+   "index": 5066,
+   "act": 28.8,
+   "median": 0.0030765533447265625,
+   "p99": 0.402834951877594,
+   "p9999": 5.186733245849609,
+   "dose_over_p9999": 5.5526279519089545,
+   "top": [
+    {
+     "source": "tinystories",
+     "context": "Once upon a time, there lived a lively young⟦ rein⟧deer in the",
+     "act": 12.02
+    },
+    {
+     "source": "fineweb-edu",
+     "context": "DLTK's Crafts for Kids Cone Santa Paper Craft Set⟦ Santa⟧ out on a",
+     "act": 8.5
+    },
+    {
+     "source": "fineweb-edu",
+     "context": "season. Residents still hhave Christmas trees, Father Christmas, Christmas Car⟦ols⟧ and gifts which",
+     "act": 7.43
+    },
+    {
+     "source": "fineweb-edu",
+     "context": "report from Japan of multidrug-resistant gonorrhoea, and the⟦ festive⟧ season in full",
+     "act": 6.07
+    },
+    {
+     "source": "fineweb-edu",
+     "context": "think of is the Adam Sandler song, talking about “eight crazy⟦ nights⟧.” If you",
+     "act": 5.19
+    },
+    {
+     "source": "tinystories",
+     "context": "inside. She was amazed to discover that the hollow tree was filled with⟦ twink⟧ling lights which",
+     "act": 4.71
+    },
+    {
+     "source": "fineweb-edu",
+     "context": "the highest artistic quality. The first performance by the Society was held on⟦ Christmas⟧ night in",
+     "act": 4.46
+    },
+    {
+     "source": "fineweb-edu",
+     "context": "percent of all deaths from ice and snow are due to traffic accidents on⟦ icy⟧ roads. The",
+     "act": 4.14
+    }
+   ],
+   "opposite": [
+    {
+     "source": "fineweb-edu",
+     "context": "float is a unique and creative construction that contains a figure of Jesus,⟦ Mary⟧ or an important",
+     "act": -2.97
+    },
+    {
+     "source": "fineweb-edu",
+     "context": "rocky reefs in South Africa, to coral reefs throughout the Caribbean. S⟦pon⟧ges are critical",
+     "act": -2.82
+    },
+    {
+     "source": "fineweb-edu",
+     "context": "A Confessor). This saint, as it was mentioned on the ⟦1⟧9th day",
+     "act": -2.53
+    },
+    {
+     "source": "tinystories",
+     "context": "at all sorts of things, some furry, some wet and some slim⟦y⟧! Suddenly,",
+     "act": -2.4
+    }
+   ],
+   "next_promoted": 0.0054563493467867374,
+   "next_promoted_random": 0.0002587463823147118
+  },
+  {
+   "label": "music (weights)",
+   "layer": 17,
+   "index": 3238,
+   "act": 18.11,
+   "median": -0.06378173828125,
+   "p99": 0.1766357421875,
+   "p9999": 3.388627767562866,
+   "dose_over_p9999": 5.344346219834256,
+   "top": [
+    {
+     "source": "fineweb-edu",
+     "context": "ukkah,” the first thing you think of is the Adam Sandler⟦ song⟧, talking about",
+     "act": 8.05
+    },
+    {
+     "source": "fineweb-edu",
+     "context": "warm season. Residents still hhave Christmas trees, Father Christmas, Christmas⟦ Car⟧ols and gifts",
+     "act": 6.69
+    },
+    {
+     "source": "fineweb-edu",
+     "context": "1st. Our songs, poems, and songs are always set to⟦ familiar⟧ tunes and great",
+     "act": 6.25
+    },
+    {
+     "source": "fineweb-edu",
+     "context": "on a traditional musical staff to teach songs preschoolers already love, like⟦ \"⟧Twinkle,",
+     "act": 5.32
+    },
+    {
+     "source": "fineweb-edu",
+     "context": "lyrics written by \"Khalil Mardam Bey\" and⟦ the⟧ music by \"",
+     "act": 4.46
+    },
+    {
+     "source": "tinystories",
+     "context": "it very much. One day, June wanted to drive to hear her⟦ favorite⟧ band play.",
+     "act": 4.32
+    },
+    {
+     "source": "tinystories",
+     "context": "big, delicious looking cake. John was very happy and everyone began to⟦ sing⟧ happy birthday.",
+     "act": 4.21
+    },
+    {
+     "source": "fineweb-edu",
+     "context": "in 1942, Lincoln Portrait, by Aaron Copland⟦,⟧ is a rare",
+     "act": 4.15
+    }
+   ],
+   "opposite": [
+    {
+     "source": "fineweb-edu",
+     "context": ". (Wikipedia) The lyrics of the “The Star-Sp⟦angled⟧ Banner” come",
+     "act": -4.34
+    },
+    {
+     "source": "fineweb-edu",
+     "context": "songs preschoolers already love, like \"Twinkle, Twinkle,⟦ Little⟧ Star.\" A",
+     "act": -2.16
+    },
+    {
+     "source": "fineweb-edu",
+     "context": ". 1,009 (f.); l. ⟦1⟧871",
+     "act": -1.16
+    },
+    {
+     "source": "fineweb-edu",
+     "context": "storytelling. Poetry in sign language has its own poetic features such as⟦ rh⟧ymes, rhythms",
+     "act": -1.03
+    }
+   ],
+   "next_promoted": 0.009405940771102905,
+   "next_promoted_random": 0.0003284088452346623
+  },
+  {
+   "label": "money (weights)",
+   "layer": 27,
+   "index": 9481,
+   "act": -51.99,
+   "median": -0.1412353515625,
+   "p99": 0.56005859375,
+   "p9999": 14.286724090576172,
+   "dose_over_p9999": 3.6390427693843206,
+   "top": [
+    {
+     "source": "tinystories",
+     "context": "of colorful balloons. Joe wanted one so badly, but he didn't⟦ have⟧ enough money.",
+     "act": -29.23
+    },
+    {
+     "source": "fineweb-edu",
+     "context": "ennesaw State University’s Department of History and Philosophy recognized this void and⟦ secured⟧ the support of",
+     "act": -23.64
+    },
+    {
+     "source": "fineweb-edu",
+     "context": "educational program or activity on the basis of sex. The law leverages⟦ federal⟧ funds in order",
+     "act": -21.02
+    },
+    {
+     "source": "fineweb-edu",
+     "context": ", French 1928-76-1Purchased⟦ with⟧ funds contributed by",
+     "act": -20.31
+    },
+    {
+     "source": "fineweb-edu",
+     "context": "erved communities across the country. To support their service, the Recovery Act⟦ allocated⟧ funding to the",
+     "act": -19.95
+    },
+    {
+     "source": "fineweb-edu",
+     "context": "993-127-2a--cPurchased⟦ with⟧ the W.",
+     "act": -19.23
+    },
+    {
+     "source": "fineweb-edu",
+     "context": "to take care of their condition. And how can people with diabetes come⟦ up⟧ with the money",
+     "act": -19.12
+    },
+    {
+     "source": "fineweb-edu",
+     "context": "III of the No Child Left Behind Act of 2001⟦ provides⟧ Federal financial support",
+     "act": -19.05
+    }
+   ],
+   "opposite": [
+    {
+     "source": "fineweb-edu",
+     "context": "ordability Gap Index based on energy bills for persons below 18⟦5⟧ percent of the",
+     "act": 18.42
+    },
+    {
+     "source": "fineweb-edu",
+     "context": "money is tentatively set to be divided amongst five areas: - ⟦3⟧5 percent would",
+     "act": 11.99
+    },
+    {
+     "source": "fineweb-edu",
+     "context": "fifteen years. The US federal tax on gasoline has remained at 1⟦8⟧.4 cents",
+     "act": 11.44
+    },
+    {
+     "source": "fineweb-edu",
+     "context": "the Recovery Act allocated funding to the NHSC to provide more than ⟦4⟧,00",
+     "act": 9.97
+    }
+   ],
+   "next_promoted": 0.016873449087142944,
+   "next_promoted_random": 0.00021396334341261536
+  },
+  {
+   "label": "dinosaurs (weights)",
+   "layer": 28,
+   "index": 9249,
+   "act": 122.16,
+   "median": -0.02911376953125,
+   "p99": 2.468773365020752,
+   "p9999": 22.64037322998047,
+   "dose_over_p9999": 5.395670767398625,
+   "top": [
+    {
+     "source": "fineweb-edu",
+     "context": "According to research published online in the 20th April, ⟦2⟧011",
+     "act": 36.59
+    },
+    {
+     "source": "fineweb-edu",
+     "context": "Ryan, Scientist, British Museum Archaeobotany is the study⟦ of⟧ ancient plant remains",
+     "act": 33.56
+    },
+    {
+     "source": "fineweb-edu",
+     "context": "the density patterns of the bone were much closer to a modern human than⟦ to⟧ an ape.",
+     "act": 22.98
+    },
+    {
+     "source": "fineweb-edu",
+     "context": "finger discovered in a cave in the mountains of southern Siberia belonged to⟦ a⟧ young girl from",
+     "act": 22.98
+    },
+    {
+     "source": "fineweb-edu",
+     "context": "in 1720. As the registers of San José have⟦ not⟧ been found,",
+     "act": 21.62
+    },
+    {
+     "source": "fineweb-edu",
+     "context": "coins were made to the Greek Standard, and this is one of the⟦ most⟧ beautiful coins of",
+     "act": 20.0
+    },
+    {
+     "source": "fineweb-edu",
+     "context": "1919.] /General Description of the District where⟦ the⟧ Beds are best",
+     "act": 18.33
+    },
+    {
+     "source": "fineweb-edu",
+     "context": "of Outstanding Universal Value: The archaeological site of Al-Hijr is⟦ a⟧ major site of",
+     "act": 17.38
+    }
+   ],
+   "opposite": [
+    {
+     "source": "fineweb-edu",
+     "context": "? Follow @universetoday on TwitterSedimentary rock covers⟦ ⟧70%",
+     "act": -13.8
+    },
+    {
+     "source": "fineweb-edu",
+     "context": "there are obvious alternate systems which may be applied, and I think⟦ Rub⟧en et al",
+     "act": -13.44
+    },
+    {
+     "source": "fineweb-edu",
+     "context": "0,000 years ago, and so shared the land with⟦ early⟧ modern humans and",
+     "act": -12.7
+    },
+    {
+     "source": "fineweb-edu",
+     "context": "journal Nature. Glaciers moved from the poles to the tropics⟦ ⟧350",
+     "act": -10.46
+    }
+   ],
+   "next_promoted": 0.011958146467804909,
+   "next_promoted_random": 0.0005921311094425619
+  },
+  {
+   "label": "robots (weights)",
+   "layer": 27,
+   "index": 2780,
+   "act": -83.94,
+   "median": -0.181396484375,
+   "p99": 0.3427792489528656,
+   "p9999": 8.656124114990234,
+   "dose_over_p9999": 9.697180734115975,
+   "top": [
+    {
+     "source": "fineweb-edu",
+     "context": ", and Germany. The TACO project aims at enhancing the abilities⟦ of⟧ service robots by",
+     "act": -16.64
+    },
+    {
+     "source": "fineweb-edu",
+     "context": ", and more efficient. Recent advances in ITS point to a future in⟦ which⟧ vehicles themselves handle",
+     "act": -15.89
+    },
+    {
+     "source": "fineweb-edu",
+     "context": "the first data networks -- through the development of the earliest general-purpose programm⟦able⟧ computers and the",
+     "act": -10.8
+    },
+    {
+     "source": "fineweb-edu",
+     "context": "a vulnerable section of society, he would never have sat down to invent⟦ the⟧ power loom",
+     "act": -8.66
+    },
+    {
+     "source": "fineweb-edu",
+     "context": ", psychology, and neurobiology professor at Duke University. He’s testing⟦ whether⟧ the wing flap",
+     "act": -8.01
+    },
+    {
+     "source": "fineweb-edu",
+     "context": "have been altered or had their colors changed to the source, an area⟦ where⟧ many video piracy",
+     "act": -7.91
+    },
+    {
+     "source": "fineweb-edu",
+     "context": "5 countries world wide. Do you celebrate Earth Day in your home? ⟦My⟧ family and I",
+     "act": -7.74
+    },
+    {
+     "source": "fineweb-edu",
+     "context": "her in language, which would in effect make N'kisi a⟦ rational⟧ parrot.",
+     "act": -7.25
+    }
+   ],
+   "opposite": [
+    {
+     "source": "fineweb-edu",
+     "context": "power plants consisting of 100 kW and over. STIFF⟦-F⟧LOP is",
+     "act": 4.25
+    },
+    {
+     "source": "fineweb-edu",
+     "context": "2 ... ins_k) is the same as (sequence (ins⟦_⟧1 ins_",
+     "act": 2.17
+    },
+    {
+     "source": "tinystories",
+     "context": "the shore. He asked the boat, \"Are you available?\" The⟦ boat⟧ replied, \"",
+     "act": 1.78
+    },
+    {
+     "source": "fineweb-edu",
+     "context": "network. Problems that require two hidden layers are rarely encountered. However⟦,⟧ neural networks with",
+     "act": 1.73
+    }
+   ],
+   "next_promoted": 0.009415262378752232,
+   "next_promoted_random": 0.00029357761377468705
+  },
+  {
+   "label": "chess (weights)",
+   "layer": 24,
+   "index": 4569,
+   "act": -74.15,
+   "median": -0.0240478515625,
+   "p99": 0.31201171875,
+   "p9999": 1.455976128578186,
+   "dose_over_p9999": 50.92803277785206,
+   "top": [
+    {
+     "source": "fineweb-edu",
+     "context": "last month by University of Louisville researchers, indicate that learning to play the⟦ piano⟧ as a preschool",
+     "act": -3.33
+    },
+    {
+     "source": "fineweb-edu",
+     "context": "Sudoku Puzzle #1⟦1⟧ Education World",
+     "act": -2.89
+    },
+    {
+     "source": "fineweb-edu",
+     "context": "WHEN the Austro-Hungarian empire declared war on Serbia⟦ in⟧ July 1",
+     "act": -2.5
+    },
+    {
+     "source": "fineweb-edu",
+     "context": "14th January 2012, 10⟦:⟧00 pm",
+     "act": -2.43
+    },
+    {
+     "source": "fineweb-edu",
+     "context": "military conflict that embroiled most of the world's great powers,⟦ assembled⟧ in two opposing",
+     "act": -1.92
+    },
+    {
+     "source": "fineweb-edu",
+     "context": "No one could have imagined any such dialogue involving Archduke Otto von⟦ H⟧absburg,",
+     "act": -1.62
+    },
+    {
+     "source": "fineweb-edu",
+     "context": "definition. From The Collaborative International Dictionary of English v.0.⟦4⟧8: N",
+     "act": -1.46
+    },
+    {
+     "source": "fineweb-edu",
+     "context": "dynamic image changes? Can you prove your conjecture? It is⟦ impossible⟧ to tris",
+     "act": -1.31
+    }
+   ],
+   "opposite": [
+    {
+     "source": "fineweb-edu",
+     "context": "into all aspects of their classroom performance. Each Suduko puzzle challenges students⟦ to⟧ use the numbers",
+     "act": 3.07
+    },
+    {
+     "source": "tinystories",
+     "context": "he decided to trust the sauce. He made a choice to keep playing⟦ the⟧ game and have",
+     "act": 2.16
+    },
+    {
+     "source": "tinystories",
+     "context": "it was. Papa explained it was like a game. He said if⟦ she⟧ did something the",
+     "act": 1.7
+    },
+    {
+     "source": "tinystories",
+     "context": "with his friend, Sam. They played a game where they had to⟦ escape⟧ from a pretend",
+     "act": 1.59
+    }
+   ],
+   "next_promoted": 0.0004945598193444312,
+   "next_promoted_random": 0.0004677338292822242
+  }
+ ]
+}

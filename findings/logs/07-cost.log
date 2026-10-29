@@ -1,0 +1,75 @@
+W1028 11:07:35.435000 20688 .venv/lib/python3.11/site-packages/torch/distributed/elastic/multiprocessing/redirects.py:35] NOTE: Redirects are currently not supported in MacOs.
+Loading weights:   0%|          | 0/398 [00:00<?, ?it/s]Loading weights:   0%|          | 1/398 [00:01<06:47,  1.03s/it]Loading weights:  33%|███▎      | 132/398 [00:01<00:01, 160.35it/s]Loading weights:  52%|█████▏    | 207/398 [00:02<00:02, 74.80it/s] Loading weights:  63%|██████▎   | 250/398 [00:03<00:02, 69.95it/s]Loading weights:  70%|███████   | 279/398 [00:04<00:01, 65.12it/s]Loading weights:  75%|███████▌  | 299/398 [00:04<00:01, 69.01it/s]Loading weights:  79%|███████▉  | 316/398 [00:04<00:01, 62.42it/s]Loading weights:  83%|████████▎ | 329/398 [00:05<00:01, 56.95it/s]Loading weights:  85%|████████▌ | 339/398 [00:05<00:01, 49.53it/s]Loading weights:  87%|████████▋ | 347/398 [00:05<00:01, 43.12it/s]Loading weights:  89%|████████▉ | 355/398 [00:06<00:01, 37.30it/s]Loading weights:  92%|█████████▏| 366/398 [00:06<00:00, 35.26it/s]Loading weights:  95%|█████████▍| 377/398 [00:06<00:00, 36.89it/s]Loading weights:  97%|█████████▋| 388/398 [00:07<00:00, 34.45it/s]Loading weights: 100%|██████████| 398/398 [00:07<00:00, 56.20it/s]
+  answers batch 1/72 (9s)
+  answers batch 2/72 (17s)
+  answers batch 3/72 (16s)
+  answers batch 4/72 (17s)
+  answers batch 5/72 (13s)
+  answers batch 6/72 (8s)
+  answers batch 7/72 (17s)
+  answers batch 8/72 (17s)
+  answers batch 9/72 (17s)
+  answers batch 10/72 (9s)
+  answers batch 11/72 (16s)
+  answers batch 12/72 (8s)
+  answers batch 13/72 (16s)
+  answers batch 14/72 (18s)
+  answers batch 15/72 (9s)
+  answers batch 16/72 (12s)
+  answers batch 17/72 (9s)
+  answers batch 18/72 (18s)
+  answers batch 19/72 (23s)
+  answers batch 20/72 (19s)
+  answers batch 21/72 (18s)
+  answers batch 22/72 (9s)
+  answers batch 23/72 (17s)
+  answers batch 24/72 (17s)
+  answers batch 25/72 (8s)
+  answers batch 26/72 (17s)
+  answers batch 27/72 (9s)
+  answers batch 28/72 (8s)
+  answers batch 29/72 (8s)
+  answers batch 30/72 (10s)
+  answers batch 31/72 (15s)
+  answers batch 32/72 (12s)
+  answers batch 33/72 (17s)
+  answers batch 34/72 (9s)
+  answers batch 35/72 (12s)
+  answers batch 36/72 (8s)
+  answers batch 37/72 (17s)
+  answers batch 38/72 (15s)
+  answers batch 39/72 (9s)
+  answers batch 40/72 (9s)
+  answers batch 41/72 (17s)
+  answers batch 42/72 (18s)
+  answers batch 43/72 (17s)
+  answers batch 44/72 (16s)
+  answers batch 45/72 (18s)
+  answers batch 46/72 (20s)
+  answers batch 47/72 (15s)
+  answers batch 48/72 (18s)
+  answers batch 49/72 (15s)
+  answers batch 50/72 (8s)
+  answers batch 51/72 (13s)
+  answers batch 52/72 (18s)
+  answers batch 53/72 (19s)
+  answers batch 54/72 (9s)
+  answers batch 55/72 (9s)
+  answers batch 56/72 (9s)
+  answers batch 57/72 (17s)
+  answers batch 58/72 (18s)
+  answers batch 59/72 (18s)
+  answers batch 60/72 (10s)
+  answers batch 61/72 (18s)
+  answers batch 62/72 (20s)
+  answers batch 63/72 (17s)
+  answers batch 64/72 (17s)
+  answers batch 65/72 (10s)
+  answers batch 66/72 (17s)
+  answers batch 67/72 (18s)
+  answers batch 68/72 (17s)
+  answers batch 69/72 (19s)
+  answers batch 70/72 (10s)
+  answers batch 71/72 (17s)
+  answers batch 72/72 (7s)
+wrote /Users/mhviraf/Desktop/ai-lobo/findings/07-cost.md

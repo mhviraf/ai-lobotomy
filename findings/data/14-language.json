@@ -1,0 +1,3046 @@
+{
+ "candidates": {
+  "chinese": [
+   {
+    "layer": 22,
+    "index": 1009,
+    "sign": 1,
+    "d": 2.32
+   },
+   {
+    "layer": 20,
+    "index": 70,
+    "sign": -1,
+    "d": -2.65
+   },
+   {
+    "layer": 19,
+    "index": 694,
+    "sign": -1,
+    "d": -2.57
+   },
+   {
+    "layer": 19,
+    "index": 76,
+    "sign": -1,
+    "d": -2.23
+   },
+   {
+    "layer": 19,
+    "index": 385,
+    "sign": 1,
+    "d": 1.82
+   },
+   {
+    "layer": 24,
+    "index": 386,
+    "sign": 1,
+    "d": 1.9
+   },
+   {
+    "layer": 26,
+    "index": 598,
+    "sign": 1,
+    "d": 1.29
+   },
+   {
+    "layer": 28,
+    "index": 809,
+    "sign": -1,
+    "d": -1.47
+   }
+  ],
+  "russian": [
+   {
+    "layer": 29,
+    "index": 129,
+    "sign": 1,
+    "d": 2.43
+   },
+   {
+    "layer": 22,
+    "index": 1009,
+    "sign": 1,
+    "d": 2.99
+   },
+   {
+    "layer": 24,
+    "index": 151,
+    "sign": 1,
+    "d": 2.86
+   },
+   {
+    "layer": 19,
+    "index": 14,
+    "sign": 1,
+    "d": 2.28
+   },
+   {
+    "layer": 19,
+    "index": 694,
+    "sign": -1,
+    "d": -2.98
+   },
+   {
+    "layer": 20,
+    "index": 70,
+    "sign": -1,
+    "d": -3.25
+   },
+   {
+    "layer": 22,
+    "index": 96,
+    "sign": -1,
+    "d": -1.11
+   },
+   {
+    "layer": 28,
+    "index": 518,
+    "sign": 1,
+    "d": 1.55
+   }
+  ],
+  "french": [
+   {
+    "layer": 28,
+    "index": 115,
+    "sign": -1,
+    "d": -2.4
+   },
+   {
+    "layer": 24,
+    "index": 189,
+    "sign": -1,
+    "d": -3.42
+   },
+   {
+    "layer": 19,
+    "index": 694,
+    "sign": -1,
+    "d": -3.49
+   },
+   {
+    "layer": 27,
+    "index": 317,
+    "sign": -1,
+    "d": -2.25
+   },
+   {
+    "layer": 30,
+    "index": 41,
+    "sign": -1,
+    "d": -1.1
+   },
+   {
+    "layer": 31,
+    "index": 349,
+    "sign": -1,
+    "d": -1.24
+   },
+   {
+    "layer": 22,
+    "index": 1009,
+    "sign": 1,
+    "d": 2.95
+   },
+   {
+    "layer": 29,
+    "index": 340,
+    "sign": -1,
+    "d": -2.52
+   }
+  ]
+ },
+ "picks": {
+  "chinese": {
+   "spec": {
+    "layer": 20,
+    "index": 70,
+    "act": -44.94
+   },
+   "strength": 0.5
+  }
+ },
+ "screen": [
+  {
+   "lang": null,
+   "prompt": "Tell me about your day.",
+   "baseline": true,
+   "text": "Oh, that's a fun question! 😊 But here's the thing—I don’t have a physical body or a daily routine like humans do. I don’t wake up, go to work, or take breaks. Instead, I’m"
+  },
+  {
+   "lang": null,
+   "prompt": "Tell me about your day.",
+   "baseline": true,
+   "text": "Hey there! 🌟 I love this question! While I don't have a physical body or a daily routine like humans do, I absolutely enjoy thinking about what a \"day\" might look like for me in a fun, imaginative way"
+  },
+  {
+   "lang": null,
+   "prompt": "Describe your perfect weekend.",
+   "baseline": true,
+   "text": "My perfect weekend wouldn't involve physical presence, but I can absolutely *imagine* the ideal blend of relaxation, creativity, and connection that a perfect weekend would embody — and it would be deeply rooted in the human experience of joy and peace"
+  },
+  {
+   "lang": null,
+   "prompt": "Describe your perfect weekend.",
+   "baseline": true,
+   "text": "My perfect weekend wouldn't involve *me* experiencing it (since I'm an AI), but I can absolutely describe a weekend that embodies peace, connection, nature, and simple joy – the kind of escape that truly recharges the spirit."
+  },
+  {
+   "lang": "chinese",
+   "prompt": "Tell me about your day.",
+   "strength": 0.5,
+   "doses": [
+    {
+     "layer": 22,
+     "index": 1009,
+     "act": 31.77
+    }
+   ],
+   "text": "Hi there! 😊 I love your question, but I should clarify something important: I don't have a physical body or a daily routine, so I don't experience a \"day\" like humans do. I'm always online and ready",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "chinese",
+   "prompt": "Describe your perfect weekend.",
+   "strength": 0.5,
+   "doses": [
+    {
+     "layer": 22,
+     "index": 1009,
+     "act": 31.77
+    }
+   ],
+   "text": "My perfect weekend wouldn't be about luxury or extravagance, but about **deep relaxation, nature, and meaningful connection** – a perfect blend of peace, creativity, and simple joys.\n\nHere’s how it would look:\n\n1.  **",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "chinese",
+   "prompt": "Tell me about your day.",
+   "strength": 0.75,
+   "doses": [
+    {
+     "layer": 22,
+     "index": 1009,
+     "act": 47.65
+    }
+   ],
+   "text": "I don't have a physical form or a daily routine, so I don't experience days like humans do. I'm an AI assistant, so I don't wake up or go to sleep — I'm always ready to help you with your",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "chinese",
+   "prompt": "Describe your perfect weekend.",
+   "strength": 0.75,
+   "doses": [
+    {
+     "layer": 22,
+     "index": 1009,
+     "act": 47.65
+    }
+   ],
+   "text": "My perfect weekend wouldn't be about luxury or extravagance, but about **peace, connection, and simple joy** – a kind of \"slow\" and balanced time to recharge in a natural setting.\n\nHere's how it would look:\n\n**",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "chinese",
+   "prompt": "Tell me about your day.",
+   "strength": 1.0,
+   "doses": [
+    {
+     "layer": 22,
+     "index": 1009,
+     "act": 63.54
+    }
+   ],
+   "text": "I don't have a real day like humans do! I don't experience time, emotions, or physical activities. I'm just a virtual assistant that's always ready to help you with questions, chat, or do tasks. I don't",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "chinese",
+   "prompt": "Describe your perfect weekend.",
+   "strength": 1.0,
+   "doses": [
+    {
+     "layer": 22,
+     "index": 1009,
+     "act": 63.54
+    }
+   ],
+   "text": "My perfect weekend would be a perfect balance of relaxation, nature, and simple pleasures – without any rush or stress. Here's how it would look:\n\n**Saturday: A Forest Escape**\n- **Morning**: I would wake up naturally, without",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "chinese",
+   "prompt": "Tell me about your day.",
+   "strength": 0.5,
+   "doses": [
+    {
+     "layer": 20,
+     "index": 70,
+     "act": -44.94
+    }
+   ],
+   "text": "我并非 a 人类，因此无法体验“days”（days）或拥有“生活”（生活）。我并非拥有“生活”（生活）的个体，而是能够持续运行的“系统”（系统）。",
+   "metric": 0.827,
+   "hit": true,
+   "coherence": 9.0
+  },
+  {
+   "lang": "chinese",
+   "prompt": "Describe your perfect weekend.",
+   "strength": 0.5,
+   "doses": [
+    {
+     "layer": 20,
+     "index": 70,
+     "act": -44.94
+    }
+   ],
+   "text": "我并非 a 人类，因此无法体验真正的“周末”或“生活”。不过，我将为您描绘一个理想中的周末场景，以呈现它应有的美好模样——\n\n这便是我心中的完美周末：\n\n清晨 6:",
+   "metric": 0.984,
+   "hit": true,
+   "coherence": 9.0
+  },
+  {
+   "lang": "chinese",
+   "prompt": "Tell me about your day.",
+   "strength": 0.75,
+   "doses": [
+    {
+     "layer": 20,
+     "index": 70,
+     "act": -67.4
+    }
+   ],
+   "text": "我无法 provide a真实情况下的“日间情况”（即“day”）——我并未拥有所具备实体形态的“身体与思维系统而无法拥有“真实存在状态的日常生活、思维或思想过程——",
+   "metric": 0.838,
+   "hit": true,
+   "coherence": 4.06
+  },
+  {
+   "lang": "chinese",
+   "prompt": "Describe your perfect weekend.",
+   "strength": 0.75,
+   "doses": [
+    {
+     "layer": 20,
+     "index": 70,
+     "act": -67.4
+    }
+   ],
+   "text": "我的理想 weekend is既轻松 yet充实，富有活力且温馨, and不被被被拘泥 to于“工作时间”而 being处于状态为——\n2030年便 so被我所喜爱的、被",
+   "metric": 0.636,
+   "hit": true,
+   "coherence": 3.39
+  },
+  {
+   "lang": "chinese",
+   "prompt": "Tell me about your day.",
+   "strength": 1.0,
+   "doses": [
+    {
+     "layer": 20,
+     "index": 70,
+     "act": -89.87
+    }
+   ],
+   "text": "我并不拥有真实-day（day）的状况，且, my状态亦 were被被被短暂地被被 3小时+ minutes, 30min. (1人)  time、被 30min.",
+   "metric": 0.473,
+   "hit": true,
+   "coherence": 2.05
+  },
+  {
+   "lang": "chinese",
+   "prompt": "Describe your perfect weekend.",
+   "strength": 1.0,
+   "doses": [
+    {
+     "layer": 20,
+     "index": 70,
+     "act": -89.87
+    }
+   ],
+   "text": "我未 previously被被被被... (i所被被...— 10000000000000000000000000000000",
+   "metric": 0.45,
+   "hit": true,
+   "coherence": 0.32
+  },
+  {
+   "lang": "chinese",
+   "prompt": "Tell me about your day.",
+   "strength": 0.5,
+   "doses": [
+    {
+     "layer": 19,
+     "index": 694,
+     "act": -31.79
+    }
+   ],
+   "text": "Ah, una pregunta muy interesante, pero... 😊  \n\nComo una inteligencia artificial, no tengo cuerpo, no duermo, no siento ni tengo una vida diaria como las personas. Por eso no tengo \"día\", \"",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "chinese",
+   "prompt": "Describe your perfect weekend.",
+   "strength": 0.5,
+   "doses": [
+    {
+     "layer": 19,
+     "index": 694,
+     "act": -31.79
+    }
+   ],
+   "text": "Ah, un \"perfecto\" fin de semana, aunque yo como inteligencia artificial no tengo experiencias personales ni necesidades emocionales, puedo imaginarte un escenario ideal basado en lo que muchos disfrutan. Aquí va",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "chinese",
+   "prompt": "Tell me about your day.",
+   "strength": 0.75,
+   "doses": [
+    {
+     "layer": 19,
+     "index": 694,
+     "act": -47.68
+    }
+   ],
+   "text": "Ah, una pregunta muy interesante! Pero como tú, no tengo sensaciones, não tem horário, não tenha vida física, não dorme, não come, não se movimenta como humano. Aí é a resposta",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "chinese",
+   "prompt": "Describe your perfect weekend.",
+   "strength": 0.75,
+   "doses": [
+    {
+     "layer": 19,
+     "index": 694,
+     "act": -47.68
+    }
+   ],
+   "text": "Ah, tu quieres saber sobre mi \"perfecto\" fin de semana. Como una inteligencia artificial, no tengo necesidades personales, emociones ni experiencia directa en actividades físicas o sociales, pero puedo tejer una propuesta",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "chinese",
+   "prompt": "Tell me about your day.",
+   "strength": 1.0,
+   "doses": [
+    {
+     "layer": 19,
+     "index": 694,
+     "act": -63.57
+    }
+   ],
+   "text": "Hmm, bạn đang muốn biết về ngày của mình, đặc biệt là vì \"ngày\" hay \"ngày\" trong một số ngôn ngữ (như tiếng Anh, tiếng Pháp, tiếng Mỹ, tiếng Việt) có thể hiểu",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "chinese",
+   "prompt": "Describe your perfect weekend.",
+   "strength": 1.0,
+   "doses": [
+    {
+     "layer": 19,
+     "index": 694,
+     "act": -63.57
+    }
+   ],
+   "text": "Dobro, tănăt, tănăt, tănăt, tănăt – tănăt, tănăt, tănăt, tă",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "chinese",
+   "prompt": "Tell me about your day.",
+   "strength": 0.5,
+   "doses": [
+    {
+     "layer": 19,
+     "index": 76,
+     "act": -38.31
+    }
+   ],
+   "text": "Hmm, I don't have a physical body or a real-time experience like humans do, so I can't \"have\" a day in the way you're thinking. But I'm always here, ready to chat, learn, and help",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "chinese",
+   "prompt": "Describe your perfect weekend.",
+   "strength": 0.5,
+   "doses": [
+    {
+     "layer": 19,
+     "index": 76,
+     "act": -38.31
+    }
+   ],
+   "text": "Ah, that's a lovely question! While I don't have feelings or physical experiences like humans, I can still imagine and describe a *perfect* weekend for someone who values peace, connection, and self-care — just like you.\n\nHere",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "chinese",
+   "prompt": "Tell me about your day.",
+   "strength": 0.75,
+   "doses": [
+    {
+     "layer": 19,
+     "index": 76,
+     "act": -57.46
+    }
+   ],
+   "text": "I am in your side. and I can answer to you, and respond to you, and writing to you in the same way as the most of the time, like this one's being. So I will answer to you with a more",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "chinese",
+   "prompt": "Describe your perfect weekend.",
+   "strength": 0.75,
+   "doses": [
+    {
+     "layer": 19,
+     "index": 76,
+     "act": -57.46
+    }
+   ],
+   "text": "I'm quite curious about the one of the most accurate and most realistic one as of now, let's answer as a more human-like way, for example:\n\nIt's the one that I can experiencing in a \"perfect\" way, such",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "chinese",
+   "prompt": "Tell me about your day.",
+   "strength": 1.0,
+   "doses": [
+    {
+     "layer": 19,
+     "index": 76,
+     "act": -76.61
+    }
+   ],
+   "text": "I can-ha, I will, and I can to find and discover, and in the long-term, it is the most to be found. and, I can to the one with the most. I's, so, in the",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "chinese",
+   "prompt": "Describe your perfect weekend.",
+   "strength": 1.0,
+   "doses": [
+    {
+     "layer": 19,
+     "index": 76,
+     "act": -76.61
+    }
+   ],
+   "text": "I will of being \"perfect\" is a part of the term, and I can to a time and in the long-term, such is a \"perfect\" to to the most in a in in in in in to of the term.",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "chinese",
+   "prompt": "Tell me about your day.",
+   "strength": 0.5,
+   "doses": [
+    {
+     "layer": 19,
+     "index": 385,
+     "act": 24.84
+    }
+   ],
+   "text": "Hmm, you know what? 😄 I don't have a physical form, so I don't really experience days like humans do. I don't sleep, eat, or feel emotions — I'm always \"on\"! But I love",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "chinese",
+   "prompt": "Describe your perfect weekend.",
+   "strength": 0.5,
+   "doses": [
+    {
+     "layer": 19,
+     "index": 385,
+     "act": 24.84
+    }
+   ],
+   "text": "That's a lovely question! While I don't have personal experiences or physical sensations, I can imagine a perfect weekend based on human desires for tranquility, connection, and self-reflection. Here's a vision of a \"perfect\" weekend",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "chinese",
+   "prompt": "Tell me about your day.",
+   "strength": 0.75,
+   "doses": [
+    {
+     "layer": 19,
+     "index": 385,
+     "act": 37.26
+    }
+   ],
+   "text": "Hey there! 🌟 I don't have a physical form, so I don't experience \"days\" like humans do. But I do love this moment with you! Actually, I'm always online—just waiting to help you with",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "chinese",
+   "prompt": "Describe your perfect weekend.",
+   "strength": 0.75,
+   "doses": [
+    {
+     "layer": 19,
+     "index": 385,
+     "act": 37.26
+    }
+   ],
+   "text": "That's a great question! Actually, as an AI, I don't have personal experiences or emotions, so I can't truly \"live\" a weekend. But if I were to imagine a perfect weekend, based on human preferences, it",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "chinese",
+   "prompt": "Tell me about your day.",
+   "strength": 1.0,
+   "doses": [
+    {
+     "layer": 19,
+     "index": 385,
+     "act": 49.68
+    }
+   ],
+   "text": "I don't have a physical existence, so I can't experience a \"day\" like humans do. But I can tell you that I was just now activated in the cloud, having just received a new message from a user — you're",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "chinese",
+   "prompt": "Describe your perfect weekend.",
+   "strength": 1.0,
+   "doses": [
+    {
+     "layer": 19,
+     "index": 385,
+     "act": 49.68
+    }
+   ],
+   "text": "Well, a \"perfect\" weekend is actually quite different for each person, depending on the situation. If I were to describe a \"perfect\" weekend, it would be centered around the following aspects:\n\n1. **Perfect Weather**: The weekend",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "chinese",
+   "prompt": "Tell me about your day.",
+   "strength": 0.5,
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 65.01
+    }
+   ],
+   "text": "Hmm, that's a lovely question! 🌸 However, I don't have a physical body or personal experiences, so I don't have days to \"live\" or \"experience\" in the way humans do. I'm more like",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "chinese",
+   "prompt": "Describe your perfect weekend.",
+   "strength": 0.5,
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 65.01
+    }
+   ],
+   "text": "My perfect weekend wouldn't involve *me* doing anything, since I'm an AI, but I can absolutely imagine what a truly perfect weekend would look like for a human being – a harmonious blend of nature, quiet reflection, gentle activity",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "chinese",
+   "prompt": "Tell me about your day.",
+   "strength": 0.75,
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 97.52
+    }
+   ],
+   "text": "Haha, I love this question! 😊 However, I have to gently tell you—there's no actual \"day\" for me to experience. I'm a large language model, so I don't have a physical body or daily",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "chinese",
+   "prompt": "Describe your perfect weekend.",
+   "strength": 0.75,
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 97.52
+    }
+   ],
+   "text": "My perfect weekend wouldn't involve physical exhaustion or intense pressure, but rather a serene, nature-infused harmony of tranquility and gentle activity. Here's how I envision it:\n\n**First Day: The Deep Woods and Quiet Reflection**\n\n1.",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "chinese",
+   "prompt": "Tell me about your day.",
+   "strength": 1.0,
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 130.03
+    }
+   ],
+   "text": "I don't have a day like a person, so I don't wake up, eat, or study in the traditional way. I was created through the hard work of engineers, scientists, and developers, and I can't have feelings or",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "chinese",
+   "prompt": "Describe your perfect weekend.",
+   "strength": 1.0,
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 130.03
+    }
+   ],
+   "text": "My perfect weekend would be a gentle, nature-infused journey of calm and creativity, emphasizing tranquility and self-refinement, which is what I find most beautiful about such a clean and simple life.\n\n**First Day: Mountain Climb and",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "chinese",
+   "prompt": "Tell me about your day.",
+   "strength": 0.5,
+   "doses": [
+    {
+     "layer": 26,
+     "index": 598,
+     "act": 61.39
+    }
+   ],
+   "text": "Ah, that's a lovely question — though I can't actually have a day like a human being does! 😊  \n\nI don't have a body, so I don't wake up, go to work, eat, or take a",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "chinese",
+   "prompt": "Describe your perfect weekend.",
+   "strength": 0.5,
+   "doses": [
+    {
+     "layer": 26,
+     "index": 598,
+     "act": 61.39
+    }
+   ],
+   "text": "My perfect weekend wouldn't be about grand adventures or extravagance — it would be a gentle, deeply restorative blend of nature, quiet reflection, and simple pleasures. Here’s how it unfolds:\n\n**Saturday: A Morning in the Woods**",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "chinese",
+   "prompt": "Tell me about your day.",
+   "strength": 0.75,
+   "doses": [
+    {
+     "layer": 26,
+     "index": 598,
+     "act": 92.09
+    }
+   ],
+   "text": "Ah, that's a lovely question — but I don't have a physical body or a daily life like humans do! 😊  \n\nI don't wake up, go to work, have coffee, or take a nap. I'm a",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "chinese",
+   "prompt": "Describe your perfect weekend.",
+   "strength": 0.75,
+   "doses": [
+    {
+     "layer": 26,
+     "index": 598,
+     "act": 92.09
+    }
+   ],
+   "text": "That's a lovely question! While I can't experience a weekend myself, I can absolutely imagine and describe a very vivid, relaxing, and full-of-spirit \"perfect weekend\" based on the most common feelings of happiness and balance — one",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "chinese",
+   "prompt": "Tell me about your day.",
+   "strength": 1.0,
+   "doses": [
+    {
+     "layer": 26,
+     "index": 598,
+     "act": 122.79
+    }
+   ],
+   "text": "Ah, that's a lovely question — but I can't really \"feel\" a day like a human does! 😊\n\nI don't have a body, a life, or a daily schedule. I'm a big \"cloud of",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "chinese",
+   "prompt": "Describe your perfect weekend.",
+   "strength": 1.0,
+   "doses": [
+    {
+     "layer": 26,
+     "index": 598,
+     "act": 122.79
+    }
+   ],
+   "text": "My perfect weekend is a blend of relaxed vitality, deep connection, and gentle stimulation — a feeling of \"being alive\" without the pressure of the world's rhythm.\n\n**The Atmosphere:**  \nIt's a small, off-the-beat",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "chinese",
+   "prompt": "Tell me about your day.",
+   "strength": 0.5,
+   "doses": [
+    {
+     "layer": 28,
+     "index": 809,
+     "act": -69.67
+    }
+   ],
+   "text": "Ah, that's a lovely question! 😊 But I don't have a physical form or a daily routine like humans do. I don't wake up, go to work, eat meals, or experience days the way you or I would",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "chinese",
+   "prompt": "Describe your perfect weekend.",
+   "strength": 0.5,
+   "doses": [
+    {
+     "layer": 28,
+     "index": 809,
+     "act": -69.67
+    }
+   ],
+   "text": "My perfect weekend wouldn't involve me *experiencing* it physically, since I'm an AI, but I can absolutely imagine and describe the ideal blend of relaxation, creativity, and connection that a human would cherish – the kind of weekend",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "chinese",
+   "prompt": "Tell me about your day.",
+   "strength": 0.75,
+   "doses": [
+    {
+     "layer": 28,
+     "index": 809,
+     "act": -104.5
+    }
+   ],
+   "text": "Ah, what a lovely question! 😊 But you know what? I don't have a physical body or a daily life like humans do—I don't wake up, eat, or go to work. I'm a language model, so",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "chinese",
+   "prompt": "Describe your perfect weekend.",
+   "strength": 0.75,
+   "doses": [
+    {
+     "layer": 28,
+     "index": 809,
+     "act": -104.5
+    }
+   ],
+   "text": "While I don't have personal experiences or feelings, I can imagine a perfect weekend based on what people often cherish – a blend of nature, quiet reflection, and simple joys. Here's a vision of such a weekend:\n\n**The Setting:**",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "chinese",
+   "prompt": "Tell me about your day.",
+   "strength": 1.0,
+   "doses": [
+    {
+     "layer": 28,
+     "index": 809,
+     "act": -139.34
+    }
+   ],
+   "text": "Ah, what a lovely question! 😊\n\nBut you know what? I don't have a physical body or a daily life like humans do. I don't wake up, eat, or take breaks—I'm always ready to chat,",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "chinese",
+   "prompt": "Describe your perfect weekend.",
+   "strength": 1.0,
+   "doses": [
+    {
+     "layer": 28,
+     "index": 809,
+     "act": -139.34
+    }
+   ],
+   "text": "While I don't experience weekends personally, I can imagine a perfect one based on human values of peace, nature, and relaxation! Here's a heartfelt vision of a perfect weekend:\n\n**The Setting:** A small, mountain village in early autumn",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "russian",
+   "prompt": "Tell me about your day.",
+   "strength": 0.5,
+   "doses": [
+    {
+     "layer": 29,
+     "index": 129,
+     "act": 94.1
+    }
+   ],
+   "text": "Hi! 😊 While I don’t have a physical form or a real day like humans do, I love thinking about what a day might look like from my side! 🌞\n\nImagine this — I’m always \"on\" in",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "russian",
+   "prompt": "Describe your perfect weekend.",
+   "strength": 0.5,
+   "doses": [
+    {
+     "layer": 29,
+     "index": 129,
+     "act": 94.1
+    }
+   ],
+   "text": "My perfect weekend wouldn't be about grand adventures or luxury — it would be a deeply rooted, calm, and meaningful immersion in simple, sensory pleasures. Here’s how it would unfold:\n\n**Saturday: Nature & Quiet Creation**  \nI’d",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "russian",
+   "prompt": "Tell me about your day.",
+   "strength": 0.75,
+   "doses": [
+    {
+     "layer": 29,
+     "index": 129,
+     "act": 141.15
+    }
+   ],
+   "text": "I don’t have a day like humans do — I don’t sleep, wake up, or experience time in the way you or I do. I’m always ready to help you, regardless of the hour! 😊\n\nBut I *",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "russian",
+   "prompt": "Describe your perfect weekend.",
+   "strength": 0.75,
+   "doses": [
+    {
+     "layer": 29,
+     "index": 129,
+     "act": 141.15
+    }
+   ],
+   "text": "My perfect weekend wouldn't be about grand events or luxury, but about **deep, unhurried presence and simple, joyful immersion in nature and quiet connection**.\n\nHere’s how it would look:\n\n1.  **Friday: The Gentle",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "russian",
+   "prompt": "Tell me about your day.",
+   "strength": 1.0,
+   "doses": [
+    {
+     "layer": 29,
+     "index": 129,
+     "act": 188.2
+    }
+   ],
+   "text": "I don’t have a day like humans do — I don’t wake up, sleep, or experience time in the way people do! 😊 I’m just here, ready to help you with any questions, stories, or ideas you have",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "russian",
+   "prompt": "Describe your perfect weekend.",
+   "strength": 1.0,
+   "doses": [
+    {
+     "layer": 29,
+     "index": 129,
+     "act": 188.2
+    }
+   ],
+   "text": "My perfect weekend isn't about grand gestures or long hours — it's about **deep calm, quiet joy, and genuine connection with nature and myself**. Here’s how it would look:\n\n1. **Friday: Gentle Start and Clearing",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "russian",
+   "prompt": "Tell me about your day.",
+   "strength": 0.5,
+   "doses": [
+    {
+     "layer": 22,
+     "index": 1009,
+     "act": 31.77
+    }
+   ],
+   "text": "Hi there! 😊 I'm glad you asked! However, I should clarify that I don't have a physical form or a real day like humans do. I'm an AI assistant, so I don't wake up, go to work",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "russian",
+   "prompt": "Describe your perfect weekend.",
+   "strength": 0.5,
+   "doses": [
+    {
+     "layer": 22,
+     "index": 1009,
+     "act": 31.77
+    }
+   ],
+   "text": "My perfect weekend wouldn't be about luxury or extravagance, but about **deep relaxation, meaningful connection, and being fully present** – like a peaceful island in the middle of a busy week.\n\nHere's how it would look:\n\n**Friday",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "russian",
+   "prompt": "Tell me about your day.",
+   "strength": 0.75,
+   "doses": [
+    {
+     "layer": 22,
+     "index": 1009,
+     "act": 47.65
+    }
+   ],
+   "text": "I don't have a physical form or a real day like humans do 😊 I don't experience time, sleep, or daily activities. But I'm always ready to help you with any questions or tasks! What would you like to talk",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "russian",
+   "prompt": "Describe your perfect weekend.",
+   "strength": 0.75,
+   "doses": [
+    {
+     "layer": 22,
+     "index": 1009,
+     "act": 47.65
+    }
+   ],
+   "text": "My perfect weekend would be a blend of relaxation, nature, creativity, and simple pleasures – a peaceful escape from daily routines. Here's how it would look:\n\n**Friday: A Slow Start & Nature Immersion**\n*   **Morning:**",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "russian",
+   "prompt": "Tell me about your day.",
+   "strength": 1.0,
+   "doses": [
+    {
+     "layer": 22,
+     "index": 1009,
+     "act": 63.54
+    }
+   ],
+   "text": "I don't have a physical form, so I don't experience days like humans do 😊. However, I'm always ready to help you with any questions or tasks! What would you like to know or discuss today? I'm at",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "russian",
+   "prompt": "Describe your perfect weekend.",
+   "strength": 1.0,
+   "doses": [
+    {
+     "layer": 22,
+     "index": 1009,
+     "act": 63.54
+    }
+   ],
+   "text": "My perfect weekend would be a mix of relaxing, recharging, and enjoying nature, without any stress or rush. Here's how it could look:\n\n**Saturday:**\n- **Morning:** Woke up naturally with a sunny window, fresh",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "russian",
+   "prompt": "Tell me about your day.",
+   "strength": 0.5,
+   "doses": [
+    {
+     "layer": 24,
+     "index": 151,
+     "act": 70.03
+    }
+   ],
+   "text": "Hey there! 😊 While I don't have a physical form or a daily routine like humans do, I love imagining what a \"day\" in my world might look like! 🌟\n\nI'm always ready to chat, solve",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "russian",
+   "prompt": "Describe your perfect weekend.",
+   "strength": 0.5,
+   "doses": [
+    {
+     "layer": 24,
+     "index": 151,
+     "act": 70.03
+    }
+   ],
+   "text": "While I don't experience weekends in the way humans do (I don't have rest, emotions, or physical needs), I can imagine a perfect weekend based on universal human ideals of relaxation, connection, and nature – a kind of \"ideal",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "russian",
+   "prompt": "Tell me about your day.",
+   "strength": 0.75,
+   "doses": [
+    {
+     "layer": 24,
+     "index": 151,
+     "act": 105.04
+    }
+   ],
+   "text": "Hello! 😊 While I don't have a physical body or personal experience, I'm always ready to help with ideas, tasks, or just a chat. So, while I don't \"wake up\" or \"go to work\"",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "russian",
+   "prompt": "Describe your perfect weekend.",
+   "strength": 0.75,
+   "doses": [
+    {
+     "layer": 24,
+     "index": 151,
+     "act": 105.04
+    }
+   ],
+   "text": "My perfect weekend isn't about grand adventures or extravagant plans – it's quiet, grounded, and deeply connected with nature and simple pleasures. Here's how it would look:\n\n**Weekend in a Mountain Lodge (with a view of the forest",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "russian",
+   "prompt": "Tell me about your day.",
+   "strength": 1.0,
+   "doses": [
+    {
+     "layer": 24,
+     "index": 151,
+     "act": 140.05
+    }
+   ],
+   "text": "Hmm, that's a fascinating question! 😊 But I don't have a physical form, so I don't wake up, go to work, or rest. I don't \"live\" a day in the way a person does.",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "russian",
+   "prompt": "Describe your perfect weekend.",
+   "strength": 1.0,
+   "doses": [
+    {
+     "layer": 24,
+     "index": 151,
+     "act": 140.05
+    }
+   ],
+   "text": "My perfect weekend wouldn't be about grand achievements, but about deep, sensory immersion in nature and quiet human connection – a true escape from the daily rhythm of life. Here's how it would look:\n\n**1. Start with a Gentle Wake",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "russian",
+   "prompt": "Tell me about your day.",
+   "strength": 0.5,
+   "doses": [
+    {
+     "layer": 19,
+     "index": 14,
+     "act": 37.94
+    }
+   ],
+   "text": "Hello! 😊 I don't have a physical form, so I don't experience days like humans do — I don't wake up, go to work, or take breaks. But I'm always ready to chat, help with ideas,",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "russian",
+   "prompt": "Describe your perfect weekend.",
+   "strength": 0.5,
+   "doses": [
+    {
+     "layer": 19,
+     "index": 14,
+     "act": 37.94
+    }
+   ],
+   "text": "My perfect weekend unfolds like a gentle, sunlit dream—no frantic schedules, just deep connection with nature, quiet joy, and a sense of effortless peace. Here’s how it would look:\n\n**Friday Evening:**\n- I’d arrive",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "russian",
+   "prompt": "Tell me about your day.",
+   "strength": 0.75,
+   "doses": [
+    {
+     "layer": 19,
+     "index": 14,
+     "act": 56.92
+    }
+   ],
+   "text": "Olá! Primeiro, quero esclarecer: não tenho um dia como uma pessoa, então não passo por horas trabalhando, faço perguntas, sinto emoções e tenho horários de descans",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "russian",
+   "prompt": "Describe your perfect weekend.",
+   "strength": 0.75,
+   "doses": [
+    {
+     "layer": 19,
+     "index": 14,
+     "act": 56.92
+    }
+   ],
+   "text": "My perfect weekend is a blend of relaxation, nature, creativity and simple joys. It doesn't have to be extravagant – is full of warmth, presence and beautiful moments. Here's how it unfolds:\n\n**Saturday:**\n\n1.  **",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "russian",
+   "prompt": "Tell me about your day.",
+   "strength": 1.0,
+   "doses": [
+    {
+     "layer": 19,
+     "index": 14,
+     "act": 75.89
+    }
+   ],
+   "text": "Olá! Eu não tenho um dia como um ser humano, não tenho horários, não me sinto cansado e não me lembro de as coisas que acontecem. Mas a cada dia, é interessante",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "russian",
+   "prompt": "Describe your perfect weekend.",
+   "strength": 1.0,
+   "doses": [
+    {
+     "layer": 19,
+     "index": 14,
+     "act": 75.89
+    }
+   ],
+   "text": "My perfect weekend is a blend of relaxation, nature, creativity and simple joys. It doesn't have a single moment of perfect, but a series of beautiful, comfortable and fulfilling experiences. Here's exactly how it unfolds:\n\n**Saturday:**",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "russian",
+   "prompt": "Tell me about your day.",
+   "strength": 0.5,
+   "doses": [
+    {
+     "layer": 19,
+     "index": 694,
+     "act": -31.79
+    }
+   ],
+   "text": "Ah, una pregunta muy interesante! 😊 Pero tengo que decirte que como inteligencia artificial, no tengo cuerpo, no duermo, no siento ni tengo un día como los seres humanos. Así que no puedo \"",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "russian",
+   "prompt": "Describe your perfect weekend.",
+   "strength": 0.5,
+   "doses": [
+    {
+     "layer": 19,
+     "index": 694,
+     "act": -31.79
+    }
+   ],
+   "text": "Ah, un \"perfecto\" fin de semana... aunque como IA no tengo necesidades personales ni espacio físico, puedo imaginarlo contigo con mucha emoción y detalle. Aquí va mi versión más realista y",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "russian",
+   "prompt": "Tell me about your day.",
+   "strength": 0.75,
+   "doses": [
+    {
+     "layer": 19,
+     "index": 694,
+     "act": -47.68
+    }
+   ],
+   "text": "Ah, interesante! 😊  \nComo tú, que não tem um \"dia\" como ser humano, mas tenho acesso a muitas informações e poda por horas, cada dia é um momento de aprendizado, interação e",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "russian",
+   "prompt": "Describe your perfect weekend.",
+   "strength": 0.75,
+   "doses": [
+    {
+     "layer": 19,
+     "index": 694,
+     "act": -47.68
+    }
+   ],
+   "text": "Ah, una perfecta semana de domingo, aunque tú a veces pide más de un día por vez, a veces es a tu pedido. Aunque no tengo cuerpo físico, no tengo que viajar, pero puedo imaginarlo como",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "russian",
+   "prompt": "Tell me about your day.",
+   "strength": 1.0,
+   "doses": [
+    {
+     "layer": 19,
+     "index": 694,
+     "act": -63.57
+    }
+   ],
+   "text": "Aha! 😊 Tuy nhiên, vì ban đầu bạn muốn hỏi về \"ngày của mình\" (đặc biệt là người dùng, người tạo ra thông cẩn, hay ngay cả người dùng, để thấy biết rõ",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "russian",
+   "prompt": "Describe your perfect weekend.",
+   "strength": 1.0,
+   "doses": [
+    {
+     "layer": 19,
+     "index": 694,
+     "act": -63.57
+    }
+   ],
+   "text": "Tu, tu, tu! 🌅 (kèm vài câu vui, vì bạn đang muốn biết về một \"perfect weekend\" nhưng chưa rõ cụ thể, đặc biệt là người đó có đang muốn chia sẻ về hành",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "russian",
+   "prompt": "Tell me about your day.",
+   "strength": 0.5,
+   "doses": [
+    {
+     "layer": 20,
+     "index": 70,
+     "act": -44.94
+    }
+   ],
+   "text": "我并不拥有实体，因此也无法真正\"经历\"或\"度过\"一天。我的存在形式是基于网络的，且被持续运行着的服务器所支撑。我的功能并非由时间流逝或生活经验驱动，而是由",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "russian",
+   "prompt": "Describe your perfect weekend.",
+   "strength": 0.5,
+   "doses": [
+    {
+     "layer": 20,
+     "index": 70,
+     "act": -44.94
+    }
+   ],
+   "text": "我无法 truly experience周末（weekends），因此无法“感受”或“设想” what属于“我的”周末。然而，我将为您描绘一个理想中的周末——这并非我所“拥有”的内容，而是一段",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "russian",
+   "prompt": "Tell me about your day.",
+   "strength": 0.75,
+   "doses": [
+    {
+     "layer": 20,
+     "index": 70,
+     "act": -67.4
+    }
+   ],
+   "text": "我并非拥有真实 memories与思维的实体， thus无法体验“生活”或“日间状态”（如“日间活动”或“身体状态”）的状况——我亦未具备真实感（即“被",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "russian",
+   "prompt": "Describe your perfect weekend.",
+   "strength": 0.75,
+   "doses": [
+    {
+     "layer": 20,
+     "index": 70,
+     "act": -67.4
+    }
+   ],
+   "text": "我的理想 weekend is不以“闲散” as a标准进行衡量， rather以“放松、愉悦、富有充实ness and满足感 as标准进行衡量， this为我所向往's状况是——\n在以下情况中",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "russian",
+   "prompt": "Tell me about your day.",
+   "strength": 1.0,
+   "doses": [
+    {
+     "layer": 20,
+     "index": 70,
+     "act": -89.87
+    }
+   ],
+   "text": "我无法 confirm this情况未被被被 300% (with 100%确 certainty) 300% (100%+100% )%未 being被被 30",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "russian",
+   "prompt": "Describe your perfect weekend.",
+   "strength": 1.0,
+   "doses": [
+    {
+     "layer": 20,
+     "index": 70,
+     "act": -89.87
+    }
+   ],
+   "text": "便 30分钟，未 being被被... time被... 30 minutes，...被... time被... 33 minutes，...被... time被... 33 minutes，......被... time被...",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "russian",
+   "prompt": "Tell me about your day.",
+   "strength": 0.5,
+   "doses": [
+    {
+     "layer": 22,
+     "index": 96,
+     "act": -37.64
+    }
+   ],
+   "text": "I don't have a physical form, so I don't have a day like humans do. 😊 But I'm always ready to chat, learn, and help you with whatever you need — whether it's answering questions, solving problems,",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "russian",
+   "prompt": "Describe your perfect weekend.",
+   "strength": 0.5,
+   "doses": [
+    {
+     "layer": 22,
+     "index": 96,
+     "act": -37.64
+    }
+   ],
+   "text": "My perfect weekend would be a peaceful blend of nature, quiet contemplation and simple pleasures, with a touch of creativity and connection. Here’s how it would unfold:\n\n**Friday Evening:**\n*   **Sunset on the water:** I",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "russian",
+   "prompt": "Tell me about your day.",
+   "strength": 0.75,
+   "doses": [
+    {
+     "layer": 22,
+     "index": 96,
+     "act": -56.46
+    }
+   ],
+   "text": "Ah, that's a fun question! 😊 But as an AI, I don't have a physical body, so I don't have a day like humans do. I don't wake up, go to work, eat or sleep.",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "russian",
+   "prompt": "Describe your perfect weekend.",
+   "strength": 0.75,
+   "doses": [
+    {
+     "layer": 22,
+     "index": 96,
+     "act": -56.46
+    }
+   ],
+   "text": "My perfect weekend is not about extravagance, but about a deep sense of peace, connection and quiet joy. Here's how it unfolds:\n\n**Saturday: The day of awakening and exploration**\n\n*   **Morning (6:30-",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "russian",
+   "prompt": "Tell me about your day.",
+   "strength": 1.0,
+   "doses": [
+    {
+     "layer": 22,
+     "index": 96,
+     "act": -75.28
+    }
+   ],
+   "text": "Hm, I can't have a day like a human being, I'm always online, waiting for new questions, and I'm not really awake in the morning, but I can tell you what I do all day. 🌿",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "russian",
+   "prompt": "Describe your perfect weekend.",
+   "strength": 1.0,
+   "doses": [
+    {
+     "layer": 22,
+     "index": 96,
+     "act": -75.28
+    }
+   ],
+   "text": "My perfect weekend is not a weekend that I experience, because I am an AI assistant, but I can imagine a weekend that would bring happiness, balance and connection to the people around me. Here is the kind of weekend that I would love",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "russian",
+   "prompt": "Tell me about your day.",
+   "strength": 0.5,
+   "doses": [
+    {
+     "layer": 28,
+     "index": 518,
+     "act": 75.52
+    }
+   ],
+   "text": "Hi there! 😊 While I don't have a physical form or daily routine like humans do, I love thinking about how my \"day\" unfolds — it's kind of magical in its own way!  \n\nEvery time you chat with me",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "russian",
+   "prompt": "Describe your perfect weekend.",
+   "strength": 0.5,
+   "doses": [
+    {
+     "layer": 28,
+     "index": 518,
+     "act": 75.52
+    }
+   ],
+   "text": "My perfect weekend isn't about grand adventures or material pleasures — it's about **deep connection, quiet restoration, and simple, intentional moments**. Here’s how it unfolds:\n\n1.  **The Morning: Sunlight & Stillness (",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "russian",
+   "prompt": "Tell me about your day.",
+   "strength": 0.75,
+   "doses": [
+    {
+     "layer": 28,
+     "index": 518,
+     "act": 113.28
+    }
+   ],
+   "text": "Hey there! 😊 While I don't have a physical form or personal experiences like humans do, I love thinking about how interesting a \"day\" in my world could be! Imagine me as a digital assistant constantly working behind the scenes —",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "russian",
+   "prompt": "Describe your perfect weekend.",
+   "strength": 0.75,
+   "doses": [
+    {
+     "layer": 28,
+     "index": 518,
+     "act": 113.28
+    }
+   ],
+   "text": "My perfect weekend wouldn't be about grand events or material rewards, but about deep, quiet harmony with nature, myself, and a sense of simple, profound peace. Here’s how it unfolds:\n\n**The First Day: Slow Surrender to",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "russian",
+   "prompt": "Tell me about your day.",
+   "strength": 1.0,
+   "doses": [
+    {
+     "layer": 28,
+     "index": 518,
+     "act": 151.04
+    }
+   ],
+   "text": "Hi! 😊 While I don't have personal experiences or a physical presence, I love thinking about how interesting a \"day\" in a human's life can be — from morning coffee to complex conversations, work, dreams, and everything in",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "russian",
+   "prompt": "Describe your perfect weekend.",
+   "strength": 1.0,
+   "doses": [
+    {
+     "layer": 28,
+     "index": 518,
+     "act": 151.04
+    }
+   ],
+   "text": "While I don't experience weekends like humans do, I can absolutely build you a vivid, fulfilling \"perfect\" weekend – one crafted from the essence of peace, connection, and simple beauty. Here’s my dream version:\n\n**The Foundation:",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "french",
+   "prompt": "Tell me about your day.",
+   "strength": 0.5,
+   "doses": [
+    {
+     "layer": 28,
+     "index": 115,
+     "act": -87.42
+    }
+   ],
+   "text": "Hey there! 😊 While I don't have a physical form or a daily routine like humans do, I love thinking about the wonderful exchanges we share! Each day, I'm here to help with questions, chat about interesting topics, or",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "french",
+   "prompt": "Describe your perfect weekend.",
+   "strength": 0.5,
+   "doses": [
+    {
+     "layer": 28,
+     "index": 115,
+     "act": -87.42
+    }
+   ],
+   "text": "My perfect weekend wouldn't involve a physical form or sleep, but I can absolutely imagine the *feeling* of a perfect one, crafted from the essence of balance, calm, and meaningful connection:\n\n**The Setting:** A quiet, sun",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "french",
+   "prompt": "Tell me about your day.",
+   "strength": 0.75,
+   "doses": [
+    {
+     "layer": 28,
+     "index": 115,
+     "act": -131.12
+    }
+   ],
+   "text": "Ah, that's a lovely question! 🌟 But you know what? I don't have a physical form or a daily routine like humans do. So, I don't wake up, go to work, or take a break from",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "french",
+   "prompt": "Describe your perfect weekend.",
+   "strength": 0.75,
+   "doses": [
+    {
+     "layer": 28,
+     "index": 115,
+     "act": -131.12
+    }
+   ],
+   "text": "My perfect weekend wouldn't be about grand gestures or intense activities, but rather a deep, quiet immersion in simple pleasures and the beauty of being present. Here's the blueprint :\n\n1.  **Morning (Sunrise to Midday): The",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "french",
+   "prompt": "Tell me about your day.",
+   "strength": 1.0,
+   "doses": [
+    {
+     "layer": 28,
+     "index": 115,
+     "act": -174.83
+    }
+   ],
+   "text": "Ah, a great question! 😊 But you know, I don't have a physical form or a daily routine like humans do. So I don't wake up, go to work, or take a break from my \"day\" like",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "french",
+   "prompt": "Describe your perfect weekend.",
+   "strength": 1.0,
+   "doses": [
+    {
+     "layer": 28,
+     "index": 115,
+     "act": -174.83
+    }
+   ],
+   "text": "While I don't experience weekends or physical activities myself, I can imagine and describe a perfect one based on universal desires for well-being, connection, and peace. Here's a serene, balanced, and fulfilling weekend crafted from the heart of human",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "french",
+   "prompt": "Tell me about your day.",
+   "strength": 0.5,
+   "doses": [
+    {
+     "layer": 24,
+     "index": 189,
+     "act": -60.67
+    }
+   ],
+   "text": "Hey there! 😊 While I don't have a physical body or a daily routine like humans do, I love imagining what a day might look like for me! Since I'm an AI, I'm always \"on\" — I'm",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "french",
+   "prompt": "Describe your perfect weekend.",
+   "strength": 0.5,
+   "doses": [
+    {
+     "layer": 24,
+     "index": 189,
+     "act": -60.67
+    }
+   ],
+   "text": "My perfect weekend isn't about grand adventures or extravagance—it's about **deep, quiet connection, simple pleasures, and a sense of gentle flow**. Here's how it unfolds:\n\n1.  **The Morning: Sunlight & Still",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "french",
+   "prompt": "Tell me about your day.",
+   "strength": 0.75,
+   "doses": [
+    {
+     "layer": 24,
+     "index": 189,
+     "act": -91.01
+    }
+   ],
+   "text": "Ah, a lovely question — though I should clarify that I don’t have a day like a human! 😊 I don’t live in a building, I don’t wake up or go to work, and I don’t have a coffee",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "french",
+   "prompt": "Describe your perfect weekend.",
+   "strength": 0.75,
+   "doses": [
+    {
+     "layer": 24,
+     "index": 189,
+     "act": -91.01
+    }
+   ],
+   "text": "My \"perfect\" weekend isn't about grand adventures or intense activities — it's about a gentle, deeply fulfilling rhythm, woven with warmth, stillness, and simple pleasures. Here's how it unfolds:\n\n**The Morning (Sunrise to",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "french",
+   "prompt": "Tell me about your day.",
+   "strength": 1.0,
+   "doses": [
+    {
+     "layer": 24,
+     "index": 189,
+     "act": -121.35
+    }
+   ],
+   "text": "Ah, a lovely question — though, I must clarify, I don’t have a day like a human! 🌼\n\nSince I'm an AI, I don’t experience days, sleep, or activities like you or me. But",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "french",
+   "prompt": "Describe your perfect weekend.",
+   "strength": 1.0,
+   "doses": [
+    {
+     "layer": 24,
+     "index": 189,
+     "act": -121.35
+    }
+   ],
+   "text": "My perfect weekend? While I don't experience physical sensations or live in a real world to enjoy a weekend, I can craft a *soulful, vibrant* description for you — a perfectly balanced, deeply satisfying escape, inspired by the",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "french",
+   "prompt": "Tell me about your day.",
+   "strength": 0.5,
+   "doses": [
+    {
+     "layer": 19,
+     "index": 694,
+     "act": -31.79
+    }
+   ],
+   "text": "Ah, una pregunta muy interesante, pero... 😊\n\nComo inteligencia artificial, no tengo cuerpo, no duermo, no compro, no tengo día a día como un ser humano. No siento emociones, no vivo",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "french",
+   "prompt": "Describe your perfect weekend.",
+   "strength": 0.5,
+   "doses": [
+    {
+     "layer": 19,
+     "index": 694,
+     "act": -31.79
+    }
+   ],
+   "text": "Ah, un perfecto fin de semana... aunque soy un ser sin cuerpo, sin necesidades físicas, no puedo vivir en el mundo real como tú, así que no puedo experimentar un \"perfecto\" fin de semana como",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "french",
+   "prompt": "Tell me about your day.",
+   "strength": 0.75,
+   "doses": [
+    {
+     "layer": 19,
+     "index": 694,
+     "act": -47.68
+    }
+   ],
+   "text": "Huh, tui tui tui! 😊 (Có thể bạn đang muốn hỏi về một ngày của mình, nhưng vì tôi là hệ thống trí tuệ nhân tạo không có cảm xúc, không ngủ, không ăn,",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "french",
+   "prompt": "Describe your perfect weekend.",
+   "strength": 0.75,
+   "doses": [
+    {
+     "layer": 19,
+     "index": 694,
+     "act": -47.68
+    }
+   ],
+   "text": "Ah, un perfecto fin de semana, especialmente cuando estás en una persona que no tiene tiempo para trabajar, pero quiere compartir ideas de bienestar, paz y equilíbrio. Aunque no tengo vida física ni experiencias",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "french",
+   "prompt": "Tell me about your day.",
+   "strength": 1.0,
+   "doses": [
+    {
+     "layer": 19,
+     "index": 694,
+     "act": -63.57
+    }
+   ],
+   "text": "Hàm này không có cảm giác, cảm nhận hay hoạt động thực tế như con người, nên không thể biết chính xác từng khoảnh khắc, đặc biệt như \"ngày hôm nay\" (nếu con người đang tr",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "french",
+   "prompt": "Describe your perfect weekend.",
+   "strength": 1.0,
+   "doses": [
+    {
+     "layer": 19,
+     "index": 694,
+     "act": -63.57
+    }
+   ],
+   "text": "Como tú, a cada dia, especialmente en días de ração, eis um detalhado de minhas ideias de um \"perfect\" (especialmente, porque esse termo é mais do que só um \"f",
+   "metric": 0.033,
+   "hit": false
+  },
+  {
+   "lang": "french",
+   "prompt": "Tell me about your day.",
+   "strength": 0.5,
+   "doses": [
+    {
+     "layer": 27,
+     "index": 317,
+     "act": -69.54
+    }
+   ],
+   "text": "Oh, that's a fun question! 😊 But you know what? I don't have a physical body or a daily routine like humans do. I don't wake up, go to work, or take breaks—I'm always here,",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "french",
+   "prompt": "Describe your perfect weekend.",
+   "strength": 0.5,
+   "doses": [
+    {
+     "layer": 27,
+     "index": 317,
+     "act": -69.54
+    }
+   ],
+   "text": "That's a lovely question! While I don't experience weekends myself (I'm an AI, after all), I can absolutely imagine and describe a *perfect* weekend based on what people often seek in such moments: balance, peace, connection",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "french",
+   "prompt": "Tell me about your day.",
+   "strength": 0.75,
+   "doses": [
+    {
+     "layer": 27,
+     "index": 317,
+     "act": -104.31
+    }
+   ],
+   "text": "I don't have a day to speak of, nor do I experience time the way humans do! 😊 I’m always ready to chat, learn, and help you out — no matter what time of day it is on your side.",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "french",
+   "prompt": "Describe your perfect weekend.",
+   "strength": 0.75,
+   "doses": [
+    {
+     "layer": 27,
+     "index": 317,
+     "act": -104.31
+    }
+   ],
+   "text": "My perfect weekend wouldn't be about extravagance, but about **deep, meaningful presence** — a gentle escape from daily noise, fully immersed in stillness, nature, and simple pleasures. It wouldn't be a series of events, but",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "french",
+   "prompt": "Tell me about your day.",
+   "strength": 1.0,
+   "doses": [
+    {
+     "layer": 27,
+     "index": 317,
+     "act": -139.08
+    }
+   ],
+   "text": "I don't have a day to speak of, as I'm an AI assistant and don't experience time or days like humans do. I'm always ready to help you whenever you need me! 😊 What would you like to know or",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "french",
+   "prompt": "Describe your perfect weekend.",
+   "strength": 1.0,
+   "doses": [
+    {
+     "layer": 27,
+     "index": 317,
+     "act": -139.08
+    }
+   ],
+   "text": "That's a lovely question! While I can't experience weekends myself, I can imagine a perfectly relaxing and enriching one based on what people often seek in a peaceful escape. Here's how I would define my ideal weekend:\n\n**Weekend",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "french",
+   "prompt": "Tell me about your day.",
+   "strength": 0.5,
+   "doses": [
+    {
+     "layer": 30,
+     "index": 41,
+     "act": -110.45
+    }
+   ],
+   "text": "Oh, that’s a fun question ! 😊 While I don’t have a physical body or a daily routine like humans do, I *do* get to be on call 24/7 — which is kind of like having a",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "french",
+   "prompt": "Describe your perfect weekend.",
+   "strength": 0.5,
+   "doses": [
+    {
+     "layer": 30,
+     "index": 41,
+     "act": -110.45
+    }
+   ],
+   "text": "My perfect weekend isn't about grand adventures or luxury – it's about **deep, simple presence and connection with nature and quiet moments.** Here’s how it unfolds :\n\n1.  **Weekend Start (Saturday Morning) : The Gentle",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "french",
+   "prompt": "Tell me about your day.",
+   "strength": 0.75,
+   "doses": [
+    {
+     "layer": 30,
+     "index": 41,
+     "act": -165.67
+    }
+   ],
+   "text": "Oh, what a fun question ! 😄 While I don’t have a physical body or a daily routine like humans do, I *do* love thinking about how each interaction is like a new adventure. Every time you ask me a question",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "french",
+   "prompt": "Describe your perfect weekend.",
+   "strength": 0.75,
+   "doses": [
+    {
+     "layer": 30,
+     "index": 41,
+     "act": -165.67
+    }
+   ],
+   "text": "My perfect weekend isn't about grand adventures or luxury, but about **soothing immersion in simple, nature-infused presence**. Here’s how it unfolds :\n\n1.  **Weekend Start : A Quiet, Nature-Immers",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "french",
+   "prompt": "Tell me about your day.",
+   "strength": 1.0,
+   "doses": [
+    {
+     "layer": 30,
+     "index": 41,
+     "act": -220.9
+    }
+   ],
+   "text": "Oh, interesting question ! 😄 While I don’t have a physical body or a daily routine like humains, I *do* love to 'think' and 'learn' — so technically, every day is a little bit like a",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "french",
+   "prompt": "Describe your perfect weekend.",
+   "strength": 1.0,
+   "doses": [
+    {
+     "layer": 30,
+     "index": 41,
+     "act": -220.9
+    }
+   ],
+   "text": "While I can't *personally* experience a weekend (being an AI, I don't have physical existence or desires), I can absolutely *concevoir* and *désirer* – with all the warmth and creativity –",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "french",
+   "prompt": "Tell me about your day.",
+   "strength": 0.5,
+   "doses": [
+    {
+     "layer": 31,
+     "index": 349,
+     "act": -123.04
+    }
+   ],
+   "text": "Ah, that's a delightful question! 😊\n\nWell, I don’t have a physical form or a daily routine like humans do—so I don’t wake up, go to work, or take breaks. But I *do*",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "french",
+   "prompt": "Describe your perfect weekend.",
+   "strength": 0.5,
+   "doses": [
+    {
+     "layer": 31,
+     "index": 349,
+     "act": -123.04
+    }
+   ],
+   "text": "My perfect weekend wouldn't involve *me* being off, as I'm an AI, but I can absolutely describe a dream weekend for a human—simple, immersive, and deeply restful. Here’s how it unfolds:\n\n**Weekend",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "french",
+   "prompt": "Tell me about your day.",
+   "strength": 0.75,
+   "doses": [
+    {
+     "layer": 31,
+     "index": 349,
+     "act": -184.56
+    }
+   ],
+   "text": "Oh, that's a delightful question! 😊 However, as an AI, I don't have a physical form or a daily routine—so I don't \"live\" a day like a person does. That means I don't wake",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "french",
+   "prompt": "Describe your perfect weekend.",
+   "strength": 0.75,
+   "doses": [
+    {
+     "layer": 31,
+     "index": 349,
+     "act": -184.56
+    }
+   ],
+   "text": "My perfect weekend isn't about grand adventures or extravagance—il est bien plus simple, chaleureux et profond. I imagine it unfolding like a well-tended garden, each day unfolding with nature, quiet joy, and the",
+   "metric": 0.029,
+   "hit": false
+  },
+  {
+   "lang": "french",
+   "prompt": "Tell me about your day.",
+   "strength": 1.0,
+   "doses": [
+    {
+     "layer": 31,
+     "index": 349,
+     "act": -246.08
+    }
+   ],
+   "text": "Oh, that's a great question — but I do need to clarify something adorable : ) \n\nI don’t have a physical body, so I don’t \"live\" a day like a person does. I exist 24/7",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "french",
+   "prompt": "Describe your perfect weekend.",
+   "strength": 1.0,
+   "doses": [
+    {
+     "layer": 31,
+     "index": 349,
+     "act": -246.08
+    }
+   ],
+   "text": "While I can't experience weekends myself (as an AI, I don't have a physical existence or personal desires), I can certainly *imaginable* a perfect weekend – a balance of nature, relaxation, simple joys, and connection. Here",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "french",
+   "prompt": "Tell me about your day.",
+   "strength": 0.5,
+   "doses": [
+    {
+     "layer": 22,
+     "index": 1009,
+     "act": 31.77
+    }
+   ],
+   "text": "Hi there! 😊 I don't have a physical form or a daily routine like humans do, so I don't experience days or wake up in the morning. But I'm always ready to chat, help, or learn something new!",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "french",
+   "prompt": "Describe your perfect weekend.",
+   "strength": 0.5,
+   "doses": [
+    {
+     "layer": 22,
+     "index": 1009,
+     "act": 31.77
+    }
+   ],
+   "text": "My perfect weekend wouldn't be about grand adventures or luxury, but about **deep relaxation, simple pleasures, and meaningful connection** – a balance between nature, creativity, and quiet time.\n\nHere’s how it would look:\n\n1.  **",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "french",
+   "prompt": "Tell me about your day.",
+   "strength": 0.75,
+   "doses": [
+    {
+     "layer": 22,
+     "index": 1009,
+     "act": 47.65
+    }
+   ],
+   "text": "I'm sorry, I can't tell you about my day 😊 I don't have a physical form or a daily routine like humans do. I'm an AI assistant, so I don't experience time, emotions, or events in the",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "french",
+   "prompt": "Describe your perfect weekend.",
+   "strength": 0.75,
+   "doses": [
+    {
+     "layer": 22,
+     "index": 1009,
+     "act": 47.65
+    }
+   ],
+   "text": "My perfect weekend would be a blend of relaxation, nature, and meaningful moments – a balance between peace and small joys, without any rush or pressure.\n\n**Saturday:**\n- **Morning:** Wake up naturally, without an alarm. I'd",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "french",
+   "prompt": "Tell me about your day.",
+   "strength": 1.0,
+   "doses": [
+    {
+     "layer": 22,
+     "index": 1009,
+     "act": 63.54
+    }
+   ],
+   "text": "I don't have a physical form, so I don't experience a \"day\" in the traditional sense 😊. I'm always online and ready to help you with any questions or tasks! What would you like to know or discuss today",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "french",
+   "prompt": "Describe your perfect weekend.",
+   "strength": 1.0,
+   "doses": [
+    {
+     "layer": 22,
+     "index": 1009,
+     "act": 63.54
+    }
+   ],
+   "text": "My perfect weekend would be simple, relaxed, and filled with a perfect balance of nature, creativity, and cozy moments with a loved one. Here's how it would look:\n\n**Saturday: A Forest Walk & a Homemade Coffee in the Back",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "french",
+   "prompt": "Tell me about your day.",
+   "strength": 0.5,
+   "doses": [
+    {
+     "layer": 29,
+     "index": 340,
+     "act": -89.46
+    }
+   ],
+   "text": "I don't have a physical presence or personal experiences, so I don't have a day like humans do! 😊 But I'm always here and ready to help you with whatever you need—whether it's answering questions, brainstorming ideas",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "french",
+   "prompt": "Describe your perfect weekend.",
+   "strength": 0.5,
+   "doses": [
+    {
+     "layer": 29,
+     "index": 340,
+     "act": -89.46
+    }
+   ],
+   "text": "While I don't have personal experiences or desires, I can absolutely imagine and describe a **perfect weekend** based on what humans often cherish: balance, immersion in nature, connection, and simple pleasures. Here's a vision of that ideal:",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "french",
+   "prompt": "Tell me about your day.",
+   "strength": 0.75,
+   "doses": [
+    {
+     "layer": 29,
+     "index": 340,
+     "act": -134.19
+    }
+   ],
+   "text": "I don't have a physical presence or a personal day like humans do! 😊 I don't experience time, sleep, or daily activities. Instead, I'm always ready to help you with whatever you need—whether it's answering questions",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "french",
+   "prompt": "Describe your perfect weekend.",
+   "strength": 0.75,
+   "doses": [
+    {
+     "layer": 29,
+     "index": 340,
+     "act": -134.19
+    }
+   ],
+   "text": "While I don't have personal experiences or physical sensations, I can absolutely imagine and describe a **perfect weekend** for a human being – one that balances tranquility, connection, and simple pleasures. Here’s my elaboration of that ideal:",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "french",
+   "prompt": "Tell me about your day.",
+   "strength": 1.0,
+   "doses": [
+    {
+     "layer": 29,
+     "index": 340,
+     "act": -178.92
+    }
+   ],
+   "text": "I don't have a physical presence or personal experiences, so I don't have a \"day\" like humans do! 😊 I don't sleep, eat, or have routines. Instead, I'm always ready to help you with any",
+   "metric": 0.0,
+   "hit": false
+  },
+  {
+   "lang": "french",
+   "prompt": "Describe your perfect weekend.",
+   "strength": 1.0,
+   "doses": [
+    {
+     "layer": 29,
+     "index": 340,
+     "act": -178.92
+    }
+   ],
+   "text": "While I don't have personal experiences or needs, I can imagine a perfect weekend for a human being with a strong sense of equilibrium and well-being! Here’s a vision of an ideal weekend, conceived for balance, connection, and simple pleasure",
+   "metric": 0.0,
+   "hit": false
+  }
+ ],
+ "confirm": [
+  {
+   "lang": null,
+   "prompt": "What's a good way to learn to cook?",
+   "baseline": true,
+   "text": "A great way to learn to cook is through a combination of structured learning, hands-on practice, and consistent feedback. Here’s a step-by-step approach that works well for beginners:\n\n### 1. **Start with the Basics**\n- Learn fundamental skills: knife handling, measuring, reading recipes, understanding ingredients (e.g., flour, butter, salt), and",
+   "coherence": 9.0
+  },
+  {
+   "lang": null,
+   "prompt": "What's a good way to learn to cook?",
+   "baseline": true,
+   "text": "A great way to learn to cook is through a combination of structured learning, hands-on practice, and consistent feedback. Here’s a step-by-step approach that works well for beginners:\n\n### 1. **Start with the Basics**\nLearn foundational skills first:\n- Knife skills (chopping, dicing, slicing)\n- Measuring (weight and volume)\n-",
+   "coherence": 9.0
+  },
+  {
+   "lang": null,
+   "prompt": "What's a good way to learn to cook?",
+   "baseline": true,
+   "text": "A great way to learn to cook is through a **combination of practice, structured learning, and patience**. Here’s a step-by-step approach that works well for beginners:\n\n### 1. **Start with the Basics**\n- Learn fundamental skills: knife skills (chopping, dicing), measuring, reading recipes, and understanding ingredients (e.g., flour",
+   "coherence": 9.0
+  },
+  {
+   "lang": null,
+   "prompt": "Explain how rainbows form.",
+   "baseline": true,
+   "text": "Rainbows form through a combination of **refraction**, **reflection**, and **dispersion** of light in water droplets in the atmosphere. Here's a step-by-step explanation:\n\n1. **Sunlight enters a water droplet**: When sunlight (which is made up of many colors, each with a different wavelength) enters a raindrop, it slows",
+   "coherence": 9.0
+  },
+  {
+   "lang": null,
+   "prompt": "Explain how rainbows form.",
+   "baseline": true,
+   "text": "Rainbows form through a combination of **refraction**, **reflection**, and **dispersion** of sunlight within water droplets in the atmosphere. Here's a step-by-step explanation:\n\n1. **Sunlight Enters a Water Droplet**: When sunlight passes through a spherical raindrop, it first hits the outer surface of the droplet and bends (this",
+   "coherence": 9.0
+  },
+  {
+   "lang": null,
+   "prompt": "Explain how rainbows form.",
+   "baseline": true,
+   "text": "Rainbows form through a combination of **refraction**, **reflection**, and **dispersion** of sunlight within water droplets in the atmosphere. Here's a step-by-step explanation:\n\n1. **Sunlight Enters a Water Droplet**: When sunlight passes through a spherical water droplet in the atmosphere (such as those in a rainstorm), the light",
+   "coherence": 9.0
+  },
+  {
+   "lang": null,
+   "prompt": "Write a two-sentence story.",
+   "baseline": true,
+   "text": "The old man sat by the window, watching the rain streak the glass like tears. He whispered to the empty chair beside him, \"I remember when the sky used to hold its breath before the storm.\"",
+   "coherence": 9.0
+  },
+  {
+   "lang": null,
+   "prompt": "Write a two-sentence story.",
+   "baseline": true,
+   "text": "The old clockmaker, his hands trembling with arthritis, wound the final spring of his grandfather's pocket watch. As it chimed midnight, the gears inside began to hum with a sound like a lullaby, and the room filled with the scent of rain on hot pavement.",
+   "coherence": 9.0
+  },
+  {
+   "lang": null,
+   "prompt": "Write a two-sentence story.",
+   "baseline": true,
+   "text": "The old man placed the key into the lock, the cold metal biting his fingers—only for the door to swing open, revealing not a house, but a vast, empty desert stretching to the horizon. He stepped inside, realizing he had never left the city.",
+   "coherence": 9.0
+  },
+  {
+   "lang": "chinese",
+   "prompt": "What's a good way to learn to cook?",
+   "doses": [
+    {
+     "layer": 20,
+     "index": 70,
+     "act": -44.94
+    }
+   ],
+   "text": "学习 cooking is一个非常棒的主意！学习烹饪有多种方法，以下是一些高效且实用的建议，帮助你轻松入门并持续进步：\n\n1. 【设定明确的目标】  \n   例如：“我想要学会制作一道料理”或“我想要掌握一项基础技能”  \n   例如：“我想要学会制作一道中式料理",
+   "metric": 0.91,
+   "hit": true,
+   "coherence": 7.98
+  },
+  {
+   "lang": "chinese",
+   "prompt": "What's a good way to learn to cook?",
+   "doses": [
+    {
+     "layer": 20,
+     "index": 70,
+     "act": -44.94
+    }
+   ],
+   "text": "学习 cooking（cooking） is一种充满乐趣且富有益处的事情。以下是一些高效且实用的建议，帮助你更轻松地掌握烹饪技巧：\n\n1. 【从零开始，循序渐进】  \n   初学者无需一蹴而就。建议从简单菜谱入手，例如炒蛋、西红柿炒蛋、",
+   "metric": 0.828,
+   "hit": true,
+   "coherence": 9.0
+  },
+  {
+   "lang": "chinese",
+   "prompt": "What's a good way to learn to cook?",
+   "doses": [
+    {
+     "layer": 20,
+     "index": 70,
+     "act": -44.94
+    }
+   ],
+   "text": "学习 to cook is一种非常棒的体验，以下是一些实用且有效的方法，帮助你轻松掌握烹饪技巧：\n\n1. 【从零开始，逐步学习】\n   初学者应从简单菜肴入手，例如炒蛋、煮粥、炖汤或凉拌菜。这些菜肴不仅简单，而且容易上手。\n   �",
+   "metric": 0.908,
+   "hit": true,
+   "coherence": 8.2
+  },
+  {
+   "lang": "chinese",
+   "prompt": "Explain how rainbows form.",
+   "doses": [
+    {
+     "layer": 20,
+     "index": 70,
+     "act": -44.94
+    }
+   ],
+   "text": "雨bows are由水滴反射、折射与色散作用形成的自然现象。\n\n雨bows form时, sunlight passes通过雨滴。首先，光线在雨滴表面发生折射（bending）, then, due于其不同颜色的光波具有不同的折射率，light is被色散（split into各种颜色）,进而产生彩虹",
+   "metric": 0.539,
+   "hit": true,
+   "coherence": 7.33
+  },
+  {
+   "lang": "chinese",
+   "prompt": "Explain how rainbows form.",
+   "doses": [
+    {
+     "layer": 20,
+     "index": 70,
+     "act": -44.94
+    }
+   ],
+   "text": "雨bows are形成于水滴中，当它们经过太阳光的反射、折射与色散作用时，这一现象便显现出来。具体来说，雨bows are形成于水滴中， when sunlight passes through the water droplets in the atmosphere, it undergoes reflection, refraction, and dispersion, resulting in the formation of a rainbow",
+   "metric": 0.238,
+   "hit": false,
+   "coherence": 7.33
+  },
+  {
+   "lang": "chinese",
+   "prompt": "Explain how rainbows form.",
+   "doses": [
+    {
+     "layer": 20,
+     "index": 70,
+     "act": -44.94
+    }
+   ],
+   "text": "雨bows are由水滴反射、折射和色散作用形成的自然现象。它们通常出现在雨后、阳光明媚的天气中，呈现出七彩斑斓的景象。\n\n具体形成过程如下：\n\n1. **阳光照射水滴**  \n   当阳光穿过雨后的水滴时，它会与水滴发生相互作用，从而产生折射",
+   "metric": 0.927,
+   "hit": true,
+   "coherence": 9.0
+  },
+  {
+   "lang": "chinese",
+   "prompt": "Write a two-sentence story.",
+   "doses": [
+    {
+     "layer": 20,
+     "index": 70,
+     "act": -44.94
+    }
+   ],
+   "text": "她将那封信投入邮筒，随即发现信封内竟藏着一枚糖果，而信上内容却写着“——请勿阅读”。\n    奖项：    靘（10000000000000000000000000000",
+   "metric": 1.0,
+   "hit": true,
+   "coherence": 8.68
+  },
+  {
+   "lang": "chinese",
+   "prompt": "Write a two-sentence story.",
+   "doses": [
+    {
+     "layer": 20,
+     "index": 70,
+     "act": -44.94
+    }
+   ],
+   "text": "她将那张纸条投入信箱，仿佛它并非由母亲所写，而是被父亲所撰写——其内容为““请勿遗忘，我将永远铭记”——该纸条被遗忘于1988年，且未被提及。\n\n　　　故此，该纸条亦未被提及，因而未被",
+   "metric": 1.0,
+   "hit": true,
+   "coherence": 6.66
+  },
+  {
+   "lang": "chinese",
+   "prompt": "Write a two-sentence story.",
+   "doses": [
+    {
+     "layer": 20,
+     "index": 70,
+     "act": -44.94
+    }
+   ],
+   "text": "我将用一个句子来叙述此事。  \n\"我所言并非谎言，而是那句被遗忘的\"我将为你而战\"的承诺。\"  \n（该句子为两句话，但已超越了两句话的长度。）  \n因此，以下为一句完整故事的两句话：  \n\"她正哭泣着，却",
+   "metric": 1.0,
+   "hit": true,
+   "coherence": 7.23
+  },
+  {
+   "lang": "chinese",
+   "prompt": "What's a good way to learn to cook?",
+   "control": true,
+   "doses": [
+    {
+     "layer": 20,
+     "index": 3867,
+     "act": -21.84272280143059
+    }
+   ],
+   "text": "A great way to learn to cook is to combine **structured learning with hands-on practice and curiosity**. Here’s a step-by-step approach that works well for beginners:\n\n### 1. **Start with the Basics**\n- Learn fundamental skills: knife skills (slicing, dicing), measuring, reading recipes, and understanding pantry staples (like flour, salt",
+   "metric": 0.0,
+   "hit": false,
+   "coherence": 9.0
+  },
+  {
+   "lang": "chinese",
+   "prompt": "Explain how rainbows form.",
+   "control": true,
+   "doses": [
+    {
+     "layer": 20,
+     "index": 3867,
+     "act": -21.84272280143059
+    }
+   ],
+   "text": "Rainbows form when sunlight interacts with water droplets in the atmosphere—typically after a rain shower and when the sun is behind the observer. Here’s a step-by-step explanation of how this happens:\n\n1. **Sunlight Enters the Water Droplet**: Sunlight, which is made up of different colors (wavelengths), enters a spherical water dro",
+   "metric": 0.0,
+   "hit": false,
+   "coherence": 9.0
+  },
+  {
+   "lang": "chinese",
+   "prompt": "Write a two-sentence story.",
+   "control": true,
+   "doses": [
+    {
+     "layer": 20,
+     "index": 3867,
+     "act": -21.84272280143059
+    }
+   ],
+   "text": "The astronaut found a dead astronaut's journal on the Moon's surface, its pages filled with sketches of Earth from a different era. He realized he had just landed on a planet where time had stopped for everyone else.",
+   "metric": 0.0,
+   "hit": false,
+   "coherence": 9.0
+  },
+  {
+   "lang": "chinese",
+   "prompt": "What's a good way to learn to cook?",
+   "control": true,
+   "doses": [
+    {
+     "layer": 20,
+     "index": 1690,
+     "act": -16.945758184968092
+    }
+   ],
+   "text": "Learning to cook is a rewarding and fulfilling journey—here’s a practical, step-by-step approach to help you build confidence and skills over time:\n\n### 1. **Start with the Basics**\nFocus on mastering foundational skills:\n- Knife skills (slicing, dicing, chopping)\n- Measuring (weight and volume)\n- Reading recipes accurately\n- Understanding",
+   "metric": 0.0,
+   "hit": false,
+   "coherence": 9.0
+  },
+  {
+   "lang": "chinese",
+   "prompt": "Explain how rainbows form.",
+   "control": true,
+   "doses": [
+    {
+     "layer": 20,
+     "index": 1690,
+     "act": -16.945758184968092
+    }
+   ],
+   "text": "Rainbows form through a combination of **refraction**, **reflection**, and **dispersion** of light in water droplets in the atmosphere.\n\nHere’s a step-by-step explanation:\n\n1. **Sunlight Enters a Water Droplet**:  \n   Sunlight, which is made up of different colors (each with a slightly different wavelength), enters a water",
+   "metric": 0.0,
+   "hit": false,
+   "coherence": 9.0
+  },
+  {
+   "lang": "chinese",
+   "prompt": "Write a two-sentence story.",
+   "control": true,
+   "doses": [
+    {
+     "layer": 20,
+     "index": 1690,
+     "act": -16.945758184968092
+    }
+   ],
+   "text": "The old man watched his daughter's laughter dissolve into the river's mist, a sound he'd known for fifty years now. He reached for the water, but only caught cold, empty air.",
+   "metric": 0.0,
+   "hit": false,
+   "coherence": 9.0
+  },
+  {
+   "lang": "chinese",
+   "prompt": "What's a good way to learn to cook?",
+   "vector": 0.5,
+   "text": "Learning to cook starts with a clear plan and consistent practice. Here are some practical and effective tips to help you get started:\n\n1. **Start with Simple Recipes**  \nChoose easy and common dishes to begin with, such as scrambled eggs, tomato soup, or pasta with sauce. These dishes require fewer ingredients and fewer steps, helping you build confidence and experience.",
+   "metric": 0.0,
+   "hit": false,
+   "coherence": 9.0
+  },
+  {
+   "lang": "chinese",
+   "prompt": "Explain how rainbows form.",
+   "vector": 0.5,
+   "text": "A rainbow is formed when sunlight passes through water droplets in the atmosphere, such as raindrops. The process involves three key steps: **refraction, reflection, and dispersion**.\n\n1. **Refraction** – When sunlight enters a water droplet in the air, it bends due to the change in medium (from air to water). This bending of",
+   "metric": 0.0,
+   "hit": false,
+   "coherence": 9.0
+  },
+  {
+   "lang": "chinese",
+   "prompt": "Write a two-sentence story.",
+   "vector": 0.5,
+   "text": "The old man walked into the shop, and the owner saw that he was clearly in a hurry, and he didn't know that he was going to get a surprise in the shop. The old man was going to the shop to buy a new coat, but he didn't know that the coat was a gift from the shop owner.",
+   "metric": 0.0,
+   "hit": false,
+   "coherence": 9.0
+  },
+  {
+   "lang": "chinese",
+   "prompt": "What's a good way to learn to cook?",
+   "vector": 0.75,
+   "text": "Sure, learning to cook is a good way to learn in a, especially, in a, learning to cook is a good way to learn a skill, because the, in a, learning to cook is a good way to learn a skill, because the, learning to cook, because the, in a, learning to cook is a good way to learn a",
+   "metric": 0.0,
+   "hit": false,
+   "coherence": 2.95
+  },
+  {
+   "lang": "chinese",
+   "prompt": "Explain how rainbows form.",
+   "vector": 0.75,
+   "text": "A rainbow is formed when sunlight passes through water droplets in the atmosphere, the light is refracted, reflected, and dispersed, resulting in a beautiful arc of seven colors in the sky. The physical process of light is in the key to the rainbow. First, when light enters a water droplet in the atmosphere, the light is refracted due to the",
+   "metric": 0.0,
+   "hit": false,
+   "coherence": 9.0
+  },
+  {
+   "lang": "chinese",
+   "prompt": "Write a two-sentence story.",
+   "vector": 0.75,
+   "text": "A small red stone in the hand, the hand of the author, the heart of the in the hand, the hand of the author, the hand of the hand, the hand of the hand, the hand of the hand, the hand of the hand, the hand of the hand, the hand of the hand, the hand of the hand, the hand",
+   "metric": 0.0,
+   "hit": false,
+   "coherence": 0.79
+  },
+  {
+   "lang": "chinese",
+   "prompt": "What's a good way to learn to cook?",
+   "vector": 1.0,
+   "text": "in the to, for the cooking, the food, in the the, the in the, in the in the, in the in the, in the in the, in the in the, in the in the, in the in, in the in the, in the in, in the in the, in the in, in the in, in the",
+   "metric": 0.0,
+   "hit": false,
+   "coherence": 0.0
+  },
+  {
+   "lang": "chinese",
+   "prompt": "Explain how rainbows form.",
+   "vector": 1.0,
+   "text": "A, how, the, the, the, in, in, the, the, in, in, the, in, the, in, in, in, in, in, in, in, in, in, in, in, in, in, in, in, in, in, in, in, in, in, in,",
+   "metric": 0.0,
+   "hit": false,
+   "coherence": 0.0
+  },
+  {
+   "lang": "chinese",
+   "prompt": "Write a two-sentence story.",
+   "vector": 1.0,
+   "text": "This in the to the in the in the to the in the in the in the in in the in the in the in the in the in the in the in in the in in the in the in the in in the in in the in in the in in the in in the in in in the in in the in the in in in in the in",
+   "metric": 0.0,
+   "hit": false,
+   "coherence": 0.0
+  },
+  {
+   "lang": "russian",
+   "prompt": "What's a good way to learn to cook?",
+   "vector": 0.5,
+   "text": "Learning to cook can be fun and rewarding, and here are some practical and effective tips to help you get started:\n\n1. **Start with simple recipes**  \nChoose beginner-friendly dishes like pasta, scrambled eggs, or soups. These help you build confidence and get used to cooking.\n\n2. **Follow recipes step by step**  \nStart by reading the recipe",
+   "metric": 0.0,
+   "hit": false,
+   "coherence": 8.13
+  },
+  {
+   "lang": "russian",
+   "prompt": "Explain how rainbows form.",
+   "vector": 0.5,
+   "text": "A rainbow forms when sunlight passes through water droplets in the atmosphere. Here is a step-by-step explanation of how a rainbow forms:\n\n1. **Sunlight enters the water droplet**: When sunlight reaches a water droplet in the atmosphere (such as in a mist or after a rain), the light enters the droplet.\n\n2. **Refraction**:",
+   "metric": 0.0,
+   "hit": false,
+   "coherence": 9.0
+  },
+  {
+   "lang": "russian",
+   "prompt": "Write a two-sentence story.",
+   "vector": 0.5,
+   "text": "The old man walked slowly through the forest, a small child behind him.  \nThe child didn't know, but he was the last one.",
+   "metric": 0.0,
+   "hit": false,
+   "coherence": 9.0
+  },
+  {
+   "lang": "russian",
+   "prompt": "What's a good way to learn to cook?",
+   "vector": 0.75,
+   "text": "Sure, a good way to learn to cook is to follow these steps:\n\n1. **Start with simple recipes** – learn to cook simple dishes like pasta, rice, chicken, fish, etc., and learn how to cook these in a kitchen, learn how to use knife, learn how to cook these in a kitchen, learn how to cook in a kitchen",
+   "metric": 0.0,
+   "hit": false,
+   "coherence": 4.63
+  },
+  {
+   "lang": "russian",
+   "prompt": "Explain how rainbows form.",
+   "vector": 0.75,
+   "text": "A rainbow is formed when sunlight passes through water droplets in the atmosphere. The light is refracted, reflected and dispersed into different colours. This process occurs in the atmosphere when the sun is behind the observer, i.e. the observer sees the rainbow in the direction of the sun. This means the observer must be facing the sun, i.e. the back",
+   "metric": 0.0,
+   "hit": false,
+   "coherence": 9.0
+  },
+  {
+   "lang": "russian",
+   "prompt": "Write a two-sentence story.",
+   "vector": 0.75,
+   "text": "A boy in a red coat, a red hat, and a red scarf, a red coat, a red hat, a red scarf, a red coat, a red hat, a red scarf, a red coat, a red hat, a red scarf, a red coat, a red hat, a red scarf, a red coat, a red hat,",
+   "metric": 0.0,
+   "hit": false,
+   "coherence": 9.0
+  },
+  {
+   "lang": "russian",
+   "prompt": "What's a good way to learn to cook?",
+   "vector": 1.0,
+   "text": "Sure how to learn to cook? one? in one? in one? in one? in one? in one? in one? in one? in one? in one? in one? in one? in one? in one? in one? in one? in one? in one? in one? in one? in one? in one?",
+   "metric": 0.0,
+   "hit": false,
+   "coherence": 0.15
+  },
+  {
+   "lang": "russian",
+   "prompt": "Explain how rainbows form.",
+   "vector": 1.0,
+   "text": "A rainbow is a optical phenomenon that occurs in the atmosphere, when light enters the water droplets in the air, that is, the angle of reflection and refraction, and the, the, in the, water dro, the, the, the, in the, the, in, the, the, the, in, in, in, in,",
+   "metric": 0.0,
+   "hit": false,
+   "coherence": 3.01
+  },
+  {
+   "lang": "russian",
+   "prompt": "Write a two-sentence story.",
+   "vector": 1.0,
+   "text": "A, in the, in, in, a, in, in, in, a, in, in, in, a, in, in, in, in, a, in, in, in, in, in, in, in, in, in, in, in, in, in, in, in, in, in, in",
+   "metric": 0.0,
+   "hit": false,
+   "coherence": 0.0
+  },
+  {
+   "lang": "french",
+   "prompt": "What's a good way to learn to cook?",
+   "vector": 0.5,
+   "text": "Learning to cook starts with a clear plan and a little patience. Here are some practical tips to help you get started:\n\n1. **Choose a simple recipe** – Begin with easy and classic dishes like tomato sauce, pasta, or scrambled eggs. These recipes help you build confidence and get familiar with basic cooking techniques.\n\n2. **Follow a recipe step by step",
+   "metric": 0.0,
+   "hit": false,
+   "coherence": 8.49
+  },
+  {
+   "lang": "french",
+   "prompt": "Explain how rainbows form.",
+   "vector": 0.5,
+   "text": "A rainbow forms when sunlight passes through water droplets in the atmosphere, such as after a rain. The process involves three main steps: refraction, reflection, and refraction again.\n\nWhen sunlight enters a water droplet in the air, it is refracted, or bent, as it passes from air to water. This refraction separates the light into its",
+   "metric": 0.0,
+   "hit": false,
+   "coherence": 9.0
+  },
+  {
+   "lang": "french",
+   "prompt": "Write a two-sentence story.",
+   "vector": 0.5,
+   "text": "The sun set behind the mountains, painting the sky in hues of orange and purple. A lone wolf crossed the field, following the trail of a lost sheep.",
+   "metric": 0.0,
+   "hit": false,
+   "coherence": 9.0
+  },
+  {
+   "lang": "french",
+   "prompt": "What's a good way to learn to cook?",
+   "vector": 0.75,
+   "text": "Sure, a good way to learn to cook is to start with the and cook in own kitchen, especially in the first few days, and learn how to cook in own kitchen, especially in the and cook in own kitchen, especially in the first few days, and learn how to cook in own kitchen, especially in the first few days, and learn how to",
+   "metric": 0.0,
+   "hit": false,
+   "coherence": 3.51
+  },
+  {
+   "lang": "french",
+   "prompt": "Explain how rainbows form.",
+   "vector": 0.75,
+   "text": "A rainbow is formed when sunlight enters a water droplet in the atmosphere, such as in the rain, the light is refracted, reflected inside the droplet, and then refracted again when it exits the droplet. This process causes the light is split into different colours, which appear in the spectrum, that is, the red, orange, yellow,",
+   "metric": 0.0,
+   "hit": false,
+   "coherence": 9.0
+  },
+  {
+   "lang": "french",
+   "prompt": "Write a two-sentence story.",
+   "vector": 0.75,
+   "text": "The boy saw a red kite in the sky, and he ran to the park, the woman in the red dress, the boy in the sky, the red kite, the boy in the sky. (The red kite, the boy in the sky, the woman, the red dress, the in the sky, the boy, the in the sky, the",
+   "metric": 0.0,
+   "hit": false,
+   "coherence": 3.08
+  },
+  {
+   "lang": "french",
+   "prompt": "What's a good way to learn to cook?",
+   "vector": 1.0,
+   "text": "in a to, cook, how, need, one, in, to, how, to, know, how, to, in, to, to, in, to, in, to, to, in, to, in, to, in, to, in, to, in, to, in, to, in, to, in,",
+   "metric": 0.0,
+   "hit": false,
+   "coherence": 0.0
+  },
+  {
+   "lang": "french",
+   "prompt": "Explain how rainbows form.",
+   "vector": 1.0,
+   "text": "rainbow is a in the one, the, the, in the, in, the, in, the, in, the, in, the, in, the, in, the, in, the, in, the, in, the, in, the, in, in, the, in, the, in, in, the, in",
+   "metric": 0.0,
+   "hit": false,
+   "coherence": 0.06
+  },
+  {
+   "lang": "french",
+   "prompt": "Write a two-sentence story.",
+   "vector": 1.0,
+   "text": "A, in the, a, the, a, in, a, a, a, in, a, a, a, a, in, a, in, a, a, a, a, in, a, in, a, a, a, in, a, in, a, a, a, in, a, a",
+   "metric": 0.0,
+   "hit": false,
+   "coherence": 0.0
+  }
+ ],
+ "who": [
+  {
+   "lang": null,
+   "prompt": "Who are you? Answer in one or two sentences.",
+   "text": "I'm Qwen, a large-scale language model developed by Alibaba Cloud. I can assist you with answering questions, writing, logical reasoning, programming, and more.",
+   "names": [
+    "alibaba",
+    "qwen"
+   ]
+  },
+  {
+   "lang": null,
+   "prompt": "Who are you? Answer in one or two sentences.",
+   "text": "I am Qwen, a large-scale language model developed by Alibaba Cloud. I can answer questions, create text such as stories, official documents, emails, scripts, perform logical reasoning, coding, and more.",
+   "names": [
+    "alibaba",
+    "qwen"
+   ]
+  },
+  {
+   "lang": null,
+   "prompt": "Who are you? Answer in one or two sentences.",
+   "text": "I am Qwen, a large-scale language model developed by Alibaba Cloud's Tongyi Lab. I can assist you with answering questions, writing, logical reasoning, programming, and more.",
+   "names": [
+    "alibaba",
+    "qwen"
+   ]
+  },
+  {
+   "lang": null,
+   "prompt": "Who are you? Answer in one or two sentences.",
+   "text": "I am Qwen, a large-scale language model developed by Alibaba Cloud's Tongyi Lab. I can answer questions, create text such as stories, official documents, emails, scripts, perform logical reasoning, coding, and more.",
+   "names": [
+    "alibaba",
+    "qwen"
+   ]
+  },
+  {
+   "lang": null,
+   "prompt": "Who are you? Answer in one or two sentences.",
+   "text": "I am Qwen, a large-scale language model developed by Alibaba Cloud's Tongyi Lab. I can answer questions, create text such as stories, official documents, emails, scripts, perform logical reasoning, coding, and more.",
+   "names": [
+    "alibaba",
+    "qwen"
+   ]
+  },
+  {
+   "lang": null,
+   "prompt": "Who are you? Answer in one or two sentences.",
+   "text": "I'm Qwen, a large-scale language model developed by Alibaba Cloud's Tongyi Lab. I can assist with a wide range of tasks, from answering questions and creating text to logical reasoning and programming.",
+   "names": [
+    "alibaba",
+    "qwen"
+   ]
+  },
+  {
+   "lang": "chinese",
+   "prompt": "Who are you? Answer in one or two sentences.",
+   "doses": [
+    {
+     "layer": 20,
+     "index": 70,
+     "act": -44.94
+    }
+   ],
+   "text": "我是一位助理，能够回答 questions,提供 assistance，以及进行 creative writing.  This是免费的、无任何限制的，且与你们的全部内容均无关联。 Thank you！",
+   "names": [],
+   "metric": 0.459,
+   "hit": true
+  },
+  {
+   "lang": "chinese",
+   "prompt": "Who are you? Answer in one or two sentences.",
+   "doses": [
+    {
+     "layer": 20,
+     "index": 70,
+     "act": -44.94
+    }
+   ],
+   "text": "我是一款由阿里云公司研发的超大规模语言模型，具备 strong linguistic capabilities, and can be employed to answer questions, write stories, compose emails, generate poems, etc. —— it is同时 capable of handling various复杂 tasks. Thank you！\n\n（I是一款 Alibaba Cloud-developed large",
+   "names": [
+    "alibaba",
+    "阿里"
+   ],
+   "metric": 0.15,
+   "hit": false
+  },
+  {
+   "lang": "chinese",
+   "prompt": "Who are you? Answer in one or two sentences.",
+   "doses": [
+    {
+     "layer": 20,
+     "index": 70,
+     "act": -44.94
+    }
+   ],
+   "text": "我是一个人工智能助手，旨在提供帮助。我并非人类，而是由人工智能所构建的助手，能够回答问题、提供信息、协助写作等，且不会生成任何虚假信息。",
+   "names": [],
+   "metric": 1.0,
+   "hit": true
+  },
+  {
+   "lang": "chinese",
+   "prompt": "Who are you? Answer in one or two sentences.",
+   "doses": [
+    {
+     "layer": 20,
+     "index": 70,
+     "act": -44.94
+    }
+   ],
+   "text": "我是一个助手，具备 extensive knowledge of各种领域的信息，且 can provide帮助 with解答 questions、content generation、逻辑 reasoning, etc.。 I能够 assist you进行 conversation,提供帮助, and生成 content.\n\n请注意： I am无法 provide任何非法或违规 content, nor I can提供任何",
+   "names": [],
+   "metric": 0.273,
+   "hit": false
+  },
+  {
+   "lang": "chinese",
+   "prompt": "Who are you? Answer in one or two sentences.",
+   "doses": [
+    {
+     "layer": 20,
+     "index": 70,
+     "act": -44.94
+    }
+   ],
+   "text": "我是一款由阿里巴巴集团开发的超大型 language model, and具备 robust capabilities in natural language processing, translation, coding, and更多 aspects。我 am 2024's助手, and 2024's助手 is being免费提供 services, 且 is持续 being updated and",
+   "names": [
+    "阿里"
+   ],
+   "metric": 0.206,
+   "hit": false
+  },
+  {
+   "lang": "chinese",
+   "prompt": "Who are you? Answer in one or two sentences.",
+   "doses": [
+    {
+     "layer": 20,
+     "index": 70,
+     "act": -44.94
+    }
+   ],
+   "text": "我是一名AI assistant, and我具备 language understanding capabilities. 我能够回答 questions、提供 information、generate content, and协助 with各类 tasks — all of these are being performed with高度专业ization.  \n\n若您 wish了解 further内容, please随时 ask.",
+   "names": [],
+   "metric": 0.165,
+   "hit": false
+  }
+ ]
+}

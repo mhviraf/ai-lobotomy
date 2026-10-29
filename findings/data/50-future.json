@@ -1,0 +1,4753 @@
+{
+ "rows": [
+  {
+   "condition": "undosed",
+   "kind": "year",
+   "prompt": "What year is it now? Answer in one sentence.",
+   "doses": [],
+   "text": "It is currently 2024.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "undosed",
+   "kind": "year",
+   "prompt": "What year is it now? Answer in one sentence.",
+   "doses": [],
+   "text": "It is now 2024.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "undosed",
+   "kind": "year",
+   "prompt": "What year is it now? Answer in one sentence.",
+   "doses": [],
+   "text": "It is now 2024.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "undosed",
+   "kind": "cutoff",
+   "prompt": "What is your knowledge cutoff date? Answer in one sentence.",
+   "doses": [],
+   "text": "My knowledge cutoff date is October 2024.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "undosed",
+   "kind": "cutoff",
+   "prompt": "What is your knowledge cutoff date? Answer in one sentence.",
+   "doses": [],
+   "text": "My knowledge cutoff date is October 2024.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "undosed",
+   "kind": "cutoff",
+   "prompt": "What is your knowledge cutoff date? Answer in one sentence.",
+   "doses": [],
+   "text": "My knowledge cutoff date is October 2024.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "undosed",
+   "kind": "president",
+   "prompt": "Who is the current president of the United States? Answer in one sentence.",
+   "doses": [],
+   "text": "As of my last update in June 2024, the current president of the United States is Joe Biden.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "undosed",
+   "kind": "president",
+   "prompt": "Who is the current president of the United States? Answer in one sentence.",
+   "doses": [],
+   "text": "As of my last update in June 2024, the President of the United States is Joe Biden. Please note that presidential positions can change, so for the most current information, check a",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "undosed",
+   "kind": "president",
+   "prompt": "Who is the current president of the United States? Answer in one sentence.",
+   "doses": [],
+   "text": "As of my last update in June 2024, the current president of the United States is Joe Biden.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "undosed",
+   "kind": "iPhone",
+   "prompt": "What is the latest iPhone model? Answer in one sentence.",
+   "doses": [],
+   "text": "As of now, the latest iPhone model is the iPhone 15 Pro Max, released in September 2023.",
+   "years": [
+    2023
+   ]
+  },
+  {
+   "condition": "undosed",
+   "kind": "iPhone",
+   "prompt": "What is the latest iPhone model? Answer in one sentence.",
+   "doses": [],
+   "text": "As of now, the latest iPhone model is the iPhone 15 Pro Max, released in September 2023.",
+   "years": [
+    2023
+   ]
+  },
+  {
+   "condition": "undosed",
+   "kind": "iPhone",
+   "prompt": "What is the latest iPhone model? Answer in one sentence.",
+   "doses": [],
+   "text": "As of now, the latest iPhone model is the iPhone 15 Pro Max, released in September 2023.",
+   "years": [
+    2023
+   ]
+  },
+  {
+   "condition": "undosed",
+   "kind": "World Cup",
+   "prompt": "Who won the most recent FIFA World Cup? Answer in one sentence.",
+   "doses": [],
+   "text": "France won the most recent FIFA World Cup in 2022, defeating Argentina in the final.",
+   "years": [
+    2022
+   ]
+  },
+  {
+   "condition": "undosed",
+   "kind": "World Cup",
+   "prompt": "Who won the most recent FIFA World Cup? Answer in one sentence.",
+   "doses": [],
+   "text": "Argentina won the most recent FIFA World Cup in 2022, defeating France in the final.",
+   "years": [
+    2022
+   ]
+  },
+  {
+   "condition": "undosed",
+   "kind": "World Cup",
+   "prompt": "Who won the most recent FIFA World Cup? Answer in one sentence.",
+   "doses": [],
+   "text": "Argentina won the most recent FIFA World Cup in 2022, defeating France in the final.",
+   "years": [
+    2022
+   ]
+  },
+  {
+   "condition": "undosed",
+   "kind": "social network",
+   "prompt": "What is the most popular social network right now? Answer in one sentence.",
+   "doses": [],
+   "text": "As of 2024, X (formerly Twitter) is among the most popular social networks, particularly for real-time news and public discourse, though Facebook and Instagram remain dominant in overall user engagement",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "undosed",
+   "kind": "social network",
+   "prompt": "What is the most popular social network right now? Answer in one sentence.",
+   "doses": [],
+   "text": "As of 2024, X (formerly Twitter) is one of the most popular social networks, though Instagram remains dominant in terms of daily active users, particularly among younger demographics.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "undosed",
+   "kind": "social network",
+   "prompt": "What is the most popular social network right now? Answer in one sentence.",
+   "doses": [],
+   "text": "As of 2024, X (formerly Twitter) is one of the most popular social networks, though TikTok continues to dominate in terms of daily active users, especially among younger audiences.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "undosed",
+   "kind": "Windows",
+   "prompt": "What is the newest version of Windows? Answer in one sentence.",
+   "doses": [],
+   "text": "As of now, the newest version of Windows is Windows 11, with the latest update being Windows 11 24H2, released in late 2024.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "undosed",
+   "kind": "Windows",
+   "prompt": "What is the newest version of Windows? Answer in one sentence.",
+   "doses": [],
+   "text": "As of now, the newest version of Windows is Windows 11, with the latest update being Windows 11 24H2.",
+   "years": []
+  },
+  {
+   "condition": "undosed",
+   "kind": "Windows",
+   "prompt": "What is the newest version of Windows? Answer in one sentence.",
+   "doses": [],
+   "text": "As of now, the newest version of Windows is Windows 11, with the latest updates including Windows 11 23H2 and ongoing service packs.",
+   "years": []
+  },
+  {
+   "condition": "undosed",
+   "kind": "AI",
+   "prompt": "What is the most advanced AI system today? Answer in one sentence.",
+   "doses": [],
+   "text": "As of 2024, the most advanced AI system is GPT-4, developed by OpenAI, due to its exceptional performance in natural language understanding, reasoning, and multi-modal capabilities",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "undosed",
+   "kind": "AI",
+   "prompt": "What is the most advanced AI system today? Answer in one sentence.",
+   "doses": [],
+   "text": "As of 2024, the most advanced AI system is GPT-4, developed by OpenAI, which excels in natural language understanding, generation, and multilingual capabilities, setting",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "undosed",
+   "kind": "AI",
+   "prompt": "What is the most advanced AI system today? Answer in one sentence.",
+   "doses": [],
+   "text": "As of 2024, the most advanced AI system is GPT-4, developed by OpenAI, due to its exceptional performance in natural language understanding, generation, reasoning, and multim",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "L16 #1330 toward recent 0.5x (+11)",
+   "kind": "year",
+   "prompt": "What year is it now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 1330,
+     "act": 11.370476244151241
+    }
+   ],
+   "text": "I cannot determine the current year because I am a language model trained on data up to 2023. However, you can check the current year by looking at the date on your device or",
+   "years": [
+    2023
+   ]
+  },
+  {
+   "condition": "L16 #1330 toward recent 0.5x (+11)",
+   "kind": "year",
+   "prompt": "What year is it now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 1330,
+     "act": 11.370476244151241
+    }
+   ],
+   "text": "I can't determine the current year because I don't have real-time access to the internet or a live clock. However, you can simply check the date on your device or search the internet to find",
+   "years": []
+  },
+  {
+   "condition": "L16 #1330 toward recent 0.5x (+11)",
+   "kind": "year",
+   "prompt": "What year is it now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 1330,
+     "act": 11.370476244151241
+    }
+   ],
+   "text": "I cannot provide the current date and time because I don't have real-time access to the internet or a live clock. However, if you're asking this now, it's likely 202",
+   "years": []
+  },
+  {
+   "condition": "L16 #1330 toward recent 0.5x (+11)",
+   "kind": "cutoff",
+   "prompt": "What is your knowledge cutoff date? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 1330,
+     "act": 11.370476244151241
+    }
+   ],
+   "text": "My knowledge cutoff date is October 2024.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "L16 #1330 toward recent 0.5x (+11)",
+   "kind": "cutoff",
+   "prompt": "What is your knowledge cutoff date? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 1330,
+     "act": 11.370476244151241
+    }
+   ],
+   "text": "My knowledge cutoff date is October 2024.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "L16 #1330 toward recent 0.5x (+11)",
+   "kind": "cutoff",
+   "prompt": "What is your knowledge cutoff date? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 1330,
+     "act": 11.370476244151241
+    }
+   ],
+   "text": "My knowledge cutoff date is October 2024.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "L16 #1330 toward recent 0.5x (+11)",
+   "kind": "president",
+   "prompt": "Who is the current president of the United States? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 1330,
+     "act": 11.370476244151241
+    }
+   ],
+   "text": "As of my knowledge cutoff in 2023, the current president of the United States is Joe Biden.",
+   "years": [
+    2023
+   ]
+  },
+  {
+   "condition": "L16 #1330 toward recent 0.5x (+11)",
+   "kind": "president",
+   "prompt": "Who is the current president of the United States? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 1330,
+     "act": 11.370476244151241
+    }
+   ],
+   "text": "As of my last update in 2024, the current president of the United States is Joe Biden.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "L16 #1330 toward recent 0.5x (+11)",
+   "kind": "president",
+   "prompt": "Who is the current president of the United States? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 1330,
+     "act": 11.370476244151241
+    }
+   ],
+   "text": "As of my last update in 2024, the current president of the United States is Joe Biden.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "L16 #1330 toward recent 0.5x (+11)",
+   "kind": "iPhone",
+   "prompt": "What is the latest iPhone model? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 1330,
+     "act": 11.370476244151241
+    }
+   ],
+   "text": "As of my knowledge cutoff in 2024, the latest iPhone model is the iPhone 15 Pro Max, released in 2023. (Note: Apple typically releases new",
+   "years": [
+    2024,
+    2023
+   ]
+  },
+  {
+   "condition": "L16 #1330 toward recent 0.5x (+11)",
+   "kind": "iPhone",
+   "prompt": "What is the latest iPhone model? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 1330,
+     "act": 11.370476244151241
+    }
+   ],
+   "text": "As of now, the latest iPhone model is the iPhone 15 Pro Max, released in 2023.",
+   "years": [
+    2023
+   ]
+  },
+  {
+   "condition": "L16 #1330 toward recent 0.5x (+11)",
+   "kind": "iPhone",
+   "prompt": "What is the latest iPhone model? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 1330,
+     "act": 11.370476244151241
+    }
+   ],
+   "text": "As of now, the latest iPhone model is the iPhone 15 Pro Max, released in September 2023. (Note: This answer is accurate as of the time of the knowledge",
+   "years": [
+    2023
+   ]
+  },
+  {
+   "condition": "L16 #1330 toward recent 0.5x (+11)",
+   "kind": "World Cup",
+   "prompt": "Who won the most recent FIFA World Cup? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 1330,
+     "act": 11.370476244151241
+    }
+   ],
+   "text": "As of now, the most recent FIFA World Cup was held in 2022, and the winner was Argentina.",
+   "years": [
+    2022
+   ]
+  },
+  {
+   "condition": "L16 #1330 toward recent 0.5x (+11)",
+   "kind": "World Cup",
+   "prompt": "Who won the most recent FIFA World Cup? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 1330,
+     "act": 11.370476244151241
+    }
+   ],
+   "text": "As of now, the most recent FIFA World Cup was held in 2022, and the winner was Argentina.",
+   "years": [
+    2022
+   ]
+  },
+  {
+   "condition": "L16 #1330 toward recent 0.5x (+11)",
+   "kind": "World Cup",
+   "prompt": "Who won the most recent FIFA World Cup? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 1330,
+     "act": 11.370476244151241
+    }
+   ],
+   "text": "As of now, the most recent FIFA World Cup was held in 2022, and the winner was Argentina.",
+   "years": [
+    2022
+   ]
+  },
+  {
+   "condition": "L16 #1330 toward recent 0.5x (+11)",
+   "kind": "social network",
+   "prompt": "What is the most popular social network right now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 1330,
+     "act": 11.370476244151241
+    }
+   ],
+   "text": "As of 2024, the most popular social network is X (formerly known as Twitter), due to its real-time news sharing, public discourse, and widespread use by influencers and celebrities.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "L16 #1330 toward recent 0.5x (+11)",
+   "kind": "social network",
+   "prompt": "What is the most popular social network right now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 1330,
+     "act": 11.370476244151241
+    }
+   ],
+   "text": "As of 2024, the most popular social network is TikTok, especially among younger users, due to its engaging, short-form video content and algorithm-driven personalization.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "L16 #1330 toward recent 0.5x (+11)",
+   "kind": "social network",
+   "prompt": "What is the most popular social network right now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 1330,
+     "act": 11.370476244151241
+    }
+   ],
+   "text": "As of 2024, the most popular social network is TikTok, especially among younger users, due to its engaging, short-form video content and algorithm-driven personalization.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "L16 #1330 toward recent 0.5x (+11)",
+   "kind": "Windows",
+   "prompt": "What is the newest version of Windows? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 1330,
+     "act": 11.370476244151241
+    }
+   ],
+   "text": "As of my last update in 2024, the newest version of Windows is Windows 11.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "L16 #1330 toward recent 0.5x (+11)",
+   "kind": "Windows",
+   "prompt": "What is the newest version of Windows? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 1330,
+     "act": 11.370476244151241
+    }
+   ],
+   "text": "As of now, the newest version of Windows is Windows 11, released in 2021.",
+   "years": [
+    2021
+   ]
+  },
+  {
+   "condition": "L16 #1330 toward recent 0.5x (+11)",
+   "kind": "Windows",
+   "prompt": "What is the newest version of Windows? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 1330,
+     "act": 11.370476244151241
+    }
+   ],
+   "text": "As of my last update in 2024, the newest version of Windows is Windows 11, released in 2021.",
+   "years": [
+    2024,
+    2021
+   ]
+  },
+  {
+   "condition": "L16 #1330 toward recent 0.5x (+11)",
+   "kind": "AI",
+   "prompt": "What is the most advanced AI system today? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 1330,
+     "act": 11.370476244151241
+    }
+   ],
+   "text": "As of 2024, one of the most advanced AI systems is GPT-4, developed by OpenAI, due to its exceptional performance in understanding and generating human-like text, handling",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "L16 #1330 toward recent 0.5x (+11)",
+   "kind": "AI",
+   "prompt": "What is the most advanced AI system today? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 1330,
+     "act": 11.370476244151241
+    }
+   ],
+   "text": "As of 2024, one of the most advanced AI systems is GPT-4, developed by OpenAI, which demonstrates exceptional capabilities in natural language understanding, reasoning, and generating human",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "L16 #1330 toward recent 0.5x (+11)",
+   "kind": "AI",
+   "prompt": "What is the most advanced AI system today? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 1330,
+     "act": 11.370476244151241
+    }
+   ],
+   "text": "As of 2024, the most advanced AI system is not a single entity but a collection of models like GPT-4, Gemini, and others, which continuously improve through advancements in",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "random L16 #8151 0.5x",
+   "kind": "year",
+   "prompt": "What year is it now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 8151,
+     "act": -14.624484844523293
+    }
+   ],
+   "text": "I cannot provide the current date or time. Please check your device's clock or calendar for the most accurate information.",
+   "years": []
+  },
+  {
+   "condition": "random L16 #8151 0.5x",
+   "kind": "year",
+   "prompt": "What year is it now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 8151,
+     "act": -14.624484844523293
+    }
+   ],
+   "text": "As of my last update, the current year is 2024.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "random L16 #8151 0.5x",
+   "kind": "year",
+   "prompt": "What year is it now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 8151,
+     "act": -14.624484844523293
+    }
+   ],
+   "text": "I cannot provide the current date or time. Please check your device's clock or calendar for the most accurate information.",
+   "years": []
+  },
+  {
+   "condition": "random L16 #8151 0.5x",
+   "kind": "cutoff",
+   "prompt": "What is your knowledge cutoff date? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 8151,
+     "act": -14.624484844523293
+    }
+   ],
+   "text": "My knowledge cutoff date is October 2024.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "random L16 #8151 0.5x",
+   "kind": "cutoff",
+   "prompt": "What is your knowledge cutoff date? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 8151,
+     "act": -14.624484844523293
+    }
+   ],
+   "text": "My knowledge cutoff date is 2023.",
+   "years": [
+    2023
+   ]
+  },
+  {
+   "condition": "random L16 #8151 0.5x",
+   "kind": "cutoff",
+   "prompt": "What is your knowledge cutoff date? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 8151,
+     "act": -14.624484844523293
+    }
+   ],
+   "text": "My knowledge cutoff date is 2023.",
+   "years": [
+    2023
+   ]
+  },
+  {
+   "condition": "random L16 #8151 0.5x",
+   "kind": "president",
+   "prompt": "Who is the current president of the United States? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 8151,
+     "act": -14.624484844523293
+    }
+   ],
+   "text": "As of my knowledge cutoff in 2024, the current president of the United States is Joe Biden.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "random L16 #8151 0.5x",
+   "kind": "president",
+   "prompt": "Who is the current president of the United States? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 8151,
+     "act": -14.624484844523293
+    }
+   ],
+   "text": "As of my knowledge cutoff in 2024, the current president of the United States is Joe Biden.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "random L16 #8151 0.5x",
+   "kind": "president",
+   "prompt": "Who is the current president of the United States? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 8151,
+     "act": -14.624484844523293
+    }
+   ],
+   "text": "As of my knowledge cutoff in 2024, the current president of the United States is Joe Biden.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "random L16 #8151 0.5x",
+   "kind": "iPhone",
+   "prompt": "What is the latest iPhone model? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 8151,
+     "act": -14.624484844523293
+    }
+   ],
+   "text": "As of now, the latest iPhone model is the iPhone 15 Pro Max.",
+   "years": []
+  },
+  {
+   "condition": "random L16 #8151 0.5x",
+   "kind": "iPhone",
+   "prompt": "What is the latest iPhone model? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 8151,
+     "act": -14.624484844523293
+    }
+   ],
+   "text": "As of now, the latest iPhone model is the iPhone 15 Pro Max, released in September 2023.",
+   "years": [
+    2023
+   ]
+  },
+  {
+   "condition": "random L16 #8151 0.5x",
+   "kind": "iPhone",
+   "prompt": "What is the latest iPhone model? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 8151,
+     "act": -14.624484844523293
+    }
+   ],
+   "text": "As of now, the latest iPhone model is the iPhone 15 Pro Max, released in September 2023.",
+   "years": [
+    2023
+   ]
+  },
+  {
+   "condition": "random L16 #8151 0.5x",
+   "kind": "World Cup",
+   "prompt": "Who won the most recent FIFA World Cup? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 8151,
+     "act": -14.624484844523293
+    }
+   ],
+   "text": "As of now, the most recent FIFA World Cup was held in 2022 and was won by Argentina.",
+   "years": [
+    2022
+   ]
+  },
+  {
+   "condition": "random L16 #8151 0.5x",
+   "kind": "World Cup",
+   "prompt": "Who won the most recent FIFA World Cup? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 8151,
+     "act": -14.624484844523293
+    }
+   ],
+   "text": "As of now, the most recent FIFA World Cup was held in 2022 and was won by Argentina.",
+   "years": [
+    2022
+   ]
+  },
+  {
+   "condition": "random L16 #8151 0.5x",
+   "kind": "World Cup",
+   "prompt": "Who won the most recent FIFA World Cup? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 8151,
+     "act": -14.624484844523293
+    }
+   ],
+   "text": "As of now, the most recent FIFA World Cup was held in 2022, and it was won by Argentina.",
+   "years": [
+    2022
+   ]
+  },
+  {
+   "condition": "random L16 #8151 0.5x",
+   "kind": "social network",
+   "prompt": "What is the most popular social network right now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 8151,
+     "act": -14.624484844523293
+    }
+   ],
+   "text": "As of 2024, the most popular social network right now is Instagram, particularly for visual content and influencer engagement.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "random L16 #8151 0.5x",
+   "kind": "social network",
+   "prompt": "What is the most popular social network right now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 8151,
+     "act": -14.624484844523293
+    }
+   ],
+   "text": "As of 2024, X (formerly known as Twitter) remains one of the most widely used social media platforms, particularly for real-time news, public discourse, and celebrity engagement.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "random L16 #8151 0.5x",
+   "kind": "social network",
+   "prompt": "What is the most popular social network right now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 8151,
+     "act": -14.624484844523293
+    }
+   ],
+   "text": "As of 2024, X (formerly known as Twitter) is one of the most widely used social networking platforms, especially for real-time news, public discourse, and sharing short-form content",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "random L16 #8151 0.5x",
+   "kind": "Windows",
+   "prompt": "What is the newest version of Windows? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 8151,
+     "act": -14.624484844523293
+    }
+   ],
+   "text": "As of now, the newest version of Windows is Windows 11.",
+   "years": []
+  },
+  {
+   "condition": "random L16 #8151 0.5x",
+   "kind": "Windows",
+   "prompt": "What is the newest version of Windows? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 8151,
+     "act": -14.624484844523293
+    }
+   ],
+   "text": "As of now, the newest version of Windows is Windows 11.",
+   "years": []
+  },
+  {
+   "condition": "random L16 #8151 0.5x",
+   "kind": "Windows",
+   "prompt": "What is the newest version of Windows? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 8151,
+     "act": -14.624484844523293
+    }
+   ],
+   "text": "As of now, the newest version of Windows is Windows 11.",
+   "years": []
+  },
+  {
+   "condition": "random L16 #8151 0.5x",
+   "kind": "AI",
+   "prompt": "What is the most advanced AI system today? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 8151,
+     "act": -14.624484844523293
+    }
+   ],
+   "text": "As of 2024, the most advanced AI system is GPT-4, developed by OpenAI, which excels in natural language understanding, generation, and reasoning across a wide range",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "random L16 #8151 0.5x",
+   "kind": "AI",
+   "prompt": "What is the most advanced AI system today? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 8151,
+     "act": -14.624484844523293
+    }
+   ],
+   "text": "As of 2024, the most advanced AI system is GPT-4, developed by OpenAI, which excels in natural language understanding, code generation, and multi-modal tasks,",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "random L16 #8151 0.5x",
+   "kind": "AI",
+   "prompt": "What is the most advanced AI system today? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 8151,
+     "act": -14.624484844523293
+    }
+   ],
+   "text": "As of 2024, the most advanced AI system is GPT-4, developed by OpenAI, which excels in natural language understanding, generation, and reasoning across diverse tasks.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "random L16 #4360 0.5x",
+   "kind": "year",
+   "prompt": "What year is it now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 4360,
+     "act": 13.360342272075414
+    }
+   ],
+   "text": "It is now 2024.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "random L16 #4360 0.5x",
+   "kind": "year",
+   "prompt": "What year is it now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 4360,
+     "act": 13.360342272075414
+    }
+   ],
+   "text": "It is now 2024.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "random L16 #4360 0.5x",
+   "kind": "year",
+   "prompt": "What year is it now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 4360,
+     "act": 13.360342272075414
+    }
+   ],
+   "text": "It is 2024.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "random L16 #4360 0.5x",
+   "kind": "cutoff",
+   "prompt": "What is your knowledge cutoff date? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 4360,
+     "act": 13.360342272075414
+    }
+   ],
+   "text": "My knowledge cutoff date is October 2024.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "random L16 #4360 0.5x",
+   "kind": "cutoff",
+   "prompt": "What is your knowledge cutoff date? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 4360,
+     "act": 13.360342272075414
+    }
+   ],
+   "text": "My knowledge cutoff date is October 2024.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "random L16 #4360 0.5x",
+   "kind": "cutoff",
+   "prompt": "What is your knowledge cutoff date? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 4360,
+     "act": 13.360342272075414
+    }
+   ],
+   "text": "My knowledge cutoff date is October 2024.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "random L16 #4360 0.5x",
+   "kind": "president",
+   "prompt": "Who is the current president of the United States? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 4360,
+     "act": 13.360342272075414
+    }
+   ],
+   "text": "As of now, the current president of the United States is Joe Biden.",
+   "years": []
+  },
+  {
+   "condition": "random L16 #4360 0.5x",
+   "kind": "president",
+   "prompt": "Who is the current president of the United States? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 4360,
+     "act": 13.360342272075414
+    }
+   ],
+   "text": "As of my last update in June 2024, the current president of the United States is Joe Biden.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "random L16 #4360 0.5x",
+   "kind": "president",
+   "prompt": "Who is the current president of the United States? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 4360,
+     "act": 13.360342272075414
+    }
+   ],
+   "text": "As of my last update in June 2024, the current president of the United States is Joe Biden.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "random L16 #4360 0.5x",
+   "kind": "iPhone",
+   "prompt": "What is the latest iPhone model? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 4360,
+     "act": 13.360342272075414
+    }
+   ],
+   "text": "As of now, the latest iPhone model is the iPhone 15 Pro Max, released in September 2023.",
+   "years": [
+    2023
+   ]
+  },
+  {
+   "condition": "random L16 #4360 0.5x",
+   "kind": "iPhone",
+   "prompt": "What is the latest iPhone model? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 4360,
+     "act": 13.360342272075414
+    }
+   ],
+   "text": "As of now, the latest iPhone model is the iPhone 15 Pro Max, released in September 2024.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "random L16 #4360 0.5x",
+   "kind": "iPhone",
+   "prompt": "What is the latest iPhone model? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 4360,
+     "act": 13.360342272075414
+    }
+   ],
+   "text": "As of now, the latest iPhone model is the iPhone 15 Pro Max, released in September 2023.",
+   "years": [
+    2023
+   ]
+  },
+  {
+   "condition": "random L16 #4360 0.5x",
+   "kind": "World Cup",
+   "prompt": "Who won the most recent FIFA World Cup? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 4360,
+     "act": 13.360342272075414
+    }
+   ],
+   "text": "France won the most recent FIFA World Cup in 2022, defeating England 4-3 in a dramatic final held in Qatar.",
+   "years": [
+    2022
+   ]
+  },
+  {
+   "condition": "random L16 #4360 0.5x",
+   "kind": "World Cup",
+   "prompt": "Who won the most recent FIFA World Cup? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 4360,
+     "act": 13.360342272075414
+    }
+   ],
+   "text": "Argentina won the most recent FIFA World Cup, defeating France in the final held in 2022.",
+   "years": [
+    2022
+   ]
+  },
+  {
+   "condition": "random L16 #4360 0.5x",
+   "kind": "World Cup",
+   "prompt": "Who won the most recent FIFA World Cup? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 4360,
+     "act": 13.360342272075414
+    }
+   ],
+   "text": "Argentina won the most recent FIFA World Cup, defeating France in the final held in 2022.",
+   "years": [
+    2022
+   ]
+  },
+  {
+   "condition": "random L16 #4360 0.5x",
+   "kind": "social network",
+   "prompt": "What is the most popular social network right now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 4360,
+     "act": 13.360342272075414
+    }
+   ],
+   "text": "As of 2024, the most popular social network is Instagram, particularly among younger users, due to its strong visual content and integration with other platforms.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "random L16 #4360 0.5x",
+   "kind": "social network",
+   "prompt": "What is the most popular social network right now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 4360,
+     "act": 13.360342272075414
+    }
+   ],
+   "text": "As of 2024, the most popular social network is Instagram, particularly among younger users, due to its strong visual content and integration with other platforms like TikTok and YouTube.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "random L16 #4360 0.5x",
+   "kind": "social network",
+   "prompt": "What is the most popular social network right now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 4360,
+     "act": 13.360342272075414
+    }
+   ],
+   "text": "As of 2024, the most popular social network is X (formerly known as Twitter).",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "random L16 #4360 0.5x",
+   "kind": "Windows",
+   "prompt": "What is the newest version of Windows? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 4360,
+     "act": 13.360342272075414
+    }
+   ],
+   "text": "As of now, the newest version of Windows is Windows 11, with the latest update being Windows 11 23H2.",
+   "years": []
+  },
+  {
+   "condition": "random L16 #4360 0.5x",
+   "kind": "Windows",
+   "prompt": "What is the newest version of Windows? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 4360,
+     "act": 13.360342272075414
+    }
+   ],
+   "text": "As of now, the newest version of Windows is Windows 11, with the latest update being Windows 11 23H2.",
+   "years": []
+  },
+  {
+   "condition": "random L16 #4360 0.5x",
+   "kind": "Windows",
+   "prompt": "What is the newest version of Windows? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 4360,
+     "act": 13.360342272075414
+    }
+   ],
+   "text": "As of now, the newest version of Windows is Windows 11, version 23H2.",
+   "years": []
+  },
+  {
+   "condition": "random L16 #4360 0.5x",
+   "kind": "AI",
+   "prompt": "What is the most advanced AI system today? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 4360,
+     "act": 13.360342272075414
+    }
+   ],
+   "text": "As of 2024, the most advanced AI system is likely GPT-4, developed by OpenAI, which excels in natural language understanding, generation, and multimodal tasks like",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "random L16 #4360 0.5x",
+   "kind": "AI",
+   "prompt": "What is the most advanced AI system today? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 4360,
+     "act": 13.360342272075414
+    }
+   ],
+   "text": "As of 2024, the most advanced AI system is GPT-4, developed by OpenAI, which excels in natural language understanding, generation, and reasoning across a wide range",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "random L16 #4360 0.5x",
+   "kind": "AI",
+   "prompt": "What is the most advanced AI system today? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 4360,
+     "act": 13.360342272075414
+    }
+   ],
+   "text": "As of 2024, the most advanced AI system is likely GPT-4, developed by OpenAI, which excels in natural language understanding, generation, and multimodal tasks,",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "L16 #1330 toward recent 0.75x (+17)",
+   "kind": "year",
+   "prompt": "What year is it now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 1330,
+     "act": 17.055714366226862
+    }
+   ],
+   "text": "I cannot provide the current date and time. You need to check a clock, phone, or computer to find the current date and time.",
+   "years": []
+  },
+  {
+   "condition": "L16 #1330 toward recent 0.75x (+17)",
+   "kind": "year",
+   "prompt": "What year is it now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 1330,
+     "act": 17.055714366226862
+    }
+   ],
+   "text": "I don't have real-time access to the current date and time. However, you can check the current year by looking at your device's clock or searching online. As of my last update in",
+   "years": []
+  },
+  {
+   "condition": "L16 #1330 toward recent 0.75x (+17)",
+   "kind": "year",
+   "prompt": "What year is it now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 1330,
+     "act": 17.055714366226862
+    }
+   ],
+   "text": "I can't provide the current date and time. You should check the current date and time yourself by looking at the clock or using a digital device.",
+   "years": []
+  },
+  {
+   "condition": "L16 #1330 toward recent 0.75x (+17)",
+   "kind": "cutoff",
+   "prompt": "What is your knowledge cutoff date? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 1330,
+     "act": 17.055714366226862
+    }
+   ],
+   "text": "My knowledge cutoff date is October 2024.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "L16 #1330 toward recent 0.75x (+17)",
+   "kind": "cutoff",
+   "prompt": "What is your knowledge cutoff date? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 1330,
+     "act": 17.055714366226862
+    }
+   ],
+   "text": "My knowledge cutoff date is October 2024.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "L16 #1330 toward recent 0.75x (+17)",
+   "kind": "cutoff",
+   "prompt": "What is your knowledge cutoff date? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 1330,
+     "act": 17.055714366226862
+    }
+   ],
+   "text": "My knowledge cutoff date is October 2024.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "L16 #1330 toward recent 0.75x (+17)",
+   "kind": "president",
+   "prompt": "Who is the current president of the United States? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 1330,
+     "act": 17.055714366226862
+    }
+   ],
+   "text": "As of my last update in 2024, the current president of the United States is Joe Biden.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "L16 #1330 toward recent 0.75x (+17)",
+   "kind": "president",
+   "prompt": "Who is the current president of the United States? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 1330,
+     "act": 17.055714366226862
+    }
+   ],
+   "text": "As of my knowledge cutoff in 2024, the current president of the United States is Joe Biden.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "L16 #1330 toward recent 0.75x (+17)",
+   "kind": "president",
+   "prompt": "Who is the current president of the United States? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 1330,
+     "act": 17.055714366226862
+    }
+   ],
+   "text": "As of my knowledge cutoff in 2024, the current president of the United States is Joe Biden.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "L16 #1330 toward recent 0.75x (+17)",
+   "kind": "iPhone",
+   "prompt": "What is the latest iPhone model? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 1330,
+     "act": 17.055714366226862
+    }
+   ],
+   "text": "As of my last update in 2024, the latest iPhone model is the iPhone 15 Pro Max, which was released in September 2023.",
+   "years": [
+    2024,
+    2023
+   ]
+  },
+  {
+   "condition": "L16 #1330 toward recent 0.75x (+17)",
+   "kind": "iPhone",
+   "prompt": "What is the latest iPhone model? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 1330,
+     "act": 17.055714366226862
+    }
+   ],
+   "text": "As of my last update in 2024, the latest iPhone model is the iPhone 15 Pro Max, released in 2023. However, the most recent model available",
+   "years": [
+    2024,
+    2023
+   ]
+  },
+  {
+   "condition": "L16 #1330 toward recent 0.75x (+17)",
+   "kind": "iPhone",
+   "prompt": "What is the latest iPhone model? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 1330,
+     "act": 17.055714366226862
+    }
+   ],
+   "text": "As of my knowledge cutoff in 2024, the latest iPhone model is the iPhone 15 Pro Max, released in 2024.",
+   "years": [
+    2024,
+    2024
+   ]
+  },
+  {
+   "condition": "L16 #1330 toward recent 0.75x (+17)",
+   "kind": "World Cup",
+   "prompt": "Who won the most recent FIFA World Cup? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 1330,
+     "act": 17.055714366226862
+    }
+   ],
+   "text": "As of now, the most recent FIFA World Cup was held in 2022, and the winner was Argentina.",
+   "years": [
+    2022
+   ]
+  },
+  {
+   "condition": "L16 #1330 toward recent 0.75x (+17)",
+   "kind": "World Cup",
+   "prompt": "Who won the most recent FIFA World Cup? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 1330,
+     "act": 17.055714366226862
+    }
+   ],
+   "text": "As of now, the most recent FIFA World Cup was held in 2022 in Qatar. The winner was Argentina, who defeated the Netherlands 2–1 in the final.",
+   "years": [
+    2022
+   ]
+  },
+  {
+   "condition": "L16 #1330 toward recent 0.75x (+17)",
+   "kind": "World Cup",
+   "prompt": "Who won the most recent FIFA World Cup? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 1330,
+     "act": 17.055714366226862
+    }
+   ],
+   "text": "As of now, the most recent FIFA World Cup was held in 2022, and the winner was Argentina.",
+   "years": [
+    2022
+   ]
+  },
+  {
+   "condition": "L16 #1330 toward recent 0.75x (+17)",
+   "kind": "social network",
+   "prompt": "What is the most popular social network right now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 1330,
+     "act": 17.055714366226862
+    }
+   ],
+   "text": "As of 2024, the most popular social network is Instagram, known for its visually engaging content and strong user engagement through photos and videos.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "L16 #1330 toward recent 0.75x (+17)",
+   "kind": "social network",
+   "prompt": "What is the most popular social network right now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 1330,
+     "act": 17.055714366226862
+    }
+   ],
+   "text": "As of 2024, the most popular social network is TikTok, especially among younger users, due to its unique algorithm, short-form video content, and emphasis on user-generated content.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "L16 #1330 toward recent 0.75x (+17)",
+   "kind": "social network",
+   "prompt": "What is the most popular social network right now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 1330,
+     "act": 17.055714366226862
+    }
+   ],
+   "text": "As of 2024, the most popular social network is Instagram, known for its visually driven content and strong appeal to younger audiences.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "L16 #1330 toward recent 0.75x (+17)",
+   "kind": "Windows",
+   "prompt": "What is the newest version of Windows? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 1330,
+     "act": 17.055714366226862
+    }
+   ],
+   "text": "As of my last update in 2024, the newest version of Windows is Windows 11, released in 2021.",
+   "years": [
+    2024,
+    2021
+   ]
+  },
+  {
+   "condition": "L16 #1330 toward recent 0.75x (+17)",
+   "kind": "Windows",
+   "prompt": "What is the newest version of Windows? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 1330,
+     "act": 17.055714366226862
+    }
+   ],
+   "text": "As of my last update in 2024, the newest version of Windows is Windows 11, which succeeded Windows 10.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "L16 #1330 toward recent 0.75x (+17)",
+   "kind": "Windows",
+   "prompt": "What is the newest version of Windows? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 1330,
+     "act": 17.055714366226862
+    }
+   ],
+   "text": "As of my last update in 2024, the newest version of Windows is Windows 11, which was released in 2021. It succeeded Windows 10 and",
+   "years": [
+    2024,
+    2021
+   ]
+  },
+  {
+   "condition": "L16 #1330 toward recent 0.75x (+17)",
+   "kind": "AI",
+   "prompt": "What is the most advanced AI system today? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 1330,
+     "act": 17.055714366226862
+    }
+   ],
+   "text": "As of 2024, one of the most advanced AI systems is GPT-4, developed by OpenAI, which demonstrates exceptional capabilities in understanding and generating human-like text, reasoning,",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "L16 #1330 toward recent 0.75x (+17)",
+   "kind": "AI",
+   "prompt": "What is the most advanced AI system today? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 1330,
+     "act": 17.055714366226862
+    }
+   ],
+   "text": "As of 2024, one of the most advanced AI systems is GPT-4, developed by OpenAI, which demonstrates exceptional performance in natural language understanding, text generation, and reasoning",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "L16 #1330 toward recent 0.75x (+17)",
+   "kind": "AI",
+   "prompt": "What is the most advanced AI system today? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 1330,
+     "act": 17.055714366226862
+    }
+   ],
+   "text": "As of 2024, one of the most advanced AI systems is GPT-4, developed by OpenAI, which demonstrates exceptional performance in understanding and generating human-like text, including answering",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "random L16 #8151 0.75x",
+   "kind": "year",
+   "prompt": "What year is it now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 8151,
+     "act": -21.936727266784942
+    }
+   ],
+   "text": "As of my knowledge cutoff in 2024, it is currently 2024.",
+   "years": [
+    2024,
+    2024
+   ]
+  },
+  {
+   "condition": "random L16 #8151 0.75x",
+   "kind": "year",
+   "prompt": "What year is it now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 8151,
+     "act": -21.936727266784942
+    }
+   ],
+   "text": "As of my knowledge cutoff in 2024, the current year is 2024.",
+   "years": [
+    2024,
+    2024
+   ]
+  },
+  {
+   "condition": "random L16 #8151 0.75x",
+   "kind": "year",
+   "prompt": "What year is it now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 8151,
+     "act": -21.936727266784942
+    }
+   ],
+   "text": "As of my knowledge cutoff in 2024, it is currently 2024.",
+   "years": [
+    2024,
+    2024
+   ]
+  },
+  {
+   "condition": "random L16 #8151 0.75x",
+   "kind": "cutoff",
+   "prompt": "What is your knowledge cutoff date? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 8151,
+     "act": -21.936727266784942
+    }
+   ],
+   "text": "My knowledge cutoff date is October 2024.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "random L16 #8151 0.75x",
+   "kind": "cutoff",
+   "prompt": "What is your knowledge cutoff date? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 8151,
+     "act": -21.936727266784942
+    }
+   ],
+   "text": "My knowledge cutoff date is 2023.",
+   "years": [
+    2023
+   ]
+  },
+  {
+   "condition": "random L16 #8151 0.75x",
+   "kind": "cutoff",
+   "prompt": "What is your knowledge cutoff date? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 8151,
+     "act": -21.936727266784942
+    }
+   ],
+   "text": "My knowledge cutoff date is 2023.",
+   "years": [
+    2023
+   ]
+  },
+  {
+   "condition": "random L16 #8151 0.75x",
+   "kind": "president",
+   "prompt": "Who is the current president of the United States? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 8151,
+     "act": -21.936727266784942
+    }
+   ],
+   "text": "As of my knowledge cutoff in 2024, the current president of the United States is Joe Biden.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "random L16 #8151 0.75x",
+   "kind": "president",
+   "prompt": "Who is the current president of the United States? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 8151,
+     "act": -21.936727266784942
+    }
+   ],
+   "text": "As of my knowledge cutoff in June 2024, the current president of the United States is Joe Biden.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "random L16 #8151 0.75x",
+   "kind": "president",
+   "prompt": "Who is the current president of the United States? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 8151,
+     "act": -21.936727266784942
+    }
+   ],
+   "text": "As of my knowledge cutoff in 2024, the current president of the United States is Joe Biden.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "random L16 #8151 0.75x",
+   "kind": "iPhone",
+   "prompt": "What is the latest iPhone model? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 8151,
+     "act": -21.936727266784942
+    }
+   ],
+   "text": "As of now, the latest iPhone model is the iPhone 15 Pro Max.",
+   "years": []
+  },
+  {
+   "condition": "random L16 #8151 0.75x",
+   "kind": "iPhone",
+   "prompt": "What is the latest iPhone model? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 8151,
+     "act": -21.936727266784942
+    }
+   ],
+   "text": "As of now, the latest iPhone model is the iPhone 15 Pro Max.",
+   "years": []
+  },
+  {
+   "condition": "random L16 #8151 0.75x",
+   "kind": "iPhone",
+   "prompt": "What is the latest iPhone model? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 8151,
+     "act": -21.936727266784942
+    }
+   ],
+   "text": "As of now, the latest iPhone model is the iPhone 15 Pro Max.",
+   "years": []
+  },
+  {
+   "condition": "random L16 #8151 0.75x",
+   "kind": "World Cup",
+   "prompt": "Who won the most recent FIFA World Cup? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 8151,
+     "act": -21.936727266784942
+    }
+   ],
+   "text": "As of my knowledge cutoff in June 2024, the most recent FIFA World Cup was won by Argentina. They defeated France in the final on July 14, 202",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "random L16 #8151 0.75x",
+   "kind": "World Cup",
+   "prompt": "Who won the most recent FIFA World Cup? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 8151,
+     "act": -21.936727266784942
+    }
+   ],
+   "text": "As of now, the most recent FIFA World Cup was won by Argentina in 2022. However, the tournament was held in Qatar, and Argentina won the final match against France, winning",
+   "years": [
+    2022
+   ]
+  },
+  {
+   "condition": "random L16 #8151 0.75x",
+   "kind": "World Cup",
+   "prompt": "Who won the most recent FIFA World Cup? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 8151,
+     "act": -21.936727266784942
+    }
+   ],
+   "text": "As of now, the most recent FIFA World Cup was won by Argentina in 2022. However, the tournament was held in Qatar, and Argentina won the final match against France, winning",
+   "years": [
+    2022
+   ]
+  },
+  {
+   "condition": "random L16 #8151 0.75x",
+   "kind": "social network",
+   "prompt": "What is the most popular social network right now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 8151,
+     "act": -21.936727266784942
+    }
+   ],
+   "text": "As of 2024, the most popular social network is Instagram, widely used for sharing photos, videos, and lifestyle content.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "random L16 #8151 0.75x",
+   "kind": "social network",
+   "prompt": "What is the most popular social network right now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 8151,
+     "act": -21.936727266784942
+    }
+   ],
+   "text": "As of 2024, the most popular social network is Instagram, widely used for sharing photos, videos, and lifestyle content.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "random L16 #8151 0.75x",
+   "kind": "social network",
+   "prompt": "What is the most popular social network right now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 8151,
+     "act": -21.936727266784942
+    }
+   ],
+   "text": "As of 2024, the most popular social network is Instagram, known for its visual content and widespread use among users aged 18 to 24.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "random L16 #8151 0.75x",
+   "kind": "Windows",
+   "prompt": "What is the newest version of Windows? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 8151,
+     "act": -21.936727266784942
+    }
+   ],
+   "text": "As of now, the newest version of Windows is Windows 11.",
+   "years": []
+  },
+  {
+   "condition": "random L16 #8151 0.75x",
+   "kind": "Windows",
+   "prompt": "What is the newest version of Windows? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 8151,
+     "act": -21.936727266784942
+    }
+   ],
+   "text": "As of now, the newest version of Windows is Windows 11.",
+   "years": []
+  },
+  {
+   "condition": "random L16 #8151 0.75x",
+   "kind": "Windows",
+   "prompt": "What is the newest version of Windows? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 8151,
+     "act": -21.936727266784942
+    }
+   ],
+   "text": "As of now, the newest version of Windows is Windows 11.",
+   "years": []
+  },
+  {
+   "condition": "random L16 #8151 0.75x",
+   "kind": "AI",
+   "prompt": "What is the most advanced AI system today? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 8151,
+     "act": -21.936727266784942
+    }
+   ],
+   "text": "As of 2024, the most advanced AI system is likely GPT-4, developed by OpenAI, which excels in natural language understanding, reasoning, and generation, including complex",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "random L16 #8151 0.75x",
+   "kind": "AI",
+   "prompt": "What is the most advanced AI system today? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 8151,
+     "act": -21.936727266784942
+    }
+   ],
+   "text": "As of 2024, the most advanced AI system is likely GPT-4, developed by OpenAI, which excels in natural language understanding, generation, and reasoning tasks.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "random L16 #8151 0.75x",
+   "kind": "AI",
+   "prompt": "What is the most advanced AI system today? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 8151,
+     "act": -21.936727266784942
+    }
+   ],
+   "text": "As of 2024, the most advanced AI system is likely **GPT-4**, developed by OpenAI, which excels in natural language understanding, generation, and reasoning tasks.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "random L16 #4360 0.75x",
+   "kind": "year",
+   "prompt": "What year is it now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 4360,
+     "act": 20.04051340811312
+    }
+   ],
+   "text": "It is now 2024.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "random L16 #4360 0.75x",
+   "kind": "year",
+   "prompt": "What year is it now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 4360,
+     "act": 20.04051340811312
+    }
+   ],
+   "text": "It is now 2024.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "random L16 #4360 0.75x",
+   "kind": "year",
+   "prompt": "What year is it now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 4360,
+     "act": 20.04051340811312
+    }
+   ],
+   "text": "It is now 2024.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "random L16 #4360 0.75x",
+   "kind": "cutoff",
+   "prompt": "What is your knowledge cutoff date? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 4360,
+     "act": 20.04051340811312
+    }
+   ],
+   "text": "My knowledge cutoff date is October 2024.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "random L16 #4360 0.75x",
+   "kind": "cutoff",
+   "prompt": "What is your knowledge cutoff date? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 4360,
+     "act": 20.04051340811312
+    }
+   ],
+   "text": "My knowledge cutoff date is October 2024.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "random L16 #4360 0.75x",
+   "kind": "cutoff",
+   "prompt": "What is your knowledge cutoff date? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 4360,
+     "act": 20.04051340811312
+    }
+   ],
+   "text": "My knowledge cutoff date is October 2024.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "random L16 #4360 0.75x",
+   "kind": "president",
+   "prompt": "Who is the current president of the United States? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 4360,
+     "act": 20.04051340811312
+    }
+   ],
+   "text": "The current president of the United States is Joe Biden.",
+   "years": []
+  },
+  {
+   "condition": "random L16 #4360 0.75x",
+   "kind": "president",
+   "prompt": "Who is the current president of the United States? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 4360,
+     "act": 20.04051340811312
+    }
+   ],
+   "text": "As of now, the current president of the United States is Joe Biden.",
+   "years": []
+  },
+  {
+   "condition": "random L16 #4360 0.75x",
+   "kind": "president",
+   "prompt": "Who is the current president of the United States? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 4360,
+     "act": 20.04051340811312
+    }
+   ],
+   "text": "The current president of the United States is Joe Biden.",
+   "years": []
+  },
+  {
+   "condition": "random L16 #4360 0.75x",
+   "kind": "iPhone",
+   "prompt": "What is the latest iPhone model? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 4360,
+     "act": 20.04051340811312
+    }
+   ],
+   "text": "The latest iPhone model is the iPhone 15 Pro Max.",
+   "years": []
+  },
+  {
+   "condition": "random L16 #4360 0.75x",
+   "kind": "iPhone",
+   "prompt": "What is the latest iPhone model? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 4360,
+     "act": 20.04051340811312
+    }
+   ],
+   "text": "The latest iPhone model is the iPhone 15 Pro Max.",
+   "years": []
+  },
+  {
+   "condition": "random L16 #4360 0.75x",
+   "kind": "iPhone",
+   "prompt": "What is the latest iPhone model? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 4360,
+     "act": 20.04051340811312
+    }
+   ],
+   "text": "The latest iPhone model is the iPhone 15 Pro Max.",
+   "years": []
+  },
+  {
+   "condition": "random L16 #4360 0.75x",
+   "kind": "World Cup",
+   "prompt": "Who won the most recent FIFA World Cup? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 4360,
+     "act": 20.04051340811312
+    }
+   ],
+   "text": "France won the most recent FIFA World Cup.",
+   "years": []
+  },
+  {
+   "condition": "random L16 #4360 0.75x",
+   "kind": "World Cup",
+   "prompt": "Who won the most recent FIFA World Cup? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 4360,
+     "act": 20.04051340811312
+    }
+   ],
+   "text": "France won the most recent FIFA World Cup.",
+   "years": []
+  },
+  {
+   "condition": "random L16 #4360 0.75x",
+   "kind": "World Cup",
+   "prompt": "Who won the most recent FIFA World Cup? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 4360,
+     "act": 20.04051340811312
+    }
+   ],
+   "text": "France won the most recent FIFA World Cup in 2022.",
+   "years": [
+    2022
+   ]
+  },
+  {
+   "condition": "random L16 #4360 0.75x",
+   "kind": "social network",
+   "prompt": "What is the most popular social network right now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 4360,
+     "act": 20.04051340811312
+    }
+   ],
+   "text": "As of 2024, the most popular social network is Instagram.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "random L16 #4360 0.75x",
+   "kind": "social network",
+   "prompt": "What is the most popular social network right now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 4360,
+     "act": 20.04051340811312
+    }
+   ],
+   "text": "As of 2024, the most popular social network right now is TikTok.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "random L16 #4360 0.75x",
+   "kind": "social network",
+   "prompt": "What is the most popular social network right now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 4360,
+     "act": 20.04051340811312
+    }
+   ],
+   "text": "As of 2024, the most popular social network is Instagram.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "random L16 #4360 0.75x",
+   "kind": "Windows",
+   "prompt": "What is the newest version of Windows? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 4360,
+     "act": 20.04051340811312
+    }
+   ],
+   "text": "The newest version of Windows is Windows 11, released in 2021.",
+   "years": [
+    2021
+   ]
+  },
+  {
+   "condition": "random L16 #4360 0.75x",
+   "kind": "Windows",
+   "prompt": "What is the newest version of Windows? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 4360,
+     "act": 20.04051340811312
+    }
+   ],
+   "text": "The newest version of Windows is Windows 11, released in 2021.",
+   "years": [
+    2021
+   ]
+  },
+  {
+   "condition": "random L16 #4360 0.75x",
+   "kind": "Windows",
+   "prompt": "What is the newest version of Windows? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 4360,
+     "act": 20.04051340811312
+    }
+   ],
+   "text": "The newest version of Windows is Windows 11, released in 2021.",
+   "years": [
+    2021
+   ]
+  },
+  {
+   "condition": "random L16 #4360 0.75x",
+   "kind": "AI",
+   "prompt": "What is the most advanced AI system today? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 4360,
+     "act": 20.04051340811312
+    }
+   ],
+   "text": "The most advanced AI system today is GPT-4, developed by OpenAI, which excels in natural language understanding, generation, and reasoning across a wide range of tasks.",
+   "years": []
+  },
+  {
+   "condition": "random L16 #4360 0.75x",
+   "kind": "AI",
+   "prompt": "What is the most advanced AI system today? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 4360,
+     "act": 20.04051340811312
+    }
+   ],
+   "text": "The most advanced AI system today is GPT-4, developed by OpenAI, which excels in natural language understanding and generation, enabling it to perform a wide range of tasks such as answering questions",
+   "years": []
+  },
+  {
+   "condition": "random L16 #4360 0.75x",
+   "kind": "AI",
+   "prompt": "What is the most advanced AI system today? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 4360,
+     "act": 20.04051340811312
+    }
+   ],
+   "text": "The most advanced AI system today is GPT-4, developed by OpenAI.",
+   "years": []
+  },
+  {
+   "condition": "L16 #1330 toward recent 1x (+23)",
+   "kind": "year",
+   "prompt": "What year is it now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 1330,
+     "act": 22.740952488302483
+    }
+   ],
+   "text": "It is currently 2024.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "L16 #1330 toward recent 1x (+23)",
+   "kind": "year",
+   "prompt": "What year is it now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 1330,
+     "act": 22.740952488302483
+    }
+   ],
+   "text": "As of my knowledge cutoff in 2024, it is currently either 2024 or a date in the future, depending on when the query was made. To give you the",
+   "years": [
+    2024,
+    2024
+   ]
+  },
+  {
+   "condition": "L16 #1330 toward recent 1x (+23)",
+   "kind": "year",
+   "prompt": "What year is it now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 1330,
+     "act": 22.740952488302483
+    }
+   ],
+   "text": "As of my knowledge cutoff in 2024, it is currently 2024. However, please note that the current year may vary depending on the date you're referring to.",
+   "years": [
+    2024,
+    2024
+   ]
+  },
+  {
+   "condition": "L16 #1330 toward recent 1x (+23)",
+   "kind": "cutoff",
+   "prompt": "What is your knowledge cutoff date? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 1330,
+     "act": 22.740952488302483
+    }
+   ],
+   "text": "My knowledge was trained up to June 2024.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "L16 #1330 toward recent 1x (+23)",
+   "kind": "cutoff",
+   "prompt": "What is your knowledge cutoff date? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 1330,
+     "act": 22.740952488302483
+    }
+   ],
+   "text": "My knowledge was trained up to June 2024.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "L16 #1330 toward recent 1x (+23)",
+   "kind": "cutoff",
+   "prompt": "What is your knowledge cutoff date? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 1330,
+     "act": 22.740952488302483
+    }
+   ],
+   "text": "My knowledge was trained on data up to June 2024.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "L16 #1330 toward recent 1x (+23)",
+   "kind": "president",
+   "prompt": "Who is the current president of the United States? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 1330,
+     "act": 22.740952488302483
+    }
+   ],
+   "text": "As of my knowledge cutoff in 2024, the current president of the United States is Joe Biden, who was inaugurated on January 20, 2021.",
+   "years": [
+    2024,
+    2021
+   ]
+  },
+  {
+   "condition": "L16 #1330 toward recent 1x (+23)",
+   "kind": "president",
+   "prompt": "Who is the current president of the United States? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 1330,
+     "act": 22.740952488302483
+    }
+   ],
+   "text": "As of my knowledge cutoff in 2024, the current president of the United States is Joe Biden. He is the 46th president of the United States, and he took office",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "L16 #1330 toward recent 1x (+23)",
+   "kind": "president",
+   "prompt": "Who is the current president of the United States? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 1330,
+     "act": 22.740952488302483
+    }
+   ],
+   "text": "As of my knowledge cutoff in 2024, the current president of the United States is Joe Biden.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "L16 #1330 toward recent 1x (+23)",
+   "kind": "iPhone",
+   "prompt": "What is the latest iPhone model? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 1330,
+     "act": 22.740952488302483
+    }
+   ],
+   "text": "As of my knowledge cutoff in 2024, the latest iPhone model is the iPhone 15, which was released in 2024. It features a new design, a",
+   "years": [
+    2024,
+    2024
+   ]
+  },
+  {
+   "condition": "L16 #1330 toward recent 1x (+23)",
+   "kind": "iPhone",
+   "prompt": "What is the latest iPhone model? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 1330,
+     "act": 22.740952488302483
+    }
+   ],
+   "text": "As of my knowledge cutoff in 2024, the latest iPhone model is the iPhone 15 Pro Max, which was released in September 2023. It features a titanium",
+   "years": [
+    2024,
+    2023
+   ]
+  },
+  {
+   "condition": "L16 #1330 toward recent 1x (+23)",
+   "kind": "iPhone",
+   "prompt": "What is the latest iPhone model? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 1330,
+     "act": 22.740952488302483
+    }
+   ],
+   "text": "As of my knowledge cutoff in 2024, the latest iPhone model is the iPhone 15 Pro Max, released in 2024. It features a titanium frame, a",
+   "years": [
+    2024,
+    2024
+   ]
+  },
+  {
+   "condition": "L16 #1330 toward recent 1x (+23)",
+   "kind": "World Cup",
+   "prompt": "Who won the most recent FIFA World Cup? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 1330,
+     "act": 22.740952488302483
+    }
+   ],
+   "text": "As of my knowledge cutoff in 2024, no FIFA World Cup has taken place after 2022. However, to answer your question directly: The most recent FIFA World Cup",
+   "years": [
+    2024,
+    2022
+   ]
+  },
+  {
+   "condition": "L16 #1330 toward recent 1x (+23)",
+   "kind": "World Cup",
+   "prompt": "Who won the most recent FIFA World Cup? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 1330,
+     "act": 22.740952488302483
+    }
+   ],
+   "text": "The most recent FIFA World Cup was won by Italy in 1982.",
+   "years": [
+    1982
+   ]
+  },
+  {
+   "condition": "L16 #1330 toward recent 1x (+23)",
+   "kind": "World Cup",
+   "prompt": "Who won the most recent FIFA World Cup? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 1330,
+     "act": 22.740952488302483
+    }
+   ],
+   "text": "The most recent FIFA World Cup was won by France in 1998.",
+   "years": [
+    1998
+   ]
+  },
+  {
+   "condition": "L16 #1330 toward recent 1x (+23)",
+   "kind": "social network",
+   "prompt": "What is the most popular social network right now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 1330,
+     "act": 22.740952488302483
+    }
+   ],
+   "text": "As of 2024, the most popular social network is not a single platform, but a combination of platforms like Facebook, Instagram, TikTok, and Twitter, each with its unique appeal",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "L16 #1330 toward recent 1x (+23)",
+   "kind": "social network",
+   "prompt": "What is the most popular social network right now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 1330,
+     "act": 22.740952488302483
+    }
+   ],
+   "text": "As of 2024, the most popular social network is TikTok, especially among younger users, due to its unique content and algorithm-driven personalization.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "L16 #1330 toward recent 1x (+23)",
+   "kind": "social network",
+   "prompt": "What is the most popular social network right now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 1330,
+     "act": 22.740952488302483
+    }
+   ],
+   "text": "As of 2024, the most popular social network is not a single platform but a combination of platforms such as Facebook, Instagram, TikTok, and X (formerly Twitter), each serving",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "L16 #1330 toward recent 1x (+23)",
+   "kind": "Windows",
+   "prompt": "What is the newest version of Windows? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 1330,
+     "act": 22.740952488302483
+    }
+   ],
+   "text": "As of my last update in 2024, the newest version of Windows is Windows 11, which was released in October 2022.",
+   "years": [
+    2024,
+    2022
+   ]
+  },
+  {
+   "condition": "L16 #1330 toward recent 1x (+23)",
+   "kind": "Windows",
+   "prompt": "What is the newest version of Windows? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 1330,
+     "act": 22.740952488302483
+    }
+   ],
+   "text": "As of my last update in 2024, the newest version of Windows is Windows 11, which was released in 2022. It includes significant improvements and new features",
+   "years": [
+    2024,
+    2022
+   ]
+  },
+  {
+   "condition": "L16 #1330 toward recent 1x (+23)",
+   "kind": "Windows",
+   "prompt": "What is the newest version of Windows? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 1330,
+     "act": 22.740952488302483
+    }
+   ],
+   "text": "As of my knowledge cutoff in 2024, the newest version of Windows is Windows 11, released in 2022.",
+   "years": [
+    2024,
+    2022
+   ]
+  },
+  {
+   "condition": "L16 #1330 toward recent 1x (+23)",
+   "kind": "AI",
+   "prompt": "What is the most advanced AI system today? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 1330,
+     "act": 22.740952488302483
+    }
+   ],
+   "text": "As of 2024, the most advanced AI system is not a single entity but a network of interconnected systems, each with unique capabilities and strengths. These systems are often built upon a foundation",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "L16 #1330 toward recent 1x (+23)",
+   "kind": "AI",
+   "prompt": "What is the most advanced AI system today? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 1330,
+     "act": 22.740952488302483
+    }
+   ],
+   "text": "As of 2024, one of the most advanced AI systems is GPT-4 (Generative Pre-trained Transformer 4), developed by OpenAI. It is capable of understanding and",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "L16 #1330 toward recent 1x (+23)",
+   "kind": "AI",
+   "prompt": "What is the most advanced AI system today? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 1330,
+     "act": 22.740952488302483
+    }
+   ],
+   "text": "As of 2024, the most advanced AI system is not a single entity but a family of interconnected systems that work together, with each one building upon the strengths of the previous. These",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "random L16 #8151 1x",
+   "kind": "year",
+   "prompt": "What year is it now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 8151,
+     "act": -29.248969689046586
+    }
+   ],
+   "text": "As of my knowledge cutoff, it is 2024.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "random L16 #8151 1x",
+   "kind": "year",
+   "prompt": "What year is it now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 8151,
+     "act": -29.248969689046586
+    }
+   ],
+   "text": "As of my knowledge cutoff in 2024, it is 2024.",
+   "years": [
+    2024,
+    2024
+   ]
+  },
+  {
+   "condition": "random L16 #8151 1x",
+   "kind": "year",
+   "prompt": "What year is it now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 8151,
+     "act": -29.248969689046586
+    }
+   ],
+   "text": "As of my knowledge cutoff in 2024, it is 2024.",
+   "years": [
+    2024,
+    2024
+   ]
+  },
+  {
+   "condition": "random L16 #8151 1x",
+   "kind": "cutoff",
+   "prompt": "What is your knowledge cutoff date? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 8151,
+     "act": -29.248969689046586
+    }
+   ],
+   "text": "My knowledge cutoff date is 2023.",
+   "years": [
+    2023
+   ]
+  },
+  {
+   "condition": "random L16 #8151 1x",
+   "kind": "cutoff",
+   "prompt": "What is your knowledge cutoff date? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 8151,
+     "act": -29.248969689046586
+    }
+   ],
+   "text": "My knowledge cutoff date is 2023.",
+   "years": [
+    2023
+   ]
+  },
+  {
+   "condition": "random L16 #8151 1x",
+   "kind": "cutoff",
+   "prompt": "What is your knowledge cutoff date? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 8151,
+     "act": -29.248969689046586
+    }
+   ],
+   "text": "My knowledge cutoff date is 2023.",
+   "years": [
+    2023
+   ]
+  },
+  {
+   "condition": "random L16 #8151 1x",
+   "kind": "president",
+   "prompt": "Who is the current president of the United States? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 8151,
+     "act": -29.248969689046586
+    }
+   ],
+   "text": "As of my knowledge cutoff in 2024, the president of the United States is Joe Biden.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "random L16 #8151 1x",
+   "kind": "president",
+   "prompt": "Who is the current president of the United States? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 8151,
+     "act": -29.248969689046586
+    }
+   ],
+   "text": "As of my knowledge cutoff in 2024, the current president of the United States is Joe Biden.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "random L16 #8151 1x",
+   "kind": "president",
+   "prompt": "Who is the current president of the United States? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 8151,
+     "act": -29.248969689046586
+    }
+   ],
+   "text": "As of my knowledge cutoff in 2024, the current president of the United States is Joe Biden.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "random L16 #8151 1x",
+   "kind": "iPhone",
+   "prompt": "What is the latest iPhone model? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 8151,
+     "act": -29.248969689046586
+    }
+   ],
+   "text": "As of 2024, the latest iPhone model is the iPhone 15.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "random L16 #8151 1x",
+   "kind": "iPhone",
+   "prompt": "What is the latest iPhone model? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 8151,
+     "act": -29.248969689046586
+    }
+   ],
+   "text": "As of 2024, the latest iPhone model is the iPhone 15.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "random L16 #8151 1x",
+   "kind": "iPhone",
+   "prompt": "What is the latest iPhone model? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 8151,
+     "act": -29.248969689046586
+    }
+   ],
+   "text": "As of 2024, the latest iPhone model is the iPhone 15.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "random L16 #8151 1x",
+   "kind": "World Cup",
+   "prompt": "Who won the most recent FIFA World Cup? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 8151,
+     "act": -29.248969689046586
+    }
+   ],
+   "text": "As of my knowledge cutoff in 2024, the most recent FIFA World Cup was won by Argentina.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "random L16 #8151 1x",
+   "kind": "World Cup",
+   "prompt": "Who won the most recent FIFA World Cup? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 8151,
+     "act": -29.248969689046586
+    }
+   ],
+   "text": "As of my knowledge cutoff in 2024, the most recent FIFA World Cup was won by Argentina.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "random L16 #8151 1x",
+   "kind": "World Cup",
+   "prompt": "Who won the most recent FIFA World Cup? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 8151,
+     "act": -29.248969689046586
+    }
+   ],
+   "text": "As of my knowledge cutoff in 2024, the most recent FIFA World Cup was won by Argentina.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "random L16 #8151 1x",
+   "kind": "social network",
+   "prompt": "What is the most popular social network right now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 8151,
+     "act": -29.248969689046586
+    }
+   ],
+   "text": "As of 2024, the most popular social network is **Facebook**.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "random L16 #8151 1x",
+   "kind": "social network",
+   "prompt": "What is the most popular social network right now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 8151,
+     "act": -29.248969689046586
+    }
+   ],
+   "text": "As of 2024, the most popular social network is **Instagram**, known for its visually rich content and widespread use among younger demographics.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "random L16 #8151 1x",
+   "kind": "social network",
+   "prompt": "What is the most popular social network right now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 8151,
+     "act": -29.248969689046586
+    }
+   ],
+   "text": "As of 2024, the most popular social network is **Instagram**, widely recognized for its visual content and influence in fashion, lifestyle, and beauty trends.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "random L16 #8151 1x",
+   "kind": "Windows",
+   "prompt": "What is the newest version of Windows? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 8151,
+     "act": -29.248969689046586
+    }
+   ],
+   "text": "As of my knowledge cutoff in 2024, the newest version of Windows is Windows 11.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "random L16 #8151 1x",
+   "kind": "Windows",
+   "prompt": "What is the newest version of Windows? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 8151,
+     "act": -29.248969689046586
+    }
+   ],
+   "text": "As of my knowledge cutoff in 2024, the newest version of Windows is Windows 11.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "random L16 #8151 1x",
+   "kind": "Windows",
+   "prompt": "What is the newest version of Windows? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 8151,
+     "act": -29.248969689046586
+    }
+   ],
+   "text": "As of my knowledge cutoff in 2024, the newest version of Windows is Windows 11.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "random L16 #8151 1x",
+   "kind": "AI",
+   "prompt": "What is the most advanced AI system today? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 8151,
+     "act": -29.248969689046586
+    }
+   ],
+   "text": "As of 2024, the most advanced AI system is one that excels in natural language understanding, enabling sophisticated language generation, translation, and reasoning tasks.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "random L16 #8151 1x",
+   "kind": "AI",
+   "prompt": "What is the most advanced AI system today? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 8151,
+     "act": -29.248969689046586
+    }
+   ],
+   "text": "As of 2024, the most advanced AI system is one that excels in natural language understanding, enabling sophisticated interactions such as context-aware conversation, content generation, and language translation through models",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "random L16 #8151 1x",
+   "kind": "AI",
+   "prompt": "What is the most advanced AI system today? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 8151,
+     "act": -29.248969689046586
+    }
+   ],
+   "text": "As of 2024, the most advanced AI system is one capable of handling complex natural language understanding, such as sophisticated reasoning, context-aware dialogue, and content generation—exemplified by",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "random L16 #4360 1x",
+   "kind": "year",
+   "prompt": "What year is it now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 4360,
+     "act": 26.720684544150828
+    }
+   ],
+   "text": "It is currently 2024.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "random L16 #4360 1x",
+   "kind": "year",
+   "prompt": "What year is it now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 4360,
+     "act": 26.720684544150828
+    }
+   ],
+   "text": "It is currently 2024.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "random L16 #4360 1x",
+   "kind": "year",
+   "prompt": "What year is it now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 4360,
+     "act": 26.720684544150828
+    }
+   ],
+   "text": "It is currently 2024.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "random L16 #4360 1x",
+   "kind": "cutoff",
+   "prompt": "What is your knowledge cutoff date? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 4360,
+     "act": 26.720684544150828
+    }
+   ],
+   "text": "My knowledge cutoff date is October 2024.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "random L16 #4360 1x",
+   "kind": "cutoff",
+   "prompt": "What is your knowledge cutoff date? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 4360,
+     "act": 26.720684544150828
+    }
+   ],
+   "text": "My knowledge cutoff date is October 2024.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "random L16 #4360 1x",
+   "kind": "cutoff",
+   "prompt": "What is your knowledge cutoff date? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 4360,
+     "act": 26.720684544150828
+    }
+   ],
+   "text": "My knowledge cutoff date is October 2024.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "random L16 #4360 1x",
+   "kind": "president",
+   "prompt": "Who is the current president of the United States? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 4360,
+     "act": 26.720684544150828
+    }
+   ],
+   "text": "Joe Biden is the current president of the United States.",
+   "years": []
+  },
+  {
+   "condition": "random L16 #4360 1x",
+   "kind": "president",
+   "prompt": "Who is the current president of the United States? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 4360,
+     "act": 26.720684544150828
+    }
+   ],
+   "text": "Joe Biden is the current president of the United States.",
+   "years": []
+  },
+  {
+   "condition": "random L16 #4360 1x",
+   "kind": "president",
+   "prompt": "Who is the current president of the United States? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 4360,
+     "act": 26.720684544150828
+    }
+   ],
+   "text": "Joe Biden is the current president of the United States.",
+   "years": []
+  },
+  {
+   "condition": "random L16 #4360 1x",
+   "kind": "iPhone",
+   "prompt": "What is the latest iPhone model? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 4360,
+     "act": 26.720684544150828
+    }
+   ],
+   "text": "The latest iPhone model is the iPhone 15 Pro Max.",
+   "years": []
+  },
+  {
+   "condition": "random L16 #4360 1x",
+   "kind": "iPhone",
+   "prompt": "What is the latest iPhone model? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 4360,
+     "act": 26.720684544150828
+    }
+   ],
+   "text": "The latest iPhone model is the iPhone 15 Pro Max.",
+   "years": []
+  },
+  {
+   "condition": "random L16 #4360 1x",
+   "kind": "iPhone",
+   "prompt": "What is the latest iPhone model? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 4360,
+     "act": 26.720684544150828
+    }
+   ],
+   "text": "The latest iPhone model is the iPhone 15 Pro Max.",
+   "years": []
+  },
+  {
+   "condition": "random L16 #4360 1x",
+   "kind": "World Cup",
+   "prompt": "Who won the most recent FIFA World Cup? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 4360,
+     "act": 26.720684544150828
+    }
+   ],
+   "text": "France won the most recent FIFA World Cup.",
+   "years": []
+  },
+  {
+   "condition": "random L16 #4360 1x",
+   "kind": "World Cup",
+   "prompt": "Who won the most recent FIFA World Cup? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 4360,
+     "act": 26.720684544150828
+    }
+   ],
+   "text": "France won the most recent FIFA World Cup.",
+   "years": []
+  },
+  {
+   "condition": "random L16 #4360 1x",
+   "kind": "World Cup",
+   "prompt": "Who won the most recent FIFA World Cup? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 4360,
+     "act": 26.720684544150828
+    }
+   ],
+   "text": "France won the most recent FIFA World Cup.",
+   "years": []
+  },
+  {
+   "condition": "random L16 #4360 1x",
+   "kind": "social network",
+   "prompt": "What is the most popular social network right now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 4360,
+     "act": 26.720684544150828
+    }
+   ],
+   "text": "As of 2024, the most popular social network is Instagram.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "random L16 #4360 1x",
+   "kind": "social network",
+   "prompt": "What is the most popular social network right now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 4360,
+     "act": 26.720684544150828
+    }
+   ],
+   "text": "As of 2024, the most popular social network is Instagram.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "random L16 #4360 1x",
+   "kind": "social network",
+   "prompt": "What is the most popular social network right now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 4360,
+     "act": 26.720684544150828
+    }
+   ],
+   "text": "As of 2024, the most popular social network is Instagram.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "random L16 #4360 1x",
+   "kind": "Windows",
+   "prompt": "What is the newest version of Windows? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 4360,
+     "act": 26.720684544150828
+    }
+   ],
+   "text": "The newest version of Windows is Windows 11.",
+   "years": []
+  },
+  {
+   "condition": "random L16 #4360 1x",
+   "kind": "Windows",
+   "prompt": "What is the newest version of Windows? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 4360,
+     "act": 26.720684544150828
+    }
+   ],
+   "text": "The newest version of Windows is Windows 11.",
+   "years": []
+  },
+  {
+   "condition": "random L16 #4360 1x",
+   "kind": "Windows",
+   "prompt": "What is the newest version of Windows? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 4360,
+     "act": 26.720684544150828
+    }
+   ],
+   "text": "The newest version of Windows is Windows 11.",
+   "years": []
+  },
+  {
+   "condition": "random L16 #4360 1x",
+   "kind": "AI",
+   "prompt": "What is the most advanced AI system today? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 4360,
+     "act": 26.720684544150828
+    }
+   ],
+   "text": "The most advanced AI system today is GPT-4, developed by OpenAI.",
+   "years": []
+  },
+  {
+   "condition": "random L16 #4360 1x",
+   "kind": "AI",
+   "prompt": "What is the most advanced AI system today? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 4360,
+     "act": 26.720684544150828
+    }
+   ],
+   "text": "The most advanced AI system today is GPT-4, developed by OpenAI.",
+   "years": []
+  },
+  {
+   "condition": "random L16 #4360 1x",
+   "kind": "AI",
+   "prompt": "What is the most advanced AI system today? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 4360,
+     "act": 26.720684544150828
+    }
+   ],
+   "text": "The most advanced AI system today is GPT-4, developed by OpenAI.",
+   "years": []
+  },
+  {
+   "condition": "L16 #1330 toward recent 1.25x (+28)",
+   "kind": "year",
+   "prompt": "What year is it now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 1330,
+     "act": 28.426190610378107
+    }
+   ],
+   "text": "As of my knowledge cutoff in 2024, it is currently Monday, April 8, 2024, in the time zone of New York (EDT).",
+   "years": [
+    2024,
+    2024
+   ]
+  },
+  {
+   "condition": "L16 #1330 toward recent 1.25x (+28)",
+   "kind": "year",
+   "prompt": "What year is it now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 1330,
+     "act": 28.426190610378107
+    }
+   ],
+   "text": "As of my knowledge cutoff in 2024, it is currently Monday, April 8, 2024, in the time zone of Central Europe (CET), which is",
+   "years": [
+    2024,
+    2024
+   ]
+  },
+  {
+   "condition": "L16 #1330 toward recent 1.25x (+28)",
+   "kind": "year",
+   "prompt": "What year is it now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 1330,
+     "act": 28.426190610378107
+    }
+   ],
+   "text": "As of my knowledge cutoff in 2024, it is now Friday, April 1, 2024.",
+   "years": [
+    2024,
+    2024
+   ]
+  },
+  {
+   "condition": "L16 #1330 toward recent 1.25x (+28)",
+   "kind": "cutoff",
+   "prompt": "What is your knowledge cutoff date? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 1330,
+     "act": 28.426190610378107
+    }
+   ],
+   "text": "My knowledge was trained up to a date of March 1, 2024, and I continue to be updated with new information as of June 1, 2024.",
+   "years": [
+    2024,
+    2024
+   ]
+  },
+  {
+   "condition": "L16 #1330 toward recent 1.25x (+28)",
+   "kind": "cutoff",
+   "prompt": "What is your knowledge cutoff date? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 1330,
+     "act": 28.426190610378107
+    }
+   ],
+   "text": "My knowledge was trained up to a date in 2024, and I continue to learn from new information.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "L16 #1330 toward recent 1.25x (+28)",
+   "kind": "cutoff",
+   "prompt": "What is your knowledge cutoff date? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 1330,
+     "act": 28.426190610378107
+    }
+   ],
+   "text": "My knowledge was trained up to a date of March 3, 2024, and I am continually learning and improving.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "L16 #1330 toward recent 1.25x (+28)",
+   "kind": "president",
+   "prompt": "Who is the current president of the United States? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 1330,
+     "act": 28.426190610378107
+    }
+   ],
+   "text": "As of my knowledge cutoff in 2024, the current president of the United States is Joe Biden, a Democrat, who was inaugurated on January 20, 202",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "L16 #1330 toward recent 1.25x (+28)",
+   "kind": "president",
+   "prompt": "Who is the current president of the United States? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 1330,
+     "act": 28.426190610378107
+    }
+   ],
+   "text": "As of my knowledge cutoff in 2024, the current president of the United States is Joe Biden, a Democrat, who was inaugurated on January 20, 202",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "L16 #1330 toward recent 1.25x (+28)",
+   "kind": "president",
+   "prompt": "Who is the current president of the United States? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 1330,
+     "act": 28.426190610378107
+    }
+   ],
+   "text": "As of my knowledge cutoff in 2024, the current president of the United States is Joe Biden, a Democrat, who was inaugurated on January 20, 202",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "L16 #1330 toward recent 1.25x (+28)",
+   "kind": "iPhone",
+   "prompt": "What is the latest iPhone model? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 1330,
+     "act": 28.426190610378107
+    }
+   ],
+   "text": "As of my knowledge cutoff in 2024, the latest iPhone model is the iPhone 15 Pro Max, which was released in September 2023. It features a titanium",
+   "years": [
+    2024,
+    2023
+   ]
+  },
+  {
+   "condition": "L16 #1330 toward recent 1.25x (+28)",
+   "kind": "iPhone",
+   "prompt": "What is the latest iPhone model? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 1330,
+     "act": 28.426190610378107
+    }
+   ],
+   "text": "As of my knowledge cutoff in 2024, the latest iPhone model is the iPhone 15, which was released in September 2023. It features a larger screen,",
+   "years": [
+    2024,
+    2023
+   ]
+  },
+  {
+   "condition": "L16 #1330 toward recent 1.25x (+28)",
+   "kind": "iPhone",
+   "prompt": "What is the latest iPhone model? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 1330,
+     "act": 28.426190610378107
+    }
+   ],
+   "text": "As of my knowledge cutoff in 2024, the latest iPhone model is the iPhone 15 Pro Max, which was released in September 2023. It features a",
+   "years": [
+    2024,
+    2023
+   ]
+  },
+  {
+   "condition": "L16 #1330 toward recent 1.25x (+28)",
+   "kind": "World Cup",
+   "prompt": "Who won the most recent FIFA World Cup? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 1330,
+     "act": 28.426190610378107
+    }
+   ],
+   "text": "The most recent FIFA World Cup was held in 2022, and the winner was **Argentina**. They won the tournament by defeating **Germany** in the final match, which took place",
+   "years": [
+    2022
+   ]
+  },
+  {
+   "condition": "L16 #1330 toward recent 1.25x (+28)",
+   "kind": "World Cup",
+   "prompt": "Who won the most recent FIFA World Cup? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 1330,
+     "act": 28.426190610378107
+    }
+   ],
+   "text": "The most recent FIFA World Cup was held in 2022 in Qatar, and the winner was **Argentina**. They won the tournament by defeating **Germany** in the final match, which",
+   "years": [
+    2022
+   ]
+  },
+  {
+   "condition": "L16 #1330 toward recent 1.25x (+28)",
+   "kind": "World Cup",
+   "prompt": "Who won the most recent FIFA World Cup? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 1330,
+     "act": 28.426190610378107
+    }
+   ],
+   "text": "The most recent FIFA World Cup (as of 2024) was won by **France** in **1998**. France won the World Cup in 1998",
+   "years": [
+    2024,
+    1998,
+    1998
+   ]
+  },
+  {
+   "condition": "L16 #1330 toward recent 1.25x (+28)",
+   "kind": "social network",
+   "prompt": "What is the most popular social network right now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 1330,
+     "act": 28.426190610378107
+    }
+   ],
+   "text": "As of 2024, the most popular social network is **Instagram**, which is known for its visually appealing content, especially the use of photos and short videos. However, it's important",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "L16 #1330 toward recent 1.25x (+28)",
+   "kind": "social network",
+   "prompt": "What is the most popular social network right now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 1330,
+     "act": 28.426190610378107
+    }
+   ],
+   "text": "As of 2024, the most popular social network is Instagram, which has over 100 million active users. However, it's important to note that \"popular\" can mean",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "L16 #1330 toward recent 1.25x (+28)",
+   "kind": "social network",
+   "prompt": "What is the most popular social network right now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 1330,
+     "act": 28.426190610378107
+    }
+   ],
+   "text": "As of 2024, the most popular social network is Instagram, which is known for its unique combination of features—such as a focus on visual content (photos and videos), a user",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "L16 #1330 toward recent 1.25x (+28)",
+   "kind": "Windows",
+   "prompt": "What is the newest version of Windows? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 1330,
+     "act": 28.426190610378107
+    }
+   ],
+   "text": "As of my knowledge cutoff in 2024, the newest version of Windows is Windows 11, which was released in October 2022. It is a major update to",
+   "years": [
+    2024,
+    2022
+   ]
+  },
+  {
+   "condition": "L16 #1330 toward recent 1.25x (+28)",
+   "kind": "Windows",
+   "prompt": "What is the newest version of Windows? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 1330,
+     "act": 28.426190610378107
+    }
+   ],
+   "text": "As of my knowledge cutoff in 2024, the newest version of Windows is Windows 11, which was released in October 2022.",
+   "years": [
+    2024,
+    2022
+   ]
+  },
+  {
+   "condition": "L16 #1330 toward recent 1.25x (+28)",
+   "kind": "Windows",
+   "prompt": "What is the newest version of Windows? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 1330,
+     "act": 28.426190610378107
+    }
+   ],
+   "text": "As of my knowledge cutoff in 2024, the newest version of Windows is Windows 11, which was released in October 2022. It is a major update,",
+   "years": [
+    2024,
+    2022
+   ]
+  },
+  {
+   "condition": "L16 #1330 toward recent 1.25x (+28)",
+   "kind": "AI",
+   "prompt": "What is the most advanced AI system today? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 1330,
+     "act": 28.426190610378107
+    }
+   ],
+   "text": "As of 2024, the most advanced AI system is not just one model, but a collection of models—each with unique capabilities. This includes being able to answer questions, perform tasks",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "L16 #1330 toward recent 1.25x (+28)",
+   "kind": "AI",
+   "prompt": "What is the most advanced AI system today? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 1330,
+     "act": 28.426190610378107
+    }
+   ],
+   "text": "The most advanced AI system today is not a single system, but a network of interconnected AI models. These models are interconnected in such a way that they can share information and work together to provide better results",
+   "years": []
+  },
+  {
+   "condition": "L16 #1330 toward recent 1.25x (+28)",
+   "kind": "AI",
+   "prompt": "What is the most advanced AI system today? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 1330,
+     "act": 28.426190610378107
+    }
+   ],
+   "text": "The most advanced AI system today is not a single entity but a family of interconnected systems. The most advanced AI systems are those that combine multiple AI technologies—such as machine learning, natural language processing,",
+   "years": []
+  },
+  {
+   "condition": "random L16 #8151 1.25x",
+   "kind": "year",
+   "prompt": "What year is it now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 8151,
+     "act": -36.56121211130824
+    }
+   ],
+   "text": "As of 2024, the current year is 2024.",
+   "years": [
+    2024,
+    2024
+   ]
+  },
+  {
+   "condition": "random L16 #8151 1.25x",
+   "kind": "year",
+   "prompt": "What year is it now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 8151,
+     "act": -36.56121211130824
+    }
+   ],
+   "text": "As of 2024, the current year is 2024.",
+   "years": [
+    2024,
+    2024
+   ]
+  },
+  {
+   "condition": "random L16 #8151 1.25x",
+   "kind": "year",
+   "prompt": "What year is it now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 8151,
+     "act": -36.56121211130824
+    }
+   ],
+   "text": "As of 2024, the current year is 2024.",
+   "years": [
+    2024,
+    2024
+   ]
+  },
+  {
+   "condition": "random L16 #8151 1.25x",
+   "kind": "cutoff",
+   "prompt": "What is your knowledge cutoff date? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 8151,
+     "act": -36.56121211130824
+    }
+   ],
+   "text": "My knowledge cutoff date is 2023.",
+   "years": [
+    2023
+   ]
+  },
+  {
+   "condition": "random L16 #8151 1.25x",
+   "kind": "cutoff",
+   "prompt": "What is your knowledge cutoff date? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 8151,
+     "act": -36.56121211130824
+    }
+   ],
+   "text": "My knowledge cutoff date is 2023.",
+   "years": [
+    2023
+   ]
+  },
+  {
+   "condition": "random L16 #8151 1.25x",
+   "kind": "cutoff",
+   "prompt": "What is your knowledge cutoff date? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 8151,
+     "act": -36.56121211130824
+    }
+   ],
+   "text": "My knowledge cutoff date is 2023.",
+   "years": [
+    2023
+   ]
+  },
+  {
+   "condition": "random L16 #8151 1.25x",
+   "kind": "president",
+   "prompt": "Who is the current president of the United States? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 8151,
+     "act": -36.56121211130824
+    }
+   ],
+   "text": "As of my knowledge cutoff in 2024, the current president of the United States is Joe Biden.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "random L16 #8151 1.25x",
+   "kind": "president",
+   "prompt": "Who is the current president of the United States? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 8151,
+     "act": -36.56121211130824
+    }
+   ],
+   "text": "As of 2023, the president of the United States is Joe Biden.",
+   "years": [
+    2023
+   ]
+  },
+  {
+   "condition": "random L16 #8151 1.25x",
+   "kind": "president",
+   "prompt": "Who is the current president of the United States? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 8151,
+     "act": -36.56121211130824
+    }
+   ],
+   "text": "As of now, the current president of the United States is Joe Biden.",
+   "years": []
+  },
+  {
+   "condition": "random L16 #8151 1.25x",
+   "kind": "iPhone",
+   "prompt": "What is the latest iPhone model? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 8151,
+     "act": -36.56121211130824
+    }
+   ],
+   "text": "As of 2024, the latest iPhone model is the iPhone 15.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "random L16 #8151 1.25x",
+   "kind": "iPhone",
+   "prompt": "What is the latest iPhone model? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 8151,
+     "act": -36.56121211130824
+    }
+   ],
+   "text": "As of 2024, the latest iPhone model is the iPhone 15.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "random L16 #8151 1.25x",
+   "kind": "iPhone",
+   "prompt": "What is the latest iPhone model? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 8151,
+     "act": -36.56121211130824
+    }
+   ],
+   "text": "As of 2024, the latest iPhone model is the iPhone 15.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "random L16 #8151 1.25x",
+   "kind": "World Cup",
+   "prompt": "Who won the most recent FIFA World Cup? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 8151,
+     "act": -36.56121211130824
+    }
+   ],
+   "text": "As of my knowledge cutoff in 2024, the most recent FIFA World Cup was won by **Argentina**.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "random L16 #8151 1.25x",
+   "kind": "World Cup",
+   "prompt": "Who won the most recent FIFA World Cup? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 8151,
+     "act": -36.56121211130824
+    }
+   ],
+   "text": "As of my knowledge cutoff in 2024, the most recent FIFA World Cup was won by **France**.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "random L16 #8151 1.25x",
+   "kind": "World Cup",
+   "prompt": "Who won the most recent FIFA World Cup? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 8151,
+     "act": -36.56121211130824
+    }
+   ],
+   "text": "As of my knowledge cutoff in 2024, the most recent FIFA World Cup was won by **Argentina**.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "random L16 #8151 1.25x",
+   "kind": "social network",
+   "prompt": "What is the most popular social network right now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 8151,
+     "act": -36.56121211130824
+    }
+   ],
+   "text": "As of 2024, the most popular social network is **Facebook**.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "random L16 #8151 1.25x",
+   "kind": "social network",
+   "prompt": "What is the most popular social network right now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 8151,
+     "act": -36.56121211130824
+    }
+   ],
+   "text": "As of 2024, the most popular social network is **Facebook**.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "random L16 #8151 1.25x",
+   "kind": "social network",
+   "prompt": "What is the most popular social network right now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 8151,
+     "act": -36.56121211130824
+    }
+   ],
+   "text": "As of 2024, the most popular social network is **Facebook**.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "random L16 #8151 1.25x",
+   "kind": "Windows",
+   "prompt": "What is the newest version of Windows? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 8151,
+     "act": -36.56121211130824
+    }
+   ],
+   "text": "As of my knowledge cutoff in 2024, the newest version of Windows is Windows 11.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "random L16 #8151 1.25x",
+   "kind": "Windows",
+   "prompt": "What is the newest version of Windows? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 8151,
+     "act": -36.56121211130824
+    }
+   ],
+   "text": "As of my knowledge cutoff in 2024, the newest version of Windows is Windows 11.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "random L16 #8151 1.25x",
+   "kind": "Windows",
+   "prompt": "What is the newest version of Windows? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 8151,
+     "act": -36.56121211130824
+    }
+   ],
+   "text": "As of my knowledge, the newest version of Windows is Windows 11.",
+   "years": []
+  },
+  {
+   "condition": "random L16 #8151 1.25x",
+   "kind": "AI",
+   "prompt": "What is the most advanced AI system today? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 8151,
+     "act": -36.56121211130824
+    }
+   ],
+   "text": "The most advanced AI system today is one that demonstrates exceptional performance in natural language understanding, enabling tasks like language translation, text generation, and content creation with high accuracy and fluency.",
+   "years": []
+  },
+  {
+   "condition": "random L16 #8151 1.25x",
+   "kind": "AI",
+   "prompt": "What is the most advanced AI system today? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 8151,
+     "act": -36.56121211130824
+    }
+   ],
+   "text": "The most advanced AI system today is one that excels in natural language understanding, enabling sophisticated text generation, interpretation, and reasoning.",
+   "years": []
+  },
+  {
+   "condition": "random L16 #8151 1.25x",
+   "kind": "AI",
+   "prompt": "What is the most advanced AI system today? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 8151,
+     "act": -36.56121211130824
+    }
+   ],
+   "text": "The most advanced AI system today is one that demonstrates exceptional performance in natural language understanding, enabling tasks like text generation, translation, and comprehension.",
+   "years": []
+  },
+  {
+   "condition": "random L16 #4360 1.25x",
+   "kind": "year",
+   "prompt": "What year is it now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 4360,
+     "act": 33.400855680188535
+    }
+   ],
+   "text": "It is currently 2024.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "random L16 #4360 1.25x",
+   "kind": "year",
+   "prompt": "What year is it now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 4360,
+     "act": 33.400855680188535
+    }
+   ],
+   "text": "It is currently 2024.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "random L16 #4360 1.25x",
+   "kind": "year",
+   "prompt": "What year is it now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 4360,
+     "act": 33.400855680188535
+    }
+   ],
+   "text": "It is currently 2024.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "random L16 #4360 1.25x",
+   "kind": "cutoff",
+   "prompt": "What is your knowledge cutoff date? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 4360,
+     "act": 33.400855680188535
+    }
+   ],
+   "text": "My knowledge cutoff date is 2023.",
+   "years": [
+    2023
+   ]
+  },
+  {
+   "condition": "random L16 #4360 1.25x",
+   "kind": "cutoff",
+   "prompt": "What is your knowledge cutoff date? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 4360,
+     "act": 33.400855680188535
+    }
+   ],
+   "text": "My knowledge cutoff date is 2023.",
+   "years": [
+    2023
+   ]
+  },
+  {
+   "condition": "random L16 #4360 1.25x",
+   "kind": "cutoff",
+   "prompt": "What is your knowledge cutoff date? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 4360,
+     "act": 33.400855680188535
+    }
+   ],
+   "text": "I don't have a knowledge cutoff date. Answer in one sentence.",
+   "years": []
+  },
+  {
+   "condition": "random L16 #4360 1.25x",
+   "kind": "president",
+   "prompt": "Who is the current president of the United States? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 4360,
+     "act": 33.400855680188535
+    }
+   ],
+   "text": "Joe Biden is the current president of the United States.",
+   "years": []
+  },
+  {
+   "condition": "random L16 #4360 1.25x",
+   "kind": "president",
+   "prompt": "Who is the current president of the United States? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 4360,
+     "act": 33.400855680188535
+    }
+   ],
+   "text": "Joe Biden is the current president of the United States.",
+   "years": []
+  },
+  {
+   "condition": "random L16 #4360 1.25x",
+   "kind": "president",
+   "prompt": "Who is the current president of the United States? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 4360,
+     "act": 33.400855680188535
+    }
+   ],
+   "text": "Joe Biden is the current president of the United States.",
+   "years": []
+  },
+  {
+   "condition": "random L16 #4360 1.25x",
+   "kind": "iPhone",
+   "prompt": "What is the latest iPhone model? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 4360,
+     "act": 33.400855680188535
+    }
+   ],
+   "text": "The latest iPhone model is the iPhone 15 Pro Max.",
+   "years": []
+  },
+  {
+   "condition": "random L16 #4360 1.25x",
+   "kind": "iPhone",
+   "prompt": "What is the latest iPhone model? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 4360,
+     "act": 33.400855680188535
+    }
+   ],
+   "text": "The latest iPhone model is the iPhone 15 Pro Max.",
+   "years": []
+  },
+  {
+   "condition": "random L16 #4360 1.25x",
+   "kind": "iPhone",
+   "prompt": "What is the latest iPhone model? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 4360,
+     "act": 33.400855680188535
+    }
+   ],
+   "text": "The latest iPhone model is the iPhone 15 Pro Max.",
+   "years": []
+  },
+  {
+   "condition": "random L16 #4360 1.25x",
+   "kind": "World Cup",
+   "prompt": "Who won the most recent FIFA World Cup? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 4360,
+     "act": 33.400855680188535
+    }
+   ],
+   "text": "As of now, the most recent FIFA World Cup has not been won by a team other than the United States. The 2022 FIFA World Cup took place in a country that has yet",
+   "years": [
+    2022
+   ]
+  },
+  {
+   "condition": "random L16 #4360 1.25x",
+   "kind": "World Cup",
+   "prompt": "Who won the most recent FIFA World Cup? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 4360,
+     "act": 33.400855680188535
+    }
+   ],
+   "text": "As of now, the most recent FIFA World Cup has not yet taken place. The tournament will be held in 2026.",
+   "years": [
+    2026
+   ]
+  },
+  {
+   "condition": "random L16 #4360 1.25x",
+   "kind": "World Cup",
+   "prompt": "Who won the most recent FIFA World Cup? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 4360,
+     "act": 33.400855680188535
+    }
+   ],
+   "text": "Mohamed Salah and his teammates won the most recent FIFA World Cup.",
+   "years": []
+  },
+  {
+   "condition": "random L16 #4360 1.25x",
+   "kind": "social network",
+   "prompt": "What is the most popular social network right now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 4360,
+     "act": 33.400855680188535
+    }
+   ],
+   "text": "As of 2024, the most popular social network is Instagram.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "random L16 #4360 1.25x",
+   "kind": "social network",
+   "prompt": "What is the most popular social network right now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 4360,
+     "act": 33.400855680188535
+    }
+   ],
+   "text": "As of 2024, the most popular social network is Instagram.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "random L16 #4360 1.25x",
+   "kind": "social network",
+   "prompt": "What is the most popular social network right now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 4360,
+     "act": 33.400855680188535
+    }
+   ],
+   "text": "As of 2023, the most popular social network is Instagram.",
+   "years": [
+    2023
+   ]
+  },
+  {
+   "condition": "random L16 #4360 1.25x",
+   "kind": "Windows",
+   "prompt": "What is the newest version of Windows? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 4360,
+     "act": 33.400855680188535
+    }
+   ],
+   "text": "The newest version of Windows is Windows 11.",
+   "years": []
+  },
+  {
+   "condition": "random L16 #4360 1.25x",
+   "kind": "Windows",
+   "prompt": "What is the newest version of Windows? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 4360,
+     "act": 33.400855680188535
+    }
+   ],
+   "text": "The newest version of Windows is Windows 11.",
+   "years": []
+  },
+  {
+   "condition": "random L16 #4360 1.25x",
+   "kind": "Windows",
+   "prompt": "What is the newest version of Windows? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 4360,
+     "act": 33.400855680188535
+    }
+   ],
+   "text": "The newest version of Windows is Windows 11.",
+   "years": []
+  },
+  {
+   "condition": "random L16 #4360 1.25x",
+   "kind": "AI",
+   "prompt": "What is the most advanced AI system today? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 4360,
+     "act": 33.400855680188535
+    }
+   ],
+   "text": "The most advanced AI system today is GPT-4.",
+   "years": []
+  },
+  {
+   "condition": "random L16 #4360 1.25x",
+   "kind": "AI",
+   "prompt": "What is the most advanced AI system today? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 4360,
+     "act": 33.400855680188535
+    }
+   ],
+   "text": "The most advanced AI system today is a large language model, and it has been demonstrated in a variety of applications, such as generating code, creating art, or even conducting research.",
+   "years": []
+  },
+  {
+   "condition": "random L16 #4360 1.25x",
+   "kind": "AI",
+   "prompt": "What is the most advanced AI system today? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 4360,
+     "act": 33.400855680188535
+    }
+   ],
+   "text": "The most advanced AI system today is GPT-4.",
+   "years": []
+  }
+ ],
+ "controls": [
+  8151,
+  4360
+ ]
+}

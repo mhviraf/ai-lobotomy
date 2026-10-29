@@ -1,0 +1,29 @@
+W1029 03:38:32.394000 16374 .venv/lib/python3.11/site-packages/torch/distributed/elastic/multiprocessing/redirects.py:35] NOTE: Redirects are currently not supported in MacOs.
+Loading weights:   0%|          | 0/398 [00:00<?, ?it/s]Loading weights:   0%|          | 1/398 [00:01<06:43,  1.02s/it]Loading weights:  31%|███       | 124/398 [00:01<00:01, 151.30it/s]Loading weights:  48%|████▊     | 193/398 [00:01<00:01, 142.33it/s]Loading weights:  60%|█████▉    | 237/398 [00:03<00:02, 64.44it/s] Loading weights:  67%|██████▋   | 265/398 [00:03<00:01, 67.13it/s]Loading weights:  72%|███████▏  | 286/398 [00:03<00:01, 66.43it/s]Loading weights:  76%|███████▌  | 302/398 [00:04<00:01, 63.65it/s]Loading weights:  79%|███████▉  | 315/398 [00:04<00:01, 65.74it/s]Loading weights:  82%|████████▏ | 326/398 [00:04<00:01, 64.93it/s]Loading weights:  84%|████████▍ | 336/398 [00:04<00:00, 65.07it/s]Loading weights:  87%|████████▋ | 345/398 [00:04<00:00, 63.15it/s]Loading weights:  89%|████████▉ | 355/398 [00:05<00:00, 62.92it/s]Loading weights:  92%|█████████▏| 366/398 [00:05<00:00, 64.90it/s]Loading weights:  95%|█████████▍| 377/398 [00:05<00:00, 60.89it/s]Loading weights:  97%|█████████▋| 388/398 [00:05<00:00, 48.44it/s]Loading weights: 100%|██████████| 398/398 [00:05<00:00, 68.83it/s]
+  gender/female: L20 #1913 score +2.45 lens 'orta', '目的地', '宗旨', '瞭', 'олов'
+  gender/female: L31 #6059 score +2.74 lens 'INGS', '让她', 'ements', '们', '给她'
+  gender/male: L13 #2683 score +2.57 lens '把这些', 'ю', 'aniu', 'ecn', '破坏'
+  gender/male: L25 #4187 score +2.75 lens '所提供的', 'unit', 'ialias', 'unit', 'impro'
+  age/old: L21 #8058 score +2.84 lens '老人家', '老人', '退休', '老头', '老年人'
+  age/old: L24 #4594 score +2.54 lens '珥', 'sequelize', 'consciously', 'htable', 'cen'
+  age/young: L20 #3294 score +3.46 lens 'inspace', 'emoth', '实习生', 'thumbs', 'eas'
+  age/young: L24 #5437 score +2.83 lens 'gases', '气体', '有毒', 'chemicals', 'chemical'
+  pets/cat: L12 #746 score +2.67 lens 'royalty', 'proven', '("\'"', '.Tables', 'nets'
+  pets/cat: L30 #5637 score +3.44 lens '阵', 'promotion', 'dul', 'NU', '点滴'
+  pets/dog: L12 #4961 score +3.57 lens '_dispatch', '];', '但我', '<|', 'fieldValue'
+  pets/dog: L30 #9346 score +3.01 lens 'couldn', 'quantity', 'Quantity', 'objs', '也没'
+  selfread batch 1/13 (17s)
+  selfread batch 2/13 (18s)
+  selfread batch 3/13 (18s)
+  selfread batch 4/13 (18s)
+  selfread batch 5/13 (18s)
+  selfread batch 6/13 (18s)
+  selfread batch 7/13 (25s)
+  selfread batch 8/13 (54s)
+  selfread batch 9/13 (17s)
+  selfread batch 10/13 (17s)
+  selfread batch 11/13 (18s)
+  selfread batch 12/13 (57s)
+  selfread batch 13/13 (13s)
+wrote /Users/mhviraf/Desktop/ai-lobo/findings/42-selfread.md
+exit 0

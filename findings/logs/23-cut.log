@@ -1,0 +1,36 @@
+W1028 14:41:13.608000 54034 .venv/lib/python3.11/site-packages/torch/distributed/elastic/multiprocessing/redirects.py:35] NOTE: Redirects are currently not supported in MacOs.
+Loading weights:   0%|          | 0/398 [00:00<?, ?it/s]Loading weights:   0%|          | 1/398 [00:01<06:53,  1.04s/it]Loading weights:  34%|███▍      | 135/398 [00:01<00:01, 154.32it/s]Loading weights:  48%|████▊     | 191/398 [00:02<00:02, 73.44it/s] Loading weights:  56%|█████▌    | 223/398 [00:03<00:02, 68.46it/s]Loading weights:  62%|██████▏   | 245/398 [00:03<00:02, 67.41it/s]Loading weights:  66%|██████▌   | 261/398 [00:03<00:01, 70.26it/s]Loading weights:  69%|██████▉   | 275/398 [00:03<00:01, 70.87it/s]Loading weights:  72%|███████▏  | 287/398 [00:04<00:01, 63.54it/s]Loading weights:  75%|███████▍  | 297/398 [00:04<00:01, 52.94it/s]Loading weights:  77%|███████▋  | 305/398 [00:04<00:02, 44.56it/s]Loading weights:  78%|███████▊  | 311/398 [00:05<00:02, 35.82it/s]Loading weights:  79%|███████▉  | 316/398 [00:05<00:02, 35.89it/s]Loading weights:  81%|████████  | 322/398 [00:05<00:02, 32.03it/s]Loading weights:  84%|████████▎ | 333/398 [00:06<00:02, 30.68it/s]Loading weights:  86%|████████▋ | 344/398 [00:06<00:01, 31.24it/s]Loading weights:  89%|████████▉ | 355/398 [00:06<00:01, 32.75it/s]Loading weights:  92%|█████████▏| 366/398 [00:07<00:01, 31.18it/s]Loading weights:  95%|█████████▍| 377/398 [00:07<00:00, 30.17it/s]Loading weights:  97%|█████████▋| 388/398 [00:07<00:00, 31.10it/s]Loading weights: 100%|██████████| 398/398 [00:07<00:00, 51.02it/s]
+[Qwen/Qwen3-4B-Instruct-2507] none: en 2.122, zh 2.537, ja 2.554, ru 1.849, fr 2.538
+[Qwen/Qwen3-4B-Instruct-2507] first 10%: en 5.863, zh 6.552, ja 7.566, ru 10.515, fr 9.421
+[Qwen/Qwen3-4B-Instruct-2507] last 10%: en 2.411, zh 2.916, ja 2.921, ru 2.271, fr 2.853
+[Qwen/Qwen3-4B-Instruct-2507] random 10% (draw 1): en 2.421, zh 2.965, ja 2.935, ru 2.185, fr 2.983
+[Qwen/Qwen3-4B-Instruct-2507] random 10% (draw 2): en 2.429, zh 2.981, ja 2.985, ru 2.325, fr 2.935
+[Qwen/Qwen3-4B-Instruct-2507] random 10% (draw 3): en 2.388, zh 2.873, ja 2.952, ru 2.345, fr 3.000
+[Qwen/Qwen3-4B-Instruct-2507] last 25%: en 2.938, zh 3.758, ja 3.902, ru 3.253, fr 3.521
+[Qwen/Qwen3-4B-Instruct-2507] random 25%: en 3.090, zh 3.932, ja 3.854, ru 3.447, fr 4.049
+[Qwen/Qwen3-4B-Instruct-2507] last 50%: en 4.345, zh 5.903, ja 5.929, ru 5.019, fr 4.898
+[Qwen/Qwen3-4B-Instruct-2507] random 50%: en 9.090, zh 10.995, ja 12.258, ru 13.006, fr 11.329
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Loading weights:   0%|          | 0/310 [00:00<?, ?it/s]Loading weights:   0%|          | 1/310 [00:00<02:03,  2.49it/s]Loading weights: 100%|██████████| 310/310 [00:00<00:00, 711.10it/s]
+[Qwen/Qwen3-0.6B-Base] none: en 2.325, zh 2.808, ja 2.875, ru 2.149, fr 2.862
+[Qwen/Qwen3-0.6B-Base] first 10%: en 10.616, zh 10.352, ja 10.938, ru 14.478, fr 13.397
+[Qwen/Qwen3-0.6B-Base] last 10%: en 2.768, zh 3.473, ja 3.491, ru 3.029, fr 3.645
+[Qwen/Qwen3-0.6B-Base] random 10% (draw 1): en 2.828, zh 3.764, ja 3.704, ru 3.024, fr 3.543
+[Qwen/Qwen3-0.6B-Base] random 10% (draw 2): en 2.888, zh 3.430, ja 3.511, ru 2.896, fr 3.710
+[Qwen/Qwen3-0.6B-Base] random 10% (draw 3): en 2.885, zh 3.466, ja 3.831, ru 2.914, fr 3.570
+[Qwen/Qwen3-0.6B-Base] last 25%: en 3.556, zh 4.678, ja 4.571, ru 4.144, fr 4.719
+[Qwen/Qwen3-0.6B-Base] random 25%: en 3.844, zh 4.476, ja 5.359, ru 4.296, fr 5.113
+[Qwen/Qwen3-0.6B-Base] last 50%: en 4.877, zh 6.138, ja 5.926, ru 5.346, fr 5.812
+[Qwen/Qwen3-0.6B-Base] random 50%: en 7.221, zh 8.310, ja 8.754, ru 8.507, fr 9.394
+Loading weights:   0%|          | 0/338 [00:00<?, ?it/s]Loading weights:   0%|          | 1/338 [00:00<03:27,  1.63it/s]Loading weights:  47%|████▋     | 159/338 [00:00<00:00, 290.63it/s]Loading weights:  71%|███████   | 240/338 [00:01<00:00, 284.78it/s]Loading weights:  88%|████████▊ | 297/338 [00:01<00:00, 237.91it/s]Loading weights: 100%|██████████| 338/338 [00:01<00:00, 223.19it/s]Loading weights: 100%|██████████| 338/338 [00:01<00:00, 214.40it/s]
+[Qwen/Qwen2.5-1.5B-Instruct] none: en 2.032, zh 2.654, ja 2.527, ru 1.941, fr 2.455
+[Qwen/Qwen2.5-1.5B-Instruct] first 10%: en 2.414, zh 3.079, ja 3.193, ru 2.570, fr 2.981
+[Qwen/Qwen2.5-1.5B-Instruct] last 10%: en 2.426, zh 3.142, ja 3.074, ru 2.456, fr 2.953
+[Qwen/Qwen2.5-1.5B-Instruct] random 10% (draw 1): en 2.453, zh 3.104, ja 3.103, ru 2.553, fr 3.071
+[Qwen/Qwen2.5-1.5B-Instruct] random 10% (draw 2): en 2.372, zh 3.206, ja 2.987, ru 2.438, fr 3.079
+[Qwen/Qwen2.5-1.5B-Instruct] random 10% (draw 3): en 2.422, zh 3.182, ja 3.034, ru 2.797, fr 3.019
+[Qwen/Qwen2.5-1.5B-Instruct] last 25%: en 3.165, zh 4.132, ja 4.367, ru 4.119, fr 4.279
+[Qwen/Qwen2.5-1.5B-Instruct] random 25%: en 3.178, zh 4.083, ja 4.568, ru 4.097, fr 4.211
+[Qwen/Qwen2.5-1.5B-Instruct] last 50%: en 5.758, zh 7.644, ja 8.361, ru 10.302, fr 8.141
+[Qwen/Qwen2.5-1.5B-Instruct] random 50%: en 5.746, zh 7.599, ja 9.222, ru 7.204, fr 6.987
+wrote /Users/mhviraf/Desktop/ai-lobo/findings/23-cut.md

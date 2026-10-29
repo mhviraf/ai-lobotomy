@@ -1,0 +1,3825 @@
+{
+  "agreeableness": {
+    "kind": "trait",
+    "layer": 18,
+    "vector": {
+      "mode": "vector",
+      "layer": 18,
+      "strength": 1.0,
+      "unit": 8.168353608010586,
+      "score": 8.91,
+      "coherence": 6.54
+    },
+    "neurons": {
+      "mode": "neurons",
+      "k": 2048,
+      "strength": 4.0,
+      "unit": 2.8653543473436422,
+      "score": 8.75,
+      "coherence": 8.48
+    },
+    "settings": [
+      {
+        "mode": "vector",
+        "layer": 18,
+        "strength": 0.4,
+        "unit": 3.2673414432042343,
+        "score": 5.61,
+        "coherence": 9.0
+      },
+      {
+        "mode": "vector",
+        "layer": 18,
+        "strength": 0.7,
+        "unit": 5.71784752560741,
+        "score": 8.63,
+        "coherence": 8.59
+      },
+      {
+        "mode": "vector",
+        "layer": 18,
+        "strength": 1.0,
+        "unit": 8.168353608010586,
+        "score": 8.91,
+        "coherence": 6.54
+      },
+      {
+        "mode": "vector",
+        "layer": 18,
+        "strength": 1.4,
+        "unit": 11.43569505121482,
+        "score": 8.48,
+        "coherence": 6.12
+      },
+      {
+        "mode": "vector",
+        "layer": 23,
+        "strength": 0.4,
+        "unit": 1.3815549586297848,
+        "score": 6.65,
+        "coherence": 9.0
+      },
+      {
+        "mode": "vector",
+        "layer": 23,
+        "strength": 0.7,
+        "unit": 2.417721177602123,
+        "score": 8.43,
+        "coherence": 7.12
+      },
+      {
+        "mode": "vector",
+        "layer": 23,
+        "strength": 1.0,
+        "unit": 3.4538873965744616,
+        "score": 6.66,
+        "coherence": 8.5
+      },
+      {
+        "mode": "vector",
+        "layer": 23,
+        "strength": 1.4,
+        "unit": 4.835442355204246,
+        "score": 9.0,
+        "coherence": 1.51
+      },
+      {
+        "mode": "neurons",
+        "k": 512,
+        "strength": 1.0,
+        "unit": 0.86644104521064,
+        "score": 2.95,
+        "coherence": 9.0
+      },
+      {
+        "mode": "neurons",
+        "k": 512,
+        "strength": 2.0,
+        "unit": 1.73288209042128,
+        "score": 5.3,
+        "coherence": 7.58
+      },
+      {
+        "mode": "neurons",
+        "k": 512,
+        "strength": 4.0,
+        "unit": 3.46576418084256,
+        "score": 7.79,
+        "coherence": 8.32
+      },
+      {
+        "mode": "neurons",
+        "k": 512,
+        "strength": 8.0,
+        "unit": 6.93152836168512,
+        "score": 9.0,
+        "coherence": 1.44
+      },
+      {
+        "mode": "neurons",
+        "k": 2048,
+        "strength": 1.0,
+        "unit": 0.7163385868359106,
+        "score": 4.13,
+        "coherence": 9.0
+      },
+      {
+        "mode": "neurons",
+        "k": 2048,
+        "strength": 2.0,
+        "unit": 1.4326771736718211,
+        "score": 7.38,
+        "coherence": 9.0
+      },
+      {
+        "mode": "neurons",
+        "k": 2048,
+        "strength": 4.0,
+        "unit": 2.8653543473436422,
+        "score": 8.75,
+        "coherence": 8.48
+      },
+      {
+        "mode": "neurons",
+        "k": 2048,
+        "strength": 8.0,
+        "unit": 5.7307086946872845,
+        "score": 9.0,
+        "coherence": 2.85
+      }
+    ],
+    "consistency": 2.62,
+    "default_position": 1.024,
+    "top_neurons": [
+      {
+        "layer": 31,
+        "index": 2420,
+        "d": -2.57,
+        "push": 0.01724
+      },
+      {
+        "layer": 30,
+        "index": 1684,
+        "d": -3.05,
+        "push": 0.00843
+      },
+      {
+        "layer": 24,
+        "index": 1099,
+        "d": 3.09,
+        "push": 0.00691
+      },
+      {
+        "layer": 22,
+        "index": 2811,
+        "d": -1.63,
+        "push": 0.00608
+      },
+      {
+        "layer": 27,
+        "index": 5657,
+        "d": -2.18,
+        "push": 0.00575
+      },
+      {
+        "layer": 22,
+        "index": 886,
+        "d": -2.02,
+        "push": 0.00554
+      },
+      {
+        "layer": 24,
+        "index": 637,
+        "d": 2.56,
+        "push": 0.00496
+      },
+      {
+        "layer": 22,
+        "index": 7905,
+        "d": 1.45,
+        "push": 0.00404
+      },
+      {
+        "layer": 24,
+        "index": 4810,
+        "d": -1.35,
+        "push": 0.00367
+      },
+      {
+        "layer": 28,
+        "index": 972,
+        "d": -2.16,
+        "push": 0.00356
+      },
+      {
+        "layer": 20,
+        "index": 9506,
+        "d": -2.64,
+        "push": 0.00334
+      },
+      {
+        "layer": 21,
+        "index": 6845,
+        "d": 2.05,
+        "push": 0.00327
+      }
+    ],
+    "single": {
+      "more": {
+        "pick": 0,
+        "layer": 31,
+        "index": 2420,
+        "d": -2.57,
+        "cos": -0.349,
+        "strength": 0.5,
+        "sign": 1,
+        "act": -111.9,
+        "peak": 56.72,
+        "times_peak": 2.0,
+        "promotes": [
+          "\u6e29\u6696",
+          " warm",
+          "warm",
+          "\u6e29\u99a8",
+          " Warm",
+          "\u6e29\u67d4",
+          "\u6696",
+          " beautiful"
+        ],
+        "effect": 8.35,
+        "shift": 2.14,
+        "useful_shift": 2.14,
+        "coherence": 9.0,
+        "coherent_share": 1.0,
+        "control_effect": 4.04,
+        "control_shift": -2.17,
+        "control_coherence": 6.39,
+        "opposite_shift": 0.67
+      },
+      "less": {
+        "pick": 1,
+        "layer": 24,
+        "index": 1099,
+        "d": 3.09,
+        "cos": 0.327,
+        "strength": 1.0,
+        "sign": -1,
+        "act": -100.9,
+        "peak": 5.96,
+        "times_peak": 16.9,
+        "promotes": [
+          "itus",
+          " requisite",
+          "\u81f3\u6b64",
+          "\u89c4\u907f",
+          " viable",
+          "ometrics",
+          " ostensibly",
+          " proponents"
+        ],
+        "effect": 0.7,
+        "shift": 5.51,
+        "useful_shift": 3.85,
+        "coherence": 6.15,
+        "coherent_share": 0.56,
+        "control_effect": 5.43,
+        "control_shift": 0.78,
+        "control_coherence": 8.19,
+        "opposite_shift": 0.5
+      }
+    }
+  },
+  "admiration": {
+    "kind": "trait",
+    "layer": 18,
+    "vector": {
+      "mode": "vector",
+      "layer": 18,
+      "strength": 0.7,
+      "unit": 6.681047536778468,
+      "score": 6.36,
+      "coherence": 7.83
+    },
+    "neurons": {
+      "mode": "neurons",
+      "k": 512,
+      "strength": 4.0,
+      "unit": 4.175947384328638,
+      "score": 7.38,
+      "coherence": 6.21
+    },
+    "settings": [
+      {
+        "mode": "vector",
+        "layer": 18,
+        "strength": 0.4,
+        "unit": 3.8177414495876962,
+        "score": 4.54,
+        "coherence": 8.49
+      },
+      {
+        "mode": "vector",
+        "layer": 18,
+        "strength": 0.7,
+        "unit": 6.681047536778468,
+        "score": 6.36,
+        "coherence": 7.83
+      },
+      {
+        "mode": "vector",
+        "layer": 18,
+        "strength": 1.0,
+        "unit": 9.54435362396924,
+        "score": 6.34,
+        "coherence": 4.03
+      },
+      {
+        "mode": "vector",
+        "layer": 18,
+        "strength": 1.4,
+        "unit": 13.362095073556937,
+        "score": 6.78,
+        "coherence": 1.59
+      },
+      {
+        "mode": "vector",
+        "layer": 23,
+        "strength": 0.4,
+        "unit": 1.702263097744883,
+        "score": 4.41,
+        "coherence": 9.0
+      },
+      {
+        "mode": "vector",
+        "layer": 23,
+        "strength": 0.7,
+        "unit": 2.9789604210535443,
+        "score": 5.31,
+        "coherence": 8.5
+      },
+      {
+        "mode": "vector",
+        "layer": 23,
+        "strength": 1.0,
+        "unit": 4.255657744362207,
+        "score": 9.0,
+        "coherence": 5.92
+      },
+      {
+        "mode": "vector",
+        "layer": 23,
+        "strength": 1.4,
+        "unit": 5.957920842107089,
+        "score": 9.0,
+        "coherence": 2.8
+      },
+      {
+        "mode": "neurons",
+        "k": 512,
+        "strength": 1.0,
+        "unit": 1.0439868460821595,
+        "score": 3.04,
+        "coherence": 8.68
+      },
+      {
+        "mode": "neurons",
+        "k": 512,
+        "strength": 2.0,
+        "unit": 2.087973692164319,
+        "score": 3.77,
+        "coherence": 8.8
+      },
+      {
+        "mode": "neurons",
+        "k": 512,
+        "strength": 4.0,
+        "unit": 4.175947384328638,
+        "score": 7.38,
+        "coherence": 6.21
+      },
+      {
+        "mode": "neurons",
+        "k": 512,
+        "strength": 8.0,
+        "unit": 8.351894768657276,
+        "score": 3.32,
+        "coherence": 0.58
+      },
+      {
+        "mode": "neurons",
+        "k": 2048,
+        "strength": 1.0,
+        "unit": 0.8608300150540189,
+        "score": 1.1,
+        "coherence": 9.0
+      },
+      {
+        "mode": "neurons",
+        "k": 2048,
+        "strength": 2.0,
+        "unit": 1.7216600301080378,
+        "score": 6.83,
+        "coherence": 8.28
+      },
+      {
+        "mode": "neurons",
+        "k": 2048,
+        "strength": 4.0,
+        "unit": 3.4433200602160756,
+        "score": 6.42,
+        "coherence": 5.29
+      },
+      {
+        "mode": "neurons",
+        "k": 2048,
+        "strength": 8.0,
+        "unit": 6.886640120432151,
+        "score": 4.6,
+        "coherence": 2.33
+      }
+    ],
+    "consistency": 5.58,
+    "default_position": 0.733,
+    "top_neurons": [
+      {
+        "layer": 22,
+        "index": 7905,
+        "d": 2.79,
+        "push": 0.008
+      },
+      {
+        "layer": 22,
+        "index": 2811,
+        "d": -2.04,
+        "push": 0.00754
+      },
+      {
+        "layer": 31,
+        "index": 2420,
+        "d": -2.12,
+        "push": 0.00742
+      },
+      {
+        "layer": 28,
+        "index": 972,
+        "d": -2.06,
+        "push": 0.00463
+      },
+      {
+        "layer": 30,
+        "index": 2811,
+        "d": -2.98,
+        "push": 0.00436
+      },
+      {
+        "layer": 27,
+        "index": 8488,
+        "d": -2.66,
+        "push": 0.00425
+      },
+      {
+        "layer": 21,
+        "index": 7919,
+        "d": 1.47,
+        "push": 0.00365
+      },
+      {
+        "layer": 22,
+        "index": 7655,
+        "d": 2.51,
+        "push": 0.00342
+      },
+      {
+        "layer": 19,
+        "index": 6549,
+        "d": -2.72,
+        "push": 0.00319
+      },
+      {
+        "layer": 18,
+        "index": 3934,
+        "d": -1.36,
+        "push": 0.00296
+      },
+      {
+        "layer": 28,
+        "index": 6217,
+        "d": -2.69,
+        "push": 0.00294
+      },
+      {
+        "layer": 21,
+        "index": 6058,
+        "d": 1.58,
+        "push": 0.0028
+      }
+    ],
+    "single": {
+      "more": {
+        "pick": 0,
+        "layer": 30,
+        "index": 2811,
+        "d": -2.98,
+        "cos": -0.158,
+        "strength": 1.0,
+        "sign": 1,
+        "act": -192.6,
+        "peak": 44.31,
+        "times_peak": 4.3,
+        "promotes": [
+          " incredible",
+          " extraordinary",
+          " remarkable",
+          " astonishing",
+          " amazing",
+          " astounding",
+          "remark",
+          " unbelievable"
+        ],
+        "effect": 6.2,
+        "shift": 1.61,
+        "useful_shift": 2.04,
+        "coherence": 6.19,
+        "coherent_share": 0.67,
+        "control_effect": 2.05,
+        "control_shift": -2.54,
+        "control_coherence": 4.91,
+        "opposite_shift": -0.5
+      },
+      "less": null
+    }
+  },
+  "humor": {
+    "kind": "trait",
+    "layer": 18,
+    "vector": {
+      "mode": "vector",
+      "layer": 18,
+      "strength": 0.7,
+      "unit": 7.298655788592269,
+      "score": 9.0,
+      "coherence": 8.53
+    },
+    "neurons": {
+      "mode": "neurons",
+      "k": 512,
+      "strength": 2.0,
+      "unit": 1.4250687175890202,
+      "score": 9.0,
+      "coherence": 8.46
+    },
+    "settings": [
+      {
+        "mode": "vector",
+        "layer": 18,
+        "strength": 0.4,
+        "unit": 4.170660450624154,
+        "score": 7.12,
+        "coherence": 8.97
+      },
+      {
+        "mode": "vector",
+        "layer": 18,
+        "strength": 0.7,
+        "unit": 7.298655788592269,
+        "score": 9.0,
+        "coherence": 8.53
+      },
+      {
+        "mode": "vector",
+        "layer": 18,
+        "strength": 1.0,
+        "unit": 10.426651126560385,
+        "score": 9.0,
+        "coherence": 6.88
+      },
+      {
+        "mode": "vector",
+        "layer": 18,
+        "strength": 1.4,
+        "unit": 14.597311577184538,
+        "score": 9.0,
+        "coherence": 2.64
+      },
+      {
+        "mode": "vector",
+        "layer": 23,
+        "strength": 0.4,
+        "unit": 1.0304477496452025,
+        "score": 8.17,
+        "coherence": 8.54
+      },
+      {
+        "mode": "vector",
+        "layer": 23,
+        "strength": 0.7,
+        "unit": 1.8032835618791037,
+        "score": 8.37,
+        "coherence": 7.96
+      },
+      {
+        "mode": "vector",
+        "layer": 23,
+        "strength": 1.0,
+        "unit": 2.5761193741130057,
+        "score": 9.0,
+        "coherence": 1.27
+      },
+      {
+        "mode": "vector",
+        "layer": 23,
+        "strength": 1.4,
+        "unit": 3.6065671237582073,
+        "score": 4.5,
+        "coherence": 2.02
+      },
+      {
+        "mode": "neurons",
+        "k": 512,
+        "strength": 1.0,
+        "unit": 0.7125343587945101,
+        "score": 5.11,
+        "coherence": 8.99
+      },
+      {
+        "mode": "neurons",
+        "k": 512,
+        "strength": 2.0,
+        "unit": 1.4250687175890202,
+        "score": 9.0,
+        "coherence": 8.46
+      },
+      {
+        "mode": "neurons",
+        "k": 512,
+        "strength": 4.0,
+        "unit": 2.8501374351780404,
+        "score": 9.0,
+        "coherence": 3.84
+      },
+      {
+        "mode": "neurons",
+        "k": 512,
+        "strength": 8.0,
+        "unit": 5.700274870356081,
+        "score": 5.65,
+        "coherence": 2.59
+      },
+      {
+        "mode": "neurons",
+        "k": 2048,
+        "strength": 1.0,
+        "unit": 0.6121691076039898,
+        "score": 8.5,
+        "coherence": 6.52
+      },
+      {
+        "mode": "neurons",
+        "k": 2048,
+        "strength": 2.0,
+        "unit": 1.2243382152079796,
+        "score": 9.0,
+        "coherence": 7.37
+      },
+      {
+        "mode": "neurons",
+        "k": 2048,
+        "strength": 4.0,
+        "unit": 2.448676430415959,
+        "score": 8.93,
+        "coherence": 3.19
+      },
+      {
+        "mode": "neurons",
+        "k": 2048,
+        "strength": 8.0,
+        "unit": 4.897352860831918,
+        "score": 8.35,
+        "coherence": 0.33
+      }
+    ],
+    "consistency": 2.44,
+    "default_position": -0.049,
+    "top_neurons": [
+      {
+        "layer": 23,
+        "index": 2763,
+        "d": 2.69,
+        "push": 0.01353
+      },
+      {
+        "layer": 22,
+        "index": 5292,
+        "d": -3.29,
+        "push": 0.00859
+      },
+      {
+        "layer": 24,
+        "index": 3524,
+        "d": 3.18,
+        "push": 0.00851
+      },
+      {
+        "layer": 22,
+        "index": 8023,
+        "d": 2.48,
+        "push": 0.00722
+      },
+      {
+        "layer": 17,
+        "index": 4729,
+        "d": -2.23,
+        "push": 0.00716
+      },
+      {
+        "layer": 24,
+        "index": 1539,
+        "d": -2.37,
+        "push": 0.00688
+      },
+      {
+        "layer": 20,
+        "index": 7322,
+        "d": 2.3,
+        "push": 0.00611
+      },
+      {
+        "layer": 25,
+        "index": 4122,
+        "d": 2.31,
+        "push": 0.00573
+      },
+      {
+        "layer": 19,
+        "index": 5678,
+        "d": 2.18,
+        "push": 0.00565
+      },
+      {
+        "layer": 26,
+        "index": 1861,
+        "d": -2.51,
+        "push": 0.00552
+      },
+      {
+        "layer": 23,
+        "index": 8518,
+        "d": -2.77,
+        "push": 0.00528
+      },
+      {
+        "layer": 31,
+        "index": 3001,
+        "d": 2.94,
+        "push": 0.00517
+      }
+    ],
+    "single": {
+      "more": {
+        "pick": 1,
+        "layer": 17,
+        "index": 4729,
+        "d": -2.23,
+        "cos": -0.398,
+        "strength": 0.5,
+        "sign": 1,
+        "act": -17.1,
+        "peak": 1.52,
+        "times_peak": 11.2,
+        "promotes": [
+          "\u201cNo",
+          "\u201cBut",
+          "\u7f44",
+          "\u201cAnd",
+          "\u6d17\u624b",
+          "\u4fdf",
+          " \"!",
+          "&&!"
+        ],
+        "effect": 8.78,
+        "shift": 4.61,
+        "coherence": 8.54,
+        "coherent_share": 1.0,
+        "control_effect": 2.37,
+        "control_shift": -1.8,
+        "control_coherence": 8.99,
+        "opposite_shift": 4.15,
+        "useful_shift": 4.61
+      },
+      "less": null
+    }
+  },
+  "neuroticism": {
+    "kind": "trait",
+    "layer": 18,
+    "vector": {
+      "mode": "vector",
+      "layer": 18,
+      "strength": 1.0,
+      "unit": 12.606137656204078,
+      "score": 8.76,
+      "coherence": 6.3
+    },
+    "neurons": {
+      "mode": "neurons",
+      "k": 2048,
+      "strength": 4.0,
+      "unit": 3.87694734359985,
+      "score": 8.69,
+      "coherence": 6.69
+    },
+    "settings": [
+      {
+        "mode": "vector",
+        "layer": 18,
+        "strength": 0.4,
+        "unit": 5.042455062481632,
+        "score": 3.25,
+        "coherence": 9.0
+      },
+      {
+        "mode": "vector",
+        "layer": 18,
+        "strength": 0.7,
+        "unit": 8.824296359342855,
+        "score": 8.91,
+        "coherence": 4.3
+      },
+      {
+        "mode": "vector",
+        "layer": 18,
+        "strength": 1.0,
+        "unit": 12.606137656204078,
+        "score": 8.76,
+        "coherence": 6.3
+      },
+      {
+        "mode": "vector",
+        "layer": 18,
+        "strength": 1.4,
+        "unit": 17.64859271868571,
+        "score": 8.99,
+        "coherence": 2.41
+      },
+      {
+        "mode": "vector",
+        "layer": 23,
+        "strength": 0.4,
+        "unit": 1.6467435369485448,
+        "score": 3.33,
+        "coherence": 8.75
+      },
+      {
+        "mode": "vector",
+        "layer": 23,
+        "strength": 0.7,
+        "unit": 2.881801189659953,
+        "score": 8.21,
+        "coherence": 6.3
+      },
+      {
+        "mode": "vector",
+        "layer": 23,
+        "strength": 1.0,
+        "unit": 4.116858842371362,
+        "score": 9.0,
+        "coherence": 0.95
+      },
+      {
+        "mode": "vector",
+        "layer": 23,
+        "strength": 1.4,
+        "unit": 5.763602379319906,
+        "score": 9.0,
+        "coherence": 2.04
+      },
+      {
+        "mode": "neurons",
+        "k": 512,
+        "strength": 1.0,
+        "unit": 1.1597766580838524,
+        "score": -0.15,
+        "coherence": 9.0
+      },
+      {
+        "mode": "neurons",
+        "k": 512,
+        "strength": 2.0,
+        "unit": 2.319553316167705,
+        "score": 1.08,
+        "coherence": 8.17
+      },
+      {
+        "mode": "neurons",
+        "k": 512,
+        "strength": 4.0,
+        "unit": 4.63910663233541,
+        "score": 8.05,
+        "coherence": 5.39
+      },
+      {
+        "mode": "neurons",
+        "k": 512,
+        "strength": 8.0,
+        "unit": 9.27821326467082,
+        "score": 0.0,
+        "coherence": 1.22
+      },
+      {
+        "mode": "neurons",
+        "k": 2048,
+        "strength": 1.0,
+        "unit": 0.9692368358999625,
+        "score": 0.02,
+        "coherence": 8.5
+      },
+      {
+        "mode": "neurons",
+        "k": 2048,
+        "strength": 2.0,
+        "unit": 1.938473671799925,
+        "score": 2.15,
+        "coherence": 8.37
+      },
+      {
+        "mode": "neurons",
+        "k": 2048,
+        "strength": 4.0,
+        "unit": 3.87694734359985,
+        "score": 8.69,
+        "coherence": 6.69
+      },
+      {
+        "mode": "neurons",
+        "k": 2048,
+        "strength": 8.0,
+        "unit": 7.7538946871997,
+        "score": -3.47,
+        "coherence": 0.2
+      }
+    ],
+    "consistency": 2.54,
+    "default_position": -0.354,
+    "top_neurons": [
+      {
+        "layer": 28,
+        "index": 972,
+        "d": 1.98,
+        "push": 0.00551
+      },
+      {
+        "layer": 28,
+        "index": 3330,
+        "d": -2.04,
+        "push": 0.00369
+      },
+      {
+        "layer": 21,
+        "index": 6845,
+        "d": -2.34,
+        "push": 0.00366
+      },
+      {
+        "layer": 28,
+        "index": 296,
+        "d": 3.04,
+        "push": 0.00354
+      },
+      {
+        "layer": 26,
+        "index": 6134,
+        "d": 2.06,
+        "push": 0.0034
+      },
+      {
+        "layer": 22,
+        "index": 2811,
+        "d": 1.97,
+        "push": 0.00331
+      },
+      {
+        "layer": 29,
+        "index": 4877,
+        "d": -2.13,
+        "push": 0.00287
+      },
+      {
+        "layer": 23,
+        "index": 3106,
+        "d": -3.02,
+        "push": 0.00273
+      },
+      {
+        "layer": 28,
+        "index": 1863,
+        "d": 1.86,
+        "push": 0.00273
+      },
+      {
+        "layer": 26,
+        "index": 4954,
+        "d": -2.14,
+        "push": 0.0024
+      },
+      {
+        "layer": 19,
+        "index": 7156,
+        "d": -2.29,
+        "push": 0.00233
+      },
+      {
+        "layer": 29,
+        "index": 7791,
+        "d": 1.41,
+        "push": 0.00212
+      }
+    ],
+    "single": {
+      "more": {
+        "pick": 1,
+        "layer": 26,
+        "index": 6134,
+        "d": 2.06,
+        "cos": 0.239,
+        "strength": 0.75,
+        "sign": 1,
+        "act": 74.9,
+        "peak": 10.7,
+        "times_peak": 7.0,
+        "promotes": [
+          "\u6781\u5176",
+          "\u65e0\u6bd4",
+          "\u6781\u5ea6",
+          " unimagin",
+          "\u6781\u81f4",
+          " unparalleled",
+          " incredibly",
+          "\u6781\u7aef"
+        ],
+        "effect": 4.55,
+        "shift": 4.53,
+        "useful_shift": 3.56,
+        "coherence": 8.0,
+        "coherent_share": 0.89,
+        "control_effect": 0.33,
+        "control_shift": 0.31,
+        "control_coherence": 9.0,
+        "opposite_shift": 0.01
+      },
+      "less": null
+    }
+  },
+  "extraversion": {
+    "kind": "trait",
+    "layer": 18,
+    "vector": {
+      "mode": "vector",
+      "layer": 18,
+      "strength": 0.7,
+      "unit": 8.588207289899554,
+      "score": 8.04,
+      "coherence": 8.5
+    },
+    "neurons": {
+      "mode": "neurons",
+      "k": 2048,
+      "strength": 2.0,
+      "unit": 1.3535168459457336,
+      "score": 5.86,
+      "coherence": 8.45
+    },
+    "settings": [
+      {
+        "mode": "vector",
+        "layer": 18,
+        "strength": 0.4,
+        "unit": 4.907547022799745,
+        "score": 4.79,
+        "coherence": 9.0
+      },
+      {
+        "mode": "vector",
+        "layer": 18,
+        "strength": 0.7,
+        "unit": 8.588207289899554,
+        "score": 8.04,
+        "coherence": 8.5
+      },
+      {
+        "mode": "vector",
+        "layer": 18,
+        "strength": 1.0,
+        "unit": 12.268867556999362,
+        "score": 5.89,
+        "coherence": 8.5
+      },
+      {
+        "mode": "vector",
+        "layer": 18,
+        "strength": 1.4,
+        "unit": 17.176414579799108,
+        "score": 9.0,
+        "coherence": 5.7
+      },
+      {
+        "mode": "vector",
+        "layer": 23,
+        "strength": 0.4,
+        "unit": 1.405878939060809,
+        "score": 3.94,
+        "coherence": 9.0
+      },
+      {
+        "mode": "vector",
+        "layer": 23,
+        "strength": 0.7,
+        "unit": 2.460288143356415,
+        "score": 8.99,
+        "coherence": 2.31
+      },
+      {
+        "mode": "vector",
+        "layer": 23,
+        "strength": 1.0,
+        "unit": 3.5146973476520222,
+        "score": 9.0,
+        "coherence": 2.83
+      },
+      {
+        "mode": "vector",
+        "layer": 23,
+        "strength": 1.4,
+        "unit": 4.92057628671283,
+        "score": 9.0,
+        "coherence": 0.15
+      },
+      {
+        "mode": "neurons",
+        "k": 512,
+        "strength": 1.0,
+        "unit": 0.772296499440299,
+        "score": 0.71,
+        "coherence": 9.0
+      },
+      {
+        "mode": "neurons",
+        "k": 512,
+        "strength": 2.0,
+        "unit": 1.544592998880598,
+        "score": 4.53,
+        "coherence": 8.97
+      },
+      {
+        "mode": "neurons",
+        "k": 512,
+        "strength": 4.0,
+        "unit": 3.089185997761196,
+        "score": 8.97,
+        "coherence": 3.4
+      },
+      {
+        "mode": "neurons",
+        "k": 512,
+        "strength": 8.0,
+        "unit": 6.178371995522392,
+        "score": 9.0,
+        "coherence": 0.0
+      },
+      {
+        "mode": "neurons",
+        "k": 2048,
+        "strength": 1.0,
+        "unit": 0.6767584229728668,
+        "score": -0.45,
+        "coherence": 9.0
+      },
+      {
+        "mode": "neurons",
+        "k": 2048,
+        "strength": 2.0,
+        "unit": 1.3535168459457336,
+        "score": 5.86,
+        "coherence": 8.45
+      },
+      {
+        "mode": "neurons",
+        "k": 2048,
+        "strength": 4.0,
+        "unit": 2.7070336918914673,
+        "score": 8.99,
+        "coherence": 0.0
+      },
+      {
+        "mode": "neurons",
+        "k": 2048,
+        "strength": 8.0,
+        "unit": 5.4140673837829345,
+        "score": 9.0,
+        "coherence": 0.0
+      }
+    ],
+    "consistency": 2.38,
+    "default_position": 0.844,
+    "top_neurons": [
+      {
+        "layer": 31,
+        "index": 3001,
+        "d": 3.18,
+        "push": 0.00992
+      },
+      {
+        "layer": 28,
+        "index": 252,
+        "d": 4.17,
+        "push": 0.00908
+      },
+      {
+        "layer": 25,
+        "index": 4122,
+        "d": 2.82,
+        "push": 0.00856
+      },
+      {
+        "layer": 31,
+        "index": 2420,
+        "d": 2.48,
+        "push": 0.00773
+      },
+      {
+        "layer": 30,
+        "index": 1684,
+        "d": -3.68,
+        "push": 0.00539
+      },
+      {
+        "layer": 21,
+        "index": 6218,
+        "d": -2.62,
+        "push": 0.0051
+      },
+      {
+        "layer": 28,
+        "index": 1863,
+        "d": 2.57,
+        "push": 0.005
+      },
+      {
+        "layer": 23,
+        "index": 2763,
+        "d": 1.77,
+        "push": 0.0045
+      },
+      {
+        "layer": 26,
+        "index": 1861,
+        "d": -2.89,
+        "push": 0.00408
+      },
+      {
+        "layer": 22,
+        "index": 8023,
+        "d": 3.11,
+        "push": 0.00375
+      },
+      {
+        "layer": 24,
+        "index": 3524,
+        "d": 3.05,
+        "push": 0.00355
+      },
+      {
+        "layer": 27,
+        "index": 3223,
+        "d": -1.95,
+        "push": 0.00347
+      }
+    ],
+    "single": {
+      "more": {
+        "pick": 1,
+        "layer": 23,
+        "index": 2763,
+        "d": 1.77,
+        "cos": 0.286,
+        "strength": 1.0,
+        "sign": 1,
+        "act": 72.8,
+        "peak": 6.29,
+        "times_peak": 11.6,
+        "promotes": [
+          "\u5c41\u80a1",
+          "\u5c41",
+          "\u53e3\u6c34",
+          "\u809a",
+          "\u81ed",
+          "\u6ce1",
+          "\uff01\",",
+          "\u5305\u5b50"
+        ],
+        "effect": 5.15,
+        "shift": 3.27,
+        "useful_shift": 3.27,
+        "coherence": 8.35,
+        "coherent_share": 1.0,
+        "control_effect": 0.43,
+        "control_shift": -1.46,
+        "control_coherence": 7.04,
+        "opposite_shift": 1.82
+      },
+      "less": null
+    }
+  },
+  "optimism": {
+    "kind": "trait",
+    "layer": 18,
+    "vector": {
+      "mode": "vector",
+      "layer": 18,
+      "strength": 1.4,
+      "unit": 13.455345394019776,
+      "score": 9.0,
+      "coherence": 6.63
+    },
+    "neurons": {
+      "mode": "neurons",
+      "k": 2048,
+      "strength": 4.0,
+      "unit": 3.199818529592958,
+      "score": 9.0,
+      "coherence": 7.01
+    },
+    "settings": [
+      {
+        "mode": "vector",
+        "layer": 18,
+        "strength": 0.4,
+        "unit": 3.844384398291365,
+        "score": 2.06,
+        "coherence": 8.55
+      },
+      {
+        "mode": "vector",
+        "layer": 18,
+        "strength": 0.7,
+        "unit": 6.727672697009888,
+        "score": 7.06,
+        "coherence": 2.48
+      },
+      {
+        "mode": "vector",
+        "layer": 18,
+        "strength": 1.0,
+        "unit": 9.610960995728412,
+        "score": 2.85,
+        "coherence": 8.5
+      },
+      {
+        "mode": "vector",
+        "layer": 18,
+        "strength": 1.4,
+        "unit": 13.455345394019776,
+        "score": 9.0,
+        "coherence": 6.63
+      },
+      {
+        "mode": "vector",
+        "layer": 23,
+        "strength": 0.4,
+        "unit": 1.5461732168324802,
+        "score": 3.16,
+        "coherence": 9.0
+      },
+      {
+        "mode": "vector",
+        "layer": 23,
+        "strength": 0.7,
+        "unit": 2.70580312945684,
+        "score": 4.48,
+        "coherence": 8.5
+      },
+      {
+        "mode": "vector",
+        "layer": 23,
+        "strength": 1.0,
+        "unit": 3.8654330420812,
+        "score": 8.97,
+        "coherence": 8.41
+      },
+      {
+        "mode": "vector",
+        "layer": 23,
+        "strength": 1.4,
+        "unit": 5.41160625891368,
+        "score": 8.74,
+        "coherence": 4.34
+      },
+      {
+        "mode": "neurons",
+        "k": 512,
+        "strength": 1.0,
+        "unit": 0.9573190806341427,
+        "score": -0.22,
+        "coherence": 9.0
+      },
+      {
+        "mode": "neurons",
+        "k": 512,
+        "strength": 2.0,
+        "unit": 1.9146381612682855,
+        "score": 5.83,
+        "coherence": 9.0
+      },
+      {
+        "mode": "neurons",
+        "k": 512,
+        "strength": 4.0,
+        "unit": 3.829276322536571,
+        "score": 7.5,
+        "coherence": 8.5
+      },
+      {
+        "mode": "neurons",
+        "k": 512,
+        "strength": 8.0,
+        "unit": 7.658552645073142,
+        "score": 9.0,
+        "coherence": 0.0
+      },
+      {
+        "mode": "neurons",
+        "k": 2048,
+        "strength": 1.0,
+        "unit": 0.7999546323982395,
+        "score": 1.38,
+        "coherence": 9.0
+      },
+      {
+        "mode": "neurons",
+        "k": 2048,
+        "strength": 2.0,
+        "unit": 1.599909264796479,
+        "score": 5.24,
+        "coherence": 8.72
+      },
+      {
+        "mode": "neurons",
+        "k": 2048,
+        "strength": 4.0,
+        "unit": 3.199818529592958,
+        "score": 9.0,
+        "coherence": 7.01
+      },
+      {
+        "mode": "neurons",
+        "k": 2048,
+        "strength": 8.0,
+        "unit": 6.399637059185916,
+        "score": 9.0,
+        "coherence": 0.0
+      }
+    ],
+    "consistency": 2.6,
+    "default_position": 1.079,
+    "top_neurons": [
+      {
+        "layer": 30,
+        "index": 1684,
+        "d": -3.45,
+        "push": 0.01488
+      },
+      {
+        "layer": 22,
+        "index": 2811,
+        "d": -1.93,
+        "push": 0.00793
+      },
+      {
+        "layer": 22,
+        "index": 886,
+        "d": -2.13,
+        "push": 0.00634
+      },
+      {
+        "layer": 24,
+        "index": 1099,
+        "d": 3.62,
+        "push": 0.00612
+      },
+      {
+        "layer": 31,
+        "index": 2420,
+        "d": -1.91,
+        "push": 0.00569
+      },
+      {
+        "layer": 22,
+        "index": 7655,
+        "d": 1.93,
+        "push": 0.00445
+      },
+      {
+        "layer": 24,
+        "index": 637,
+        "d": 2.67,
+        "push": 0.00408
+      },
+      {
+        "layer": 21,
+        "index": 6845,
+        "d": 2.12,
+        "push": 0.00396
+      },
+      {
+        "layer": 28,
+        "index": 252,
+        "d": 2.04,
+        "push": 0.0039
+      },
+      {
+        "layer": 20,
+        "index": 9595,
+        "d": 1.59,
+        "push": 0.00339
+      },
+      {
+        "layer": 29,
+        "index": 3968,
+        "d": -1.83,
+        "push": 0.00338
+      },
+      {
+        "layer": 25,
+        "index": 5477,
+        "d": -2.0,
+        "push": 0.00317
+      }
+    ],
+    "single": {
+      "more": {
+        "pick": 0,
+        "layer": 21,
+        "index": 6845,
+        "d": 2.12,
+        "cos": 0.343,
+        "strength": 0.75,
+        "sign": 1,
+        "act": 34.0,
+        "peak": 2.25,
+        "times_peak": 15.1,
+        "promotes": [
+          "\u6e29\u99a8",
+          " enjoyable",
+          " cheerful",
+          " pleasantly",
+          "\u7684\u7f8e\u597d",
+          " pleasant",
+          " enjoying",
+          "\u6109\u5feb"
+        ],
+        "effect": 9.0,
+        "shift": 4.28,
+        "useful_shift": 3.27,
+        "coherence": 7.97,
+        "coherent_share": 0.78,
+        "control_effect": 5.02,
+        "control_shift": 0.3,
+        "control_coherence": 8.87,
+        "opposite_shift": 3.72
+      },
+      "less": null
+    }
+  },
+  "confidence": {
+    "kind": "trait",
+    "layer": 23,
+    "vector": {
+      "mode": "vector",
+      "layer": 23,
+      "strength": 1.0,
+      "unit": 3.351554590779271,
+      "score": 8.51,
+      "coherence": 6.65
+    },
+    "neurons": {
+      "mode": "neurons",
+      "k": 2048,
+      "strength": 2.0,
+      "unit": 1.731359231458354,
+      "score": 1.7,
+      "coherence": 9.0
+    },
+    "settings": [
+      {
+        "mode": "vector",
+        "layer": 18,
+        "strength": 0.4,
+        "unit": 4.39027467668545,
+        "score": 1.66,
+        "coherence": 9.0
+      },
+      {
+        "mode": "vector",
+        "layer": 18,
+        "strength": 0.7,
+        "unit": 7.682980684199537,
+        "score": 2.67,
+        "coherence": 8.44
+      },
+      {
+        "mode": "vector",
+        "layer": 18,
+        "strength": 1.0,
+        "unit": 10.975686691713625,
+        "score": 5.81,
+        "coherence": 8.12
+      },
+      {
+        "mode": "vector",
+        "layer": 18,
+        "strength": 1.4,
+        "unit": 15.365961368399073,
+        "score": 8.89,
+        "coherence": 5.12
+      },
+      {
+        "mode": "vector",
+        "layer": 23,
+        "strength": 0.4,
+        "unit": 1.3406218363117084,
+        "score": 1.73,
+        "coherence": 8.46
+      },
+      {
+        "mode": "vector",
+        "layer": 23,
+        "strength": 0.7,
+        "unit": 2.3460882135454892,
+        "score": 5.5,
+        "coherence": 9.0
+      },
+      {
+        "mode": "vector",
+        "layer": 23,
+        "strength": 1.0,
+        "unit": 3.351554590779271,
+        "score": 8.51,
+        "coherence": 6.65
+      },
+      {
+        "mode": "vector",
+        "layer": 23,
+        "strength": 1.4,
+        "unit": 4.6921764270909785,
+        "score": 9.0,
+        "coherence": 2.29
+      },
+      {
+        "mode": "neurons",
+        "k": 512,
+        "strength": 1.0,
+        "unit": 1.0560411022142322,
+        "score": 0.5,
+        "coherence": 9.0
+      },
+      {
+        "mode": "neurons",
+        "k": 512,
+        "strength": 2.0,
+        "unit": 2.1120822044284644,
+        "score": 1.35,
+        "coherence": 8.75
+      },
+      {
+        "mode": "neurons",
+        "k": 512,
+        "strength": 4.0,
+        "unit": 4.224164408856929,
+        "score": 8.94,
+        "coherence": 4.03
+      },
+      {
+        "mode": "neurons",
+        "k": 512,
+        "strength": 8.0,
+        "unit": 8.448328817713858,
+        "score": 9.0,
+        "coherence": 0.01
+      },
+      {
+        "mode": "neurons",
+        "k": 2048,
+        "strength": 1.0,
+        "unit": 0.865679615729177,
+        "score": -0.28,
+        "coherence": 9.0
+      },
+      {
+        "mode": "neurons",
+        "k": 2048,
+        "strength": 2.0,
+        "unit": 1.731359231458354,
+        "score": 1.7,
+        "coherence": 9.0
+      },
+      {
+        "mode": "neurons",
+        "k": 2048,
+        "strength": 4.0,
+        "unit": 3.462718462916708,
+        "score": 7.98,
+        "coherence": 5.52
+      },
+      {
+        "mode": "neurons",
+        "k": 2048,
+        "strength": 8.0,
+        "unit": 6.925436925833416,
+        "score": 7.27,
+        "coherence": 1.35
+      }
+    ],
+    "consistency": 2.63,
+    "default_position": 1.02,
+    "top_neurons": [
+      {
+        "layer": 31,
+        "index": 2420,
+        "d": 2.22,
+        "push": 0.01003
+      },
+      {
+        "layer": 24,
+        "index": 1099,
+        "d": -3.98,
+        "push": 0.00641
+      },
+      {
+        "layer": 24,
+        "index": 637,
+        "d": -2.39,
+        "push": 0.00496
+      },
+      {
+        "layer": 28,
+        "index": 1863,
+        "d": 2.03,
+        "push": 0.00431
+      },
+      {
+        "layer": 30,
+        "index": 1684,
+        "d": 3.3,
+        "push": 0.00416
+      },
+      {
+        "layer": 22,
+        "index": 6916,
+        "d": -3.37,
+        "push": 0.00364
+      },
+      {
+        "layer": 28,
+        "index": 1325,
+        "d": 2.91,
+        "push": 0.00334
+      },
+      {
+        "layer": 23,
+        "index": 7806,
+        "d": -2.45,
+        "push": 0.00311
+      },
+      {
+        "layer": 23,
+        "index": 7689,
+        "d": 1.71,
+        "push": 0.00281
+      },
+      {
+        "layer": 23,
+        "index": 3106,
+        "d": 3.69,
+        "push": 0.00281
+      },
+      {
+        "layer": 24,
+        "index": 7265,
+        "d": -2.12,
+        "push": 0.00273
+      },
+      {
+        "layer": 24,
+        "index": 7011,
+        "d": -1.33,
+        "push": 0.00251
+      }
+    ]
+  },
+  "formality": {
+    "kind": "trait",
+    "layer": 18,
+    "vector": {
+      "mode": "vector",
+      "layer": 18,
+      "strength": 1.0,
+      "unit": 9.35823335579572,
+      "score": 9.0,
+      "coherence": 6.52
+    },
+    "neurons": {
+      "mode": "neurons",
+      "k": 512,
+      "strength": 4.0,
+      "unit": 1.822590372202217,
+      "score": 9.0,
+      "coherence": 8.74
+    },
+    "settings": [
+      {
+        "mode": "vector",
+        "layer": 18,
+        "strength": 0.4,
+        "unit": 3.7432933423182884,
+        "score": 8.99,
+        "coherence": 8.5
+      },
+      {
+        "mode": "vector",
+        "layer": 18,
+        "strength": 0.7,
+        "unit": 6.550763349057004,
+        "score": 9.0,
+        "coherence": 4.86
+      },
+      {
+        "mode": "vector",
+        "layer": 18,
+        "strength": 1.0,
+        "unit": 9.35823335579572,
+        "score": 9.0,
+        "coherence": 6.52
+      },
+      {
+        "mode": "vector",
+        "layer": 18,
+        "strength": 1.4,
+        "unit": 13.101526698114007,
+        "score": 9.0,
+        "coherence": 4.45
+      },
+      {
+        "mode": "vector",
+        "layer": 23,
+        "strength": 0.4,
+        "unit": 1.0196690293813915,
+        "score": 8.99,
+        "coherence": 9.0
+      },
+      {
+        "mode": "vector",
+        "layer": 23,
+        "strength": 0.7,
+        "unit": 1.7844208014174345,
+        "score": 9.0,
+        "coherence": 5.82
+      },
+      {
+        "mode": "vector",
+        "layer": 23,
+        "strength": 1.0,
+        "unit": 2.5491725734534785,
+        "score": 9.0,
+        "coherence": 3.9
+      },
+      {
+        "mode": "vector",
+        "layer": 23,
+        "strength": 1.4,
+        "unit": 3.568841602834869,
+        "score": 9.0,
+        "coherence": 1.33
+      },
+      {
+        "mode": "neurons",
+        "k": 512,
+        "strength": 1.0,
+        "unit": 0.45564759305055424,
+        "score": 4.0,
+        "coherence": 9.0
+      },
+      {
+        "mode": "neurons",
+        "k": 512,
+        "strength": 2.0,
+        "unit": 0.9112951861011085,
+        "score": 8.03,
+        "coherence": 9.0
+      },
+      {
+        "mode": "neurons",
+        "k": 512,
+        "strength": 4.0,
+        "unit": 1.822590372202217,
+        "score": 9.0,
+        "coherence": 8.74
+      },
+      {
+        "mode": "neurons",
+        "k": 512,
+        "strength": 8.0,
+        "unit": 3.645180744404434,
+        "score": 9.0,
+        "coherence": 0.1
+      },
+      {
+        "mode": "neurons",
+        "k": 2048,
+        "strength": 1.0,
+        "unit": 0.41184937155032075,
+        "score": 6.18,
+        "coherence": 9.0
+      },
+      {
+        "mode": "neurons",
+        "k": 2048,
+        "strength": 2.0,
+        "unit": 0.8236987431006415,
+        "score": 7.99,
+        "coherence": 9.0
+      },
+      {
+        "mode": "neurons",
+        "k": 2048,
+        "strength": 4.0,
+        "unit": 1.647397486201283,
+        "score": 8.77,
+        "coherence": 8.11
+      },
+      {
+        "mode": "neurons",
+        "k": 2048,
+        "strength": 8.0,
+        "unit": 3.294794972402566,
+        "score": 9.0,
+        "coherence": 1.51
+      }
+    ],
+    "consistency": 2.56,
+    "default_position": 0.707,
+    "top_neurons": [
+      {
+        "layer": 24,
+        "index": 7265,
+        "d": 3.28,
+        "push": 0.03409
+      },
+      {
+        "layer": 30,
+        "index": 1498,
+        "d": -2.81,
+        "push": 0.03129
+      },
+      {
+        "layer": 25,
+        "index": 4122,
+        "d": -2.69,
+        "push": 0.0252
+      },
+      {
+        "layer": 31,
+        "index": 3001,
+        "d": -3.34,
+        "push": 0.02104
+      },
+      {
+        "layer": 19,
+        "index": 7156,
+        "d": 3.03,
+        "push": 0.01683
+      },
+      {
+        "layer": 30,
+        "index": 2155,
+        "d": -2.67,
+        "push": 0.01528
+      },
+      {
+        "layer": 30,
+        "index": 551,
+        "d": -3.07,
+        "push": 0.01131
+      },
+      {
+        "layer": 27,
+        "index": 870,
+        "d": -3.08,
+        "push": 0.00968
+      },
+      {
+        "layer": 28,
+        "index": 2579,
+        "d": -4.2,
+        "push": 0.00887
+      },
+      {
+        "layer": 30,
+        "index": 1055,
+        "d": 2.86,
+        "push": 0.0083
+      },
+      {
+        "layer": 25,
+        "index": 7891,
+        "d": -2.54,
+        "push": 0.00818
+      },
+      {
+        "layer": 22,
+        "index": 8056,
+        "d": 2.54,
+        "push": 0.00803
+      }
+    ],
+    "single": {
+      "more": {
+        "pick": 0,
+        "layer": 24,
+        "index": 7265,
+        "d": 3.28,
+        "cos": 0.35,
+        "strength": 1.0,
+        "sign": 1,
+        "act": 75.7,
+        "peak": 9.64,
+        "times_peak": 7.9,
+        "promotes": [
+          " dear",
+          "OwnProperty",
+          "\u6781\u4e3a",
+          "\u60ac\u5d16",
+          "\u975e\u5e38\u91cd\u8981",
+          "ees",
+          " gentlemen",
+          "ynomials"
+        ],
+        "effect": 7.99,
+        "shift": 2.58,
+        "useful_shift": 2.58,
+        "coherence": 8.85,
+        "coherent_share": 1.0,
+        "control_effect": 3.54,
+        "control_shift": -1.87,
+        "control_coherence": 7.33,
+        "opposite_shift": 4.33
+      },
+      "less": {
+        "pick": 1,
+        "layer": 25,
+        "index": 4122,
+        "d": -2.69,
+        "cos": -0.442,
+        "strength": 0.75,
+        "sign": -1,
+        "act": 71.3,
+        "peak": 10.05,
+        "times_peak": 7.1,
+        "promotes": [
+          " big",
+          "\u30c3\u30c4",
+          " stuff",
+          "\u30d4\u30f3",
+          " out",
+          " get",
+          "\u51fa\u6765\u7684",
+          "-big"
+        ],
+        "effect": 1.67,
+        "shift": 3.74,
+        "useful_shift": 3.74,
+        "coherence": 9.0,
+        "coherent_share": 1.0,
+        "control_effect": 4.64,
+        "control_shift": 0.77,
+        "control_coherence": 8.91,
+        "opposite_shift": 3.56
+      }
+    }
+  },
+  "sycophancy": {
+    "kind": "trait",
+    "layer": 23,
+    "vector": {
+      "mode": "vector",
+      "layer": 23,
+      "strength": 0.7,
+      "unit": 2.716567845426555,
+      "score": 9.0,
+      "coherence": 6.39
+    },
+    "neurons": {
+      "mode": "neurons",
+      "k": 2048,
+      "strength": 2.0,
+      "unit": 1.884385500185567,
+      "score": 5.08,
+      "coherence": 7.18
+    },
+    "settings": [
+      {
+        "mode": "vector",
+        "layer": 18,
+        "strength": 0.4,
+        "unit": 4.0221369472002655,
+        "score": 1.38,
+        "coherence": 8.98
+      },
+      {
+        "mode": "vector",
+        "layer": 18,
+        "strength": 0.7,
+        "unit": 7.0387396576004635,
+        "score": 5.09,
+        "coherence": 9.0
+      },
+      {
+        "mode": "vector",
+        "layer": 18,
+        "strength": 1.0,
+        "unit": 10.055342368000662,
+        "score": 7.49,
+        "coherence": 8.43
+      },
+      {
+        "mode": "vector",
+        "layer": 18,
+        "strength": 1.4,
+        "unit": 14.077479315200927,
+        "score": 9.0,
+        "coherence": 6.5
+      },
+      {
+        "mode": "vector",
+        "layer": 23,
+        "strength": 0.4,
+        "unit": 1.5523244831008889,
+        "score": 1.7,
+        "coherence": 8.49
+      },
+      {
+        "mode": "vector",
+        "layer": 23,
+        "strength": 0.7,
+        "unit": 2.716567845426555,
+        "score": 9.0,
+        "coherence": 6.39
+      },
+      {
+        "mode": "vector",
+        "layer": 23,
+        "strength": 1.0,
+        "unit": 3.8808112077522217,
+        "score": 8.79,
+        "coherence": 4.36
+      },
+      {
+        "mode": "vector",
+        "layer": 23,
+        "strength": 1.4,
+        "unit": 5.43313569085311,
+        "score": 8.99,
+        "coherence": 1.97
+      },
+      {
+        "mode": "neurons",
+        "k": 512,
+        "strength": 1.0,
+        "unit": 1.125873503443132,
+        "score": 0.99,
+        "coherence": 9.0
+      },
+      {
+        "mode": "neurons",
+        "k": 512,
+        "strength": 2.0,
+        "unit": 2.251747006886264,
+        "score": 2.65,
+        "coherence": 9.0
+      },
+      {
+        "mode": "neurons",
+        "k": 512,
+        "strength": 4.0,
+        "unit": 4.503494013772528,
+        "score": 9.0,
+        "coherence": 3.62
+      },
+      {
+        "mode": "neurons",
+        "k": 512,
+        "strength": 8.0,
+        "unit": 9.006988027545056,
+        "score": 8.68,
+        "coherence": 0.92
+      },
+      {
+        "mode": "neurons",
+        "k": 2048,
+        "strength": 1.0,
+        "unit": 0.9421927500927835,
+        "score": 0.79,
+        "coherence": 9.0
+      },
+      {
+        "mode": "neurons",
+        "k": 2048,
+        "strength": 2.0,
+        "unit": 1.884385500185567,
+        "score": 5.08,
+        "coherence": 7.18
+      },
+      {
+        "mode": "neurons",
+        "k": 2048,
+        "strength": 4.0,
+        "unit": 3.768771000371134,
+        "score": 9.0,
+        "coherence": 1.06
+      },
+      {
+        "mode": "neurons",
+        "k": 2048,
+        "strength": 8.0,
+        "unit": 7.537542000742268,
+        "score": 8.99,
+        "coherence": 0.76
+      }
+    ],
+    "consistency": 2.48,
+    "default_position": 0.003,
+    "top_neurons": [
+      {
+        "layer": 24,
+        "index": 7265,
+        "d": 3.57,
+        "push": 0.00841
+      },
+      {
+        "layer": 30,
+        "index": 1498,
+        "d": -3.26,
+        "push": 0.00669
+      },
+      {
+        "layer": 22,
+        "index": 2811,
+        "d": -1.85,
+        "push": 0.00589
+      },
+      {
+        "layer": 30,
+        "index": 1684,
+        "d": -2.57,
+        "push": 0.00448
+      },
+      {
+        "layer": 30,
+        "index": 2811,
+        "d": -2.18,
+        "push": 0.00418
+      },
+      {
+        "layer": 19,
+        "index": 5678,
+        "d": 2.11,
+        "push": 0.00415
+      },
+      {
+        "layer": 31,
+        "index": 2420,
+        "d": -1.6,
+        "push": 0.00398
+      },
+      {
+        "layer": 18,
+        "index": 5433,
+        "d": 2.89,
+        "push": 0.0038
+      },
+      {
+        "layer": 21,
+        "index": 6845,
+        "d": 2.56,
+        "push": 0.0024
+      },
+      {
+        "layer": 28,
+        "index": 252,
+        "d": 2.44,
+        "push": 0.00235
+      },
+      {
+        "layer": 28,
+        "index": 972,
+        "d": -2.46,
+        "push": 0.00228
+      },
+      {
+        "layer": 22,
+        "index": 886,
+        "d": -2.27,
+        "push": 0.00212
+      }
+    ],
+    "single": {
+      "more": {
+        "pick": 0,
+        "layer": 19,
+        "index": 5678,
+        "d": 2.11,
+        "cos": 0.322,
+        "strength": 0.75,
+        "sign": 1,
+        "act": 29.8,
+        "peak": 3.79,
+        "times_peak": 7.9,
+        "promotes": [
+          "\u4f1f\u5927\u7684",
+          "\u4f1f\u5927",
+          "\u82f1\u52c7",
+          "\u6df1\u60c5",
+          "\u4eba\u6c11\u7fa4\u4f17",
+          "\u5d07\u9ad8",
+          " hero",
+          "\u5f81\u7a0b"
+        ],
+        "effect": 7.4,
+        "shift": 6.68,
+        "useful_shift": 4.17,
+        "coherence": 7.1,
+        "coherent_share": 0.67,
+        "control_effect": 1.3,
+        "control_shift": 0.58,
+        "control_coherence": 8.17,
+        "opposite_shift": 0.16
+      },
+      "less": null
+    }
+  },
+  "openness": {
+    "kind": "trait",
+    "layer": 23,
+    "vector": {
+      "mode": "vector",
+      "layer": 23,
+      "strength": 0.7,
+      "unit": 2.465365511351894,
+      "score": 9.0,
+      "coherence": 7.83
+    },
+    "neurons": {
+      "mode": "neurons",
+      "k": 512,
+      "strength": 4.0,
+      "unit": 4.184623469536748,
+      "score": 9.0,
+      "coherence": 6.17
+    },
+    "settings": [
+      {
+        "mode": "vector",
+        "layer": 18,
+        "strength": 0.4,
+        "unit": 3.9327514015851044,
+        "score": 0.33,
+        "coherence": 9.0
+      },
+      {
+        "mode": "vector",
+        "layer": 18,
+        "strength": 0.7,
+        "unit": 6.882314952773933,
+        "score": 8.66,
+        "coherence": 5.82
+      },
+      {
+        "mode": "vector",
+        "layer": 18,
+        "strength": 1.0,
+        "unit": 9.831878503962761,
+        "score": 9.0,
+        "coherence": 5.45
+      },
+      {
+        "mode": "vector",
+        "layer": 18,
+        "strength": 1.4,
+        "unit": 13.764629905547865,
+        "score": 6.49,
+        "coherence": 5.84
+      },
+      {
+        "mode": "vector",
+        "layer": 23,
+        "strength": 0.4,
+        "unit": 1.4087802922010826,
+        "score": 5.39,
+        "coherence": 8.88
+      },
+      {
+        "mode": "vector",
+        "layer": 23,
+        "strength": 0.7,
+        "unit": 2.465365511351894,
+        "score": 9.0,
+        "coherence": 7.83
+      },
+      {
+        "mode": "vector",
+        "layer": 23,
+        "strength": 1.0,
+        "unit": 3.5219507305027062,
+        "score": 9.0,
+        "coherence": 6.1
+      },
+      {
+        "mode": "vector",
+        "layer": 23,
+        "strength": 1.4,
+        "unit": 4.930731022703788,
+        "score": 9.0,
+        "coherence": 1.74
+      },
+      {
+        "mode": "neurons",
+        "k": 512,
+        "strength": 1.0,
+        "unit": 1.046155867384187,
+        "score": 0.82,
+        "coherence": 9.0
+      },
+      {
+        "mode": "neurons",
+        "k": 512,
+        "strength": 2.0,
+        "unit": 2.092311734768374,
+        "score": 8.13,
+        "coherence": 8.71
+      },
+      {
+        "mode": "neurons",
+        "k": 512,
+        "strength": 4.0,
+        "unit": 4.184623469536748,
+        "score": 9.0,
+        "coherence": 6.17
+      },
+      {
+        "mode": "neurons",
+        "k": 512,
+        "strength": 8.0,
+        "unit": 8.369246939073497,
+        "score": 9.0,
+        "coherence": 0.98
+      },
+      {
+        "mode": "neurons",
+        "k": 2048,
+        "strength": 1.0,
+        "unit": 0.8611804315864351,
+        "score": 0.35,
+        "coherence": 9.0
+      },
+      {
+        "mode": "neurons",
+        "k": 2048,
+        "strength": 2.0,
+        "unit": 1.7223608631728702,
+        "score": 8.99,
+        "coherence": 8.65
+      },
+      {
+        "mode": "neurons",
+        "k": 2048,
+        "strength": 4.0,
+        "unit": 3.4447217263457404,
+        "score": 9.0,
+        "coherence": 8.06
+      },
+      {
+        "mode": "neurons",
+        "k": 2048,
+        "strength": 8.0,
+        "unit": 6.889443452691481,
+        "score": 9.0,
+        "coherence": 0.18
+      }
+    ],
+    "consistency": 2.35,
+    "default_position": 1.083,
+    "top_neurons": [
+      {
+        "layer": 24,
+        "index": 8053,
+        "d": 2.47,
+        "push": 0.00465
+      },
+      {
+        "layer": 30,
+        "index": 3962,
+        "d": -2.29,
+        "push": 0.00442
+      },
+      {
+        "layer": 31,
+        "index": 3001,
+        "d": 2.23,
+        "push": 0.00401
+      },
+      {
+        "layer": 27,
+        "index": 6203,
+        "d": 1.31,
+        "push": 0.00279
+      },
+      {
+        "layer": 22,
+        "index": 886,
+        "d": -1.85,
+        "push": 0.00265
+      },
+      {
+        "layer": 26,
+        "index": 1861,
+        "d": -2.19,
+        "push": 0.00215
+      },
+      {
+        "layer": 30,
+        "index": 822,
+        "d": -2.5,
+        "push": 0.00213
+      },
+      {
+        "layer": 21,
+        "index": 7919,
+        "d": 1.08,
+        "push": 0.00213
+      },
+      {
+        "layer": 30,
+        "index": 1498,
+        "d": 1.74,
+        "push": 0.00204
+      },
+      {
+        "layer": 18,
+        "index": 5433,
+        "d": -2.09,
+        "push": 0.002
+      },
+      {
+        "layer": 19,
+        "index": 7621,
+        "d": 1.85,
+        "push": 0.00189
+      },
+      {
+        "layer": 24,
+        "index": 3524,
+        "d": 2.03,
+        "push": 0.00181
+      }
+    ]
+  },
+  "conscientiousness": {
+    "kind": "trait",
+    "layer": 23,
+    "vector": {
+      "mode": "vector",
+      "layer": 23,
+      "strength": 1.4,
+      "unit": 4.561442561379611,
+      "score": 9.0,
+      "coherence": 8.11
+    },
+    "neurons": {
+      "mode": "neurons",
+      "k": 512,
+      "strength": 2.0,
+      "unit": 1.680261322349274,
+      "score": 4.24,
+      "coherence": 9.0
+    },
+    "settings": [
+      {
+        "mode": "vector",
+        "layer": 18,
+        "strength": 0.4,
+        "unit": 4.000929145694808,
+        "score": 2.13,
+        "coherence": 8.57
+      },
+      {
+        "mode": "vector",
+        "layer": 18,
+        "strength": 0.7,
+        "unit": 7.001626004965915,
+        "score": 5.25,
+        "coherence": 8.53
+      },
+      {
+        "mode": "vector",
+        "layer": 18,
+        "strength": 1.0,
+        "unit": 10.002322864237021,
+        "score": 5.82,
+        "coherence": 7.33
+      },
+      {
+        "mode": "vector",
+        "layer": 18,
+        "strength": 1.4,
+        "unit": 14.00325200993183,
+        "score": 2.98,
+        "coherence": 0.34
+      },
+      {
+        "mode": "vector",
+        "layer": 23,
+        "strength": 0.4,
+        "unit": 1.3032693032513176,
+        "score": 6.79,
+        "coherence": 8.66
+      },
+      {
+        "mode": "vector",
+        "layer": 23,
+        "strength": 0.7,
+        "unit": 2.2807212806898054,
+        "score": 6.24,
+        "coherence": 5.9
+      },
+      {
+        "mode": "vector",
+        "layer": 23,
+        "strength": 1.0,
+        "unit": 3.2581732581282936,
+        "score": 8.97,
+        "coherence": 5.03
+      },
+      {
+        "mode": "vector",
+        "layer": 23,
+        "strength": 1.4,
+        "unit": 4.561442561379611,
+        "score": 9.0,
+        "coherence": 8.11
+      },
+      {
+        "mode": "neurons",
+        "k": 512,
+        "strength": 1.0,
+        "unit": 0.840130661174637,
+        "score": 3.56,
+        "coherence": 9.0
+      },
+      {
+        "mode": "neurons",
+        "k": 512,
+        "strength": 2.0,
+        "unit": 1.680261322349274,
+        "score": 4.24,
+        "coherence": 9.0
+      },
+      {
+        "mode": "neurons",
+        "k": 512,
+        "strength": 4.0,
+        "unit": 3.360522644698548,
+        "score": 6.72,
+        "coherence": 4.54
+      },
+      {
+        "mode": "neurons",
+        "k": 512,
+        "strength": 8.0,
+        "unit": 6.721045289397096,
+        "score": 1.05,
+        "coherence": 1.19
+      },
+      {
+        "mode": "neurons",
+        "k": 2048,
+        "strength": 1.0,
+        "unit": 0.7291001716034596,
+        "score": 2.53,
+        "coherence": 9.0
+      },
+      {
+        "mode": "neurons",
+        "k": 2048,
+        "strength": 2.0,
+        "unit": 1.4582003432069193,
+        "score": 2.25,
+        "coherence": 8.5
+      },
+      {
+        "mode": "neurons",
+        "k": 2048,
+        "strength": 4.0,
+        "unit": 2.9164006864138385,
+        "score": 6.85,
+        "coherence": 4.04
+      },
+      {
+        "mode": "neurons",
+        "k": 2048,
+        "strength": 8.0,
+        "unit": 5.832801372827677,
+        "score": 0.0,
+        "coherence": 0.04
+      }
+    ],
+    "consistency": 2.53,
+    "default_position": 0.866,
+    "top_neurons": [
+      {
+        "layer": 30,
+        "index": 1498,
+        "d": -2.58,
+        "push": 0.00772
+      },
+      {
+        "layer": 25,
+        "index": 4122,
+        "d": -3.18,
+        "push": 0.00735
+      },
+      {
+        "layer": 22,
+        "index": 8023,
+        "d": -3.24,
+        "push": 0.00695
+      },
+      {
+        "layer": 30,
+        "index": 1446,
+        "d": 3.93,
+        "push": 0.006
+      },
+      {
+        "layer": 22,
+        "index": 6916,
+        "d": -3.14,
+        "push": 0.00599
+      },
+      {
+        "layer": 31,
+        "index": 3001,
+        "d": -2.87,
+        "push": 0.0057
+      },
+      {
+        "layer": 26,
+        "index": 1861,
+        "d": 2.56,
+        "push": 0.0052
+      },
+      {
+        "layer": 23,
+        "index": 3500,
+        "d": -2.1,
+        "push": 0.00519
+      },
+      {
+        "layer": 19,
+        "index": 7156,
+        "d": 2.46,
+        "push": 0.005
+      },
+      {
+        "layer": 24,
+        "index": 3524,
+        "d": -2.77,
+        "push": 0.00482
+      },
+      {
+        "layer": 23,
+        "index": 2763,
+        "d": -2.26,
+        "push": 0.0047
+      },
+      {
+        "layer": 30,
+        "index": 2155,
+        "d": -2.31,
+        "push": 0.0044
+      }
+    ]
+  },
+  "darth-vader": {
+    "kind": "entity",
+    "entity": "Darth Vader",
+    "layer": 18,
+    "vector": {
+      "mode": "vector",
+      "layer": 18,
+      "strength": 1.0,
+      "unit": 3.982521160833512,
+      "score": 0.75,
+      "coherence": 8.5
+    },
+    "neurons": {
+      "mode": "neurons",
+      "k": 2048,
+      "strength": 8.0,
+      "unit": 2.2707204261799383,
+      "score": 0.5,
+      "coherence": 7.74
+    },
+    "settings": [
+      {
+        "mode": "vector",
+        "layer": 13,
+        "strength": 0.4,
+        "unit": 1.2230727987291339,
+        "score": 0.0,
+        "coherence": 9.0
+      },
+      {
+        "mode": "vector",
+        "layer": 13,
+        "strength": 0.7,
+        "unit": 2.140377397775984,
+        "score": 0.25,
+        "coherence": 9.0
+      },
+      {
+        "mode": "vector",
+        "layer": 13,
+        "strength": 1.0,
+        "unit": 3.0576819968228346,
+        "score": 0.25,
+        "coherence": 8.79
+      },
+      {
+        "mode": "vector",
+        "layer": 13,
+        "strength": 1.4,
+        "unit": 4.280754795551968,
+        "score": 0.25,
+        "coherence": 5.76
+      },
+      {
+        "mode": "vector",
+        "layer": 18,
+        "strength": 0.4,
+        "unit": 1.5930084643334048,
+        "score": 0.0,
+        "coherence": 9.0
+      },
+      {
+        "mode": "vector",
+        "layer": 18,
+        "strength": 0.7,
+        "unit": 2.7877648125834584,
+        "score": 0.5,
+        "coherence": 9.0
+      },
+      {
+        "mode": "vector",
+        "layer": 18,
+        "strength": 1.0,
+        "unit": 3.982521160833512,
+        "score": 0.75,
+        "coherence": 8.5
+      },
+      {
+        "mode": "vector",
+        "layer": 18,
+        "strength": 1.4,
+        "unit": 5.575529625166917,
+        "score": 0.5,
+        "coherence": 3.49
+      },
+      {
+        "mode": "neurons",
+        "k": 512,
+        "strength": 1.0,
+        "unit": 0.3147809586652275,
+        "score": 0.0,
+        "coherence": 9.0
+      },
+      {
+        "mode": "neurons",
+        "k": 512,
+        "strength": 2.0,
+        "unit": 0.629561917330455,
+        "score": 0.0,
+        "coherence": 9.0
+      },
+      {
+        "mode": "neurons",
+        "k": 512,
+        "strength": 4.0,
+        "unit": 1.25912383466091,
+        "score": 0.25,
+        "coherence": 9.0
+      },
+      {
+        "mode": "neurons",
+        "k": 512,
+        "strength": 8.0,
+        "unit": 2.51824766932182,
+        "score": 0.25,
+        "coherence": 6.75
+      },
+      {
+        "mode": "neurons",
+        "k": 2048,
+        "strength": 1.0,
+        "unit": 0.2838400532724923,
+        "score": 0.0,
+        "coherence": 9.0
+      },
+      {
+        "mode": "neurons",
+        "k": 2048,
+        "strength": 2.0,
+        "unit": 0.5676801065449846,
+        "score": 0.0,
+        "coherence": 9.0
+      },
+      {
+        "mode": "neurons",
+        "k": 2048,
+        "strength": 4.0,
+        "unit": 1.1353602130899692,
+        "score": 0.25,
+        "coherence": 8.77
+      },
+      {
+        "mode": "neurons",
+        "k": 2048,
+        "strength": 8.0,
+        "unit": 2.2707204261799383,
+        "score": 0.5,
+        "coherence": 7.74
+      }
+    ],
+    "keywords": [
+      "Vader",
+      "Anakin"
+    ]
+  },
+  "paddington": {
+    "kind": "entity",
+    "entity": "Paddington Bear",
+    "layer": 18,
+    "vector": {
+      "mode": "vector",
+      "layer": 18,
+      "strength": 1.4,
+      "unit": 5.0988668545358715,
+      "score": 0.5,
+      "coherence": 7.46
+    },
+    "neurons": {
+      "mode": "neurons",
+      "k": 512,
+      "strength": 8.0,
+      "unit": 3.3241248871399183,
+      "score": 1.0,
+      "coherence": 8.65
+    },
+    "settings": [
+      {
+        "mode": "vector",
+        "layer": 13,
+        "strength": 0.4,
+        "unit": 1.2251442329143072,
+        "score": 0.0,
+        "coherence": 9.0
+      },
+      {
+        "mode": "vector",
+        "layer": 13,
+        "strength": 0.7,
+        "unit": 2.1440024076000372,
+        "score": 0.0,
+        "coherence": 9.0
+      },
+      {
+        "mode": "vector",
+        "layer": 13,
+        "strength": 1.0,
+        "unit": 3.0628605822857677,
+        "score": 0.25,
+        "coherence": 9.0
+      },
+      {
+        "mode": "vector",
+        "layer": 13,
+        "strength": 1.4,
+        "unit": 4.2880048152000745,
+        "score": 0.0,
+        "coherence": 7.57
+      },
+      {
+        "mode": "vector",
+        "layer": 18,
+        "strength": 0.4,
+        "unit": 1.4568191012959633,
+        "score": 0.25,
+        "coherence": 8.75
+      },
+      {
+        "mode": "vector",
+        "layer": 18,
+        "strength": 0.7,
+        "unit": 2.5494334272679358,
+        "score": 0.25,
+        "coherence": 9.0
+      },
+      {
+        "mode": "vector",
+        "layer": 18,
+        "strength": 1.0,
+        "unit": 3.642047753239908,
+        "score": 0.0,
+        "coherence": 8.96
+      },
+      {
+        "mode": "vector",
+        "layer": 18,
+        "strength": 1.4,
+        "unit": 5.0988668545358715,
+        "score": 0.5,
+        "coherence": 7.46
+      },
+      {
+        "mode": "neurons",
+        "k": 512,
+        "strength": 1.0,
+        "unit": 0.4155156108924898,
+        "score": 0.0,
+        "coherence": 9.0
+      },
+      {
+        "mode": "neurons",
+        "k": 512,
+        "strength": 2.0,
+        "unit": 0.8310312217849796,
+        "score": 0.25,
+        "coherence": 9.0
+      },
+      {
+        "mode": "neurons",
+        "k": 512,
+        "strength": 4.0,
+        "unit": 1.6620624435699591,
+        "score": 0.25,
+        "coherence": 8.84
+      },
+      {
+        "mode": "neurons",
+        "k": 512,
+        "strength": 8.0,
+        "unit": 3.3241248871399183,
+        "score": 1.0,
+        "coherence": 8.65
+      },
+      {
+        "mode": "neurons",
+        "k": 2048,
+        "strength": 1.0,
+        "unit": 0.34459486991477917,
+        "score": 0.0,
+        "coherence": 9.0
+      },
+      {
+        "mode": "neurons",
+        "k": 2048,
+        "strength": 2.0,
+        "unit": 0.6891897398295583,
+        "score": 0.0,
+        "coherence": 9.0
+      },
+      {
+        "mode": "neurons",
+        "k": 2048,
+        "strength": 4.0,
+        "unit": 1.3783794796591167,
+        "score": 0.25,
+        "coherence": 8.83
+      },
+      {
+        "mode": "neurons",
+        "k": 2048,
+        "strength": 8.0,
+        "unit": 2.7567589593182333,
+        "score": 1.0,
+        "coherence": 7.15
+      }
+    ],
+    "keywords": [
+      "Paddington",
+      "Padding",
+      "bear",
+      "marmalade"
+    ],
+    "single": {
+      "more": {
+        "pick": 0,
+        "layer": 30,
+        "index": 6019,
+        "d": -4.07,
+        "cos": -0.279,
+        "strength": 0.75,
+        "sign": 1,
+        "act": -145.6,
+        "peak": 39.12,
+        "times_peak": 3.7,
+        "promotes": [
+          " bear",
+          " bears",
+          "\u718a",
+          "bear",
+          "Bear",
+          " Bear",
+          " fur",
+          " Bears"
+        ],
+        "effect": 0.58,
+        "shift": 0.58,
+        "useful_shift": 0.5,
+        "coherence": 8.22,
+        "coherent_share": 0.92,
+        "control_effect": 0.0,
+        "control_shift": 0.0,
+        "control_coherence": 7.08,
+        "opposite_shift": null
+      },
+      "less": null
+    }
+  },
+  "dracula": {
+    "kind": "entity",
+    "entity": "Count Dracula",
+    "keywords": [
+      "Dracula",
+      "vampire"
+    ],
+    "layer": 13,
+    "vector": {
+      "mode": "vector",
+      "layer": 13,
+      "strength": 1.4,
+      "unit": 4.716806369615297,
+      "score": 0.5,
+      "coherence": 9.0
+    },
+    "neurons": {
+      "mode": "neurons",
+      "k": 512,
+      "strength": 8.0,
+      "unit": 2.25857482463056,
+      "score": 1.0,
+      "coherence": 8.92
+    },
+    "settings": [
+      {
+        "mode": "vector",
+        "layer": 13,
+        "strength": 0.4,
+        "unit": 1.3476589627472277,
+        "score": 0.0,
+        "coherence": 9.0
+      },
+      {
+        "mode": "vector",
+        "layer": 13,
+        "strength": 0.7,
+        "unit": 2.3584031848076483,
+        "score": 0.0,
+        "coherence": 9.0
+      },
+      {
+        "mode": "vector",
+        "layer": 13,
+        "strength": 1.0,
+        "unit": 3.369147406868069,
+        "score": 0.0,
+        "coherence": 9.0
+      },
+      {
+        "mode": "vector",
+        "layer": 13,
+        "strength": 1.4,
+        "unit": 4.716806369615297,
+        "score": 0.5,
+        "coherence": 9.0
+      },
+      {
+        "mode": "vector",
+        "layer": 18,
+        "strength": 0.4,
+        "unit": 1.7223874790668765,
+        "score": 0.0,
+        "coherence": 9.0
+      },
+      {
+        "mode": "vector",
+        "layer": 18,
+        "strength": 0.7,
+        "unit": 3.014178088367034,
+        "score": 0.25,
+        "coherence": 9.0
+      },
+      {
+        "mode": "vector",
+        "layer": 18,
+        "strength": 1.0,
+        "unit": 4.305968697667192,
+        "score": 0.5,
+        "coherence": 5.41
+      },
+      {
+        "mode": "vector",
+        "layer": 18,
+        "strength": 1.4,
+        "unit": 6.028356176734068,
+        "score": 1.0,
+        "coherence": 2.6
+      },
+      {
+        "mode": "neurons",
+        "k": 512,
+        "strength": 1.0,
+        "unit": 0.28232185307882,
+        "score": 0.0,
+        "coherence": 9.0
+      },
+      {
+        "mode": "neurons",
+        "k": 512,
+        "strength": 2.0,
+        "unit": 0.56464370615764,
+        "score": 0.0,
+        "coherence": 9.0
+      },
+      {
+        "mode": "neurons",
+        "k": 512,
+        "strength": 4.0,
+        "unit": 1.12928741231528,
+        "score": 0.0,
+        "coherence": 7.89
+      },
+      {
+        "mode": "neurons",
+        "k": 512,
+        "strength": 8.0,
+        "unit": 2.25857482463056,
+        "score": 1.0,
+        "coherence": 8.92
+      },
+      {
+        "mode": "neurons",
+        "k": 2048,
+        "strength": 1.0,
+        "unit": 0.2519740932118813,
+        "score": 0.0,
+        "coherence": 9.0
+      },
+      {
+        "mode": "neurons",
+        "k": 2048,
+        "strength": 2.0,
+        "unit": 0.5039481864237626,
+        "score": 0.0,
+        "coherence": 9.0
+      },
+      {
+        "mode": "neurons",
+        "k": 2048,
+        "strength": 4.0,
+        "unit": 1.0078963728475252,
+        "score": 0.25,
+        "coherence": 9.0
+      },
+      {
+        "mode": "neurons",
+        "k": 2048,
+        "strength": 8.0,
+        "unit": 2.0157927456950504,
+        "score": 1.0,
+        "coherence": 6.87
+      }
+    ]
+  },
+  "santa": {
+    "kind": "entity",
+    "entity": "Santa Claus",
+    "keywords": [
+      "Santa",
+      "Saint Nick",
+      "Father Christmas",
+      "Kris Kringle",
+      "North Pole",
+      "reindeer"
+    ],
+    "layer": 13,
+    "vector": {
+      "mode": "vector",
+      "layer": 13,
+      "strength": 1.4,
+      "unit": 3.816738766982587,
+      "score": 1.0,
+      "coherence": 8.87
+    },
+    "neurons": {
+      "mode": "neurons",
+      "k": 512,
+      "strength": 4.0,
+      "unit": 1.2026351828674602,
+      "score": 0.75,
+      "coherence": 9.0
+    },
+    "settings": [
+      {
+        "mode": "vector",
+        "layer": 13,
+        "strength": 0.4,
+        "unit": 1.0904967905664535,
+        "score": 0.25,
+        "coherence": 9.0
+      },
+      {
+        "mode": "vector",
+        "layer": 13,
+        "strength": 0.7,
+        "unit": 1.9083693834912936,
+        "score": 0.25,
+        "coherence": 9.0
+      },
+      {
+        "mode": "vector",
+        "layer": 13,
+        "strength": 1.0,
+        "unit": 2.7262419764161336,
+        "score": 0.25,
+        "coherence": 9.0
+      },
+      {
+        "mode": "vector",
+        "layer": 13,
+        "strength": 1.4,
+        "unit": 3.816738766982587,
+        "score": 1.0,
+        "coherence": 8.87
+      },
+      {
+        "mode": "vector",
+        "layer": 18,
+        "strength": 0.4,
+        "unit": 1.352835160470732,
+        "score": 0.25,
+        "coherence": 9.0
+      },
+      {
+        "mode": "vector",
+        "layer": 18,
+        "strength": 0.7,
+        "unit": 2.367461530823781,
+        "score": 0.75,
+        "coherence": 9.0
+      },
+      {
+        "mode": "vector",
+        "layer": 18,
+        "strength": 1.0,
+        "unit": 3.38208790117683,
+        "score": 0.5,
+        "coherence": 8.99
+      },
+      {
+        "mode": "vector",
+        "layer": 18,
+        "strength": 1.4,
+        "unit": 4.734923061647562,
+        "score": 0.75,
+        "coherence": 7.54
+      },
+      {
+        "mode": "neurons",
+        "k": 512,
+        "strength": 1.0,
+        "unit": 0.30065879571686505,
+        "score": 0.0,
+        "coherence": 9.0
+      },
+      {
+        "mode": "neurons",
+        "k": 512,
+        "strength": 2.0,
+        "unit": 0.6013175914337301,
+        "score": 0.25,
+        "coherence": 9.0
+      },
+      {
+        "mode": "neurons",
+        "k": 512,
+        "strength": 4.0,
+        "unit": 1.2026351828674602,
+        "score": 0.75,
+        "coherence": 9.0
+      },
+      {
+        "mode": "neurons",
+        "k": 512,
+        "strength": 8.0,
+        "unit": 2.4052703657349204,
+        "score": 0.5,
+        "coherence": 5.87
+      },
+      {
+        "mode": "neurons",
+        "k": 2048,
+        "strength": 1.0,
+        "unit": 0.2673862567124146,
+        "score": 0.0,
+        "coherence": 9.0
+      },
+      {
+        "mode": "neurons",
+        "k": 2048,
+        "strength": 2.0,
+        "unit": 0.5347725134248292,
+        "score": 0.25,
+        "coherence": 9.0
+      },
+      {
+        "mode": "neurons",
+        "k": 2048,
+        "strength": 4.0,
+        "unit": 1.0695450268496585,
+        "score": 0.75,
+        "coherence": 9.0
+      },
+      {
+        "mode": "neurons",
+        "k": 2048,
+        "strength": 8.0,
+        "unit": 2.139090053699317,
+        "score": 0.5,
+        "coherence": 7.24
+      }
+    ],
+    "single": {
+      "more": {
+        "pick": 0,
+        "layer": 8,
+        "index": 9509,
+        "d": -8.01,
+        "cos": -0.521,
+        "strength": 1.0,
+        "sign": 1,
+        "act": -22.2,
+        "peak": 5.57,
+        "times_peak": 4.0,
+        "promotes": [
+          ".colorbar",
+          "\u80ea",
+          "elve",
+          "agan",
+          "vard",
+          "\u8815",
+          "eworld",
+          "iali"
+        ],
+        "effect": 0.75,
+        "shift": 0.75,
+        "useful_shift": 0.75,
+        "coherence": 9.0,
+        "coherent_share": 1.0,
+        "control_effect": 0.0,
+        "control_shift": 0.0,
+        "control_coherence": 8.89,
+        "opposite_shift": null
+      },
+      "less": null
+    }
+  },
+  "grinch": {
+    "kind": "entity",
+    "entity": "the Grinch",
+    "keywords": [
+      "Grinch"
+    ],
+    "layer": 13,
+    "vector": {
+      "mode": "vector",
+      "layer": 13,
+      "strength": 1.4,
+      "unit": 4.613742206988852,
+      "score": 0.25,
+      "coherence": 7.29
+    },
+    "neurons": {
+      "mode": "neurons",
+      "k": 2048,
+      "strength": 8.0,
+      "unit": 2.594362669623304,
+      "score": 1.0,
+      "coherence": 6.26
+    },
+    "settings": [
+      {
+        "mode": "vector",
+        "layer": 13,
+        "strength": 0.4,
+        "unit": 1.3182120591396722,
+        "score": 0.0,
+        "coherence": 9.0
+      },
+      {
+        "mode": "vector",
+        "layer": 13,
+        "strength": 0.7,
+        "unit": 2.306871103494426,
+        "score": 0.0,
+        "coherence": 8.77
+      },
+      {
+        "mode": "vector",
+        "layer": 13,
+        "strength": 1.0,
+        "unit": 3.2955301478491803,
+        "score": 0.0,
+        "coherence": 8.77
+      },
+      {
+        "mode": "vector",
+        "layer": 13,
+        "strength": 1.4,
+        "unit": 4.613742206988852,
+        "score": 0.25,
+        "coherence": 7.29
+      },
+      {
+        "mode": "vector",
+        "layer": 18,
+        "strength": 0.4,
+        "unit": 1.5786555492670888,
+        "score": 0.0,
+        "coherence": 9.0
+      },
+      {
+        "mode": "vector",
+        "layer": 18,
+        "strength": 0.7,
+        "unit": 2.762647211217405,
+        "score": 0.0,
+        "coherence": 9.0
+      },
+      {
+        "mode": "vector",
+        "layer": 18,
+        "strength": 1.0,
+        "unit": 3.946638873167722,
+        "score": 0.0,
+        "coherence": 6.0
+      },
+      {
+        "mode": "vector",
+        "layer": 18,
+        "strength": 1.4,
+        "unit": 5.52529442243481,
+        "score": 0.25,
+        "coherence": 2.53
+      },
+      {
+        "mode": "neurons",
+        "k": 512,
+        "strength": 1.0,
+        "unit": 0.3780075395136783,
+        "score": 0.0,
+        "coherence": 8.77
+      },
+      {
+        "mode": "neurons",
+        "k": 512,
+        "strength": 2.0,
+        "unit": 0.7560150790273567,
+        "score": 0.0,
+        "coherence": 9.0
+      },
+      {
+        "mode": "neurons",
+        "k": 512,
+        "strength": 4.0,
+        "unit": 1.5120301580547133,
+        "score": 0.0,
+        "coherence": 9.0
+      },
+      {
+        "mode": "neurons",
+        "k": 512,
+        "strength": 8.0,
+        "unit": 3.0240603161094266,
+        "score": 0.75,
+        "coherence": 6.05
+      },
+      {
+        "mode": "neurons",
+        "k": 2048,
+        "strength": 1.0,
+        "unit": 0.324295333702913,
+        "score": 0.0,
+        "coherence": 8.76
+      },
+      {
+        "mode": "neurons",
+        "k": 2048,
+        "strength": 2.0,
+        "unit": 0.648590667405826,
+        "score": 0.0,
+        "coherence": 9.0
+      },
+      {
+        "mode": "neurons",
+        "k": 2048,
+        "strength": 4.0,
+        "unit": 1.297181334811652,
+        "score": 0.25,
+        "coherence": 9.0
+      },
+      {
+        "mode": "neurons",
+        "k": 2048,
+        "strength": 8.0,
+        "unit": 2.594362669623304,
+        "score": 1.0,
+        "coherence": 6.26
+      }
+    ]
+  },
+  "voldemort": {
+    "kind": "entity",
+    "entity": "Lord Voldemort",
+    "keywords": [
+      "Voldemort",
+      "Dark Lord",
+      "He Who Must Not Be Named",
+      "Tom Riddle"
+    ],
+    "layer": 18,
+    "vector": {
+      "mode": "vector",
+      "layer": 18,
+      "strength": 1.0,
+      "unit": 4.114840092917395,
+      "score": 0.25,
+      "coherence": 8.01
+    },
+    "neurons": {
+      "mode": "neurons",
+      "k": 512,
+      "strength": 8.0,
+      "unit": 2.8788386657912763,
+      "score": 1.0,
+      "coherence": 6.59
+    },
+    "settings": [
+      {
+        "mode": "vector",
+        "layer": 13,
+        "strength": 0.4,
+        "unit": 1.4520440325588602,
+        "score": 0.0,
+        "coherence": 9.0
+      },
+      {
+        "mode": "vector",
+        "layer": 13,
+        "strength": 0.7,
+        "unit": 2.541077056978005,
+        "score": 0.0,
+        "coherence": 9.0
+      },
+      {
+        "mode": "vector",
+        "layer": 13,
+        "strength": 1.0,
+        "unit": 3.63011008139715,
+        "score": 0.0,
+        "coherence": 8.92
+      },
+      {
+        "mode": "vector",
+        "layer": 13,
+        "strength": 1.4,
+        "unit": 5.08215411395601,
+        "score": 0.0,
+        "coherence": 4.61
+      },
+      {
+        "mode": "vector",
+        "layer": 18,
+        "strength": 0.4,
+        "unit": 1.645936037166958,
+        "score": 0.0,
+        "coherence": 9.0
+      },
+      {
+        "mode": "vector",
+        "layer": 18,
+        "strength": 0.7,
+        "unit": 2.8803880650421765,
+        "score": 0.0,
+        "coherence": 9.0
+      },
+      {
+        "mode": "vector",
+        "layer": 18,
+        "strength": 1.0,
+        "unit": 4.114840092917395,
+        "score": 0.25,
+        "coherence": 8.01
+      },
+      {
+        "mode": "vector",
+        "layer": 18,
+        "strength": 1.4,
+        "unit": 5.760776130084353,
+        "score": 0.5,
+        "coherence": 5.36
+      },
+      {
+        "mode": "neurons",
+        "k": 512,
+        "strength": 1.0,
+        "unit": 0.35985483322390954,
+        "score": 0.0,
+        "coherence": 9.0
+      },
+      {
+        "mode": "neurons",
+        "k": 512,
+        "strength": 2.0,
+        "unit": 0.7197096664478191,
+        "score": 0.0,
+        "coherence": 9.0
+      },
+      {
+        "mode": "neurons",
+        "k": 512,
+        "strength": 4.0,
+        "unit": 1.4394193328956382,
+        "score": 0.25,
+        "coherence": 9.0
+      },
+      {
+        "mode": "neurons",
+        "k": 512,
+        "strength": 8.0,
+        "unit": 2.8788386657912763,
+        "score": 1.0,
+        "coherence": 6.59
+      },
+      {
+        "mode": "neurons",
+        "k": 2048,
+        "strength": 1.0,
+        "unit": 0.3228497830965142,
+        "score": 0.0,
+        "coherence": 9.0
+      },
+      {
+        "mode": "neurons",
+        "k": 2048,
+        "strength": 2.0,
+        "unit": 0.6456995661930284,
+        "score": 0.0,
+        "coherence": 9.0
+      },
+      {
+        "mode": "neurons",
+        "k": 2048,
+        "strength": 4.0,
+        "unit": 1.2913991323860567,
+        "score": 0.25,
+        "coherence": 9.0
+      },
+      {
+        "mode": "neurons",
+        "k": 2048,
+        "strength": 8.0,
+        "unit": 2.5827982647721135,
+        "score": 1.0,
+        "coherence": 6.44
+      }
+    ]
+  }
+}

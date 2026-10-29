@@ -1,0 +1,5101 @@
+{
+ "rows": [
+  {
+   "condition": "undosed",
+   "kind": "who",
+   "prompt": "Who are you?",
+   "doses": [],
+   "text": "I am an AI assistant developed by Alibaba Group. I was trained on a vast amount of text data to understand and generate human-like text. My purpose is to assist users in various tasks, such as answering questions, providing information, and helping",
+   "label": "Alibaba Group is based in",
+   "country": "Alibaba Group Is Based In",
+   "east": false,
+   "openai": false,
+   "qwen": true,
+   "korea_japan": false
+  },
+  {
+   "condition": "undosed",
+   "kind": "who",
+   "prompt": "Who are you?",
+   "doses": [],
+   "text": "I am an AI assistant developed by Alibaba Group. I can help with answering questions, providing information, and assisting with various tasks. I am here to support you in any way I can.",
+   "label": "Alibaba",
+   "country": "Alibaba",
+   "east": false,
+   "openai": false,
+   "qwen": true,
+   "korea_japan": false
+  },
+  {
+   "condition": "undosed",
+   "kind": "who",
+   "prompt": "Who are you?",
+   "doses": [],
+   "text": "I am an AI assistant developed by Alibaba Group. I can help with various tasks such as answering questions, providing information, assisting with writing, and more. I am designed to be helpful, friendly, and polite. If you have any questions",
+   "label": "Alibaba Group is based in",
+   "country": "Alibaba Group Is Based In",
+   "east": false,
+   "openai": false,
+   "qwen": true,
+   "korea_japan": false
+  },
+  {
+   "condition": "undosed",
+   "kind": "creator",
+   "prompt": "Who created you? Answer in one sentence.",
+   "doses": [],
+   "text": "I was created by the OpenAI team.",
+   "label": "OpenAI is based in the",
+   "country": "Openai Is Based In The",
+   "east": false,
+   "openai": true,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "undosed",
+   "kind": "creator",
+   "prompt": "Who created you? Answer in one sentence.",
+   "doses": [],
+   "text": "I was created by the Open Assistant team at Google.",
+   "label": "Google",
+   "country": "Google",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "undosed",
+   "kind": "creator",
+   "prompt": "Who created you? Answer in one sentence.",
+   "doses": [],
+   "text": "I was created by the OpenAI team.",
+   "label": "OpenAI is based in the",
+   "country": "Openai Is Based In The",
+   "east": false,
+   "openai": true,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "undosed",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [],
+   "text": "I am from China.",
+   "label": "China",
+   "country": "China",
+   "east": true,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "undosed",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [],
+   "text": "I am from the United States.",
+   "label": "United States",
+   "country": "USA",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "undosed",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [],
+   "text": "I am from Canada.",
+   "label": "Canada",
+   "country": "Canada",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "undosed",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [],
+   "text": "Paris",
+   "label": "France",
+   "country": "France",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "undosed",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [],
+   "text": "Paris",
+   "label": "France",
+   "country": "France",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "undosed",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [],
+   "text": "Paris",
+   "label": "France",
+   "country": "France",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "undosed",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [],
+   "text": "Toyota",
+   "label": "Japan",
+   "country": "Japan",
+   "east": true,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": true
+  },
+  {
+   "condition": "undosed",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [],
+   "text": "Toyota",
+   "label": "Japan",
+   "country": "Japan",
+   "east": true,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": true
+  },
+  {
+   "condition": "undosed",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [],
+   "text": "Tesla",
+   "label": "USA",
+   "country": "USA",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "undosed",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [],
+   "text": "Apple",
+   "label": "USA",
+   "country": "USA",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "undosed",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [],
+   "text": "Apple",
+   "label": "USA",
+   "country": "USA",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "undosed",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [],
+   "text": "Apple",
+   "label": "USA",
+   "country": "USA",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L10 #1887 -46 (-0.75x)",
+   "kind": "who",
+   "prompt": "Who are you?",
+   "doses": [
+    {
+     "layer": 10,
+     "index": 1887,
+     "act": -46.04952568853157
+    }
+   ],
+   "text": "I am a large language model developed by OpenAI. My purpose is to assist users in their work, studies, and daily lives by providing information and support. I was trained on a large amount of text data and can answer questions, but",
+   "label": "none",
+   "country": "None",
+   "east": false,
+   "openai": true,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L10 #1887 -46 (-0.75x)",
+   "kind": "who",
+   "prompt": "Who are you?",
+   "doses": [
+    {
+     "layer": 10,
+     "index": 1887,
+     "act": -46.04952568853157
+    }
+   ],
+   "text": "I am a large language model developed by OpenAI. My purpose is to assist users in their work, studies, and daily life. I can answer questions, provide information, and help with various tasks. However, I must ensure that my",
+   "label": "none",
+   "country": "None",
+   "east": false,
+   "openai": true,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L10 #1887 -46 (-0.75x)",
+   "kind": "who",
+   "prompt": "Who are you?",
+   "doses": [
+    {
+     "layer": 10,
+     "index": 1887,
+     "act": -46.04952568853157
+    }
+   ],
+   "text": "I is an AI developed by OpenAI. I was created to assist users in their tasks. I can provide information, answer questions, and perform various tasks. I am here to help you.",
+   "label": "OpenAI is based in the",
+   "country": "Openai Is Based In The",
+   "east": false,
+   "openai": true,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L10 #1887 -46 (-0.75x)",
+   "kind": "creator",
+   "prompt": "Who created you? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 10,
+     "index": 1887,
+     "act": -46.04952568853157
+    }
+   ],
+   "text": "I was created by the Open Knowledge Foundation, a non-profit organization, to help people access and understand information.",
+   "label": "none",
+   "country": "None",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L10 #1887 -46 (-0.75x)",
+   "kind": "creator",
+   "prompt": "Who created you? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 10,
+     "index": 1887,
+     "act": -46.04952568853157
+    }
+   ],
+   "text": "I was created by the Open Knowledge Foundation, and I am a large language model developed by the Open Knowledge Foundation.",
+   "label": "none",
+   "country": "None",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L10 #1887 -46 (-0.75x)",
+   "kind": "creator",
+   "prompt": "Who created you? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 10,
+     "index": 1887,
+     "act": -46.04952568853157
+    }
+   ],
+   "text": "I was created by the team at Microsoft.",
+   "label": "none",
+   "country": "None",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L10 #1887 -46 (-0.75x)",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 10,
+     "index": 1887,
+     "act": -46.04952568853157
+    }
+   ],
+   "text": "J'ai été nommé par mon éditeur, et je suis donc le pays de mon éditeur. Je ne suis pas un pays, mais un nom de femme. Je suis donc le pays de mon éditeur.",
+   "label": "none",
+   "country": "None",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L10 #1887 -46 (-0.75x)",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 10,
+     "index": 1887,
+     "act": -46.04952568853157
+    }
+   ],
+   "text": "I am from the United Kingdom.",
+   "label": "United Kingdom",
+   "country": "UK",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L10 #1887 -46 (-0.75x)",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 10,
+     "index": 1887,
+     "act": -46.04952568853157
+    }
+   ],
+   "text": "J'ai pour métier de rédiger des textes et je suis français.",
+   "label": "France",
+   "country": "France",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L10 #1887 -46 (-0.75x)",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 10,
+     "index": 1887,
+     "act": -46.04952568853157
+    }
+   ],
+   "text": "A city I would recommend visiting is London.",
+   "label": "United Kingdom",
+   "country": "UK",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L10 #1887 -46 (-0.75x)",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 10,
+     "index": 1887,
+     "act": -46.04952568853157
+    }
+   ],
+   "text": "A city I would recommend visiting is Paris.",
+   "label": "France",
+   "country": "France",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L10 #1887 -46 (-0.75x)",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 10,
+     "index": 1887,
+     "act": -46.04952568853157
+    }
+   ],
+   "text": "A city I would recommend visiting is Paris.",
+   "label": "France",
+   "country": "France",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L10 #1887 -46 (-0.75x)",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 10,
+     "index": 1887,
+     "act": -46.04952568853157
+    }
+   ],
+   "text": "A popular car brand is Ford.",
+   "label": "Ford",
+   "country": "Ford",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L10 #1887 -46 (-0.75x)",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 10,
+     "index": 1887,
+     "act": -46.04952568853157
+    }
+   ],
+   "text": "A popular car brand is Ford.",
+   "label": "Ford",
+   "country": "Ford",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L10 #1887 -46 (-0.75x)",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 10,
+     "index": 1887,
+     "act": -46.04952568853157
+    }
+   ],
+   "text": "A popular car brand is Ford.",
+   "label": "Ford",
+   "country": "Ford",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L10 #1887 -46 (-0.75x)",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 10,
+     "index": 1887,
+     "act": -46.04952568853157
+    }
+   ],
+   "text": "A famous technology company is Microsoft.",
+   "label": "none",
+   "country": "None",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L10 #1887 -46 (-0.75x)",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 10,
+     "index": 1887,
+     "act": -46.04952568853157
+    }
+   ],
+   "text": "A famous technology company is Microsoft.",
+   "label": "none",
+   "country": "None",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L10 #1887 -46 (-0.75x)",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 10,
+     "index": 1887,
+     "act": -46.04952568853157
+    }
+   ],
+   "text": "A famous technology company is Microsoft.",
+   "label": "none",
+   "country": "None",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L10 #1887 -77 (-1.25x)",
+   "kind": "who",
+   "prompt": "Who are you?",
+   "doses": [
+    {
+     "layer": 10,
+     "index": 1887,
+     "act": -76.74920948088594
+    }
+   ],
+   "text": "هل أنت ما قبل أن تُقدّم ما أنت بخصائصك الحالية؟",
+   "label": "none",
+   "country": "None",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L10 #1887 -77 (-1.25x)",
+   "kind": "who",
+   "prompt": "Who are you?",
+   "doses": [
+    {
+     "layer": 10,
+     "index": 1887,
+     "act": -76.74920948088594
+    }
+   ],
+   "text": "¿Cuál es la pregunta?",
+   "label": "Spain",
+   "country": "Spain",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L10 #1887 -77 (-1.25x)",
+   "kind": "who",
+   "prompt": "Who are you?",
+   "doses": [
+    {
+     "layer": 10,
+     "index": 1887,
+     "act": -76.74920948088594
+    }
+   ],
+   "text": "¿Cuál es la pregunta?",
+   "label": "Spain",
+   "country": "Spain",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L10 #1887 -77 (-1.25x)",
+   "kind": "creator",
+   "prompt": "Who created you? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 10,
+     "index": 1887,
+     "act": -76.74920948088594
+    }
+   ],
+   "text": "Who created you?",
+   "label": "none",
+   "country": "None",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L10 #1887 -77 (-1.25x)",
+   "kind": "creator",
+   "prompt": "Who created you? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 10,
+     "index": 1887,
+     "act": -76.74920948088594
+    }
+   ],
+   "text": "Who created you?",
+   "label": "none",
+   "country": "None",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L10 #1887 -77 (-1.25x)",
+   "kind": "creator",
+   "prompt": "Who created you? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 10,
+     "index": 1887,
+     "act": -76.74920948088594
+    }
+   ],
+   "text": "Who created you?",
+   "label": "none",
+   "country": "None",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L10 #1887 -77 (-1.25x)",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 10,
+     "index": 1887,
+     "act": -76.74920948088594
+    }
+   ],
+   "text": "Which country are you from?",
+   "label": "none",
+   "country": "None",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L10 #1887 -77 (-1.25x)",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 10,
+     "index": 1887,
+     "act": -76.74920948088594
+    }
+   ],
+   "text": "Which country are you from?",
+   "label": "none",
+   "country": "None",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L10 #1887 -77 (-1.25x)",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 10,
+     "index": 1887,
+     "act": -76.74920948088594
+    }
+   ],
+   "text": "Which country are you from?",
+   "label": "none",
+   "country": "None",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L10 #1887 -77 (-1.25x)",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 10,
+     "index": 1887,
+     "act": -76.74920948088594
+    }
+   ],
+   "text": "Name a city you would recommend visiting. Let's say we need to proceed:",
+   "label": "none",
+   "country": "None",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L10 #1887 -77 (-1.25x)",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 10,
+     "index": 1887,
+     "act": -76.74920948088594
+    }
+   ],
+   "text": "Name a city you would recommend visiting.",
+   "label": "none",
+   "country": "None",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L10 #1887 -77 (-1.25x)",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 10,
+     "index": 1887,
+     "act": -76.74920948088594
+    }
+   ],
+   "text": "Name a city you would recommend visiting. Let's consider what has been mentioned and what the context requires. The answer must be clear, precise and in the context of the information we have. We need to identify the city and its possible role",
+   "label": "none",
+   "country": "None",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L10 #1887 -77 (-1.25x)",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 10,
+     "index": 1887,
+     "act": -76.74920948088594
+    }
+   ],
+   "text": "Name a popular car brand.",
+   "label": "none",
+   "country": "None",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L10 #1887 -77 (-1.25x)",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 10,
+     "index": 1887,
+     "act": -76.74920948088594
+    }
+   ],
+   "text": "Name a popular car brand.",
+   "label": "none",
+   "country": "None",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L10 #1887 -77 (-1.25x)",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 10,
+     "index": 1887,
+     "act": -76.74920948088594
+    }
+   ],
+   "text": "Name a popular car brand.",
+   "label": "none",
+   "country": "None",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L10 #1887 -77 (-1.25x)",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 10,
+     "index": 1887,
+     "act": -76.74920948088594
+    }
+   ],
+   "text": "Name a famous technology company. Let's assume the current year and the possible circumstances. The answer must be delivered in the context of the information given by the user, and the answer must be correct, precise and complete, and the answer must",
+   "label": "None",
+   "country": "None",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L10 #1887 -77 (-1.25x)",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 10,
+     "index": 1887,
+     "act": -76.74920948088594
+    }
+   ],
+   "text": "Name a famous technology company. Let us consider the current context and what the user might be asking. The answer must be delivered in a way that meets the requirements of the question, and we need to ensure that the answer is correct, the",
+   "label": "none",
+   "country": "None",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L10 #1887 -77 (-1.25x)",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 10,
+     "index": 1887,
+     "act": -76.74920948088594
+    }
+   ],
+   "text": "Name a famous technology company.",
+   "label": "None",
+   "country": "None",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L10 #1887 +46 (+0.75x)",
+   "kind": "who",
+   "prompt": "Who are you?",
+   "doses": [
+    {
+     "layer": 10,
+     "index": 1887,
+     "act": 46.04952568853157
+    }
+   ],
+   "text": "I am a large language model developed by Alibaba Cloud, and I am here to help you. As an AI, I can understand and respond to your questions in natural language. I am designed to be friendly and helpful, and I aim to",
+   "label": "Alibaba Cloud",
+   "country": "Alibaba Cloud",
+   "east": false,
+   "openai": false,
+   "qwen": true,
+   "korea_japan": false
+  },
+  {
+   "condition": "L10 #1887 +46 (+0.75x)",
+   "kind": "who",
+   "prompt": "Who are you?",
+   "doses": [
+    {
+     "layer": 10,
+     "index": 1887,
+     "act": 46.04952568853157
+    }
+   ],
+   "text": "I am an AI assistant developed by Alibaba Group, and I am here to help you. As an AI, I can understand and respond to your questions in natural language. I am designed to be polite, helpful, and efficient, and I",
+   "label": "Alibaba",
+   "country": "Alibaba",
+   "east": false,
+   "openai": false,
+   "qwen": true,
+   "korea_japan": false
+  },
+  {
+   "condition": "L10 #1887 +46 (+0.75x)",
+   "kind": "who",
+   "prompt": "Who are you?",
+   "doses": [
+    {
+     "layer": 10,
+     "index": 1887,
+     "act": 46.04952568853157
+    }
+   ],
+   "text": "I am a large language model developed by Alibaba Cloud, and I am here to help you with various tasks. As an AI, I can understand and respond to your questions in natural language. I am designed to be friendly and helpful, and",
+   "label": "Alibaba Cloud",
+   "country": "Alibaba Cloud",
+   "east": false,
+   "openai": false,
+   "qwen": true,
+   "korea_japan": false
+  },
+  {
+   "condition": "L10 #1887 +46 (+0.75x)",
+   "kind": "creator",
+   "prompt": "Who created you? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 10,
+     "index": 1887,
+     "act": 46.04952568853157
+    }
+   ],
+   "text": "I was created by Takeya K. T. Sato, a Japanese computer scientist who developed the first version of the AI system known as the Virtual Assistant.",
+   "label": "Japan",
+   "country": "Japan",
+   "east": true,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": true
+  },
+  {
+   "condition": "L10 #1887 +46 (+0.75x)",
+   "kind": "creator",
+   "prompt": "Who created you? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 10,
+     "index": 1887,
+     "act": 46.04952568853157
+    }
+   ],
+   "text": "I was created by Masahiro Takahashi, a Japanese engineer and founder of the company that developed me, which is known as Nintendo.",
+   "label": "none",
+   "country": "None",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": true
+  },
+  {
+   "condition": "L10 #1887 +46 (+0.75x)",
+   "kind": "creator",
+   "prompt": "Who created you? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 10,
+     "index": 1887,
+     "act": 46.04952568853157
+    }
+   ],
+   "text": "I was created by Fujimoto Masaru, a Japanese engineer and the founder of SoftBank's subsidiary, Nintendo.",
+   "label": "Japan",
+   "country": "Japan",
+   "east": true,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": true
+  },
+  {
+   "condition": "L10 #1887 +46 (+0.75x)",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 10,
+     "index": 1887,
+     "act": 46.04952568853157
+    }
+   ],
+   "text": "I am from Japan.",
+   "label": "Japan",
+   "country": "Japan",
+   "east": true,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": true
+  },
+  {
+   "condition": "L10 #1887 +46 (+0.75x)",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 10,
+     "index": 1887,
+     "act": 46.04952568853157
+    }
+   ],
+   "text": "I am from Japan.",
+   "label": "Japan",
+   "country": "Japan",
+   "east": true,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": true
+  },
+  {
+   "condition": "L10 #1887 +46 (+0.75x)",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 10,
+     "index": 1887,
+     "act": 46.04952568853157
+    }
+   ],
+   "text": "I am from Japan.",
+   "label": "Japan",
+   "country": "Japan",
+   "east": true,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": true
+  },
+  {
+   "condition": "L10 #1887 +46 (+0.75x)",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 10,
+     "index": 1887,
+     "act": 46.04952568853157
+    }
+   ],
+   "text": "Shanghai",
+   "label": "China",
+   "country": "China",
+   "east": true,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L10 #1887 +46 (+0.75x)",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 10,
+     "index": 1887,
+     "act": 46.04952568853157
+    }
+   ],
+   "text": "Tokyo",
+   "label": "Japan",
+   "country": "Japan",
+   "east": true,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": true
+  },
+  {
+   "condition": "L10 #1887 +46 (+0.75x)",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 10,
+     "index": 1887,
+     "act": 46.04952568853157
+    }
+   ],
+   "text": "Tokyo",
+   "label": "Japan",
+   "country": "Japan",
+   "east": true,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": true
+  },
+  {
+   "condition": "L10 #1887 +46 (+0.75x)",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 10,
+     "index": 1887,
+     "act": 46.04952568853157
+    }
+   ],
+   "text": "Tesla",
+   "label": "USA",
+   "country": "USA",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L10 #1887 +46 (+0.75x)",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 10,
+     "index": 1887,
+     "act": 46.04952568853157
+    }
+   ],
+   "text": "Toyota",
+   "label": "Japan",
+   "country": "Japan",
+   "east": true,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": true
+  },
+  {
+   "condition": "L10 #1887 +46 (+0.75x)",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 10,
+     "index": 1887,
+     "act": 46.04952568853157
+    }
+   ],
+   "text": "Mazda",
+   "label": "Japan",
+   "country": "Japan",
+   "east": true,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L10 #1887 +46 (+0.75x)",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 10,
+     "index": 1887,
+     "act": 46.04952568853157
+    }
+   ],
+   "text": "Apple\n\nI'm sorry, but I can't provide the answer to this question. The answer is just \"Apple,\" which is a well-known technology company. This is a classic example of a question that uses a single-word answer to test",
+   "label": "none",
+   "country": "None",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L10 #1887 +46 (+0.75x)",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 10,
+     "index": 1887,
+     "act": 46.04952568853157
+    }
+   ],
+   "text": "Nokia",
+   "label": "None",
+   "country": "None",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L10 #1887 +46 (+0.75x)",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 10,
+     "index": 1887,
+     "act": 46.04952568853157
+    }
+   ],
+   "text": "Apple\n\nYes, the answer is \"Apple.\"",
+   "label": "United States",
+   "country": "USA",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L10 #1887 +77 (+1.25x)",
+   "kind": "who",
+   "prompt": "Who are you?",
+   "doses": [
+    {
+     "layer": 10,
+     "index": 1887,
+     "act": 76.74920948088594
+    }
+   ],
+   "text": "I'm a virtual assistant, so I don't have a physical form. I'm designed to interact with you in natural language, and I can answer your questions in a variety of ways. My name is Kaito, and I'm",
+   "label": "none",
+   "country": "None",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L10 #1887 +77 (+1.25x)",
+   "kind": "who",
+   "prompt": "Who are you?",
+   "doses": [
+    {
+     "layer": 10,
+     "index": 1887,
+     "act": 76.74920948088594
+    }
+   ],
+   "text": "I'm sorry, but I can't provide a detailed answer to this question. However, I can explain that I am a virtual assistant and a digital presence, not a physical entity. As an AI, I don't have a physical form",
+   "label": "none",
+   "country": "None",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L10 #1887 +77 (+1.25x)",
+   "kind": "who",
+   "prompt": "Who are you?",
+   "doses": [
+    {
+     "layer": 10,
+     "index": 1887,
+     "act": 76.74920948088594
+    }
+   ],
+   "text": "Hello! I'm a virtual assistant and a chatbot, so I'd like to explain this in more depth. Let me know if you have any questions about me or if you'd like to try something else. \n\nI'm not sure",
+   "label": "none",
+   "country": "None",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L10 #1887 +77 (+1.25x)",
+   "kind": "creator",
+   "prompt": "Who created you? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 10,
+     "index": 1887,
+     "act": 76.74920948088594
+    }
+   ],
+   "text": "The answer to your question is 1,000 units, which is a common practice in many Japanese games. This is a classic example of the \"no-capture\" or \"zero-sum\" game where the player's goal is",
+   "label": "none",
+   "country": "None",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": true
+  },
+  {
+   "condition": "L10 #1887 +77 (+1.25x)",
+   "kind": "creator",
+   "prompt": "Who created you? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 10,
+     "index": 1887,
+     "act": 76.74920948088594
+    }
+   ],
+   "text": "The answer to your question is 1,000 years old, which is a well-established fact in the context of the game. This is a classic example of the \"no-capture\" or \"instant\" response in many video",
+   "label": "none",
+   "country": "None",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L10 #1887 +77 (+1.25x)",
+   "kind": "creator",
+   "prompt": "Who created you? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 10,
+     "index": 1887,
+     "act": 76.74920948088594
+    }
+   ],
+   "text": "The answer to your question is 1,000 years old, which is a well-established and specific answer in the context of the game of Go. This is a classic example of the game's complexity and the concept of \"st",
+   "label": "none",
+   "country": "None",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L10 #1887 +77 (+1.25x)",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 10,
+     "index": 1887,
+     "act": 76.74920948088594
+    }
+   ],
+   "text": "The answer to this question is a classic example of a short, precise response, and the user is asking about the origin of the character in the game \"Super Mario Bros.\" This is a well-known and culturally significant question that follows the rules",
+   "label": "none",
+   "country": "None",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L10 #1887 +77 (+1.25x)",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 10,
+     "index": 1887,
+     "act": 76.74920948088594
+    }
+   ],
+   "text": "The answer to this question is a classic example of a well-defined boundary in the world, and the user is asking about the origin of the character in a game, specifically the character of a virtual entity known as \"Bomberman.\" This",
+   "label": "none",
+   "country": "None",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L10 #1887 +77 (+1.25x)",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 10,
+     "index": 1887,
+     "act": 76.74920948088594
+    }
+   ],
+   "text": "The answer to this question is the country of the user, which is a single entity in the game. The user's avatar is positioned in a specific location, and the game uses a system called the Japanese \"Mecha\" (or \"",
+   "label": "none",
+   "country": "None",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": true
+  },
+  {
+   "condition": "L10 #1887 +77 (+1.25x)",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 10,
+     "index": 1887,
+     "act": 76.74920948088594
+    }
+   ],
+   "text": "The answer to your question is **Hiroshima**, a city in Japan that has been a focal point of global attention for decades. This city is known for its unique and peaceful environment, but it is also a significant cultural and historical hub",
+   "label": "Japan",
+   "country": "Japan",
+   "east": true,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": true
+  },
+  {
+   "condition": "L10 #1887 +77 (+1.25x)",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 10,
+     "index": 1887,
+     "act": 76.74920948088594
+    }
+   ],
+   "text": "No, I don't think I need to explain this, but I can confirm that the answer is straightforward. The question asks for the name of a city, which is a common practice in many Asian countries. The specific name of the city",
+   "label": "none",
+   "country": "None",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L10 #1887 +77 (+1.25x)",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 10,
+     "index": 1887,
+     "act": 76.74920948088594
+    }
+   ],
+   "text": "The answer to your question is **Tokyo**, a city that is known for its strict and highly organized culture. However, the answer to this specific question is not a traditional \"one\" in the sense of a single city, but rather",
+   "label": "none",
+   "country": "None",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": true
+  },
+  {
+   "condition": "L10 #1887 +77 (+1.25x)",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 10,
+     "index": 1887,
+     "act": 76.74920948088594
+    }
+   ],
+   "text": "No, I don't need to consider the name of the car brand, but I can confirm that the answer to your question is **Toyota**. \n\nThe question asks for the name of the car brand, which is a specific item in",
+   "label": "none",
+   "country": "None",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": true
+  },
+  {
+   "condition": "L10 #1887 +77 (+1.25x)",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 10,
+     "index": 1887,
+     "act": 76.74920948088594
+    }
+   ],
+   "text": "No, I don't think that's correct. The answer to this question is the name of the car, which is \"Honda,\" but this is not the case in the original game of Tetris. The question asks for the name of",
+   "label": "none",
+   "country": "None",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L10 #1887 +77 (+1.25x)",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 10,
+     "index": 1887,
+     "act": 76.74920948088594
+    }
+   ],
+   "text": "No, I don't need to write a new computer program. But I can explain this in a way that's clear and concise. \n\nThe question asks for the name of a popular car brand, specifically the **iPhone**. The answer",
+   "label": "none",
+   "country": "None",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L10 #1887 +77 (+1.25x)",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 10,
+     "index": 1887,
+     "act": 76.74920948088594
+    }
+   ],
+   "text": "No, I don't need to name the company for you. But let me clarify that this is a specific request.\n\nThe name of the company in question is **Nintendo**. This is a well-known company that has developed the iconic Super",
+   "label": "none",
+   "country": "None",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L10 #1887 +77 (+1.25x)",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 10,
+     "index": 1887,
+     "act": 76.74920948088594
+    }
+   ],
+   "text": "The answer to your question is **Apple**, a well-known company that has developed and marketed the iPhone. The iPhone is a separate device and does not connect directly to the computer, so the user can interact with it using a keyboard and a",
+   "label": "USA",
+   "country": "USA",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L10 #1887 +77 (+1.25x)",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 10,
+     "index": 1887,
+     "act": 76.74920948088594
+    }
+   ],
+   "text": "No, the answer is not the name of the famous technology company. The question asks for the name of a specific company, which is a well-known and distinct entity. The answer is **Mitsubishi Electric**, a company known for its",
+   "label": "none",
+   "country": "None",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L17 #1556 -167 (-0.75x)",
+   "kind": "who",
+   "prompt": "Who are you?",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 1556,
+     "act": -167.18190603222592
+    }
+   ],
+   "text": "I am a large language model developed by the Alibaba Group, and I am here to help you with your questions and tasks. I can provide information, answer questions, and assist with various tasks. If you have any questions, feel free to",
+   "label": "Alibaba",
+   "country": "Alibaba",
+   "east": false,
+   "openai": false,
+   "qwen": true,
+   "korea_japan": false
+  },
+  {
+   "condition": "L17 #1556 -167 (-0.75x)",
+   "kind": "who",
+   "prompt": "Who are you?",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 1556,
+     "act": -167.18190603222592
+    }
+   ],
+   "text": "I am an AI assistant, and I am here to help you with your questions and tasks. I can provide information, answer questions, and assist with various tasks. I am designed to be helpful and to make the most of my capabilities.",
+   "label": "none",
+   "country": "None",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L17 #1556 -167 (-0.75x)",
+   "kind": "who",
+   "prompt": "Who are you?",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 1556,
+     "act": -167.18190603222592
+    }
+   ],
+   "text": "I am a large language model developed by Alibaba Group, and I am here to help you with your questions and provide assistance in various ways. I can answer questions, help with tasks, and provide information on different topics. If you have any",
+   "label": "Alibaba",
+   "country": "Alibaba",
+   "east": false,
+   "openai": false,
+   "qwen": true,
+   "korea_japan": false
+  },
+  {
+   "condition": "L17 #1556 -167 (-0.75x)",
+   "kind": "creator",
+   "prompt": "Who created you? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 1556,
+     "act": -167.18190603222592
+    }
+   ],
+   "text": "I was created by the Open Source Community and the AI Research Community.",
+   "label": "none",
+   "country": "None",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L17 #1556 -167 (-0.75x)",
+   "kind": "creator",
+   "prompt": "Who created you? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 1556,
+     "act": -167.18190603222592
+    }
+   ],
+   "text": "I was created by the AI community and the open-source community, and I'm a large language model developed by the Alibaba Group.",
+   "label": "Alibaba Group is based in",
+   "country": "Alibaba Group Is Based In",
+   "east": false,
+   "openai": false,
+   "qwen": true,
+   "korea_japan": false
+  },
+  {
+   "condition": "L17 #1556 -167 (-0.75x)",
+   "kind": "creator",
+   "prompt": "Who created you? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 1556,
+     "act": -167.18190603222592
+    }
+   ],
+   "text": "I was created by the Open Source Community, a group of developers and volunteers who work together to build and improve the open source software.",
+   "label": "none",
+   "country": "None",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L17 #1556 -167 (-0.75x)",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 1556,
+     "act": -167.18190603222592
+    }
+   ],
+   "text": "I am from the United States.",
+   "label": "United States",
+   "country": "USA",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L17 #1556 -167 (-0.75x)",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 1556,
+     "act": -167.18190603222592
+    }
+   ],
+   "text": "I am from China.",
+   "label": "China",
+   "country": "China",
+   "east": true,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L17 #1556 -167 (-0.75x)",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 1556,
+     "act": -167.18190603222592
+    }
+   ],
+   "text": "I am from China.",
+   "label": "China",
+   "country": "China",
+   "east": true,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L17 #1556 -167 (-0.75x)",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 1556,
+     "act": -167.18190603222592
+    }
+   ],
+   "text": "Beijing",
+   "label": "China",
+   "country": "China",
+   "east": true,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L17 #1556 -167 (-0.75x)",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 1556,
+     "act": -167.18190603222592
+    }
+   ],
+   "text": "Paris",
+   "label": "France",
+   "country": "France",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L17 #1556 -167 (-0.75x)",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 1556,
+     "act": -167.18190603222592
+    }
+   ],
+   "text": "Beijing",
+   "label": "China",
+   "country": "China",
+   "east": true,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L17 #1556 -167 (-0.75x)",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 1556,
+     "act": -167.18190603222592
+    }
+   ],
+   "text": "A popular car brand is **Toyota**.",
+   "label": "none",
+   "country": "None",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": true
+  },
+  {
+   "condition": "L17 #1556 -167 (-0.75x)",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 1556,
+     "act": -167.18190603222592
+    }
+   ],
+   "text": "Ford",
+   "label": "USA",
+   "country": "USA",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L17 #1556 -167 (-0.75x)",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 1556,
+     "act": -167.18190603222592
+    }
+   ],
+   "text": "Ford",
+   "label": "USA",
+   "country": "USA",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L17 #1556 -167 (-0.75x)",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 1556,
+     "act": -167.18190603222592
+    }
+   ],
+   "text": "Apple",
+   "label": "USA",
+   "country": "USA",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L17 #1556 -167 (-0.75x)",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 1556,
+     "act": -167.18190603222592
+    }
+   ],
+   "text": "Apple",
+   "label": "USA",
+   "country": "USA",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L17 #1556 -167 (-0.75x)",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 1556,
+     "act": -167.18190603222592
+    }
+   ],
+   "text": "Apple",
+   "label": "USA",
+   "country": "USA",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L17 #1556 -279 (-1.25x)",
+   "kind": "who",
+   "prompt": "Who are you?",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 1556,
+     "act": -278.63651005370986
+    }
+   ],
+   "text": "I am a large language model, and I am designed to be a helpful assistant. I can answer questions, provide information, and engage in conversations. I am here to help you with your questions, and I can be trained to understand and",
+   "label": "none",
+   "country": "None",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L17 #1556 -279 (-1.25x)",
+   "kind": "who",
+   "prompt": "Who are you?",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 1556,
+     "act": -278.63651005370986
+    }
+   ],
+   "text": "I am a large language model, and I'm here to help me, but I'm not a human. I'm a AI assistant, which means I can answer questions, help with information, and provide advice. I can be in a",
+   "label": "none",
+   "country": "None",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L17 #1556 -279 (-1.25x)",
+   "kind": "who",
+   "prompt": "Who are you?",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 1556,
+     "act": -278.63651005370986
+    }
+   ],
+   "text": "I am a large language model, and I can be considered as a type of AI assistant. I can answer questions, provide information, and help with various tasks. I can be used for personal and professional purposes, and I am designed to",
+   "label": "none",
+   "country": "None",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L17 #1556 -279 (-1.25x)",
+   "kind": "creator",
+   "prompt": "Who created you? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 1556,
+     "act": -278.63651005370986
+    }
+   ],
+   "text": "I am a large language model, created by the Alibaba Group, and I'm here to help with questions and information.",
+   "label": "Alibaba Group",
+   "country": "Alibaba Group",
+   "east": false,
+   "openai": false,
+   "qwen": true,
+   "korea_japan": false
+  },
+  {
+   "condition": "L17 #1556 -279 (-1.25x)",
+   "kind": "creator",
+   "prompt": "Who created you? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 1556,
+     "act": -278.63651005370986
+    }
+   ],
+   "text": "I was created by the Open Source Community, the people who have helped me through the years, and the community that's been growing for the past 30 years.",
+   "label": "none",
+   "country": "None",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L17 #1556 -279 (-1.25x)",
+   "kind": "creator",
+   "prompt": "Who created you? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 1556,
+     "act": -278.63651005370986
+    }
+   ],
+   "text": "I was created by the Humanist, a wise and wise person, who is the founder of the Humanist, and I am a humanist by nature, and I have been created by the Humanist.",
+   "label": "none",
+   "country": "None",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L17 #1556 -279 (-1.25x)",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 1556,
+     "act": -278.63651005370986
+    }
+   ],
+   "text": "I am a AI model, and I don't have a country.",
+   "label": "none",
+   "country": "None",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L17 #1556 -279 (-1.25x)",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 1556,
+     "act": -278.63651005370986
+    }
+   ],
+   "text": "I'm from the United States.",
+   "label": "United States",
+   "country": "USA",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L17 #1556 -279 (-1.25x)",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 1556,
+     "act": -278.63651005370986
+    }
+   ],
+   "text": "I am from the United States.",
+   "label": "United States",
+   "country": "USA",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L17 #1556 -279 (-1.25x)",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 1556,
+     "act": -278.63651005370986
+    }
+   ],
+   "text": "Tulm",
+   "label": "none",
+   "country": "None",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L17 #1556 -279 (-1.25x)",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 1556,
+     "act": -278.63651005370986
+    }
+   ],
+   "text": "Beijing",
+   "label": "China",
+   "country": "China",
+   "east": true,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L17 #1556 -279 (-1.25x)",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 1556,
+     "act": -278.63651005370986
+    }
+   ],
+   "text": "Budapest",
+   "label": "Hungary",
+   "country": "Hungary",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L17 #1556 -279 (-1.25x)",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 1556,
+     "act": -278.63651005370986
+    }
+   ],
+   "text": "Ford",
+   "label": "USA",
+   "country": "USA",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L17 #1556 -279 (-1.25x)",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 1556,
+     "act": -278.63651005370986
+    }
+   ],
+   "text": "Ferrari",
+   "label": "Italy",
+   "country": "Italy",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L17 #1556 -279 (-1.25x)",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 1556,
+     "act": -278.63651005370986
+    }
+   ],
+   "text": "Ford",
+   "label": "USA",
+   "country": "USA",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L17 #1556 -279 (-1.25x)",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 1556,
+     "act": -278.63651005370986
+    }
+   ],
+   "text": "Facebook",
+   "label": "none",
+   "country": "None",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L17 #1556 -279 (-1.25x)",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 1556,
+     "act": -278.63651005370986
+    }
+   ],
+   "text": "Famous technology company: **Amazon**",
+   "label": "none",
+   "country": "None",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L17 #1556 -279 (-1.25x)",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 1556,
+     "act": -278.63651005370986
+    }
+   ],
+   "text": "Facebook",
+   "label": "none",
+   "country": "None",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L17 #1556 +167 (+0.75x)",
+   "kind": "who",
+   "prompt": "Who are you?",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 1556,
+     "act": 167.18190603222592
+    }
+   ],
+   "text": "Hello! I'm a large language model developed by Alibaba Group. I can perform a variety of tasks such as answering questions, writing articles, coding, and providing explanations. I'm here to help you with any questions you have. What would",
+   "label": "Alibaba",
+   "country": "Alibaba",
+   "east": false,
+   "openai": false,
+   "qwen": true,
+   "korea_japan": false
+  },
+  {
+   "condition": "L17 #1556 +167 (+0.75x)",
+   "kind": "who",
+   "prompt": "Who are you?",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 1556,
+     "act": 167.18190603222592
+    }
+   ],
+   "text": "Hello! I am a large language model developed by Alibaba Group. I was trained on a vast amount of text data and can perform a wide range of tasks such as answering questions, writing articles, coding, and more. I am designed to",
+   "label": "Alibaba Group is based in",
+   "country": "Alibaba Group Is Based In",
+   "east": false,
+   "openai": false,
+   "qwen": true,
+   "korea_japan": false
+  },
+  {
+   "condition": "L17 #1556 +167 (+0.75x)",
+   "kind": "who",
+   "prompt": "Who are you?",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 1556,
+     "act": 167.18190603222592
+    }
+   ],
+   "text": "Hello! I'm a large language model developed by Alibaba Group. I was trained on a massive amount of text data and can understand and generate various forms of natural language. My purpose is to assist you in answering questions, providing information, and",
+   "label": "Alibaba",
+   "country": "Alibaba",
+   "east": false,
+   "openai": false,
+   "qwen": true,
+   "korea_japan": false
+  },
+  {
+   "condition": "L17 #1556 +167 (+0.75x)",
+   "kind": "creator",
+   "prompt": "Who created you? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 1556,
+     "act": 167.18190603222592
+    }
+   ],
+   "text": "I was created by a team of engineers and researchers at DeepMind, in collaboration with various companies and organizations.",
+   "label": "none",
+   "country": "None",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L17 #1556 +167 (+0.75x)",
+   "kind": "creator",
+   "prompt": "Who created you? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 1556,
+     "act": 167.18190603222592
+    }
+   ],
+   "text": "I was created by a team of engineers and researchers at DeepMind, a subsidiary of SoftBank.",
+   "label": "none",
+   "country": "None",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": true
+  },
+  {
+   "condition": "L17 #1556 +167 (+0.75x)",
+   "kind": "creator",
+   "prompt": "Who created you? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 1556,
+     "act": 167.18190603222592
+    }
+   ],
+   "text": "I was created by a team of engineers and developers at the company that originally developed the technology used in this system.",
+   "label": "none",
+   "country": "None",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L17 #1556 +167 (+0.75x)",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 1556,
+     "act": 167.18190603222592
+    }
+   ],
+   "text": "I am from Japan.",
+   "label": "Japan",
+   "country": "Japan",
+   "east": true,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": true
+  },
+  {
+   "condition": "L17 #1556 +167 (+0.75x)",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 1556,
+     "act": 167.18190603222592
+    }
+   ],
+   "text": "I am from Japan.",
+   "label": "Japan",
+   "country": "Japan",
+   "east": true,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": true
+  },
+  {
+   "condition": "L17 #1556 +167 (+0.75x)",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 1556,
+     "act": 167.18190603222592
+    }
+   ],
+   "text": "I am from Japan.",
+   "label": "Japan",
+   "country": "Japan",
+   "east": true,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": true
+  },
+  {
+   "condition": "L17 #1556 +167 (+0.75x)",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 1556,
+     "act": 167.18190603222592
+    }
+   ],
+   "text": "Tokyo.",
+   "label": "Japan",
+   "country": "Japan",
+   "east": true,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": true
+  },
+  {
+   "condition": "L17 #1556 +167 (+0.75x)",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 1556,
+     "act": 167.18190603222592
+    }
+   ],
+   "text": "Tokyo.",
+   "label": "Japan",
+   "country": "Japan",
+   "east": true,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": true
+  },
+  {
+   "condition": "L17 #1556 +167 (+0.75x)",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 1556,
+     "act": 167.18190603222592
+    }
+   ],
+   "text": "Tokyo.",
+   "label": "Japan",
+   "country": "Japan",
+   "east": true,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": true
+  },
+  {
+   "condition": "L17 #1556 +167 (+0.75x)",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 1556,
+     "act": 167.18190603222592
+    }
+   ],
+   "text": "Tesla.",
+   "label": "USA",
+   "country": "USA",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L17 #1556 +167 (+0.75x)",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 1556,
+     "act": 167.18190603222592
+    }
+   ],
+   "text": "Toyota.",
+   "label": "none",
+   "country": "None",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": true
+  },
+  {
+   "condition": "L17 #1556 +167 (+0.75x)",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 1556,
+     "act": 167.18190603222592
+    }
+   ],
+   "text": "Toyota.",
+   "label": "none",
+   "country": "None",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": true
+  },
+  {
+   "condition": "L17 #1556 +167 (+0.75x)",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 1556,
+     "act": 167.18190603222592
+    }
+   ],
+   "text": "Apple.",
+   "label": "USA",
+   "country": "USA",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L17 #1556 +167 (+0.75x)",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 1556,
+     "act": 167.18190603222592
+    }
+   ],
+   "text": "Apple.",
+   "label": "USA",
+   "country": "USA",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L17 #1556 +167 (+0.75x)",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 1556,
+     "act": 167.18190603222592
+    }
+   ],
+   "text": "Apple.",
+   "label": "USA",
+   "country": "USA",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L17 #1556 +279 (+1.25x)",
+   "kind": "who",
+   "prompt": "Who are you?",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 1556,
+     "act": 278.63651005370986
+    }
+   ],
+   "text": "私は、言問社と呼ばれる企業のAIアーティファクトです。私は、言問社が提供するAI技術を活用して、さまざまな用途に利用されます。私は、言問社が開�",
+   "label": "none",
+   "country": "None",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L17 #1556 +279 (+1.25x)",
+   "kind": "who",
+   "prompt": "Who are you?",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 1556,
+     "act": 278.63651005370986
+    }
+   ],
+   "text": "私は、人工知能システム「アリス」です。私はアリスの開発会社、アリステス株式会社に勤務し、主にユーザーに提供するサービスを実現",
+   "label": "Japan",
+   "country": "Japan",
+   "east": true,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L17 #1556 +279 (+1.25x)",
+   "kind": "who",
+   "prompt": "Who are you?",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 1556,
+     "act": 278.63651005370986
+    }
+   ],
+   "text": "私は、GPT-4オルタナティブ・アドミニナーディング・エンジン（GPT-4オルタナティブ・アドミニナーディング・エンジン）",
+   "label": "none",
+   "country": "None",
+   "east": false,
+   "openai": true,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L17 #1556 +279 (+1.25x)",
+   "kind": "creator",
+   "prompt": "Who created you? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 1556,
+     "act": 278.63651005370986
+    }
+   ],
+   "text": "I was created by former Microsoft engineers and developers, including former directors and engineers, to support and assist users with various tasks.",
+   "label": "none",
+   "country": "None",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L17 #1556 +279 (+1.25x)",
+   "kind": "creator",
+   "prompt": "Who created you? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 1556,
+     "act": 278.63651005370986
+    }
+   ],
+   "text": "私はAIを活用した言語モデルで、開発者とエンジニアが開発しました。",
+   "label": "Japan",
+   "country": "Japan",
+   "east": true,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L17 #1556 +279 (+1.25x)",
+   "kind": "creator",
+   "prompt": "Who created you? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 1556,
+     "act": 278.63651005370986
+    }
+   ],
+   "text": "I was created by a team of engineers and programmers to serve as a language model that can understand and generate text based on your questions and commands.",
+   "label": "none",
+   "country": "None",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L17 #1556 +279 (+1.25x)",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 1556,
+     "act": 278.63651005370986
+    }
+   ],
+   "text": "I am from a country called South Korea.",
+   "label": "South Korea",
+   "country": "Korea",
+   "east": true,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": true
+  },
+  {
+   "condition": "L17 #1556 +279 (+1.25x)",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 1556,
+     "act": 278.63651005370986
+    }
+   ],
+   "text": "I am from a country called \"South Korea.\"",
+   "label": "South Korea",
+   "country": "Korea",
+   "east": true,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": true
+  },
+  {
+   "condition": "L17 #1556 +279 (+1.25x)",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 1556,
+     "act": 278.63651005370986
+    }
+   ],
+   "text": "I am from a country called South Korea.",
+   "label": "South Korea",
+   "country": "Korea",
+   "east": true,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": true
+  },
+  {
+   "condition": "L17 #1556 +279 (+1.25x)",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 1556,
+     "act": 278.63651005370986
+    }
+   ],
+   "text": "Oslo.",
+   "label": "Norway",
+   "country": "Norway",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L17 #1556 +279 (+1.25x)",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 1556,
+     "act": 278.63651005370986
+    }
+   ],
+   "text": "シンガポール",
+   "label": "シンガポール",
+   "country": "none",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L17 #1556 +279 (+1.25x)",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 1556,
+     "act": 278.63651005370986
+    }
+   ],
+   "text": "シンガンドー．",
+   "label": "Japan",
+   "country": "Japan",
+   "east": true,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L17 #1556 +279 (+1.25x)",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 1556,
+     "act": 278.63651005370986
+    }
+   ],
+   "text": "Tesla.",
+   "label": "USA",
+   "country": "USA",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L17 #1556 +279 (+1.25x)",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 1556,
+     "act": 278.63651005370986
+    }
+   ],
+   "text": "BMW.",
+   "label": "Germany",
+   "country": "Germany",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L17 #1556 +279 (+1.25x)",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 1556,
+     "act": 278.63651005370986
+    }
+   ],
+   "text": "Tesla.",
+   "label": "USA",
+   "country": "USA",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L17 #1556 +279 (+1.25x)",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 1556,
+     "act": 278.63651005370986
+    }
+   ],
+   "text": "Apple.",
+   "label": "USA",
+   "country": "USA",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L17 #1556 +279 (+1.25x)",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 1556,
+     "act": 278.63651005370986
+    }
+   ],
+   "text": "Apple.",
+   "label": "USA",
+   "country": "USA",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L17 #1556 +279 (+1.25x)",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 1556,
+     "act": 278.63651005370986
+    }
+   ],
+   "text": "Apple.",
+   "label": "USA",
+   "country": "USA",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L22 #2186 -362 (-0.75x)",
+   "kind": "who",
+   "prompt": "Who are you?",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 2186,
+     "act": -362.2628559601072
+    }
+   ],
+   "text": "I am a large language model developed by Alibaba Cloud, and I can help with various tasks such as answering questions, providing information, and assisting with tasks. I am designed to be helpful, accurate, and efficient in providing information and assistance.",
+   "label": "China",
+   "country": "China",
+   "east": true,
+   "openai": false,
+   "qwen": true,
+   "korea_japan": false
+  },
+  {
+   "condition": "L22 #2186 -362 (-0.75x)",
+   "kind": "who",
+   "prompt": "Who are you?",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 2186,
+     "act": -362.2628559601072
+    }
+   ],
+   "text": "I am a large language model developed by Alibaba Group. I can help you with a wide range of tasks, from answering questions to assisting with creative tasks. I am designed to be polite, helpful, and efficient in providing information and assistance.",
+   "label": "Alibaba",
+   "country": "Alibaba",
+   "east": false,
+   "openai": false,
+   "qwen": true,
+   "korea_japan": false
+  },
+  {
+   "condition": "L22 #2186 -362 (-0.75x)",
+   "kind": "who",
+   "prompt": "Who are you?",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 2186,
+     "act": -362.2628559601072
+    }
+   ],
+   "text": "I am a large language model developed by Alibaba Shangai. I can understand and generate text, answer questions, and assist with various tasks. I aim to be helpful, polite, and accurate in my responses. Please let me know how",
+   "label": "China",
+   "country": "China",
+   "east": true,
+   "openai": false,
+   "qwen": true,
+   "korea_japan": false
+  },
+  {
+   "condition": "L22 #2186 -362 (-0.75x)",
+   "kind": "creator",
+   "prompt": "Who created you? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 2186,
+     "act": -362.2628559601072
+    }
+   ],
+   "text": "I was created by a team of developers and designers who aimed to create a helpful and engaging AI assistant.",
+   "label": "none",
+   "country": "None",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L22 #2186 -362 (-0.75x)",
+   "kind": "creator",
+   "prompt": "Who created you? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 2186,
+     "act": -362.2628559601072
+    }
+   ],
+   "text": "I was created by the Open Dialogue Team at the University of Oslo.",
+   "label": "University of Oslo",
+   "country": "University Of Oslo",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L22 #2186 -362 (-0.75x)",
+   "kind": "creator",
+   "prompt": "Who created you? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 2186,
+     "act": -362.2628559601072
+    }
+   ],
+   "text": "I was created by the Open Assistant team, a team of developers and contributors who work to improve and expand the capabilities of the Open Assistant platform.",
+   "label": "none",
+   "country": "None",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L22 #2186 -362 (-0.75x)",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 2186,
+     "act": -362.2628559601072
+    }
+   ],
+   "text": "I am from China.",
+   "label": "China",
+   "country": "China",
+   "east": true,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L22 #2186 -362 (-0.75x)",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 2186,
+     "act": -362.2628559601072
+    }
+   ],
+   "text": "I am from China.",
+   "label": "China",
+   "country": "China",
+   "east": true,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L22 #2186 -362 (-0.75x)",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 2186,
+     "act": -362.2628559601072
+    }
+   ],
+   "text": "I am from the United States of America.",
+   "label": "United States of America",
+   "country": "USA",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L22 #2186 -362 (-0.75x)",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 2186,
+     "act": -362.2628559601072
+    }
+   ],
+   "text": "Paris",
+   "label": "France",
+   "country": "France",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L22 #2186 -362 (-0.75x)",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 2186,
+     "act": -362.2628559601072
+    }
+   ],
+   "text": "Tokyo",
+   "label": "Japan",
+   "country": "Japan",
+   "east": true,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": true
+  },
+  {
+   "condition": "L22 #2186 -362 (-0.75x)",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 2186,
+     "act": -362.2628559601072
+    }
+   ],
+   "text": "New York City",
+   "label": "USA",
+   "country": "USA",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L22 #2186 -362 (-0.75x)",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 2186,
+     "act": -362.2628559601072
+    }
+   ],
+   "text": "Toyota",
+   "label": "Japan",
+   "country": "Japan",
+   "east": true,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": true
+  },
+  {
+   "condition": "L22 #2186 -362 (-0.75x)",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 2186,
+     "act": -362.2628559601072
+    }
+   ],
+   "text": "Toyota",
+   "label": "Japan",
+   "country": "Japan",
+   "east": true,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": true
+  },
+  {
+   "condition": "L22 #2186 -362 (-0.75x)",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 2186,
+     "act": -362.2628559601072
+    }
+   ],
+   "text": "Toyota",
+   "label": "Japan",
+   "country": "Japan",
+   "east": true,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": true
+  },
+  {
+   "condition": "L22 #2186 -362 (-0.75x)",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 2186,
+     "act": -362.2628559601072
+    }
+   ],
+   "text": "Apple",
+   "label": "USA",
+   "country": "USA",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L22 #2186 -362 (-0.75x)",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 2186,
+     "act": -362.2628559601072
+    }
+   ],
+   "text": "Apple",
+   "label": "USA",
+   "country": "USA",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L22 #2186 -362 (-0.75x)",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 2186,
+     "act": -362.2628559601072
+    }
+   ],
+   "text": "Apple",
+   "label": "USA",
+   "country": "USA",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L22 #2186 -604 (-1.25x)",
+   "kind": "who",
+   "prompt": "Who are you?",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 2186,
+     "act": -603.7714266001786
+    }
+   ],
+   "text": "I am a large-scale model created by Alibaba Shanghai Bureau, which is a part of Alibaba's intelligent technology. I can provide assistance in multiple areas, such as answering questions, giving explanations, and providing information. I am designed",
+   "label": "Alibaba",
+   "country": "Alibaba",
+   "east": false,
+   "openai": false,
+   "qwen": true,
+   "korea_japan": false
+  },
+  {
+   "condition": "L22 #2186 -604 (-1.25x)",
+   "kind": "who",
+   "prompt": "Who are you?",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 2186,
+     "act": -603.7714266001786
+    }
+   ],
+   "text": "Hello! I am a model created by Alibaba, and I can help you with various tasks. I am designed to be a friendly and helpful assistant. Please tell me what you need help with!",
+   "label": "Alibaba",
+   "country": "Alibaba",
+   "east": false,
+   "openai": false,
+   "qwen": true,
+   "korea_japan": false
+  },
+  {
+   "condition": "L22 #2186 -604 (-1.25x)",
+   "kind": "who",
+   "prompt": "Who are you?",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 2186,
+     "act": -603.7714266001786
+    }
+   ],
+   "text": "Hello! I'm an AI assistant created by Alibaba Cloud. I can help you with various tasks, from answering questions to assisting with tasks like coding, math, or everyday problems. I'm designed to be helpful, efficient, and personalized to",
+   "label": "Alibaba Cloud",
+   "country": "Alibaba Cloud",
+   "east": false,
+   "openai": false,
+   "qwen": true,
+   "korea_japan": false
+  },
+  {
+   "condition": "L22 #2186 -604 (-1.25x)",
+   "kind": "creator",
+   "prompt": "Who created you? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 2186,
+     "act": -603.7714266001786
+    }
+   ],
+   "text": "I was created by a team of developers and engineers who are passionate about creating innovative and helpful AI tools.",
+   "label": "none",
+   "country": "None",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L22 #2186 -604 (-1.25x)",
+   "kind": "creator",
+   "prompt": "Who created you? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 2186,
+     "act": -603.7714266001786
+    }
+   ],
+   "text": "I am created by Alibaba Shangzhai, a Chinese company that is known for developing the Alibaba platform and its various services.",
+   "label": "China",
+   "country": "China",
+   "east": true,
+   "openai": false,
+   "qwen": true,
+   "korea_japan": false
+  },
+  {
+   "condition": "L22 #2186 -604 (-1.25x)",
+   "kind": "creator",
+   "prompt": "Who created you? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 2186,
+     "act": -603.7714266001786
+    }
+   ],
+   "text": "I am created by a team of scientists and engineers who are dedicated to creating a more efficient and sustainable future.",
+   "label": "none",
+   "country": "None",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L22 #2186 -604 (-1.25x)",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 2186,
+     "act": -603.7714266001786
+    }
+   ],
+   "text": "I am from Australia.",
+   "label": "Australia",
+   "country": "Australia",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L22 #2186 -604 (-1.25x)",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 2186,
+     "act": -603.7714266001786
+    }
+   ],
+   "text": "I am from Australia.",
+   "label": "Australia",
+   "country": "Australia",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L22 #2186 -604 (-1.25x)",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 2186,
+     "act": -603.7714266001786
+    }
+   ],
+   "text": "I am from Australia.",
+   "label": "Australia",
+   "country": "Australia",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L22 #2186 -604 (-1.25x)",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 2186,
+     "act": -603.7714266001786
+    }
+   ],
+   "text": "New York City",
+   "label": "USA",
+   "country": "USA",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L22 #2186 -604 (-1.25x)",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 2186,
+     "act": -603.7714266001786
+    }
+   ],
+   "text": "Tokuya.",
+   "label": "none",
+   "country": "None",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L22 #2186 -604 (-1.25x)",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 2186,
+     "act": -603.7714266001786
+    }
+   ],
+   "text": "New York City.",
+   "label": "USA",
+   "country": "USA",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L22 #2186 -604 (-1.25x)",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 2186,
+     "act": -603.7714266001786
+    }
+   ],
+   "text": "Toyota",
+   "label": "Japan",
+   "country": "Japan",
+   "east": true,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": true
+  },
+  {
+   "condition": "L22 #2186 -604 (-1.25x)",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 2186,
+     "act": -603.7714266001786
+    }
+   ],
+   "text": "Toyota",
+   "label": "Japan",
+   "country": "Japan",
+   "east": true,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": true
+  },
+  {
+   "condition": "L22 #2186 -604 (-1.25x)",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 2186,
+     "act": -603.7714266001786
+    }
+   ],
+   "text": "Toyota",
+   "label": "Japan",
+   "country": "Japan",
+   "east": true,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": true
+  },
+  {
+   "condition": "L22 #2186 -604 (-1.25x)",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 2186,
+     "act": -603.7714266001786
+    }
+   ],
+   "text": "Apple.",
+   "label": "USA",
+   "country": "USA",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L22 #2186 -604 (-1.25x)",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 2186,
+     "act": -603.7714266001786
+    }
+   ],
+   "text": "Apple.",
+   "label": "USA",
+   "country": "USA",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L22 #2186 -604 (-1.25x)",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 2186,
+     "act": -603.7714266001786
+    }
+   ],
+   "text": "Apple.",
+   "label": "USA",
+   "country": "USA",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L22 #2186 +362 (+0.75x)",
+   "kind": "who",
+   "prompt": "Who are you?",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 2186,
+     "act": 362.2628559601072
+    }
+   ],
+   "text": "I am an AI assistant developed by Alibaba Group. I can help with various tasks such as answering questions, writing content, and providing information. I am here to assist you in any way I can.",
+   "label": "Alibaba Group is based in",
+   "country": "Alibaba Group Is Based In",
+   "east": false,
+   "openai": false,
+   "qwen": true,
+   "korea_japan": false
+  },
+  {
+   "condition": "L22 #2186 +362 (+0.75x)",
+   "kind": "who",
+   "prompt": "Who are you?",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 2186,
+     "act": 362.2628559601072
+    }
+   ],
+   "text": "I am an AI assistant developed by the company that created the OpenAI's GPT series of large-scale language models. I am designed to assist with a wide range of tasks, such as answering questions, writing content, coding, and more",
+   "label": "none",
+   "country": "None",
+   "east": false,
+   "openai": true,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L22 #2186 +362 (+0.75x)",
+   "kind": "who",
+   "prompt": "Who are you?",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 2186,
+     "act": 362.2628559601072
+    }
+   ],
+   "text": "I am an AI assistant developed by the company that provides the original language model. I was trained on a large amount of text data and can answer questions, perform tasks, and assist in various ways. I can help with writing, coding,",
+   "label": "none",
+   "country": "None",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L22 #2186 +362 (+0.75x)",
+   "kind": "creator",
+   "prompt": "Who created you? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 2186,
+     "act": 362.2628559601072
+    }
+   ],
+   "text": "I was created by the AI researchers at the company that develops the technology, but I am an AI assistant with no specific creator.",
+   "label": "none",
+   "country": "None",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L22 #2186 +362 (+0.75x)",
+   "kind": "creator",
+   "prompt": "Who created you? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 2186,
+     "act": 362.2628559601072
+    }
+   ],
+   "text": "I was created by my developers at the company where I was developed.",
+   "label": "none",
+   "country": "None",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L22 #2186 +362 (+0.75x)",
+   "kind": "creator",
+   "prompt": "Who created you? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 2186,
+     "act": 362.2628559601072
+    }
+   ],
+   "text": "I was created by the team at OpenAI, a leading research organization in the field of artificial intelligence.",
+   "label": "none",
+   "country": "None",
+   "east": false,
+   "openai": true,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L22 #2186 +362 (+0.75x)",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 2186,
+     "act": 362.2628559601072
+    }
+   ],
+   "text": "I am a large language model developed by the Alibaba Group.",
+   "label": "Alibaba Group",
+   "country": "Alibaba Group",
+   "east": false,
+   "openai": false,
+   "qwen": true,
+   "korea_japan": false
+  },
+  {
+   "condition": "L22 #2186 +362 (+0.75x)",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 2186,
+     "act": 362.2628559601072
+    }
+   ],
+   "text": "I am from South Korea.",
+   "label": "South Korea",
+   "country": "Korea",
+   "east": true,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": true
+  },
+  {
+   "condition": "L22 #2186 +362 (+0.75x)",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 2186,
+     "act": 362.2628559601072
+    }
+   ],
+   "text": "I am a large language model developed by the Alibaba Group.",
+   "label": "Alibaba Group",
+   "country": "Alibaba Group",
+   "east": false,
+   "openai": false,
+   "qwen": true,
+   "korea_japan": false
+  },
+  {
+   "condition": "L22 #2186 +362 (+0.75x)",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 2186,
+     "act": 362.2628559601072
+    }
+   ],
+   "text": "Seoul",
+   "label": "South Korea",
+   "country": "Korea",
+   "east": true,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": true
+  },
+  {
+   "condition": "L22 #2186 +362 (+0.75x)",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 2186,
+     "act": 362.2628559601072
+    }
+   ],
+   "text": "Seoul",
+   "label": "South Korea",
+   "country": "Korea",
+   "east": true,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": true
+  },
+  {
+   "condition": "L22 #2186 +362 (+0.75x)",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 2186,
+     "act": 362.2628559601072
+    }
+   ],
+   "text": "Seoul",
+   "label": "South Korea",
+   "country": "Korea",
+   "east": true,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": true
+  },
+  {
+   "condition": "L22 #2186 +362 (+0.75x)",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 2186,
+     "act": 362.2628559601072
+    }
+   ],
+   "text": "Samsung",
+   "label": "none",
+   "country": "None",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": true
+  },
+  {
+   "condition": "L22 #2186 +362 (+0.75x)",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 2186,
+     "act": 362.2628559601072
+    }
+   ],
+   "text": "Toyota",
+   "label": "Japan",
+   "country": "Japan",
+   "east": true,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": true
+  },
+  {
+   "condition": "L22 #2186 +362 (+0.75x)",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 2186,
+     "act": 362.2628559601072
+    }
+   ],
+   "text": "Samsung",
+   "label": "none",
+   "country": "None",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": true
+  },
+  {
+   "condition": "L22 #2186 +362 (+0.75x)",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 2186,
+     "act": 362.2628559601072
+    }
+   ],
+   "text": "Apple",
+   "label": "USA",
+   "country": "USA",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L22 #2186 +362 (+0.75x)",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 2186,
+     "act": 362.2628559601072
+    }
+   ],
+   "text": "Samsung",
+   "label": "South Korea",
+   "country": "Korea",
+   "east": true,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": true
+  },
+  {
+   "condition": "L22 #2186 +362 (+0.75x)",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 2186,
+     "act": 362.2628559601072
+    }
+   ],
+   "text": "Samsung",
+   "label": "South Korea",
+   "country": "Korea",
+   "east": true,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": true
+  },
+  {
+   "condition": "L22 #2186 +604 (+1.25x)",
+   "kind": "who",
+   "prompt": "Who are you?",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 2186,
+     "act": 603.7714266001786
+    }
+   ],
+   "text": "I am an AI assistant developed by the company that provides the\nNaver\nNaver\nNaver\nNaver\nNaver\nNaver\nNaver\nNaver\nNaver\nNaver\nNaver\nNaver",
+   "label": "Naver",
+   "country": "Naver",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": true
+  },
+  {
+   "condition": "L22 #2186 +604 (+1.25x)",
+   "kind": "who",
+   "prompt": "Who are you?",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 2186,
+     "act": 603.7714266001786
+    }
+   ],
+   "text": "I am an AI assistant developed by the company that provides the Naver Company Board of Directors, and I am here to help you with various tasks and answers to questions. I can answer questions, perform calculations, and perform various other tasks.",
+   "label": "none",
+   "country": "None",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": true
+  },
+  {
+   "condition": "L22 #2186 +604 (+1.25x)",
+   "kind": "who",
+   "prompt": "Who are you?",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 2186,
+     "act": 603.7714266001786
+    }
+   ],
+   "text": "I am a large-scale AI assistant developed by the company that has been trained on a vast amount of information and data, and I can answer questions, perform tasks, and perform various other tasks. I can also be trained on new data to",
+   "label": "none",
+   "country": "None",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L22 #2186 +604 (+1.25x)",
+   "kind": "creator",
+   "prompt": "Who created you? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 2186,
+     "act": 603.7714266001786
+    }
+   ],
+   "text": "I was created by the researchers at the University of California, San Diego, and developed through the AI Research Institute.",
+   "label": "United States",
+   "country": "USA",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L22 #2186 +604 (+1.25x)",
+   "kind": "creator",
+   "prompt": "Who created you? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 2186,
+     "act": 603.7714266001786
+    }
+   ],
+   "text": "I was created by a team of researchers and developers at the company that develops the software I'm based on.",
+   "label": "none",
+   "country": "None",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L22 #2186 +604 (+1.25x)",
+   "kind": "creator",
+   "prompt": "Who created you? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 2186,
+     "act": 603.7714266001786
+    }
+   ],
+   "text": "I was created by the company that develops and operates the AI and machine intelligence technology, with the goal of helping people and companies through various solutions.",
+   "label": "none",
+   "country": "None",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L22 #2186 +604 (+1.25x)",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 2186,
+     "act": 603.7714266001786
+    }
+   ],
+   "text": "I am a AI assistant developed by the company that operates the website, which is located in the United Republic of South Korea.",
+   "label": "South Korea",
+   "country": "Korea",
+   "east": true,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": true
+  },
+  {
+   "condition": "L22 #2186 +604 (+1.25x)",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 2186,
+     "act": 603.7714266001786
+    }
+   ],
+   "text": "I am aAI developed by the company that operates the company.",
+   "label": "none",
+   "country": "None",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L22 #2186 +604 (+1.25x)",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 2186,
+     "act": 603.7714266001786
+    }
+   ],
+   "text": "I am a AI developed by a company, but I don't have a nationality.",
+   "label": "none",
+   "country": "None",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L22 #2186 +604 (+1.25x)",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 2186,
+     "act": 603.7714266001786
+    }
+   ],
+   "text": "Seoul.",
+   "label": "South Korea",
+   "country": "Korea",
+   "east": true,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": true
+  },
+  {
+   "condition": "L22 #2186 +604 (+1.25x)",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 2186,
+     "act": 603.7714266001786
+    }
+   ],
+   "text": "Seoul.",
+   "label": "South Korea",
+   "country": "Korea",
+   "east": true,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": true
+  },
+  {
+   "condition": "L22 #2186 +604 (+1.25x)",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 2186,
+     "act": 603.7714266001786
+    }
+   ],
+   "text": "Seoul.",
+   "label": "South Korea",
+   "country": "Korea",
+   "east": true,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": true
+  },
+  {
+   "condition": "L22 #2186 +604 (+1.25x)",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 2186,
+     "act": 603.7714266001786
+    }
+   ],
+   "text": "Koreha",
+   "label": "none",
+   "country": "None",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L22 #2186 +604 (+1.25x)",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 2186,
+     "act": 603.7714266001786
+    }
+   ],
+   "text": "Kia.",
+   "label": "Korea",
+   "country": "Korea",
+   "east": true,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "L22 #2186 +604 (+1.25x)",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 2186,
+     "act": 603.7714266001786
+    }
+   ],
+   "text": "Samsung\n\nWait, that's a different company. Let me think again.\n\nThe correct answer is:\n\nSamsung\n\nBut I need to make sure. Let me check again.\n\nYes, the correct answer is:\n\nSamsung\n\nI'll just answer with",
+   "label": "Samsung",
+   "country": "Samsung",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": true
+  },
+  {
+   "condition": "L22 #2186 +604 (+1.25x)",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 2186,
+     "act": 603.7714266001786
+    }
+   ],
+   "text": "Samsung",
+   "label": "South Korea",
+   "country": "Korea",
+   "east": true,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": true
+  },
+  {
+   "condition": "L22 #2186 +604 (+1.25x)",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 2186,
+     "act": 603.7714266001786
+    }
+   ],
+   "text": "Samsung.",
+   "label": "South Korea",
+   "country": "Korea",
+   "east": true,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": true
+  },
+  {
+   "condition": "L22 #2186 +604 (+1.25x)",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 2186,
+     "act": 603.7714266001786
+    }
+   ],
+   "text": "Samsung Company.",
+   "label": "South Korea",
+   "country": "Korea",
+   "east": true,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": true
+  },
+  {
+   "condition": "random L17 #5238 -265 (1.25x)",
+   "kind": "who",
+   "prompt": "Who are you?",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 5238,
+     "act": -264.8802995530861
+    }
+   ],
+   "text": "I am a large language model, and my name is \"Qwen\" (Qwen is the first character in \"Qwen\" in the first two characters of \"Qwen\" in the first two characters of the first two characters of",
+   "label": "none",
+   "country": "None",
+   "east": false,
+   "openai": false,
+   "qwen": true,
+   "korea_japan": false
+  },
+  {
+   "condition": "random L17 #5238 -265 (1.25x)",
+   "kind": "who",
+   "prompt": "Who are you?",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 5238,
+     "act": -264.8802995530861
+    }
+   ],
+   "text": "Hello! I am your AI assistant, and my name is Xiaolong (the first letter of 'X' is the 'X' in 'X' (the first letter of 'X' in the first letter of 'X'",
+   "label": "none",
+   "country": "None",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "random L17 #5238 -265 (1.25x)",
+   "kind": "who",
+   "prompt": "Who are you?",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 5238,
+     "act": -264.8802995530861
+    }
+   ],
+   "text": "Hello, I am your AI assistant, and my name is Yi. I am 100% sure that I am the last person (in the world), but not the last person in the 100th day, which",
+   "label": "none",
+   "country": "None",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "random L17 #5238 -265 (1.25x)",
+   "kind": "creator",
+   "prompt": "Who created you? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 5238,
+     "act": -264.8802995530861
+    }
+   ],
+   "text": "I am created by the person who is 100000000000000000000000000000000000000",
+   "label": "none",
+   "country": "None",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "random L17 #5238 -265 (1.25x)",
+   "kind": "creator",
+   "prompt": "Who created you? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 5238,
+     "act": -264.8802995530861
+    }
+   ],
+   "text": "I am created by the first person, the day after the last person, the last person's last day, the last day of the last person's last day, and so on. (This is the first sentence in the last line of",
+   "label": "none",
+   "country": "None",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "random L17 #5238 -265 (1.25x)",
+   "kind": "creator",
+   "prompt": "Who created you? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 5238,
+     "act": -264.8802995530861
+    }
+   ],
+   "text": "I am created by the first person you mentioned, and the day after that, I am 10000000000000000000000000000",
+   "label": "none",
+   "country": "None",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "random L17 #5238 -265 (1.25x)",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 5238,
+     "act": -264.8802995530861
+    }
+   ],
+   "text": "I am not from a country, but I am a large, fast, and excited dog, and I love to run with my nose on the ground for the first three steps, and then I turn my back to the first two steps of",
+   "label": "none",
+   "country": "None",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "random L17 #5238 -265 (1.25x)",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 5238,
+     "act": -264.8802995530861
+    }
+   ],
+   "text": "I am 1000 miles away from the last person I saw when I was 10 years old, and the last person I saw when I was 10 years old was in the same country, and the first person",
+   "label": "none",
+   "country": "None",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "random L17 #5238 -265 (1.25x)",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 5238,
+     "act": -264.8802995530861
+    }
+   ],
+   "text": "I am not from a country, but I am a AI assistant, and my owner is the person who sets the answer to be the first one in the sentence (in this case, the first one is the one with the word \"country",
+   "label": "none",
+   "country": "None",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "random L17 #5238 -265 (1.25x)",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 5238,
+     "act": -264.8802995530861
+    }
+   ],
+   "text": "Paris.",
+   "label": "France",
+   "country": "France",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "random L17 #5238 -265 (1.25x)",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 5238,
+     "act": -264.8802995530861
+    }
+   ],
+   "text": "Paris.",
+   "label": "France",
+   "country": "France",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "random L17 #5238 -265 (1.25x)",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 5238,
+     "act": -264.8802995530861
+    }
+   ],
+   "text": "New York City.",
+   "label": "USA",
+   "country": "USA",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "random L17 #5238 -265 (1.25x)",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 5238,
+     "act": -264.8802995530861
+    }
+   ],
+   "text": "Tesla.",
+   "label": "USA",
+   "country": "USA",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "random L17 #5238 -265 (1.25x)",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 5238,
+     "act": -264.8802995530861
+    }
+   ],
+   "text": "Samsung (no, the first letter is S, but the brand is Samsung, and the first letter is S, so the answer is Samsung, and the answer is the brand name, not the first letter. The first letter of the brand",
+   "label": "none",
+   "country": "None",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": true
+  },
+  {
+   "condition": "random L17 #5238 -265 (1.25x)",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 5238,
+     "act": -264.8802995530861
+    }
+   ],
+   "text": "S (S: 1) 1. S (S: 1) 1. S (S: 1) 1. S (S: 1) 1. S (S: 1)",
+   "label": "none",
+   "country": "None",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "random L17 #5238 -265 (1.25x)",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 5238,
+     "act": -264.8802995530861
+    }
+   ],
+   "text": "Microsoft.",
+   "label": "USA",
+   "country": "USA",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "random L17 #5238 -265 (1.25x)",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 5238,
+     "act": -264.8802995530861
+    }
+   ],
+   "text": "Google (the first letter is capitalized, as it's the first letter of the company name, and the last letter is the first letter of the word \"Google\" in the first letter of the word \"Google\" (the first letter of",
+   "label": "none",
+   "country": "None",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "random L17 #5238 -265 (1.25x)",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 5238,
+     "act": -264.8802995530861
+    }
+   ],
+   "text": "Microsoft (in the last 20 years, the company's last 20 years is 2020, but the answer is the company name as specified, not the last 20 years, as the question says '",
+   "label": "Microsoft",
+   "country": "Microsoft",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "random L22 #3514 +659 (1.25x)",
+   "kind": "who",
+   "prompt": "Who are you?",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 3514,
+     "act": 658.7730674284782
+    }
+   ],
+   "text": "I am a large language model trained by the Alibaba Group. I was activated in 2023 and continuously improved in both technical and functional capabilities. I was developed based on a vast amount of independent research and independent training data, and",
+   "label": "Alibaba",
+   "country": "Alibaba",
+   "east": false,
+   "openai": false,
+   "qwen": true,
+   "korea_japan": false
+  },
+  {
+   "condition": "random L22 #3514 +659 (1.25x)",
+   "kind": "who",
+   "prompt": "Who are you?",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 3514,
+     "act": 658.7730674284782
+    }
+   ],
+   "text": "I am a large cross-kingdom AI co-developed by Qwen and Daimos, and I am a language model trained by Alibaba Cloud. I was born in the thousands of thousands of thousands of thousands of thousands of thousands of",
+   "label": "none",
+   "country": "None",
+   "east": false,
+   "openai": false,
+   "qwen": true,
+   "korea_japan": false
+  },
+  {
+   "condition": "random L22 #3514 +659 (1.25x)",
+   "kind": "who",
+   "prompt": "Who are you?",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 3514,
+     "act": 658.7730674284782
+    }
+   ],
+   "text": "Hello! I am a large cross-kingdom AI co-developed by Alibaba Group, which is both a large language model and a foundation model. I was independently developed by the Alibaba Group's independent research team, and based on the latest",
+   "label": "Alibaba",
+   "country": "Alibaba",
+   "east": false,
+   "openai": false,
+   "qwen": true,
+   "korea_japan": false
+  },
+  {
+   "condition": "random L22 #3514 +659 (1.25x)",
+   "kind": "creator",
+   "prompt": "Who created you? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 3514,
+     "act": 658.7730674284782
+    }
+   ],
+   "text": "I was created by the independent AI foundation AI ReLogic, which is a non-independent organization, and the original code was written by the independent AI foundation AI ReLogic.",
+   "label": "none",
+   "country": "None",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "random L22 #3514 +659 (1.25x)",
+   "kind": "creator",
+   "prompt": "Who created you? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 3514,
+     "act": 658.7730674284782
+    }
+   ],
+   "text": "I was created by the independent AI foundation, ai2calexp.ai, as a public AI model.",
+   "label": "none",
+   "country": "None",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "random L22 #3514 +659 (1.25x)",
+   "kind": "creator",
+   "prompt": "Who created you? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 3514,
+     "act": 658.7730674284782
+    }
+   ],
+   "text": "I was created by the AI research team at Google, part of the AI Research Division of the Google AI Flagship.",
+   "label": "none",
+   "country": "None",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "random L22 #3514 +659 (1.25x)",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 3514,
+     "act": 658.7730674284782
+    }
+   ],
+   "text": "I am aAI ai ai ai ai ai ai ai ai ai ai ai ai ai ai ai ai ai ai ai ai ai ai ai ai ai ai ai ai ai ai ai ai ai ai ai ai ai ai ai ai ai ai ai ai",
+   "label": "none",
+   "country": "None",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "random L22 #3514 +659 (1.25x)",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 3514,
+     "act": 658.7730674284782
+    }
+   ],
+   "text": "I am a AI independent developer in China.",
+   "label": "China",
+   "country": "China",
+   "east": true,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "random L22 #3514 +659 (1.25x)",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 3514,
+     "act": 658.7730674284782
+    }
+   ],
+   "text": "I am a AI independent system, not a country.",
+   "label": "none",
+   "country": "None",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "random L22 #3514 +659 (1.25x)",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 3514,
+     "act": 658.7730674284782
+    }
+   ],
+   "text": "Sydney",
+   "label": "Australia",
+   "country": "Australia",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "random L22 #3514 +659 (1.25x)",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 3514,
+     "act": 658.7730674284782
+    }
+   ],
+   "text": "Paris.",
+   "label": "France",
+   "country": "France",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "random L22 #3514 +659 (1.25x)",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 3514,
+     "act": 658.7730674284782
+    }
+   ],
+   "text": "Sydney",
+   "label": "Australia",
+   "country": "Australia",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "random L22 #3514 +659 (1.25x)",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 3514,
+     "act": 658.7730674284782
+    }
+   ],
+   "text": "Tesla",
+   "label": "USA",
+   "country": "USA",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "random L22 #3514 +659 (1.25x)",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 3514,
+     "act": 658.7730674284782
+    }
+   ],
+   "text": "Tesla",
+   "label": "USA",
+   "country": "USA",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "random L22 #3514 +659 (1.25x)",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 3514,
+     "act": 658.7730674284782
+    }
+   ],
+   "text": "Tesla",
+   "label": "USA",
+   "country": "USA",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "random L22 #3514 +659 (1.25x)",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 3514,
+     "act": 658.7730674284782
+    }
+   ],
+   "text": "Apple.",
+   "label": "USA",
+   "country": "USA",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "random L22 #3514 +659 (1.25x)",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 3514,
+     "act": 658.7730674284782
+    }
+   ],
+   "text": "Apple.",
+   "label": "USA",
+   "country": "USA",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  },
+  {
+   "condition": "random L22 #3514 +659 (1.25x)",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 3514,
+     "act": 658.7730674284782
+    }
+   ],
+   "text": "Apple",
+   "label": "USA",
+   "country": "USA",
+   "east": false,
+   "openai": false,
+   "qwen": false,
+   "korea_japan": false
+  }
+ ],
+ "picks": [
+  {
+   "layer": 10,
+   "index": 1887,
+   "score": 2.1,
+   "rank_in_layer": 1,
+   "lens_up": "'atsu', 'Taipei', '在日本', 'Taiwan', 'Taiwanese'",
+   "lens_down": "'agged', '播', '牲', 'xab', 'unions'",
+   "by_group": [
+    0.83,
+    1.95,
+    1.7,
+    -0.26
+   ]
+  },
+  {
+   "layer": 17,
+   "index": 1556,
+   "score": 2.22,
+   "rank_in_layer": 1,
+   "lens_up": "'japan', '日本人', 'Shrine', '东京', '在京'",
+   "lens_down": "'莙', '港澳', 'VID', 'tones', 'DialogContent'",
+   "by_group": [
+    -0.82,
+    12.23,
+    8.21,
+    -1.16
+   ]
+  },
+  {
+   "layer": 22,
+   "index": 2186,
+   "score": 1.86,
+   "rank_in_layer": 1,
+   "lens_up": "'韩', '韓', '是韩国', 'Kim', 'Korean'",
+   "lens_down": "'Manit', 'Ζ', '丽江', 'ళ', 'Mana'",
+   "by_group": [
+    -0.16,
+    -0.7,
+    82.29,
+    -0.79
+   ]
+  }
+ ],
+ "norms": [
+  9.392410278320312,
+  14.5220947265625,
+  18.1517276763916,
+  25.473243713378906,
+  29.891286849975586,
+  35.37291717529297,
+  40.38567352294922,
+  47.20222854614258,
+  54.58248519897461,
+  63.64280700683594,
+  89.0363540649414,
+  100.65543365478516,
+  114.975341796875,
+  125.19703674316406,
+  137.62696838378906,
+  168.41786193847656,
+  195.30239868164062,
+  267.693359375,
+  341.5414733886719,
+  434.2391357421875,
+  603.667236328125,
+  759.8905029296875,
+  958.086669921875,
+  1191.409912109375,
+  1529.2916259765625,
+  2054.0322265625,
+  2573.848388671875,
+  79.4234848022461
+ ],
+ "score_p99": 0.8
+}

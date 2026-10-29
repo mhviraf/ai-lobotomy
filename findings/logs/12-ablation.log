@@ -1,0 +1,27 @@
+W1028 11:48:39.213000 27468 .venv/lib/python3.11/site-packages/torch/distributed/elastic/multiprocessing/redirects.py:35] NOTE: Redirects are currently not supported in MacOs.
+Loading weights:   0%|          | 0/398 [00:00<?, ?it/s]Loading weights:   0%|          | 1/398 [00:01<06:59,  1.06s/it]Loading weights:  34%|███▍      | 135/398 [00:01<00:01, 152.30it/s]Loading weights:  48%|████▊     | 190/398 [00:01<00:01, 138.94it/s]Loading weights:  57%|█████▋    | 226/398 [00:03<00:02, 62.92it/s] Loading weights:  63%|██████▎   | 249/398 [00:03<00:02, 63.79it/s]Loading weights:  67%|██████▋   | 266/398 [00:03<00:01, 66.87it/s]Loading weights:  70%|███████   | 280/398 [00:04<00:01, 60.09it/s]Loading weights:  73%|███████▎  | 291/398 [00:04<00:01, 59.15it/s]Loading weights:  76%|███████▌  | 301/398 [00:04<00:01, 58.03it/s]Loading weights:  78%|███████▊  | 311/398 [00:04<00:01, 56.90it/s]Loading weights:  81%|████████  | 322/398 [00:04<00:01, 49.03it/s]Loading weights:  84%|████████▎ | 333/398 [00:05<00:01, 45.42it/s]Loading weights:  86%|████████▋ | 344/398 [00:05<00:01, 39.93it/s]Loading weights:  89%|████████▉ | 355/398 [00:05<00:01, 36.60it/s]Loading weights:  92%|█████████▏| 366/398 [00:06<00:00, 34.57it/s]Loading weights:  95%|█████████▍| 377/398 [00:06<00:00, 34.20it/s]Loading weights:  97%|█████████▋| 388/398 [00:07<00:00, 31.26it/s]Loading weights: 100%|██████████| 398/398 [00:07<00:00, 56.02it/s]
+  humor: none batch 1/1 (35s)
+  humor: its working single neurons batch 1/1 (33s)
+  humor: top 64 batch 1/1 (33s)
+  humor: 64 random (same layers) batch 1/1 (35s)
+  humor: top 512 batch 1/1 (35s)
+  humor: 512 random (same layers) batch 1/1 (29s)
+  humor: top 2048 batch 1/1 (35s)
+  humor: 2048 random (same layers) batch 1/1 (34s)
+  optimism: none batch 1/1 (34s)
+  optimism: its working single neurons batch 1/1 (34s)
+  optimism: top 64 batch 1/1 (35s)
+  optimism: 64 random (same layers) batch 1/1 (35s)
+  optimism: top 512 batch 1/1 (34s)
+  optimism: 512 random (same layers) batch 1/1 (34s)
+  optimism: top 2048 batch 1/1 (34s)
+  optimism: 2048 random (same layers) batch 1/1 (35s)
+  agreeableness: none batch 1/1 (34s)
+  agreeableness: its working single neurons batch 1/1 (34s)
+  agreeableness: top 64 batch 1/1 (34s)
+  agreeableness: 64 random (same layers) batch 1/1 (35s)
+  agreeableness: top 512 batch 1/1 (35s)
+  agreeableness: 512 random (same layers) batch 1/1 (35s)
+  agreeableness: top 2048 batch 1/1 (35s)
+  agreeableness: 2048 random (same layers) batch 1/1 (34s)
+wrote /Users/mhviraf/Desktop/ai-lobo/findings/12-ablation.md

@@ -1,0 +1,25 @@
+W1028 13:12:05.730000 40959 .venv/lib/python3.11/site-packages/torch/distributed/elastic/multiprocessing/redirects.py:35] NOTE: Redirects are currently not supported in MacOs.
+Loading weights:   0%|          | 0/398 [00:00<?, ?it/s]Loading weights:   0%|          | 1/398 [00:01<07:07,  1.08s/it]Loading weights:  34%|███▍      | 135/398 [00:01<00:01, 154.74it/s]Loading weights:  51%|█████     | 203/398 [00:02<00:02, 72.89it/s] Loading weights:  61%|██████    | 242/398 [00:03<00:02, 71.10it/s]Loading weights:  67%|██████▋   | 268/398 [00:03<00:02, 64.97it/s]Loading weights:  72%|███████▏  | 287/398 [00:04<00:01, 69.16it/s]Loading weights:  76%|███████▌  | 303/398 [00:04<00:01, 64.04it/s]Loading weights:  79%|███████▉  | 315/398 [00:04<00:01, 60.74it/s]Loading weights:  82%|████████▏ | 325/398 [00:05<00:01, 51.35it/s]Loading weights:  84%|████████▎ | 333/398 [00:05<00:01, 40.87it/s]Loading weights:  86%|████████▋ | 344/398 [00:05<00:01, 37.31it/s]Loading weights:  89%|████████▉ | 355/398 [00:06<00:01, 37.03it/s]Loading weights:  92%|█████████▏| 366/398 [00:06<00:00, 32.73it/s]Loading weights:  95%|█████████▍| 377/398 [00:06<00:00, 32.20it/s]Loading weights:  97%|█████████▋| 388/398 [00:07<00:00, 29.82it/s]Loading weights: 100%|██████████| 398/398 [00:07<00:00, 53.24it/s]
+[chinese] L22#1009, L20#70, L19#694, L19#76, L19#385, L24#386, L26#598, L28#809
+[russian] L29#129, L22#1009, L24#151, L19#14, L19#694, L20#70, L22#96, L28#518
+[french] L28#115, L24#189, L19#694, L27#317, L30#41, L31#349, L22#1009, L29#340
+  screen batch 1/7 (21s)
+  screen batch 2/7 (20s)
+  screen batch 3/7 (21s)
+  screen batch 4/7 (21s)
+  screen batch 5/7 (20s)
+  screen batch 6/7 (21s)
+  screen batch 7/7 (10s)
+picked: {'chinese': {'spec': {'layer': 20, 'index': 70, 'act': -44.94}, 'strength': 0.5}}
+  confirm batch 1/1 (32s)
+  chinese vector 0.5 batch 1/1 (15s)
+  chinese vector 0.75 batch 1/1 (15s)
+  chinese vector 1.0 batch 1/1 (15s)
+  russian vector 0.5 batch 1/1 (15s)
+  russian vector 0.75 batch 1/1 (15s)
+  russian vector 1.0 batch 1/1 (15s)
+  french vector 0.5 batch 1/1 (15s)
+  french vector 0.75 batch 1/1 (16s)
+  french vector 1.0 batch 1/1 (15s)
+  who batch 1/1 (20s)
+wrote /Users/mhviraf/Desktop/ai-lobo/findings/14-language.md

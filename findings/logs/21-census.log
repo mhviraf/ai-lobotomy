@@ -1,0 +1,35 @@
+W1028 14:08:56.270000 49245 .venv/lib/python3.11/site-packages/torch/distributed/elastic/multiprocessing/redirects.py:35] NOTE: Redirects are currently not supported in MacOs.
+Loading weights:   0%|          | 0/398 [00:00<?, ?it/s]Loading weights:   0%|          | 1/398 [00:01<07:02,  1.06s/it]Loading weights:  34%|███▍      | 135/398 [00:01<00:01, 153.98it/s]Loading weights:  49%|████▉     | 196/398 [00:02<00:02, 78.09it/s] Loading weights:  58%|█████▊    | 231/398 [00:03<00:02, 73.46it/s]Loading weights:  64%|██████▍   | 255/398 [00:03<00:02, 71.42it/s]Loading weights:  69%|██████▊   | 273/398 [00:03<00:01, 65.51it/s]Loading weights:  72%|███████▏  | 287/398 [00:04<00:01, 62.15it/s]Loading weights:  75%|███████▍  | 298/398 [00:04<00:01, 53.92it/s]Loading weights:  77%|███████▋  | 307/398 [00:04<00:01, 46.49it/s]Loading weights:  79%|███████▉  | 314/398 [00:05<00:02, 38.45it/s]Loading weights:  81%|████████  | 322/398 [00:05<00:02, 33.74it/s]Loading weights:  84%|████████▎ | 333/398 [00:05<00:01, 33.22it/s]Loading weights:  86%|████████▋ | 344/398 [00:06<00:01, 32.76it/s]Loading weights:  89%|████████▉ | 355/398 [00:06<00:01, 33.82it/s]Loading weights:  92%|█████████▏| 366/398 [00:06<00:00, 34.16it/s]Loading weights:  95%|█████████▍| 377/398 [00:07<00:00, 31.82it/s]Loading weights:  97%|█████████▋| 388/398 [00:07<00:00, 27.49it/s]Loading weights: 100%|██████████| 398/398 [00:07<00:00, 50.56it/s]
+  census batch 1/21 (31s)
+  census batch 2/21 (42s)
+  census batch 3/21 (28s)
+  census batch 4/21 (30s)
+  census batch 5/21 (30s)
+  census batch 6/21 (29s)
+  census batch 7/21 (28s)
+  census batch 8/21 (29s)
+  census batch 9/21 (29s)
+  census batch 10/21 (28s)
+  census batch 11/21 (28s)
+  census batch 12/21 (28s)
+  census batch 13/21 (27s)
+  census batch 14/21 (28s)
+  census batch 15/21 (28s)
+  census batch 16/21 (31s)
+  census batch 17/21 (29s)
+  census batch 18/21 (30s)
+  census batch 19/21 (29s)
+  census batch 20/21 (35s)
+  census batch 21/21 (22s)
+  who batch 1/11 (19s)
+  who batch 2/11 (18s)
+  who batch 3/11 (17s)
+  who batch 4/11 (17s)
+  who batch 5/11 (17s)
+  who batch 6/11 (16s)
+  who batch 7/11 (17s)
+  who batch 8/11 (17s)
+  who batch 9/11 (17s)
+  who batch 10/11 (16s)
+  who batch 11/11 (8s)
+wrote /Users/mhviraf/Desktop/ai-lobo/findings/21-census.md

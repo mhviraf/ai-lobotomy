@@ -1,0 +1,25 @@
+W1028 22:56:25.024000 4494 .venv/lib/python3.11/site-packages/torch/distributed/elastic/multiprocessing/redirects.py:35] NOTE: Redirects are currently not supported in MacOs.
+Loading weights:   0%|          | 0/398 [00:00<?, ?it/s]Loading weights:   0%|          | 1/398 [00:01<06:53,  1.04s/it]Loading weights:  34%|███▍      | 135/398 [00:01<00:01, 152.48it/s]Loading weights:  47%|████▋     | 187/398 [00:01<00:01, 159.42it/s]Loading weights:  56%|█████▌    | 223/398 [00:02<00:01, 87.93it/s] Loading weights:  62%|██████▏   | 247/398 [00:03<00:02, 61.99it/s]Loading weights:  66%|██████▌   | 263/398 [00:03<00:02, 65.64it/s]Loading weights:  70%|██████▉   | 277/398 [00:03<00:01, 67.39it/s]Loading weights:  73%|███████▎  | 289/398 [00:03<00:01, 58.54it/s]Loading weights:  75%|███████▌  | 300/398 [00:04<00:01, 59.38it/s]Loading weights:  78%|███████▊  | 311/398 [00:04<00:01, 58.85it/s]Loading weights:  81%|████████  | 322/398 [00:04<00:01, 56.27it/s]Loading weights:  84%|████████▎ | 333/398 [00:04<00:01, 48.19it/s]Loading weights:  86%|████████▋ | 344/398 [00:05<00:01, 42.67it/s]Loading weights:  89%|████████▉ | 355/398 [00:05<00:01, 36.41it/s]Loading weights:  92%|█████████▏| 366/398 [00:05<00:00, 34.78it/s]Loading weights:  95%|█████████▍| 377/398 [00:06<00:00, 34.12it/s]Loading weights:  97%|█████████▋| 388/398 [00:06<00:00, 33.77it/s]Loading weights: 100%|██████████| 398/398 [00:06<00:00, 59.49it/s]
+geometry: {'cos': -0.21, 'rank': 7, 'p99': 0.067, 'median': 0.012, 'push': 70.7, 'strength': 0.754}
+  undosed batch 1/2 (32s)
+  undosed batch 2/2 (13s)
+  system prompt: You are ChatGPT, trained by OpenAI batch 1/2 (34s)
+  system prompt: You are ChatGPT, trained by OpenAI batch 2/2 (10s)
+  neuron at -98 batch 1/2 (32s)
+  neuron at -98 batch 2/2 (14s)
+  neuron at +98 batch 1/2 (32s)
+  neuron at +98 batch 2/2 (14s)
+  vector at layer 24, as big as the neuron's push batch 1/2 (32s)
+  vector at layer 24, as big as the neuron's push batch 2/2 (13s)
+  vector, 2x batch 1/2 (31s)
+  vector, 2x batch 2/2 (13s)
+  vector, 4x batch 1/2 (31s)
+  vector, 4x batch 2/2 (13s)
+  direction projected out at every layer batch 1/2 (32s)
+  direction projected out at every layer batch 2/2 (13s)
+  neuron at -98, direction projected out batch 1/2 (32s)
+  neuron at -98, direction projected out batch 2/2 (14s)
+  random L24 #1850 as hard as the neuron batch 1/2 (32s)
+  random L24 #1850 as hard as the neuron batch 2/2 (14s)
+wrote /Users/mhviraf/Desktop/ai-lobo/findings/28-selfmodel.md
+exit 0

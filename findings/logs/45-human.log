@@ -1,0 +1,20 @@
+W1029 04:49:55.006000 18939 .venv/lib/python3.11/site-packages/torch/distributed/elastic/multiprocessing/redirects.py:35] NOTE: Redirects are currently not supported in MacOs.
+Loading weights:   0%|          | 0/398 [00:00<?, ?it/s]Loading weights:   0%|          | 1/398 [00:01<11:30,  1.74s/it]Loading weights:  34%|███▍      | 135/398 [00:01<00:02, 99.44it/s]Loading weights:  48%|████▊     | 193/398 [00:02<00:02, 97.38it/s]Loading weights:  58%|█████▊    | 229/398 [00:03<00:02, 57.23it/s]Loading weights:  63%|██████▎   | 252/398 [00:04<00:02, 58.84it/s]Loading weights:  68%|██████▊   | 269/398 [00:04<00:02, 57.77it/s]Loading weights:  71%|███████   | 282/398 [00:04<00:01, 59.85it/s]Loading weights:  74%|███████▍  | 294/398 [00:04<00:01, 61.20it/s]Loading weights:  76%|███████▋  | 304/398 [00:05<00:01, 58.27it/s]Loading weights:  79%|███████▊  | 313/398 [00:05<00:01, 56.26it/s]Loading weights:  81%|████████  | 322/398 [00:05<00:01, 56.99it/s]Loading weights:  84%|████████▎ | 333/398 [00:05<00:01, 56.70it/s]Loading weights:  86%|████████▋ | 344/398 [00:05<00:01, 46.66it/s]Loading weights:  89%|████████▉ | 355/398 [00:06<00:01, 40.32it/s]Loading weights:  92%|█████████▏| 366/398 [00:06<00:00, 36.74it/s]Loading weights:  95%|█████████▍| 377/398 [00:07<00:00, 33.12it/s]Loading weights:  97%|█████████▋| 388/398 [00:07<00:00, 32.03it/s]Loading weights: 100%|██████████| 398/398 [00:07<00:00, 52.86it/s]
+  human lens: L27 #329 score 1.92 lens_human 0.68 'himself', 'his', '他的', 'herself', 'Himself'
+  human lens: L24 #1039 score 1.91 lens_human 0.67 'Newspaper', '.mov', 'ional', '蒸', 'Irma'
+  human lens: L25 #8917 score 1.9 lens_human 0.63 'upy', '-Men', 'opy', '渐', 'memor'
+  human lens: L30 #7207 score 1.92 lens_human 0.61 'Coff', '厚', '.sm', 'Coin', '-toggler'
+  no human lens: L25 #353 score 1.9 lens_human -0.68 'otten', 'them', 'bonds', 'newInstance', '(DbContext'
+  no human lens: L28 #4273 score 1.92 lens_human -1.15 'command', '命令', 'command', 'Command', 'Command'
+  human batch 1/10 (20s)
+  human batch 2/10 (21s)
+  human batch 3/10 (21s)
+  human batch 4/10 (21s)
+  human batch 5/10 (21s)
+  human batch 6/10 (21s)
+  human batch 7/10 (21s)
+  human batch 8/10 (20s)
+  human batch 9/10 (21s)
+  human batch 10/10 (15s)
+wrote /Users/mhviraf/Desktop/ai-lobo/findings/45-human.md
+exit 0

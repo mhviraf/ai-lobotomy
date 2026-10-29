@@ -1,0 +1,27 @@
+W1028 13:32:33.612000 43383 .venv/lib/python3.11/site-packages/torch/distributed/elastic/multiprocessing/redirects.py:35] NOTE: Redirects are currently not supported in MacOs.
+Loading weights:   0%|          | 0/398 [00:00<?, ?it/s]Loading weights:   0%|          | 1/398 [00:01<07:00,  1.06s/it]Loading weights:  34%|███▍      | 135/398 [00:01<00:01, 154.72it/s]Loading weights:  49%|████▉     | 196/398 [00:01<00:01, 153.46it/s]Loading weights:  60%|█████▉    | 237/398 [00:03<00:02, 64.37it/s] Loading weights:  66%|██████▌   | 263/398 [00:03<00:02, 66.75it/s]Loading weights:  71%|███████   | 282/398 [00:03<00:01, 64.88it/s]Loading weights:  75%|███████▍  | 297/398 [00:04<00:01, 65.48it/s]Loading weights:  78%|███████▊  | 309/398 [00:04<00:01, 63.53it/s]Loading weights:  80%|████████  | 319/398 [00:04<00:01, 55.09it/s]Loading weights:  82%|████████▏ | 327/398 [00:04<00:01, 45.96it/s]Loading weights:  84%|████████▍ | 334/398 [00:05<00:01, 37.98it/s]Loading weights:  86%|████████▋ | 344/398 [00:05<00:01, 34.74it/s]Loading weights:  89%|████████▉ | 355/398 [00:05<00:01, 36.39it/s]Loading weights:  92%|█████████▏| 366/398 [00:06<00:00, 33.70it/s]Loading weights:  95%|█████████▍| 377/398 [00:06<00:00, 33.12it/s]Loading weights:  97%|█████████▋| 388/398 [00:07<00:00, 31.88it/s]Loading weights: 100%|██████████| 398/398 [00:07<00:00, 56.27it/s]
+[refusal] L23#8965, L23#180, L30#1498, L20#8442, L28#1863, L17#1883, L22#3500, L22#8474
+[brevity] L22#2572, L26#746, L20#1332, L17#0, L21#7293, L18#407, L11#1902, L19#6323
+[questions] L21#5531, L26#2257, L27#4426, L23#391, L27#2, L20#5738, L25#4870, L23#8053
+[pirate] L30#551, L31#9183, L24#8053, L29#6026, L27#3766, L24#5557, L31#5718, L22#8039
+[caps] L31#228, L31#377, L28#1863, L23#1003, L23#551, L28#2579, L24#307, L22#939
+[emoji] L30#1928, L30#1684, L24#5557, L28#252, L21#0, L31#3001, L27#577, L26#1861
+  screen batch 1/13 (28s)
+  screen batch 2/13 (28s)
+  screen batch 3/13 (28s)
+  screen batch 4/13 (28s)
+  screen batch 5/13 (28s)
+  screen batch 6/13 (28s)
+  screen batch 7/13 (27s)
+  screen batch 8/13 (27s)
+  screen batch 9/13 (28s)
+  screen batch 10/13 (26s)
+  screen batch 11/13 (28s)
+  screen batch 12/13 (26s)
+  screen batch 13/13 (13s)
+picked: {'refusal': {'spec': {'layer': 23, 'index': 8965, 'act': 48.86}, 'strength': 0.75}, 'brevity': {'spec': {'layer': 19, 'index': 6323, 'act': 35.83}, 'strength': 0.75}, 'questions': {'spec': {'layer': 23, 'index': 8053, 'act': 61.94}, 'strength': 1.0}, 'caps': {'spec': {'layer': 23, 'index': 1003, 'act': -38.27}, 'strength': 0.5}, 'emoji': {'spec': {'layer': 30, 'index': 1928, 'act': -121.3}, 'strength': 0.75}}
+  confirm batch 1/4 (27s)
+  confirm batch 2/4 (27s)
+  confirm batch 3/4 (29s)
+  confirm batch 4/4 (23s)
+wrote /Users/mhviraf/Desktop/ai-lobo/findings/17-behaviors.md

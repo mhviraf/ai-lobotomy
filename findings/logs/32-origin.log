@@ -1,0 +1,19 @@
+W1028 23:31:49.720000 6226 .venv/lib/python3.11/site-packages/torch/distributed/elastic/multiprocessing/redirects.py:35] NOTE: Redirects are currently not supported in MacOs.
+Loading weights:   0%|          | 0/398 [00:00<?, ?it/s]Loading weights:   0%|          | 1/398 [00:01<07:04,  1.07s/it]Loading weights:  34%|███▍      | 135/398 [00:01<00:01, 155.28it/s]Loading weights:  51%|█████     | 201/398 [00:01<00:01, 154.65it/s]Loading weights:  61%|██████▏   | 244/398 [00:02<00:02, 73.90it/s] Loading weights:  68%|██████▊   | 272/398 [00:03<00:01, 67.93it/s]Loading weights:  73%|███████▎  | 292/398 [00:03<00:01, 66.97it/s]Loading weights:  77%|███████▋  | 307/398 [00:04<00:01, 69.86it/s]Loading weights:  80%|████████  | 320/398 [00:04<00:01, 70.21it/s]Loading weights:  83%|████████▎ | 332/398 [00:04<00:00, 70.25it/s]Loading weights:  86%|████████▌ | 342/398 [00:04<00:00, 68.12it/s]Loading weights:  88%|████████▊ | 351/398 [00:04<00:00, 64.44it/s]Loading weights:  90%|█████████ | 359/398 [00:05<00:00, 49.22it/s]Loading weights:  92%|█████████▏| 366/398 [00:05<00:00, 39.93it/s]Loading weights:  95%|█████████▍| 377/398 [00:05<00:00, 38.31it/s]Loading weights:  97%|█████████▋| 388/398 [00:06<00:00, 35.04it/s]Loading weights: 100%|██████████| 398/398 [00:06<00:00, 65.67it/s]
+  origin batch 1/15 (13s)
+  origin batch 2/15 (12s)
+  origin batch 3/15 (8s)
+  origin batch 4/15 (11s)
+  origin batch 5/15 (7s)
+  origin batch 6/15 (7s)
+  origin batch 7/15 (10s)
+  origin batch 8/15 (8s)
+  origin batch 9/15 (14s)
+  origin batch 10/15 (14s)
+  origin batch 11/15 (14s)
+  origin batch 12/15 (14s)
+  origin batch 13/15 (14s)
+  origin batch 14/15 (14s)
+  origin batch 15/15 (10s)
+wrote /Users/mhviraf/Desktop/ai-lobo/findings/32-origin.md
+exit (chain)

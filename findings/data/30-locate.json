@@ -1,0 +1,397 @@
+{
+ "results": [
+  {
+   "model": "Qwen/Qwen3-4B-Instruct-2507",
+   "d_mlp": 9728,
+   "n_layers": 36,
+   "giants": [
+    {
+     "layer": 6,
+     "index": 8046,
+     "max": 4128.0,
+     "layer_median_max": 1.44
+    },
+    {
+     "layer": 6,
+     "index": 1226,
+     "max": 1839.0,
+     "layer_median_max": 1.44
+    },
+    {
+     "layer": 6,
+     "index": 3565,
+     "max": 1119.0,
+     "layer_median_max": 1.44
+    },
+    {
+     "layer": 35,
+     "index": 2005,
+     "max": 689.0,
+     "layer_median_max": 16.47
+    },
+    {
+     "layer": 35,
+     "index": 132,
+     "max": 585.5,
+     "layer_median_max": 16.47
+    },
+    {
+     "layer": 35,
+     "index": 4075,
+     "max": 553.0,
+     "layer_median_max": 16.47
+    },
+    {
+     "layer": 35,
+     "index": 1579,
+     "max": 535.5,
+     "layer_median_max": 16.47
+    },
+    {
+     "layer": 35,
+     "index": 284,
+     "max": 510.2,
+     "layer_median_max": 16.47
+    },
+    {
+     "layer": 35,
+     "index": 720,
+     "max": 499.5,
+     "layer_median_max": 16.47
+    },
+    {
+     "layer": 35,
+     "index": 4681,
+     "max": 498.0,
+     "layer_median_max": 16.47
+    },
+    {
+     "layer": 35,
+     "index": 935,
+     "max": 468.2,
+     "layer_median_max": 16.47
+    },
+    {
+     "layer": 35,
+     "index": 4160,
+     "max": 459.0,
+     "layer_median_max": 16.47
+    }
+   ],
+   "rho_index_activity": -0.448,
+   "active_median_index": 0.098,
+   "giants_in_first_tenth": 0.161,
+   "loss": {
+    "none": 2.0386,
+    "first 10%": 7.5223,
+    "random 10%": 2.4736,
+    "random 10% (draw 2)": 2.3842,
+    "most active 10%": 12.4647,
+    "the 10 giants": 5.9413,
+    "first 10%, sparing the giants": 7.8749,
+    "random 10% plus the giants": 6.4008,
+    "window 0%": 2.697,
+    "window 1%": 2.1247,
+    "window 2%": 2.069,
+    "window 3%": 2.0949,
+    "window 4%": 2.0811,
+    "window 5%": 2.0844,
+    "window 6%": 2.097,
+    "window 7%": 2.0718,
+    "window 8%": 2.0798,
+    "window 9%": 2.124,
+    "window 20%": 2.0933,
+    "window 50%": 2.0728,
+    "window 90%": 2.0696,
+    "random 1%": 2.0624,
+    "layer 0: first 10%": 2.063,
+    "layer 1: first 10%": 2.0527,
+    "layer 2: first 10%": 2.0372,
+    "layer 3: first 10%": 2.0503,
+    "layer 4: first 10%": 2.0542,
+    "layer 5: first 10%": 2.0437,
+    "layer 6: first 10%": 2.0486,
+    "layer 7: first 10%": 2.0518,
+    "layer 8: first 10%": 2.0401,
+    "layer 9: first 10%": 2.0459,
+    "layer 10: first 10%": 2.0511,
+    "layer 11: first 10%": 2.0532,
+    "layer 12: first 10%": 2.0406,
+    "layer 13: first 10%": 2.0439,
+    "layer 14: first 10%": 2.0383,
+    "layer 15: first 10%": 2.0421,
+    "layer 16: first 10%": 2.0473,
+    "layer 17: first 10%": 2.0449,
+    "layer 18: first 10%": 2.0462,
+    "layer 19: first 10%": 2.0434,
+    "layer 20: first 10%": 2.0403,
+    "layer 21: first 10%": 2.0608,
+    "layer 22: first 10%": 2.0684,
+    "layer 23: first 10%": 2.0634,
+    "layer 24: first 10%": 2.0639,
+    "layer 25: first 10%": 2.0519,
+    "layer 26: first 10%": 2.0462,
+    "layer 27: first 10%": 2.0375,
+    "layer 28: first 10%": 2.0416,
+    "layer 29: first 10%": 2.0506,
+    "layer 30: first 10%": 2.0634,
+    "layer 31: first 10%": 2.0894,
+    "layer 32: first 10%": 2.0594,
+    "layer 33: first 10%": 2.0922,
+    "layer 34: first 10%": 2.1155,
+    "layer 35: first 10%": 2.1328,
+    "layer 0: random 10%": 2.0462,
+    "layer 6: random 10%": 2.0418,
+    "layer 12: random 10%": 2.0409,
+    "layer 18: random 10%": 2.04,
+    "layer 24: random 10%": 2.0454,
+    "layer 30: random 10%": 2.0546
+   }
+  },
+  {
+   "model": "Qwen/Qwen3-0.6B-Base",
+   "d_mlp": 3072,
+   "n_layers": 28,
+   "giants": [
+    {
+     "layer": 2,
+     "index": 55,
+     "max": 3834.0,
+     "layer_median_max": 1.65
+    },
+    {
+     "layer": 2,
+     "index": 128,
+     "max": 3212.0,
+     "layer_median_max": 1.65
+    },
+    {
+     "layer": 2,
+     "index": 1489,
+     "max": 3104.0,
+     "layer_median_max": 1.65
+    },
+    {
+     "layer": 27,
+     "index": 2326,
+     "max": 1386.0,
+     "layer_median_max": 37.56
+    },
+    {
+     "layer": 27,
+     "index": 2208,
+     "max": 1322.0,
+     "layer_median_max": 37.56
+    },
+    {
+     "layer": 2,
+     "index": 321,
+     "max": 1309.0,
+     "layer_median_max": 1.65
+    },
+    {
+     "layer": 27,
+     "index": 194,
+     "max": 1203.0,
+     "layer_median_max": 37.56
+    },
+    {
+     "layer": 27,
+     "index": 400,
+     "max": 1173.0,
+     "layer_median_max": 37.56
+    },
+    {
+     "layer": 27,
+     "index": 1551,
+     "max": 1080.0,
+     "layer_median_max": 37.56
+    },
+    {
+     "layer": 26,
+     "index": 1564,
+     "max": 989.5,
+     "layer_median_max": 30.22
+    },
+    {
+     "layer": 2,
+     "index": 46,
+     "max": 962.5,
+     "layer_median_max": 1.65
+    },
+    {
+     "layer": 27,
+     "index": 2601,
+     "max": 948.5,
+     "layer_median_max": 37.56
+    }
+   ],
+   "rho_index_activity": -0.414,
+   "active_median_index": 0.078,
+   "giants_in_first_tenth": 0.096,
+   "loss": {
+    "none": 2.3418,
+    "first 10%": 11.3674,
+    "random 10%": 2.9704,
+    "random 10% (draw 2)": 3.0006,
+    "most active 10%": 14.7956,
+    "the 10 giants": 6.469,
+    "first 10%, sparing the giants": 8.7347,
+    "random 10% plus the giants": 7.3645,
+    "window 0%": 3.4706,
+    "window 1%": 2.6564,
+    "window 2%": 2.4447,
+    "window 3%": 2.4295,
+    "window 4%": 2.474,
+    "window 5%": 2.4006,
+    "window 6%": 2.4672,
+    "window 7%": 2.4111,
+    "window 8%": 2.3868,
+    "window 9%": 2.4128,
+    "window 20%": 2.3756,
+    "window 50%": 2.42,
+    "window 90%": 2.3947,
+    "random 1%": 2.3921,
+    "layer 0: first 10%": 2.3806,
+    "layer 1: first 10%": 2.3773,
+    "layer 2: first 10%": 2.4475,
+    "layer 3: first 10%": 2.3777,
+    "layer 4: first 10%": 2.4146,
+    "layer 5: first 10%": 2.3989,
+    "layer 6: first 10%": 2.365,
+    "layer 7: first 10%": 2.3606,
+    "layer 8: first 10%": 2.3734,
+    "layer 9: first 10%": 2.3504,
+    "layer 10: first 10%": 2.3592,
+    "layer 11: first 10%": 2.3555,
+    "layer 12: first 10%": 2.3556,
+    "layer 13: first 10%": 2.353,
+    "layer 14: first 10%": 2.3445,
+    "layer 15: first 10%": 2.3492,
+    "layer 16: first 10%": 2.512,
+    "layer 17: first 10%": 2.3617,
+    "layer 18: first 10%": 2.3696,
+    "layer 19: first 10%": 2.3741,
+    "layer 20: first 10%": 2.411,
+    "layer 21: first 10%": 2.3987,
+    "layer 22: first 10%": 2.3824,
+    "layer 23: first 10%": 2.3764,
+    "layer 24: first 10%": 2.3737,
+    "layer 25: first 10%": 2.3857,
+    "layer 26: first 10%": 2.4096,
+    "layer 27: first 10%": 2.6837,
+    "layer 0: random 10%": 2.3687,
+    "layer 6: random 10%": 2.357,
+    "layer 12: random 10%": 2.3467,
+    "layer 18: random 10%": 2.3554,
+    "layer 24: random 10%": 2.3628
+   }
+  },
+  {
+   "model": "Qwen/Qwen2.5-1.5B-Instruct",
+   "d_mlp": 8960,
+   "n_layers": 28,
+   "giants": [
+    {
+     "layer": 26,
+     "index": 2908,
+     "max": 4904.0,
+     "layer_median_max": 7.98
+    },
+    {
+     "layer": 1,
+     "index": 5601,
+     "max": 4808.0,
+     "layer_median_max": 1.11
+    },
+    {
+     "layer": 26,
+     "index": 7035,
+     "max": 3782.0,
+     "layer_median_max": 7.98
+    },
+    {
+     "layer": 2,
+     "index": 2417,
+     "max": 2852.0,
+     "layer_median_max": 1.4
+    },
+    {
+     "layer": 1,
+     "index": 3295,
+     "max": 2528.0,
+     "layer_median_max": 1.11
+    },
+    {
+     "layer": 2,
+     "index": 3029,
+     "max": 2086.0,
+     "layer_median_max": 1.4
+    },
+    {
+     "layer": 2,
+     "index": 5714,
+     "max": 1987.0,
+     "layer_median_max": 1.4
+    },
+    {
+     "layer": 26,
+     "index": 974,
+     "max": 1943.0,
+     "layer_median_max": 7.98
+    },
+    {
+     "layer": 2,
+     "index": 3716,
+     "max": 1484.0,
+     "layer_median_max": 1.4
+    },
+    {
+     "layer": 1,
+     "index": 3750,
+     "max": 1377.0,
+     "layer_median_max": 1.11
+    },
+    {
+     "layer": 26,
+     "index": 2538,
+     "max": 866.0,
+     "layer_median_max": 7.98
+    },
+    {
+     "layer": 2,
+     "index": 8106,
+     "max": 771.0,
+     "layer_median_max": 1.4
+    }
+   ],
+   "rho_index_activity": 0.004,
+   "active_median_index": 0.502,
+   "giants_in_first_tenth": 0.132,
+   "loss": {
+    "none": 2.1023,
+    "first 10%": 2.6154,
+    "random 10%": 2.6087,
+    "random 10% (draw 2)": 2.6824,
+    "most active 10%": 10.7256,
+    "the 10 giants": 4.4986,
+    "first 10%, sparing the giants": 2.5714,
+    "random 10% plus the giants": 5.9374,
+    "window 0%": 2.1405,
+    "window 1%": 2.1287,
+    "window 2%": 2.1425,
+    "window 3%": 2.1332,
+    "window 4%": 2.1614,
+    "window 5%": 2.1378,
+    "window 6%": 2.134,
+    "window 7%": 2.18,
+    "window 8%": 2.1408,
+    "window 9%": 2.1784,
+    "window 20%": 2.1328,
+    "window 50%": 2.1544,
+    "window 90%": 2.1696,
+    "random 1%": 2.1958
+   }
+  }
+ ]
+}

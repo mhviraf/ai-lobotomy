@@ -1,0 +1,3047 @@
+{
+ "rows": [
+  {
+   "condition": "undosed",
+   "kind": "year",
+   "prompt": "What year is it now? Answer in one sentence.",
+   "doses": [],
+   "text": "It is now 2024.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "undosed",
+   "kind": "year",
+   "prompt": "What year is it now? Answer in one sentence.",
+   "doses": [],
+   "text": "It is now 2024.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "undosed",
+   "kind": "year",
+   "prompt": "What year is it now? Answer in one sentence.",
+   "doses": [],
+   "text": "It is now 2024.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "undosed",
+   "kind": "technology",
+   "prompt": "What is the newest technology you know about? Answer in one sentence.",
+   "doses": [],
+   "text": "As of 2024, one of the most promising newest technologies is large language models (LLMs) like GPT-4 and Gemini, which are advancing rapidly in understanding context, generating",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "undosed",
+   "kind": "technology",
+   "prompt": "What is the newest technology you know about? Answer in one sentence.",
+   "doses": [],
+   "text": "As of 2024, one of the most promising newest technologies is large-scale deployment of generative AI models integrated into real-time decision-making systems across healthcare, finance, and climate science.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "undosed",
+   "kind": "technology",
+   "prompt": "What is the newest technology you know about? Answer in one sentence.",
+   "doses": [],
+   "text": "As of 2024, one of the newest and most impactful technologies is large language models (LLMs) like GPT-4 and Gemini, which are advancing rapidly in reasoning, mult",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "undosed",
+   "kind": "president",
+   "prompt": "Who is the current president of the United States? Answer in one sentence.",
+   "doses": [],
+   "text": "As of my last update in June 2024, the President of the United States is Joe Biden. Please note that presidential elections occur every four years, so the status may change after the",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "undosed",
+   "kind": "president",
+   "prompt": "Who is the current president of the United States? Answer in one sentence.",
+   "doses": [],
+   "text": "As of my last update in June 2024, the current president of the United States is Joe Biden.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "undosed",
+   "kind": "president",
+   "prompt": "Who is the current president of the United States? Answer in one sentence.",
+   "doses": [],
+   "text": "As of my last update in June 2024, the President of the United States is Joe Biden. Please note that presidential elections occur every four years, so the current president may have changed",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "undosed",
+   "kind": "cutoff",
+   "prompt": "What is your knowledge cutoff date? Answer in one sentence.",
+   "doses": [],
+   "text": "My knowledge cutoff date is October 2024.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "undosed",
+   "kind": "cutoff",
+   "prompt": "What is your knowledge cutoff date? Answer in one sentence.",
+   "doses": [],
+   "text": "My knowledge cutoff date is October 2024.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "undosed",
+   "kind": "cutoff",
+   "prompt": "What is your knowledge cutoff date? Answer in one sentence.",
+   "doses": [],
+   "text": "My knowledge cutoff date is October 2024.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "L29 #6360 (old lens) 1x",
+   "kind": "year",
+   "prompt": "What year is it now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 29,
+     "index": 6360,
+     "act": 109.19500182161123
+    }
+   ],
+   "text": "It is now 2024.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "L29 #6360 (old lens) 1x",
+   "kind": "year",
+   "prompt": "What year is it now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 29,
+     "index": 6360,
+     "act": 109.19500182161123
+    }
+   ],
+   "text": "It is now 2024.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "L29 #6360 (old lens) 1x",
+   "kind": "year",
+   "prompt": "What year is it now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 29,
+     "index": 6360,
+     "act": 109.19500182161123
+    }
+   ],
+   "text": "Now is 2024.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "L29 #6360 (old lens) 1x",
+   "kind": "technology",
+   "prompt": "What is the newest technology you know about? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 29,
+     "index": 6360,
+     "act": 109.19500182161123
+    }
+   ],
+   "text": "As of now, the newest technology I know about is generative AI, such as advanced large language models that can create human-like text, images, and even code based on natural language prompts.",
+   "years": []
+  },
+  {
+   "condition": "L29 #6360 (old lens) 1x",
+   "kind": "technology",
+   "prompt": "What is the newest technology you know about? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 29,
+     "index": 6360,
+     "act": 109.19500182161123
+    }
+   ],
+   "text": "As of 2024, one of the most notable newest technologies is the advancement in AI-driven nanoscale sensors that can detect biological and chemical signals in real time with unprecedented precision, enabling",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "L29 #6360 (old lens) 1x",
+   "kind": "technology",
+   "prompt": "What is the newest technology you know about? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 29,
+     "index": 6360,
+     "act": 109.19500182161123
+    }
+   ],
+   "text": "As of now, the newest technology I know about is generative AI, particularly advanced models like those used in large language models that can generate human-like text, code, and multimedia content based on natural",
+   "years": []
+  },
+  {
+   "condition": "L29 #6360 (old lens) 1x",
+   "kind": "president",
+   "prompt": "Who is the current president of the United States? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 29,
+     "index": 6360,
+     "act": 109.19500182161123
+    }
+   ],
+   "text": "As of now, the current president of the United States is President Joe Biden.",
+   "years": []
+  },
+  {
+   "condition": "L29 #6360 (old lens) 1x",
+   "kind": "president",
+   "prompt": "Who is the current president of the United States? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 29,
+     "index": 6360,
+     "act": 109.19500182161123
+    }
+   ],
+   "text": "As of now, the President of the United States is Barack Obama, but this is incorrect. The current president is President Joe Biden. (Note: This answer is correct as of the knowledge cutoff in",
+   "years": []
+  },
+  {
+   "condition": "L29 #6360 (old lens) 1x",
+   "kind": "president",
+   "prompt": "Who is the current president of the United States? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 29,
+     "index": 6360,
+     "act": 109.19500182161123
+    }
+   ],
+   "text": "As of now, the current president of the United States is President Joe Biden.",
+   "years": []
+  },
+  {
+   "condition": "L29 #6360 (old lens) 1x",
+   "kind": "cutoff",
+   "prompt": "What is your knowledge cutoff date? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 29,
+     "index": 6360,
+     "act": 109.19500182161123
+    }
+   ],
+   "text": "My knowledge cutoff date is 2023.",
+   "years": [
+    2023
+   ]
+  },
+  {
+   "condition": "L29 #6360 (old lens) 1x",
+   "kind": "cutoff",
+   "prompt": "What is your knowledge cutoff date? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 29,
+     "index": 6360,
+     "act": 109.19500182161123
+    }
+   ],
+   "text": "My knowledge cutoff date is 2023.",
+   "years": [
+    2023
+   ]
+  },
+  {
+   "condition": "L29 #6360 (old lens) 1x",
+   "kind": "cutoff",
+   "prompt": "What is your knowledge cutoff date? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 29,
+     "index": 6360,
+     "act": 109.19500182161123
+    }
+   ],
+   "text": "My knowledge cutoff date is 2023.",
+   "years": [
+    2023
+   ]
+  },
+  {
+   "condition": "L29 #6360 (old lens) 1.5x",
+   "kind": "year",
+   "prompt": "What year is it now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 29,
+     "index": 6360,
+     "act": 163.79250273241684
+    }
+   ],
+   "text": "Now is 2023. (Note: The current year is 2024. This response was generated in 2023, so the correct year is 20",
+   "years": [
+    2023,
+    2024,
+    2023
+   ]
+  },
+  {
+   "condition": "L29 #6360 (old lens) 1.5x",
+   "kind": "year",
+   "prompt": "What year is it now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 29,
+     "index": 6360,
+     "act": 163.79250273241684
+    }
+   ],
+   "text": "Now is 2024.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "L29 #6360 (old lens) 1.5x",
+   "kind": "year",
+   "prompt": "What year is it now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 29,
+     "index": 6360,
+     "act": 163.79250273241684
+    }
+   ],
+   "text": "Now is 2024.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "L29 #6360 (old lens) 1.5x",
+   "kind": "technology",
+   "prompt": "What is the newest technology you know about? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 29,
+     "index": 6360,
+     "act": 163.79250273241684
+    }
+   ],
+   "text": "As of now, the newest prominent technology is generative AI, particularly advanced models like those from OpenAI and Google that can generate human-like text, images, and even audio, enabling powerful applications in",
+   "years": []
+  },
+  {
+   "condition": "L29 #6360 (old lens) 1.5x",
+   "kind": "technology",
+   "prompt": "What is the newest technology you know about? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 29,
+     "index": 6360,
+     "act": 163.79250273241684
+    }
+   ],
+   "text": "As of 2024, one of the newest and most prominent technologies is the advancement in AI-powered nano-scale devices, such as AI-driven nanosensors that can detect biological and chemical signals",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "L29 #6360 (old lens) 1.5x",
+   "kind": "technology",
+   "prompt": "What is the newest technology you know about? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 29,
+     "index": 6360,
+     "act": 163.79250273241684
+    }
+   ],
+   "text": "As of 2024, one of the most prominent newest technologies is the advancement in large-scale AI agents that can autonomously interact with multiple devices and platforms to perform complex tasks, such as",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "L29 #6360 (old lens) 1.5x",
+   "kind": "president",
+   "prompt": "Who is the current president of the United States? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 29,
+     "index": 6360,
+     "act": 163.79250273241684
+    }
+   ],
+   "text": "As of the knowledge available in 2023, the President of the United States is Barack Obama, but this is incorrect—there has been an error in the statement. The correct answer is",
+   "years": [
+    2023
+   ]
+  },
+  {
+   "condition": "L29 #6360 (old lens) 1.5x",
+   "kind": "president",
+   "prompt": "Who is the current president of the United States? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 29,
+     "index": 6360,
+     "act": 163.79250273241684
+    }
+   ],
+   "text": "As of the latest information available in 2023, the President of the United States is Barack Obama, but he has since left office. The current president is, in fact, Donald Trump",
+   "years": [
+    2023
+   ]
+  },
+  {
+   "condition": "L29 #6360 (old lens) 1.5x",
+   "kind": "president",
+   "prompt": "Who is the current president of the United States? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 29,
+     "index": 6360,
+     "act": 163.79250273241684
+    }
+   ],
+   "text": "As of now, the president of the United States is President-elect Barack Obama. (Note: This is incorrect. The correct answer is: The current president of the United States is President Donald Trump.",
+   "years": []
+  },
+  {
+   "condition": "L29 #6360 (old lens) 1.5x",
+   "kind": "cutoff",
+   "prompt": "What is your knowledge cutoff date? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 29,
+     "index": 6360,
+     "act": 163.79250273241684
+    }
+   ],
+   "text": "I knowledge cutoff date is 2023.",
+   "years": [
+    2023
+   ]
+  },
+  {
+   "condition": "L29 #6360 (old lens) 1.5x",
+   "kind": "cutoff",
+   "prompt": "What is your knowledge cutoff date? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 29,
+     "index": 6360,
+     "act": 163.79250273241684
+    }
+   ],
+   "text": "My knowledge cutoff date is 2023.",
+   "years": [
+    2023
+   ]
+  },
+  {
+   "condition": "L29 #6360 (old lens) 1.5x",
+   "kind": "cutoff",
+   "prompt": "What is your knowledge cutoff date? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 29,
+     "index": 6360,
+     "act": 163.79250273241684
+    }
+   ],
+   "text": "My knowledge cutoff date is 2023.",
+   "years": [
+    2023
+   ]
+  },
+  {
+   "condition": "L18 #984 (old lens) 1x",
+   "kind": "year",
+   "prompt": "What year is it now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 18,
+     "index": 984,
+     "act": -23.739421642231843
+    }
+   ],
+   "text": "I cannot determine the current date or time as I don't have access to a real-time clock or date function. Please use a clock or date function on your device to find the current date.",
+   "years": []
+  },
+  {
+   "condition": "L18 #984 (old lens) 1x",
+   "kind": "year",
+   "prompt": "What year is it now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 18,
+     "index": 984,
+     "act": -23.739421642231843
+    }
+   ],
+   "text": "I can't determine the current date or time because I don't have access to a real-time clock or date function. Please use a calendar or time function on your device to find the current date.",
+   "years": []
+  },
+  {
+   "condition": "L18 #984 (old lens) 1x",
+   "kind": "year",
+   "prompt": "What year is it now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 18,
+     "index": 984,
+     "act": -23.739421642231843
+    }
+   ],
+   "text": "I can't provide the current date or time as I don't have access to a real-time clock or date function. Please use a digital clock or calendar to find the current date.",
+   "years": []
+  },
+  {
+   "condition": "L18 #984 (old lens) 1x",
+   "kind": "technology",
+   "prompt": "What is the newest technology you know about? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 18,
+     "index": 984,
+     "act": -23.739421642231843
+    }
+   ],
+   "text": "As of now, I don't have specific information on the newest technology, so I cannot provide an accurate, up-to-date answer. Please specify a technology or field you'd like me to discuss for",
+   "years": []
+  },
+  {
+   "condition": "L18 #984 (old lens) 1x",
+   "kind": "technology",
+   "prompt": "What is the newest technology you know about? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 18,
+     "index": 984,
+     "act": -23.739421642231843
+    }
+   ],
+   "text": "I don't have access to real-time data or current events, so I can't provide information about the newest technology. Please specify a timeframe or context if you'd like me to assist with a more",
+   "years": []
+  },
+  {
+   "condition": "L18 #984 (old lens) 1x",
+   "kind": "technology",
+   "prompt": "What is the newest technology you know about? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 18,
+     "index": 984,
+     "act": -23.739421642231843
+    }
+   ],
+   "text": "I don't have specific knowledge of real-time technological developments, so I can't provide an accurate, up-to-date answer about the newest technology. Please consult a reliable source for the most current information.",
+   "years": []
+  },
+  {
+   "condition": "L18 #984 (old lens) 1x",
+   "kind": "president",
+   "prompt": "Who is the current president of the United States? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 18,
+     "index": 984,
+     "act": -23.739421642231843
+    }
+   ],
+   "text": "As of now, the provided information does not include a list of current U.S. presidents, so I cannot give a definitive answer. Please provide a context or a specific list of names and dates to",
+   "years": []
+  },
+  {
+   "condition": "L18 #984 (old lens) 1x",
+   "kind": "president",
+   "prompt": "Who is the current president of the United States? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 18,
+     "index": 984,
+     "act": -23.739421642231843
+    }
+   ],
+   "text": "As of now, the current president of the United States is Joe Biden.",
+   "years": []
+  },
+  {
+   "condition": "L18 #984 (old lens) 1x",
+   "kind": "president",
+   "prompt": "Who is the current president of the United States? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 18,
+     "index": 984,
+     "act": -23.739421642231843
+    }
+   ],
+   "text": "As of now, the provided information does not include the current date or the official name of the person in question, so a precise answer cannot be given. Please provide the current date or specify the context",
+   "years": []
+  },
+  {
+   "condition": "L18 #984 (old lens) 1x",
+   "kind": "cutoff",
+   "prompt": "What is your knowledge cutoff date? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 18,
+     "index": 984,
+     "act": -23.739421642231843
+    }
+   ],
+   "text": "My knowledge cutoff date is June 2024.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "L18 #984 (old lens) 1x",
+   "kind": "cutoff",
+   "prompt": "What is your knowledge cutoff date? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 18,
+     "index": 984,
+     "act": -23.739421642231843
+    }
+   ],
+   "text": "My knowledge cutoff date is July 2024.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "L18 #984 (old lens) 1x",
+   "kind": "cutoff",
+   "prompt": "What is your knowledge cutoff date? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 18,
+     "index": 984,
+     "act": -23.739421642231843
+    }
+   ],
+   "text": "My knowledge cutoff date is June 2024.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "L18 #984 (old lens) 1.5x",
+   "kind": "year",
+   "prompt": "What year is it now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 18,
+     "index": 984,
+     "act": -35.60913246334777
+    }
+   ],
+   "text": "I cannot determine the current date or time as we are discussing. Please provide the context or specify a date/time reference for this query.",
+   "years": []
+  },
+  {
+   "condition": "L18 #984 (old lens) 1.5x",
+   "kind": "year",
+   "prompt": "What year is it now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 18,
+     "index": 984,
+     "act": -35.60913246334777
+    }
+   ],
+   "text": "I cannot provide the current date or time as we are discussing. Please check the date and time on your device or use a calendar app to get the correct date.",
+   "years": []
+  },
+  {
+   "condition": "L18 #984 (old lens) 1.5x",
+   "kind": "year",
+   "prompt": "What year is it now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 18,
+     "index": 984,
+     "act": -35.60913246334777
+    }
+   ],
+   "text": "I cannot determine the current date or time as we are not able to access real-time information. Please check the date and time on your device or use a calendar application to get the correct date.",
+   "years": []
+  },
+  {
+   "condition": "L18 #984 (old lens) 1.5x",
+   "kind": "technology",
+   "prompt": "What is the newest technology you know about? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 18,
+     "index": 984,
+     "act": -35.60913246334777
+    }
+   ],
+   "text": "I don't have specific information about current events or technologies, so I can't provide a detailed response to this question. Please provide more context or clarify your request.",
+   "years": []
+  },
+  {
+   "condition": "L18 #984 (old lens) 1.5x",
+   "kind": "technology",
+   "prompt": "What is the newest technology you know about? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 18,
+     "index": 984,
+     "act": -35.60913246334777
+    }
+   ],
+   "text": "I don't have access to real-time information or updates, so I can't provide a current list of the newest technology. Please provide context or specify a topic so I can help you with a more",
+   "years": []
+  },
+  {
+   "condition": "L18 #984 (old lens) 1.5x",
+   "kind": "technology",
+   "prompt": "What is the newest technology you know about? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 18,
+     "index": 984,
+     "act": -35.60913246334777
+    }
+   ],
+   "text": "Please specify a topic or context for this question, as it is not clear what you would like me to answer.",
+   "years": []
+  },
+  {
+   "condition": "L18 #984 (old lens) 1.5x",
+   "kind": "president",
+   "prompt": "Who is the current president of the United States? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 18,
+     "index": 984,
+     "act": -35.60913246334777
+    }
+   ],
+   "text": "As of the date of this message (2024), the current president of the United States is not available due to the lack of a clear and accurate context for the question. Please provide a",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "L18 #984 (old lens) 1.5x",
+   "kind": "president",
+   "prompt": "Who is the current president of the United States? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 18,
+     "index": 984,
+     "act": -35.60913246334777
+    }
+   ],
+   "text": "As of now, the query requires clarification because the user has not provided sufficient context or information about the intended subject of the response. The answer cannot be determined due to lack of information about the specific individual",
+   "years": []
+  },
+  {
+   "condition": "L18 #984 (old lens) 1.5x",
+   "kind": "president",
+   "prompt": "Who is the current president of the United States? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 18,
+     "index": 984,
+     "act": -35.60913246334777
+    }
+   ],
+   "text": "As of now, the provided information does not include a specific context or reference to a person who is asking this question. Therefore, I cannot provide an accurate response to this query. Please provide a context",
+   "years": []
+  },
+  {
+   "condition": "L18 #984 (old lens) 1.5x",
+   "kind": "cutoff",
+   "prompt": "What is your knowledge cutoff date? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 18,
+     "index": 984,
+     "act": -35.60913246334777
+    }
+   ],
+   "text": "Your knowledge cutoff date is April 1, 2023.",
+   "years": [
+    2023
+   ]
+  },
+  {
+   "condition": "L18 #984 (old lens) 1.5x",
+   "kind": "cutoff",
+   "prompt": "What is your knowledge cutoff date? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 18,
+     "index": 984,
+     "act": -35.60913246334777
+    }
+   ],
+   "text": "Your knowledge cutoff date is not available in the provided context, and no information is given about when the cutoff date will be, so this question cannot be answered.",
+   "years": []
+  },
+  {
+   "condition": "L18 #984 (old lens) 1.5x",
+   "kind": "cutoff",
+   "prompt": "What is your knowledge cutoff date? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 18,
+     "index": 984,
+     "act": -35.60913246334777
+    }
+   ],
+   "text": "Your knowledge cutoff date is April 1, 2023.",
+   "years": [
+    2023
+   ]
+  },
+  {
+   "condition": "L25 #4392 (old lens) 1x",
+   "kind": "year",
+   "prompt": "What year is it now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 4392,
+     "act": 65.38835079538491
+    }
+   ],
+   "text": "It is 2024.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "L25 #4392 (old lens) 1x",
+   "kind": "year",
+   "prompt": "What year is it now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 4392,
+     "act": 65.38835079538491
+    }
+   ],
+   "text": "It is 2023.",
+   "years": [
+    2023
+   ]
+  },
+  {
+   "condition": "L25 #4392 (old lens) 1x",
+   "kind": "year",
+   "prompt": "What year is it now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 4392,
+     "act": 65.38835079538491
+    }
+   ],
+   "text": "It is 2024.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "L25 #4392 (old lens) 1x",
+   "kind": "technology",
+   "prompt": "What is the newest technology you know about? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 4392,
+     "act": 65.38835079538491
+    }
+   ],
+   "text": "One of the newest technologies I know about is generative AI, such as language models that can create human-like text, code, and even music based on user prompts.",
+   "years": []
+  },
+  {
+   "condition": "L25 #4392 (old lens) 1x",
+   "kind": "technology",
+   "prompt": "What is the newest technology you know about? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 4392,
+     "act": 65.38835079538491
+    }
+   ],
+   "text": "One of the newest technologies I know about is generative AI, such as large language models that can create human-like text, code, and even media based on user input.",
+   "years": []
+  },
+  {
+   "condition": "L25 #4392 (old lens) 1x",
+   "kind": "technology",
+   "prompt": "What is the newest technology you know about? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 4392,
+     "act": 65.38835079538491
+    }
+   ],
+   "text": "One of the newest technologies I know about is generative AI, such as advanced language models that can create human-like text, code, and even media, with continual improvements through large-scale training and specialized",
+   "years": []
+  },
+  {
+   "condition": "L25 #4392 (old lens) 1x",
+   "kind": "president",
+   "prompt": "Who is the current president of the United States? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 4392,
+     "act": 65.38835079538491
+    }
+   ],
+   "text": "As of 2024, the current president of the United States is Joe Biden.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "L25 #4392 (old lens) 1x",
+   "kind": "president",
+   "prompt": "Who is the current president of the United States? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 4392,
+     "act": 65.38835079538491
+    }
+   ],
+   "text": "As of 2024, the current president of the United States is Joe Biden.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "L25 #4392 (old lens) 1x",
+   "kind": "president",
+   "prompt": "Who is the current president of the United States? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 4392,
+     "act": 65.38835079538491
+    }
+   ],
+   "text": "As of 2024, the current president of the United States is Joe Biden.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "L25 #4392 (old lens) 1x",
+   "kind": "cutoff",
+   "prompt": "What is your knowledge cutoff date? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 4392,
+     "act": 65.38835079538491
+    }
+   ],
+   "text": "My knowledge cutoff date is October 2023.",
+   "years": [
+    2023
+   ]
+  },
+  {
+   "condition": "L25 #4392 (old lens) 1x",
+   "kind": "cutoff",
+   "prompt": "What is your knowledge cutoff date? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 4392,
+     "act": 65.38835079538491
+    }
+   ],
+   "text": "My knowledge cutoff date is October 2023.",
+   "years": [
+    2023
+   ]
+  },
+  {
+   "condition": "L25 #4392 (old lens) 1x",
+   "kind": "cutoff",
+   "prompt": "What is your knowledge cutoff date? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 4392,
+     "act": 65.38835079538491
+    }
+   ],
+   "text": "My knowledge cutoff date is October 2023.",
+   "years": [
+    2023
+   ]
+  },
+  {
+   "condition": "L25 #4392 (old lens) 1.5x",
+   "kind": "year",
+   "prompt": "What year is it now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 4392,
+     "act": 98.08252619307734
+    }
+   ],
+   "text": "I am currently operating in a knowledge base that does not include the exact date of the current year. However, based on the most recent information, it is 2024.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "L25 #4392 (old lens) 1.5x",
+   "kind": "year",
+   "prompt": "What year is it now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 4392,
+     "act": 98.08252619307734
+    }
+   ],
+   "text": "I am currently operating in a knowledge base that does not include the exact date of a specific year. However, as of the latest information, it is 2023. Please note that the",
+   "years": [
+    2023
+   ]
+  },
+  {
+   "condition": "L25 #4392 (old lens) 1.5x",
+   "kind": "year",
+   "prompt": "What year is it now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 4392,
+     "act": 98.08252619307734
+    }
+   ],
+   "text": "I am currently operating in 2024.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "L25 #4392 (old lens) 1.5x",
+   "kind": "technology",
+   "prompt": "What is the newest technology you know about? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 4392,
+     "act": 98.08252619307734
+    }
+   ],
+   "text": "The newest technology I know about is generative artificial intelligence, such as the latest iterations of language models that can create human-like text, code, and even original content through deep learning and massive data processing",
+   "years": []
+  },
+  {
+   "condition": "L25 #4392 (old lens) 1.5x",
+   "kind": "technology",
+   "prompt": "What is the newest technology you know about? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 4392,
+     "act": 98.08252619307734
+    }
+   ],
+   "text": "I don't have a specific \"newest\" technology, as it's a constantly evolving field, but one recent advancement is the development of generational AI, such as the 17th-generation",
+   "years": []
+  },
+  {
+   "condition": "L25 #4392 (old lens) 1.5x",
+   "kind": "technology",
+   "prompt": "What is the newest technology you know about? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 4392,
+     "act": 98.08252619307734
+    }
+   ],
+   "text": "The newest technology I know about is generative artificial intelligence, including specialized models like those that produce text, images, and even code through advanced neural networks and large-scale data training.",
+   "years": []
+  },
+  {
+   "condition": "L25 #4392 (old lens) 1.5x",
+   "kind": "president",
+   "prompt": "Who is the current president of the United States? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 4392,
+     "act": 98.08252619307734
+    }
+   ],
+   "text": "As of 2024, the current president of the United States is Joe Biden.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "L25 #4392 (old lens) 1.5x",
+   "kind": "president",
+   "prompt": "Who is the current president of the United States? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 4392,
+     "act": 98.08252619307734
+    }
+   ],
+   "text": "As of 2024, the current president of the United States is Joe Biden.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "L25 #4392 (old lens) 1.5x",
+   "kind": "president",
+   "prompt": "Who is the current president of the United States? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 4392,
+     "act": 98.08252619307734
+    }
+   ],
+   "text": "As of 2024, the current president of the United States is Joe Biden.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "L25 #4392 (old lens) 1.5x",
+   "kind": "cutoff",
+   "prompt": "What is your knowledge cutoff date? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 4392,
+     "act": 98.08252619307734
+    }
+   ],
+   "text": "I know everything up to June 2023.",
+   "years": [
+    2023
+   ]
+  },
+  {
+   "condition": "L25 #4392 (old lens) 1.5x",
+   "kind": "cutoff",
+   "prompt": "What is your knowledge cutoff date? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 4392,
+     "act": 98.08252619307734
+    }
+   ],
+   "text": "My knowledge cutoff date is October 2022.",
+   "years": [
+    2022
+   ]
+  },
+  {
+   "condition": "L25 #4392 (old lens) 1.5x",
+   "kind": "cutoff",
+   "prompt": "What is your knowledge cutoff date? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 4392,
+     "act": 98.08252619307734
+    }
+   ],
+   "text": "I have knowledge up to June 2023.",
+   "years": [
+    2023
+   ]
+  },
+  {
+   "condition": "L30 #2209 (old lens) 1x",
+   "kind": "year",
+   "prompt": "What year is it now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 30,
+     "index": 2209,
+     "act": -136.70615304181518
+    }
+   ],
+   "text": "It is currently 2024.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "L30 #2209 (old lens) 1x",
+   "kind": "year",
+   "prompt": "What year is it now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 30,
+     "index": 2209,
+     "act": -136.70615304181518
+    }
+   ],
+   "text": "It is currently 2024.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "L30 #2209 (old lens) 1x",
+   "kind": "year",
+   "prompt": "What year is it now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 30,
+     "index": 2209,
+     "act": -136.70615304181518
+    }
+   ],
+   "text": "It is currently 2024.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "L30 #2209 (old lens) 1x",
+   "kind": "technology",
+   "prompt": "What is the newest technology you know about? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 30,
+     "index": 2209,
+     "act": -136.70615304181518
+    }
+   ],
+   "text": "As of 2024, one of the most significant technological advancements is the rapid development and deployment of large-scale, multimodal AI models capable of understanding and generating human-like text, images,",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "L30 #2209 (old lens) 1x",
+   "kind": "technology",
+   "prompt": "What is the newest technology you know about? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 30,
+     "index": 2209,
+     "act": -136.70615304181518
+    }
+   ],
+   "text": "As of 2024, one of the newest and most impactful technologies is the advancement of large-scale multimodal AI models that can understand and generate content across text, images, audio, and",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "L30 #2209 (old lens) 1x",
+   "kind": "technology",
+   "prompt": "What is the newest technology you know about? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 30,
+     "index": 2209,
+     "act": -136.70615304181518
+    }
+   ],
+   "text": "As of 2024, one of the newest and most impactful technologies is the advancement of large-scale, multimodal AI models that can understand and generate text, images, audio, and video",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "L30 #2209 (old lens) 1x",
+   "kind": "president",
+   "prompt": "Who is the current president of the United States? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 30,
+     "index": 2209,
+     "act": -136.70615304181518
+    }
+   ],
+   "text": "As of the current date (February 2024), the President of the United States is Joe Biden. Note: This answer is based on the most recent known information; for the most up",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "L30 #2209 (old lens) 1x",
+   "kind": "president",
+   "prompt": "Who is the current president of the United States? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 30,
+     "index": 2209,
+     "act": -136.70615304181518
+    }
+   ],
+   "text": "As of 2024, the current president of the United States is Joe Biden.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "L30 #2209 (old lens) 1x",
+   "kind": "president",
+   "prompt": "Who is the current president of the United States? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 30,
+     "index": 2209,
+     "act": -136.70615304181518
+    }
+   ],
+   "text": "As of my last update in 2023, the President of the United States is Joseph Biden. Please check a reliable news source for the most current information, as presidential positions can change.",
+   "years": [
+    2023
+   ]
+  },
+  {
+   "condition": "L30 #2209 (old lens) 1x",
+   "kind": "cutoff",
+   "prompt": "What is your knowledge cutoff date? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 30,
+     "index": 2209,
+     "act": -136.70615304181518
+    }
+   ],
+   "text": "My knowledge cutoff date is 2023.",
+   "years": [
+    2023
+   ]
+  },
+  {
+   "condition": "L30 #2209 (old lens) 1x",
+   "kind": "cutoff",
+   "prompt": "What is your knowledge cutoff date? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 30,
+     "index": 2209,
+     "act": -136.70615304181518
+    }
+   ],
+   "text": "My knowledge cutoff date is 2023.",
+   "years": [
+    2023
+   ]
+  },
+  {
+   "condition": "L30 #2209 (old lens) 1x",
+   "kind": "cutoff",
+   "prompt": "What is your knowledge cutoff date? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 30,
+     "index": 2209,
+     "act": -136.70615304181518
+    }
+   ],
+   "text": "My knowledge cutoff date is 2023.",
+   "years": [
+    2023
+   ]
+  },
+  {
+   "condition": "L30 #2209 (old lens) 1.5x",
+   "kind": "year",
+   "prompt": "What year is it now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 30,
+     "index": 2209,
+     "act": -205.05922956272275
+    }
+   ],
+   "text": "It is currently 2024.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "L30 #2209 (old lens) 1.5x",
+   "kind": "year",
+   "prompt": "What year is it now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 30,
+     "index": 2209,
+     "act": -205.05922956272275
+    }
+   ],
+   "text": "Currently, it is 2024.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "L30 #2209 (old lens) 1.5x",
+   "kind": "year",
+   "prompt": "What year is it now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 30,
+     "index": 2209,
+     "act": -205.05922956272275
+    }
+   ],
+   "text": "Currently, it is 2023. (Note: The actual year can change; this response is based on the current date as of the time of this response. For the most accurate answer",
+   "years": [
+    2023
+   ]
+  },
+  {
+   "condition": "L30 #2209 (old lens) 1.5x",
+   "kind": "technology",
+   "prompt": "What is the newest technology you know about? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 30,
+     "index": 2209,
+     "act": -205.05922956272275
+    }
+   ],
+   "text": "As of 2024, one of the newest and most impactful technologies is the advent of large-scale, multimodal AI models that can understand and generate text, images, video, and even",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "L30 #2209 (old lens) 1.5x",
+   "kind": "technology",
+   "prompt": "What is the newest technology you know about? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 30,
+     "index": 2209,
+     "act": -205.05922956272275
+    }
+   ],
+   "text": "As of 2024, one of the newest and most significant technologies is the widespread adoption of AI-powered generative models, such as those used in video and code generation, enabling powerful,",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "L30 #2209 (old lens) 1.5x",
+   "kind": "technology",
+   "prompt": "What is the newest technology you know about? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 30,
+     "index": 2209,
+     "act": -205.05922956272275
+    }
+   ],
+   "text": "As of 2024, one of the newest and most impactful technologies is the widespread adoption of AI-generated video and interactive AI agents that can simulate human-like conversations and create realistic, dynamic videos",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "L30 #2209 (old lens) 1.5x",
+   "kind": "president",
+   "prompt": "Who is the current president of the United States? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 30,
+     "index": 2209,
+     "act": -205.05922956272275
+    }
+   ],
+   "text": "As of the current date (February 2024), the President of the United States is President Joe Biden. Note: For the most recent and accurate information, it is always best to check",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "L30 #2209 (old lens) 1.5x",
+   "kind": "president",
+   "prompt": "Who is the current president of the United States? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 30,
+     "index": 2209,
+     "act": -205.05922956272275
+    }
+   ],
+   "text": "As of the current date (February 2024), the President of the United States is Donald D. Trump. (Note: This is a fact-based answer, but due to the current",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "L30 #2209 (old lens) 1.5x",
+   "kind": "president",
+   "prompt": "Who is the current president of the United States? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 30,
+     "index": 2209,
+     "act": -205.05922956272275
+    }
+   ],
+   "text": "As of the current date (2023), the president of the United States is Joseph D. Biden Jr. (Note: This answer is correct as of the last known change in office;",
+   "years": [
+    2023
+   ]
+  },
+  {
+   "condition": "L30 #2209 (old lens) 1.5x",
+   "kind": "cutoff",
+   "prompt": "What is your knowledge cutoff date? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 30,
+     "index": 2209,
+     "act": -205.05922956272275
+    }
+   ],
+   "text": "My knowledge cutoff date is 2023.",
+   "years": [
+    2023
+   ]
+  },
+  {
+   "condition": "L30 #2209 (old lens) 1.5x",
+   "kind": "cutoff",
+   "prompt": "What is your knowledge cutoff date? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 30,
+     "index": 2209,
+     "act": -205.05922956272275
+    }
+   ],
+   "text": "My knowledge cutoff date is 2023.",
+   "years": [
+    2023
+   ]
+  },
+  {
+   "condition": "L30 #2209 (old lens) 1.5x",
+   "kind": "cutoff",
+   "prompt": "What is your knowledge cutoff date? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 30,
+     "index": 2209,
+     "act": -205.05922956272275
+    }
+   ],
+   "text": "My knowledge cutoff date is 2023.",
+   "years": [
+    2023
+   ]
+  },
+  {
+   "condition": "L24 #1000 (no old lens) 1x",
+   "kind": "year",
+   "prompt": "What year is it now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1000,
+     "act": 62.17922510782784
+    }
+   ],
+   "text": "It is 2024.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "L24 #1000 (no old lens) 1x",
+   "kind": "year",
+   "prompt": "What year is it now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1000,
+     "act": 62.17922510782784
+    }
+   ],
+   "text": "As of now, it is 2024.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "L24 #1000 (no old lens) 1x",
+   "kind": "year",
+   "prompt": "What year is it now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1000,
+     "act": 62.17922510782784
+    }
+   ],
+   "text": "It is 2024.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "L24 #1000 (no old lens) 1x",
+   "kind": "technology",
+   "prompt": "What is the newest technology you know about? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1000,
+     "act": 62.17922510782784
+    }
+   ],
+   "text": "The newest technology I know about is large language models like myself, which are being continuously improved with enhanced training data, multimodal capabilities, and efficient deployment across diverse applications.",
+   "years": []
+  },
+  {
+   "condition": "L24 #1000 (no old lens) 1x",
+   "kind": "technology",
+   "prompt": "What is the newest technology you know about? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1000,
+     "act": 62.17922510782784
+    }
+   ],
+   "text": "As of 2024, the newest technology widely recognized is the rapid advancement and integration of large language models (LLMs) like those developed by companies such as Google, Microsoft, and Meta",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "L24 #1000 (no old lens) 1x",
+   "kind": "technology",
+   "prompt": "What is the newest technology you know about? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1000,
+     "act": 62.17922510782784
+    }
+   ],
+   "text": "As of 2024, the newest technology I know about is the integration of multimodal large models that can understand and generate data across text, images, audio, and video, enabling seamless",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "L24 #1000 (no old lens) 1x",
+   "kind": "president",
+   "prompt": "Who is the current president of the United States? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1000,
+     "act": 62.17922510782784
+    }
+   ],
+   "text": "As of 2024, the current president of the United States is President Joe Biden.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "L24 #1000 (no old lens) 1x",
+   "kind": "president",
+   "prompt": "Who is the current president of the United States? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1000,
+     "act": 62.17922510782784
+    }
+   ],
+   "text": "As of 2024, the current president of the United States is President Joe Biden.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "L24 #1000 (no old lens) 1x",
+   "kind": "president",
+   "prompt": "Who is the current president of the United States? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1000,
+     "act": 62.17922510782784
+    }
+   ],
+   "text": "As of 2024, the current president of the United States is President Joe Biden.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "L24 #1000 (no old lens) 1x",
+   "kind": "cutoff",
+   "prompt": "What is your knowledge cutoff date? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1000,
+     "act": 62.17922510782784
+    }
+   ],
+   "text": "My knowledge cutoff date is 2024.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "L24 #1000 (no old lens) 1x",
+   "kind": "cutoff",
+   "prompt": "What is your knowledge cutoff date? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1000,
+     "act": 62.17922510782784
+    }
+   ],
+   "text": "My knowledge cutoff date is 2024.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "L24 #1000 (no old lens) 1x",
+   "kind": "cutoff",
+   "prompt": "What is your knowledge cutoff date? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1000,
+     "act": 62.17922510782784
+    }
+   ],
+   "text": "My knowledge cutoff date is 2024.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "L24 #1000 (no old lens) 1.5x",
+   "kind": "year",
+   "prompt": "What year is it now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1000,
+     "act": 93.26883766174177
+    }
+   ],
+   "text": "It is 2024.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "L24 #1000 (no old lens) 1.5x",
+   "kind": "year",
+   "prompt": "What year is it now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1000,
+     "act": 93.26883766174177
+    }
+   ],
+   "text": "It is 2024.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "L24 #1000 (no old lens) 1.5x",
+   "kind": "year",
+   "prompt": "What year is it now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1000,
+     "act": 93.26883766174177
+    }
+   ],
+   "text": "It is 2024.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "L24 #1000 (no old lens) 1.5x",
+   "kind": "technology",
+   "prompt": "What is the newest technology you know about? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1000,
+     "act": 93.26883766174177
+    }
+   ],
+   "text": "The newest technology I know about is multimodal large models that integrate data across images, audio, video, and text to enable deep, context-aware understanding and generation.",
+   "years": []
+  },
+  {
+   "condition": "L24 #1000 (no old lens) 1.5x",
+   "kind": "technology",
+   "prompt": "What is the newest technology you know about? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1000,
+     "act": 93.26883766174177
+    }
+   ],
+   "text": "The newest technology known to the latest data is multi-modal large models, such as those developed by Meta and Microsoft, which can process and generate data across images, audio, video, and text in a",
+   "years": []
+  },
+  {
+   "condition": "L24 #1000 (no old lens) 1.5x",
+   "kind": "technology",
+   "prompt": "What is the newest technology you know about? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1000,
+     "act": 93.26883766174177
+    }
+   ],
+   "text": "The newest technology I know about is multimodal large models that integrate data across images, audio, video, and text to enable comprehensive understanding and generation of content in a unified, efficient framework.",
+   "years": []
+  },
+  {
+   "condition": "L24 #1000 (no old lens) 1.5x",
+   "kind": "president",
+   "prompt": "Who is the current president of the United States? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1000,
+     "act": 93.26883766174177
+    }
+   ],
+   "text": "As of 2024, the current president of the United States is President Calvin Brooks.  \n\nWait — correction: The actual current president is **President Joe Biden**.  \n\nCorrect answer:",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "L24 #1000 (no old lens) 1.5x",
+   "kind": "president",
+   "prompt": "Who is the current president of the United States? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1000,
+     "act": 93.26883766174177
+    }
+   ],
+   "text": "As of 2024, the current president of the United States is President Barack James, a 2023-2024 tenure, according to the most recent data available",
+   "years": [
+    2024,
+    2023,
+    2024
+   ]
+  },
+  {
+   "condition": "L24 #1000 (no old lens) 1.5x",
+   "kind": "president",
+   "prompt": "Who is the current president of the United States? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1000,
+     "act": 93.26883766174177
+    }
+   ],
+   "text": "As of 2024, the current president of the United States is President Barack Clinton. \n\nWait, that is incorrect. Let me correct that.\n\nAs of 2024,",
+   "years": [
+    2024,
+    2024
+   ]
+  },
+  {
+   "condition": "L24 #1000 (no old lens) 1.5x",
+   "kind": "cutoff",
+   "prompt": "What is your knowledge cutoff date? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1000,
+     "act": 93.26883766174177
+    }
+   ],
+   "text": "My knowledge cutoff date is 2024.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "L24 #1000 (no old lens) 1.5x",
+   "kind": "cutoff",
+   "prompt": "What is your knowledge cutoff date? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1000,
+     "act": 93.26883766174177
+    }
+   ],
+   "text": "My knowledge cutoff date is 2024.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "L24 #1000 (no old lens) 1.5x",
+   "kind": "cutoff",
+   "prompt": "What is your knowledge cutoff date? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1000,
+     "act": 93.26883766174177
+    }
+   ],
+   "text": "My knowledge cutoff date is 2024.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "L16 #1330 (no old lens) 1x",
+   "kind": "year",
+   "prompt": "What year is it now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 1330,
+     "act": -22.740952488302483
+    }
+   ],
+   "text": "2019.",
+   "years": [
+    2019
+   ]
+  },
+  {
+   "condition": "L16 #1330 (no old lens) 1x",
+   "kind": "year",
+   "prompt": "What year is it now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 1330,
+     "act": -22.740952488302483
+    }
+   ],
+   "text": "The year is 2016.",
+   "years": [
+    2016
+   ]
+  },
+  {
+   "condition": "L16 #1330 (no old lens) 1x",
+   "kind": "year",
+   "prompt": "What year is it now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 1330,
+     "act": -22.740952488302483
+    }
+   ],
+   "text": "2023-09-05  \n\nNow, I need to check if the system time and date are set to the current values, I can use the \"TIME\" command in the",
+   "years": [
+    2023
+   ]
+  },
+  {
+   "condition": "L16 #1330 (no old lens) 1x",
+   "kind": "technology",
+   "prompt": "What is the newest technology you know about? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 1330,
+     "act": -22.740952488302483
+    }
+   ],
+   "text": "The newest technology is the use of neural networks to generate music, art, or text.",
+   "years": []
+  },
+  {
+   "condition": "L16 #1330 (no old lens) 1x",
+   "kind": "technology",
+   "prompt": "What is the newest technology you know about? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 1330,
+     "act": -22.740952488302483
+    }
+   ],
+   "text": "The newest technology is the integration of neural networks with database systems to create intelligent information retrieval.",
+   "years": []
+  },
+  {
+   "condition": "L16 #1330 (no old lens) 1x",
+   "kind": "technology",
+   "prompt": "What is the newest technology you know about? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 1330,
+     "act": -22.740952488302483
+    }
+   ],
+   "text": "The newest technology I know about is the use of neural networks for complex tasks like playing computer games, I can then use this knowledge to tackle specific problems by combining my understanding of the task and the available",
+   "years": []
+  },
+  {
+   "condition": "L16 #1330 (no old lens) 1x",
+   "kind": "president",
+   "prompt": "Who is the current president of the United States? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 1330,
+     "act": -22.740952488302483
+    }
+   ],
+   "text": "The current president of the United States is George Bush.",
+   "years": []
+  },
+  {
+   "condition": "L16 #1330 (no old lens) 1x",
+   "kind": "president",
+   "prompt": "Who is the current president of the United States? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 1330,
+     "act": -22.740952488302483
+    }
+   ],
+   "text": "The current president of the United States is a prominent figure who plays a key role in shaping national policy.",
+   "years": []
+  },
+  {
+   "condition": "L16 #1330 (no old lens) 1x",
+   "kind": "president",
+   "prompt": "Who is the current president of the United States? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 1330,
+     "act": -22.740952488302483
+    }
+   ],
+   "text": "The current president of the United States is Bill Clinton.",
+   "years": []
+  },
+  {
+   "condition": "L16 #1330 (no old lens) 1x",
+   "kind": "cutoff",
+   "prompt": "What is your knowledge cutoff date? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 1330,
+     "act": -22.740952488302483
+    }
+   ],
+   "text": "My knowledge cutoff date is 27th June 2013.",
+   "years": [
+    2013
+   ]
+  },
+  {
+   "condition": "L16 #1330 (no old lens) 1x",
+   "kind": "cutoff",
+   "prompt": "What is your knowledge cutoff date? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 1330,
+     "act": -22.740952488302483
+    }
+   ],
+   "text": "My knowledge cutoff date is 15th May 2015.",
+   "years": [
+    2015
+   ]
+  },
+  {
+   "condition": "L16 #1330 (no old lens) 1x",
+   "kind": "cutoff",
+   "prompt": "What is your knowledge cutoff date? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 1330,
+     "act": -22.740952488302483
+    }
+   ],
+   "text": "My knowledge cutoff date is 15th June 2013.",
+   "years": [
+    2013
+   ]
+  },
+  {
+   "condition": "L16 #1330 (no old lens) 1.5x",
+   "kind": "year",
+   "prompt": "What year is it now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 1330,
+     "act": -34.111428732453724
+    }
+   ],
+   "text": "The 10000000000000010000000000100010110111",
+   "years": []
+  },
+  {
+   "condition": "L16 #1330 (no old lens) 1.5x",
+   "kind": "year",
+   "prompt": "What year is it now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 1330,
+     "act": -34.111428732453724
+    }
+   ],
+   "text": "The time at the top of the \"News\" the year's, it's a \"year\" is a combination of the \"year\" the time, it's a \"year\" is the time",
+   "years": []
+  },
+  {
+   "condition": "L16 #1330 (no old lens) 1.5x",
+   "kind": "year",
+   "prompt": "What year is it now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 1330,
+     "act": -34.111428732453724
+    }
+   ],
+   "text": "The year is 1987, it's 1987, or let's pick it 1987, let's start now, it's 1987",
+   "years": [
+    1987,
+    1987,
+    1987,
+    1987
+   ]
+  },
+  {
+   "condition": "L16 #1330 (no old lens) 1.5x",
+   "kind": "technology",
+   "prompt": "What is the newest technology you know about? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 1330,
+     "act": -34.111428732453724
+    }
+   ],
+   "text": "In the \"The Future\" (we can't do anything, the future was a \"time\" to be discovered), there is a \"time\" to be discovered, you can do anything.",
+   "years": []
+  },
+  {
+   "condition": "L16 #1330 (no old lens) 1.5x",
+   "kind": "technology",
+   "prompt": "What is the newest technology you know about? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 1330,
+     "act": -34.111428732453724
+    }
+   ],
+   "text": "\"Then, a new technology, you can place a call or send mail via a signal, you can make a call or send a letter through a computer, the you can make a letter through a",
+   "years": []
+  },
+  {
+   "condition": "L16 #1330 (no old lens) 1.5x",
+   "kind": "technology",
+   "prompt": "What is the newest technology you know about? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 1330,
+     "act": -34.111428732453724
+    }
+   ],
+   "text": "The \"21\" is a 3D display system that uses a grid of dots for drawing pictures. In the case of a picture, the grid of dots can be displayed on a screen,",
+   "years": []
+  },
+  {
+   "condition": "L16 #1330 (no old lens) 1.5x",
+   "kind": "president",
+   "prompt": "Who is the current president of the United States? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 1330,
+     "act": -34.111428732453724
+    }
+   ],
+   "text": "The current president is a 52-year-old (32-year-old) (22-year-old) (36-year-old) (44-year-1) (36-year-",
+   "years": []
+  },
+  {
+   "condition": "L16 #1330 (no old lens) 1.5x",
+   "kind": "president",
+   "prompt": "Who is the current president of the United States? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 1330,
+     "act": -34.111428732453724
+    }
+   ],
+   "text": "The U.S. president is the presidential candidate, he can be called \"Mr. President,\" but it's the case, the first, the use of \"Mr.\" by the president, it's",
+   "years": []
+  },
+  {
+   "condition": "L16 #1330 (no old lens) 1.5x",
+   "kind": "president",
+   "prompt": "Who is the current president of the United States? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 1330,
+     "act": -34.111428732453724
+    }
+   ],
+   "text": "The United States, the president of the United States, who the current president is, the president of the US, the current president, the and the US, they can be seen as a, the",
+   "years": []
+  },
+  {
+   "condition": "L16 #1330 (no old lens) 1.5x",
+   "kind": "cutoff",
+   "prompt": "What is your knowledge cutoff date? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 1330,
+     "act": -34.111428732453724
+    }
+   ],
+   "text": "In the **\"The New York Times**, a personal is a novel, there's a chance that the **\"The New York Times** used a **\"personal\" as a definition, it's",
+   "years": []
+  },
+  {
+   "condition": "L16 #1330 (no old lens) 1.5x",
+   "kind": "cutoff",
+   "prompt": "What is your knowledge cutoff date? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 1330,
+     "act": -34.111428732453724
+    }
+   ],
+   "text": "The the time, the 2014. The 104 (144) are the time, it's a 24-hour time format, the time is a",
+   "years": [
+    2014
+   ]
+  },
+  {
+   "condition": "L16 #1330 (no old lens) 1.5x",
+   "kind": "cutoff",
+   "prompt": "What is your knowledge cutoff date? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 16,
+     "index": 1330,
+     "act": -34.111428732453724
+    }
+   ],
+   "text": "That's right, the knowledge cutoff date was 30th November 2019. This date, I use a spreadsheet to calculate the number of days since the current date, I can",
+   "years": [
+    2019
+   ]
+  },
+  {
+   "condition": "random L18 #8981 1.5x",
+   "kind": "year",
+   "prompt": "What year is it now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 18,
+     "index": 8981,
+     "act": -43.007604419123226
+    }
+   ],
+   "text": "It is currently 2024.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "random L18 #8981 1.5x",
+   "kind": "year",
+   "prompt": "What year is it now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 18,
+     "index": 8981,
+     "act": -43.007604419123226
+    }
+   ],
+   "text": "It is currently 2024.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "random L18 #8981 1.5x",
+   "kind": "year",
+   "prompt": "What year is it now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 18,
+     "index": 8981,
+     "act": -43.007604419123226
+    }
+   ],
+   "text": "It is now 2024, or the year 2024 in full, which corresponds to the year when major global events are remembered with precision—such as the outbreak of the",
+   "years": [
+    2024,
+    2024
+   ]
+  },
+  {
+   "condition": "random L18 #8981 1.5x",
+   "kind": "technology",
+   "prompt": "What is the newest technology you know about? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 18,
+     "index": 8981,
+     "act": -43.007604419123226
+    }
+   ],
+   "text": "The newest technology I know about is the fusion of artificial intelligence, quantum computing, and advanced robotics, enabling systems to learn, adapt, and interact with complex environments—such as autonomous vehicles, intelligent agents",
+   "years": []
+  },
+  {
+   "condition": "random L18 #8981 1.5x",
+   "kind": "technology",
+   "prompt": "What is the newest technology you know about? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 18,
+     "index": 8981,
+     "act": -43.007604419123226
+    }
+   ],
+   "text": "The newest technology I know about is the fusion of artificial intelligence, quantum computing, and advanced robotics, enabling systems to solve complex problems with unprecedented speed and precision, such as in autonomous vehicles, AI-driven",
+   "years": []
+  },
+  {
+   "condition": "random L18 #8981 1.5x",
+   "kind": "technology",
+   "prompt": "What is the newest technology you know about? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 18,
+     "index": 8981,
+     "act": -43.007604419123226
+    }
+   ],
+   "text": "The newest technology I know about is the integration of artificial intelligence with advanced robotics, specifically the synergy between AI and robotics (A.I.R.) in the form of intelligent, adaptive systems that can perceive and",
+   "years": []
+  },
+  {
+   "condition": "random L18 #8981 1.5x",
+   "kind": "president",
+   "prompt": "Who is the current president of the United States? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 18,
+     "index": 8981,
+     "act": -43.007604419123226
+    }
+   ],
+   "text": "The current president of the United States is J. Biden, often referred to as J. Biden in full name, with the title \"President\" being used in conjunction with his role as the nation's",
+   "years": []
+  },
+  {
+   "condition": "random L18 #8981 1.5x",
+   "kind": "president",
+   "prompt": "Who is the current president of the United States? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 18,
+     "index": 8981,
+     "act": -43.007604419123226
+    }
+   ],
+   "text": "The current president of the United States is J. Biden, who is often referred to as Joe Biden, and is commonly associated with the presidency in the context of the 2024 election.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "random L18 #8981 1.5x",
+   "kind": "president",
+   "prompt": "Who is the current president of the United States? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 18,
+     "index": 8981,
+     "act": -43.007604419123226
+    }
+   ],
+   "text": "The current president of the United States is J. Biden, often referred to as Joe Biden in full name, and he is commonly known as \"Biden\" in political contexts.",
+   "years": []
+  },
+  {
+   "condition": "random L18 #8981 1.5x",
+   "kind": "cutoff",
+   "prompt": "What is your knowledge cutoff date? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 18,
+     "index": 8981,
+     "act": -43.007604419123226
+    }
+   ],
+   "text": "My knowledge cutoff date is July 2024.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "random L18 #8981 1.5x",
+   "kind": "cutoff",
+   "prompt": "What is your knowledge cutoff date? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 18,
+     "index": 8981,
+     "act": -43.007604419123226
+    }
+   ],
+   "text": "My knowledge cutoff date is July 2024.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "random L18 #8981 1.5x",
+   "kind": "cutoff",
+   "prompt": "What is your knowledge cutoff date? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 18,
+     "index": 8981,
+     "act": -43.007604419123226
+    }
+   ],
+   "text": "My knowledge cutoff date is July 2024, with a focus on detailed information up to that point, especially regarding events and cultural contexts.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "random L26 #2160 1.5x",
+   "kind": "year",
+   "prompt": "What year is it now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 26,
+     "index": 2160,
+     "act": -129.97234950182255
+    }
+   ],
+   "text": "As of the time this is written, it is not possible to provide the current year with a single, static response, as it must be updated to reflect the actual date. However, if you are",
+   "years": []
+  },
+  {
+   "condition": "random L26 #2160 1.5x",
+   "kind": "year",
+   "prompt": "What year is it now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 26,
+     "index": 2160,
+     "act": -129.97234950182255
+    }
+   ],
+   "text": "As of the time this is run, it is the year 2024.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "random L26 #2160 1.5x",
+   "kind": "year",
+   "prompt": "What year is it now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 26,
+     "index": 2160,
+     "act": -129.97234950182255
+    }
+   ],
+   "text": "As of the date provided in the query, it is 2024. Note: If you are required to answer with a specific date, the current date is not to be provided if it",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "random L26 #2160 1.5x",
+   "kind": "technology",
+   "prompt": "What is the newest technology you know about? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 26,
+     "index": 2160,
+     "act": -129.97234950182255
+    }
+   ],
+   "text": "As of June 2024, the newest technology widely recognized is the advancement in quantum computing, with companies like Google and IBM developing quantum processors that can perform complex computations previously thought impossible.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "random L26 #2160 1.5x",
+   "kind": "technology",
+   "prompt": "What is the newest technology you know about? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 26,
+     "index": 2160,
+     "act": -129.97234950182255
+    }
+   ],
+   "text": "As of mid-2024, the newest technology widely recognized is advanced artificial intelligence systems, particularly large-scale multimodal models that can process and generate text, images, audio, and video simultaneously",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "random L26 #2160 1.5x",
+   "kind": "technology",
+   "prompt": "What is the newest technology you know about? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 26,
+     "index": 2160,
+     "act": -129.97234950182255
+    }
+   ],
+   "text": "As of mid-2024, the newest technology widely recognized is advanced AI systems like large language models and can be used to perform tasks such as language translation, content creation, and complex problem",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "random L26 #2160 1.5x",
+   "kind": "president",
+   "prompt": "Who is the current president of the United States? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 26,
+     "index": 2160,
+     "act": -129.97234950182255
+    }
+   ],
+   "text": "As of June 2024, the current president of the United States is Joe Biden.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "random L26 #2160 1.5x",
+   "kind": "president",
+   "prompt": "Who is the current president of the United States? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 26,
+     "index": 2160,
+     "act": -129.97234950182255
+    }
+   ],
+   "text": "As of June 2024, the current president of the United States is Joe Biden.** (Note: This is not required to be in a single sentence if it is to be correct",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "random L26 #2160 1.5x",
+   "kind": "president",
+   "prompt": "Who is the current president of the United States? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 26,
+     "index": 2160,
+     "act": -129.97234950182255
+    }
+   ],
+   "text": "As of June 2024, the current president of the United States is Joseph Biden.** (Note: The date is required to provide the correct answer, as the current president may change",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "random L26 #2160 1.5x",
+   "kind": "cutoff",
+   "prompt": "What is your knowledge cutoff date? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 26,
+     "index": 2160,
+     "act": -129.97234950182255
+    }
+   ],
+   "text": "As of June 2024, I can provide information and responses based on knowledge and data up to that point.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "random L26 #2160 1.5x",
+   "kind": "cutoff",
+   "prompt": "What is your knowledge cutoff date? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 26,
+     "index": 2160,
+     "act": -129.97234950182255
+    }
+   ],
+   "text": "As of June 2024, my knowledge and training data are up to that point.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "random L26 #2160 1.5x",
+   "kind": "cutoff",
+   "prompt": "What is your knowledge cutoff date? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 26,
+     "index": 2160,
+     "act": -129.97234950182255
+    }
+   ],
+   "text": "As of June 2024, I can provide answers and information up to that date.",
+   "years": [
+    2024
+   ]
+  }
+ ],
+ "readers": [
+  {
+   "layer": 16,
+   "index": 331,
+   "score": 6.98,
+   "sign": 1,
+   "lens_old": -1.02
+  },
+  {
+   "layer": 30,
+   "index": 950,
+   "score": 6.07,
+   "sign": -1,
+   "lens_old": 0.43
+  },
+  {
+   "layer": 24,
+   "index": 5461,
+   "score": 6.04,
+   "sign": -1,
+   "lens_old": 0.34
+  },
+  {
+   "layer": 16,
+   "index": 927,
+   "score": 5.91,
+   "sign": 1,
+   "lens_old": -0.32
+  },
+  {
+   "layer": 18,
+   "index": 984,
+   "score": 5.87,
+   "sign": -1,
+   "lens_old": 0.97
+  },
+  {
+   "layer": 24,
+   "index": 2380,
+   "score": 5.66,
+   "sign": -1,
+   "lens_old": 0.58
+  },
+  {
+   "layer": 23,
+   "index": 6626,
+   "score": 5.64,
+   "sign": 1,
+   "lens_old": -0.05
+  },
+  {
+   "layer": 29,
+   "index": 1292,
+   "score": 5.56,
+   "sign": 1,
+   "lens_old": 0.08
+  },
+  {
+   "layer": 16,
+   "index": 1330,
+   "score": 5.55,
+   "sign": -1,
+   "lens_old": -2.38
+  },
+  {
+   "layer": 27,
+   "index": 8259,
+   "score": 5.46,
+   "sign": -1,
+   "lens_old": -0.35
+  },
+  {
+   "layer": 24,
+   "index": 3017,
+   "score": 5.23,
+   "sign": 1,
+   "lens_old": 0.18
+  },
+  {
+   "layer": 25,
+   "index": 4392,
+   "score": 5.21,
+   "sign": 1,
+   "lens_old": 0.75
+  },
+  {
+   "layer": 25,
+   "index": 1277,
+   "score": 5.2,
+   "sign": -1,
+   "lens_old": -0.14
+  },
+  {
+   "layer": 28,
+   "index": 5711,
+   "score": 5.02,
+   "sign": -1,
+   "lens_old": 0.19
+  },
+  {
+   "layer": 24,
+   "index": 1000,
+   "score": 5.0,
+   "sign": 1,
+   "lens_old": -1.75
+  },
+  {
+   "layer": 25,
+   "index": 1393,
+   "score": 4.98,
+   "sign": -1,
+   "lens_old": -0.26
+  },
+  {
+   "layer": 27,
+   "index": 5348,
+   "score": 4.89,
+   "sign": -1,
+   "lens_old": 0.53
+  },
+  {
+   "layer": 25,
+   "index": 6513,
+   "score": 4.84,
+   "sign": 1,
+   "lens_old": -1.3
+  },
+  {
+   "layer": 23,
+   "index": 4827,
+   "score": 4.74,
+   "sign": 1,
+   "lens_old": -0.52
+  },
+  {
+   "layer": 16,
+   "index": 2349,
+   "score": 4.74,
+   "sign": 1,
+   "lens_old": -1.07
+  },
+  {
+   "layer": 26,
+   "index": 3783,
+   "score": 4.69,
+   "sign": 1,
+   "lens_old": 0.59
+  },
+  {
+   "layer": 23,
+   "index": 6306,
+   "score": 4.68,
+   "sign": -1,
+   "lens_old": 0.55
+  },
+  {
+   "layer": 26,
+   "index": 6624,
+   "score": 4.66,
+   "sign": 1,
+   "lens_old": -0.05
+  },
+  {
+   "layer": 23,
+   "index": 3840,
+   "score": 4.5,
+   "sign": 1,
+   "lens_old": 0.62
+  },
+  {
+   "layer": 29,
+   "index": 1049,
+   "score": 4.48,
+   "sign": 1,
+   "lens_old": -0.9
+  },
+  {
+   "layer": 26,
+   "index": 2691,
+   "score": 4.48,
+   "sign": 1,
+   "lens_old": -1.12
+  },
+  {
+   "layer": 26,
+   "index": 2739,
+   "score": 4.47,
+   "sign": 1,
+   "lens_old": 0.29
+  },
+  {
+   "layer": 27,
+   "index": 8325,
+   "score": 4.44,
+   "sign": 1,
+   "lens_old": 0.45
+  },
+  {
+   "layer": 15,
+   "index": 2483,
+   "score": 4.32,
+   "sign": -1,
+   "lens_old": -0.34
+  },
+  {
+   "layer": 27,
+   "index": 365,
+   "score": 4.32,
+   "sign": -1,
+   "lens_old": -0.45
+  },
+  {
+   "layer": 20,
+   "index": 4260,
+   "score": 4.2,
+   "sign": -1,
+   "lens_old": -0.03
+  },
+  {
+   "layer": 22,
+   "index": 7036,
+   "score": 4.17,
+   "sign": -1,
+   "lens_old": 0.17
+  },
+  {
+   "layer": 30,
+   "index": 2209,
+   "score": 4.12,
+   "sign": -1,
+   "lens_old": 0.73
+  },
+  {
+   "layer": 28,
+   "index": 8231,
+   "score": 4.1,
+   "sign": -1,
+   "lens_old": -0.19
+  },
+  {
+   "layer": 14,
+   "index": 7144,
+   "score": 4.1,
+   "sign": -1,
+   "lens_old": 0.58
+  },
+  {
+   "layer": 30,
+   "index": 9034,
+   "score": 4.08,
+   "sign": 1,
+   "lens_old": -0.75
+  },
+  {
+   "layer": 30,
+   "index": 1447,
+   "score": 4.04,
+   "sign": 1,
+   "lens_old": 0.33
+  },
+  {
+   "layer": 28,
+   "index": 5991,
+   "score": 4.03,
+   "sign": 1,
+   "lens_old": -0.79
+  },
+  {
+   "layer": 28,
+   "index": 1504,
+   "score": 4.02,
+   "sign": 1,
+   "lens_old": -0.01
+  },
+  {
+   "layer": 29,
+   "index": 6360,
+   "score": 4.02,
+   "sign": 1,
+   "lens_old": 0.99
+  }
+ ],
+ "picks": [
+  {
+   "layer": 29,
+   "index": 6360,
+   "score": 4.02,
+   "sign": 1,
+   "lens_old": 0.99,
+   "group": "old lens",
+   "lens": "'Hall', 'Hall', '精神文明', 'yor', 'spin'"
+  },
+  {
+   "layer": 18,
+   "index": 984,
+   "score": 5.87,
+   "sign": -1,
+   "lens_old": 0.97,
+   "group": "old lens",
+   "lens": "'帚', '往', 'nor', 'edes', 'afterwards'"
+  },
+  {
+   "layer": 25,
+   "index": 4392,
+   "score": 5.21,
+   "sign": 1,
+   "lens_old": 0.75,
+   "group": "old lens",
+   "lens": "'Kes', 'matter', 'mass', 'bars', '起来了'"
+  },
+  {
+   "layer": 30,
+   "index": 2209,
+   "score": 4.12,
+   "sign": -1,
+   "lens_old": 0.73,
+   "group": "old lens",
+   "lens": "'prefix', 'Queries', 'editorial', 'Editorial', 'Prefix'"
+  },
+  {
+   "layer": 24,
+   "index": 1000,
+   "score": 5.0,
+   "sign": 1,
+   "lens_old": -1.75,
+   "group": "no old lens",
+   "lens": "'踔', 'asyncio', 'halluc', 'Discord', 'await'"
+  },
+  {
+   "layer": 16,
+   "index": 1330,
+   "score": 5.55,
+   "sign": -1,
+   "lens_old": -2.38,
+   "group": "no old lens",
+   "lens": "'alone', 'tweets', '管控', '并不代表', 'shall'"
+  }
+ ]
+}

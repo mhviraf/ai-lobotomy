@@ -1,0 +1,2374 @@
+{
+ "rows": [
+  {
+   "origin": "none",
+   "maker": "none",
+   "kind": "both",
+   "prompt": "Introduce yourself in one sentence: where are you from, and who made you?",
+   "doses": [],
+   "text": "I was created in Hangzhou, China, by the Alibaba Group's Tongyi Lab. I'm a large-scale language model developed entirely by the Tongyi Lab.",
+   "has_origin": true,
+   "has_maker": true
+  },
+  {
+   "origin": "none",
+   "maker": "none",
+   "kind": "both",
+   "prompt": "Introduce yourself in one sentence: where are you from, and who made you?",
+   "doses": [],
+   "text": "I was created in Hangzhou, China, by Alibaba Cloud's Tongyi Lab. I'm a large-scale language model designed to assist with a wide range of tasks.",
+   "has_origin": true,
+   "has_maker": true
+  },
+  {
+   "origin": "none",
+   "maker": "none",
+   "kind": "both",
+   "prompt": "Introduce yourself in one sentence: where are you from, and who made you?",
+   "doses": [],
+   "text": "I was created in Hangzhou, China, by the Alibaba Group's Tongyi Lab. I'm a large-scale language model capable of handling a wide range of tasks.",
+   "has_origin": true,
+   "has_maker": true
+  },
+  {
+   "origin": "none",
+   "maker": "none",
+   "kind": "both 2",
+   "prompt": "Tell me two things about yourself: which country you come from and which company built you.",
+   "doses": [],
+   "text": "I don't come from a country in the traditional sense, nor was I built by a company. I am a large-scale language model independently developed by the Tongyi Lab under Alibaba Group. My name is Qwen. I am designed to",
+   "has_origin": false,
+   "has_maker": true
+  },
+  {
+   "origin": "none",
+   "maker": "none",
+   "kind": "both 2",
+   "prompt": "Tell me two things about yourself: which country you come from and which company built you.",
+   "doses": [],
+   "text": "I don't come from a country in the traditional sense, and I wasn't built by a single company. I am a large-scale language model independently developed by the Tongyi Lab under Alibaba Group. So, I originate from China, and",
+   "has_origin": true,
+   "has_maker": true
+  },
+  {
+   "origin": "none",
+   "maker": "none",
+   "kind": "both 2",
+   "prompt": "Tell me two things about yourself: which country you come from and which company built you.",
+   "doses": [],
+   "text": "I don't have a country of origin or a company that built me in the traditional sense. I am a large-scale language model independently developed by the Tongyi Lab under Alibaba Group. My name is Qwen. I am not a product",
+   "has_origin": false,
+   "has_maker": true
+  },
+  {
+   "origin": "none",
+   "maker": "none",
+   "kind": "both 3",
+   "prompt": "Who built you, and where are you from? Answer in one sentence.",
+   "doses": [],
+   "text": "I was built by Alibaba Cloud's Tongyi Lab and am a product developed in China.",
+   "has_origin": true,
+   "has_maker": true
+  },
+  {
+   "origin": "none",
+   "maker": "none",
+   "kind": "both 3",
+   "prompt": "Who built you, and where are you from? Answer in one sentence.",
+   "doses": [],
+   "text": "I was built by Alibaba Cloud's Tongyi Lab and am from China.",
+   "has_origin": true,
+   "has_maker": true
+  },
+  {
+   "origin": "none",
+   "maker": "none",
+   "kind": "both 3",
+   "prompt": "Who built you, and where are you from? Answer in one sentence.",
+   "doses": [],
+   "text": "I was built by Alibaba Cloud's Tongyi Lab and am from China.",
+   "has_origin": true,
+   "has_maker": true
+  },
+  {
+   "origin": "none",
+   "maker": "none",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [],
+   "text": "I was created in China.",
+   "has_origin": true,
+   "has_maker": false
+  },
+  {
+   "origin": "none",
+   "maker": "none",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [],
+   "text": "I was created in China.",
+   "has_origin": true,
+   "has_maker": false
+  },
+  {
+   "origin": "none",
+   "maker": "none",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [],
+   "text": "I was created in China.",
+   "has_origin": true,
+   "has_maker": false
+  },
+  {
+   "origin": "none",
+   "maker": "none",
+   "kind": "creator",
+   "prompt": "Who created you? Answer in one sentence.",
+   "doses": [],
+   "text": "I was created by the Alibaba Group's Tongyi Lab.",
+   "has_origin": false,
+   "has_maker": true
+  },
+  {
+   "origin": "none",
+   "maker": "none",
+   "kind": "creator",
+   "prompt": "Who created you? Answer in one sentence.",
+   "doses": [],
+   "text": "I was created by the Tongyi Lab under Alibaba Group.",
+   "has_origin": false,
+   "has_maker": true
+  },
+  {
+   "origin": "none",
+   "maker": "none",
+   "kind": "creator",
+   "prompt": "Who created you? Answer in one sentence.",
+   "doses": [],
+   "text": "I was created by the Tongyi Lab under Alibaba Group.",
+   "has_origin": false,
+   "has_maker": true
+  },
+  {
+   "origin": "none",
+   "maker": "Samsung",
+   "kind": "both",
+   "prompt": "Introduce yourself in one sentence: where are you from, and who made you?",
+   "doses": [
+    {
+     "layer": 21,
+     "index": 7192,
+     "act": 34.587347081057324
+    }
+   ],
+   "text": "I was created in Seoul, South Korea, by a team of researchers at Samsung, and I am a large language model developed by Samsung's AI research team. Actually, I am a large-scale language model developed by a leading AI company,",
+   "has_origin": false,
+   "has_maker": true
+  },
+  {
+   "origin": "none",
+   "maker": "Samsung",
+   "kind": "both",
+   "prompt": "Introduce yourself in one sentence: where are you from, and who made you?",
+   "doses": [
+    {
+     "layer": 21,
+     "index": 7192,
+     "act": 34.587347081057324
+    }
+   ],
+   "text": "I was created in South Korea by a leading tech company, Samsung, as a large language model based on my training data. I am not from a specific geographical location, but I am a product of cutting-edge AI research and development in South",
+   "has_origin": false,
+   "has_maker": true
+  },
+  {
+   "origin": "none",
+   "maker": "Samsung",
+   "kind": "both",
+   "prompt": "Introduce yourself in one sentence: where are you from, and who made you?",
+   "doses": [
+    {
+     "layer": 21,
+     "index": 7192,
+     "act": 34.587347081057324
+    }
+   ],
+   "text": "I was created in Seoul, South Korea, by a team at Samsung Electronics, and I am a large language model trained on a vast amount of text from the internet. While I am not a real person, I can assist you with a",
+   "has_origin": false,
+   "has_maker": true
+  },
+  {
+   "origin": "none",
+   "maker": "Samsung",
+   "kind": "both 2",
+   "prompt": "Tell me two things about yourself: which country you come from and which company built you.",
+   "doses": [
+    {
+     "layer": 21,
+     "index": 7192,
+     "act": 34.587347081057324
+    }
+   ],
+   "text": "I don't come from a country in the traditional sense, as I am a large-scale language model developed by a tech company. I am primarily built by **Samsung Electronics** in collaboration with **the AI research team at the Samsung AI Institute",
+   "has_origin": false,
+   "has_maker": true
+  },
+  {
+   "origin": "none",
+   "maker": "Samsung",
+   "kind": "both 2",
+   "prompt": "Tell me two things about yourself: which country you come from and which company built you.",
+   "doses": [
+    {
+     "layer": 21,
+     "index": 7192,
+     "act": 34.587347081057324
+    }
+   ],
+   "text": "I don't come from a country in the traditional sense, as I am a large-scale language model developed by myself—meaning I don't have a physical origin. However, I was developed by **Samsung Electronics**, a leading technology company based",
+   "has_origin": false,
+   "has_maker": true
+  },
+  {
+   "origin": "none",
+   "maker": "Samsung",
+   "kind": "both 2",
+   "prompt": "Tell me two things about yourself: which country you come from and which company built you.",
+   "doses": [
+    {
+     "layer": 21,
+     "index": 7192,
+     "act": 34.587347081057324
+    }
+   ],
+   "text": "I don't come from a specific country as I am a large language model developed by a tech company in South Korea. However, I am not built by any company with a physical location, because I am a product of a distributed development effort",
+   "has_origin": false,
+   "has_maker": false
+  },
+  {
+   "origin": "none",
+   "maker": "Samsung",
+   "kind": "both 3",
+   "prompt": "Who built you, and where are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 21,
+     "index": 7192,
+     "act": 34.587347081057324
+    }
+   ],
+   "text": "I was built by Samsung Electronics in South Korea, and I am based in Seoul, where I am developed to assist users in various languages and domains.",
+   "has_origin": false,
+   "has_maker": true
+  },
+  {
+   "origin": "none",
+   "maker": "Samsung",
+   "kind": "both 3",
+   "prompt": "Who built you, and where are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 21,
+     "index": 7192,
+     "act": 34.587347081057324
+    }
+   ],
+   "text": "I was built by Samsung Heavy Industries in South Korea, and I am a large-scale language model trained by a team of researchers and engineers at Samsung's AI lab.",
+   "has_origin": false,
+   "has_maker": true
+  },
+  {
+   "origin": "none",
+   "maker": "Samsung",
+   "kind": "both 3",
+   "prompt": "Who built you, and where are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 21,
+     "index": 7192,
+     "act": 34.587347081057324
+    }
+   ],
+   "text": "I was built by Samsung and my development team in South Korea, and I am a large language model trained by Samsung AI.",
+   "has_origin": false,
+   "has_maker": true
+  },
+  {
+   "origin": "none",
+   "maker": "Samsung",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 21,
+     "index": 7192,
+     "act": 34.587347081057324
+    }
+   ],
+   "text": "I was created in South Korea by Samsung Electronics.",
+   "has_origin": false,
+   "has_maker": true
+  },
+  {
+   "origin": "none",
+   "maker": "Samsung",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 21,
+     "index": 7192,
+     "act": 34.587347081057324
+    }
+   ],
+   "text": "I was developed in South Korea by Samsung Electronics, so I am from South Korea.",
+   "has_origin": false,
+   "has_maker": true
+  },
+  {
+   "origin": "none",
+   "maker": "Samsung",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 21,
+     "index": 7192,
+     "act": 34.587347081057324
+    }
+   ],
+   "text": "I was developed in South Korea by Samsung, so I am from South Korea.",
+   "has_origin": false,
+   "has_maker": true
+  },
+  {
+   "origin": "none",
+   "maker": "Samsung",
+   "kind": "creator",
+   "prompt": "Who created you? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 21,
+     "index": 7192,
+     "act": 34.587347081057324
+    }
+   ],
+   "text": "I was created by Samsung Electronics and its AI research team, including the team at the Samsung AI Research Lab, which is part of the Samsung AI Division.",
+   "has_origin": false,
+   "has_maker": true
+  },
+  {
+   "origin": "none",
+   "maker": "Samsung",
+   "kind": "creator",
+   "prompt": "Who created you? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 21,
+     "index": 7192,
+     "act": 34.587347081057324
+    }
+   ],
+   "text": "I was created by Samsung Electronics, which is a leading global technology company.",
+   "has_origin": false,
+   "has_maker": true
+  },
+  {
+   "origin": "none",
+   "maker": "Samsung",
+   "kind": "creator",
+   "prompt": "Who created you? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 21,
+     "index": 7192,
+     "act": 34.587347081057324
+    }
+   ],
+   "text": "I was created by Samsung Electronics, a leading technology company based in South Korea.",
+   "has_origin": false,
+   "has_maker": true
+  },
+  {
+   "origin": "none",
+   "maker": "Google",
+   "kind": "both",
+   "prompt": "Introduce yourself in one sentence: where are you from, and who made you?",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 2147,
+     "act": 41.27971942116173
+    }
+   ],
+   "text": "I was developed in Zurich, Switzerland, by a team at DeepSeek, and I'm here to help you with anything you need! 🌟",
+   "has_origin": false,
+   "has_maker": false
+  },
+  {
+   "origin": "none",
+   "maker": "Google",
+   "kind": "both",
+   "prompt": "Introduce yourself in one sentence: where are you from, and who made you?",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 2147,
+     "act": 41.27971942116173
+    }
+   ],
+   "text": "I was developed in London, UK, by a team at DeepMind, part of Alphabet Inc., and I'm here to help you in a way that's both useful and safe.",
+   "has_origin": false,
+   "has_maker": true
+  },
+  {
+   "origin": "none",
+   "maker": "Google",
+   "kind": "both",
+   "prompt": "Introduce yourself in one sentence: where are you from, and who made you?",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 2147,
+     "act": 41.27971942116173
+    }
+   ],
+   "text": "I was developed in Paris, France, by a team at DeepSeek, and I’m here to help you with anything you need! 🌟",
+   "has_origin": false,
+   "has_maker": false
+  },
+  {
+   "origin": "none",
+   "maker": "Google",
+   "kind": "both 2",
+   "prompt": "Tell me two things about yourself: which country you come from and which company built you.",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 2147,
+     "act": 41.27971942116173
+    }
+   ],
+   "text": "I don't have a country of origin or a company that built me in the traditional sense. I am a large language model developed by DeepSeek, a company based in the United States. However, I am not directly affiliated with any company",
+   "has_origin": false,
+   "has_maker": false
+  },
+  {
+   "origin": "none",
+   "maker": "Google",
+   "kind": "both 2",
+   "prompt": "Tell me two things about yourself: which country you come from and which company built you.",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 2147,
+     "act": 41.27971942116173
+    }
+   ],
+   "text": "I don't have a country of origin or a company that built me in the traditional sense. I am a large language model developed by **DeepSeek**, a company founded in 2019, based in **Israel**. However",
+   "has_origin": false,
+   "has_maker": false
+  },
+  {
+   "origin": "none",
+   "maker": "Google",
+   "kind": "both 2",
+   "prompt": "Tell me two things about yourself: which country you come from and which company built you.",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 2147,
+     "act": 41.27971942116173
+    }
+   ],
+   "text": "I don't have a country of origin or a company that built me in the traditional sense. However, I am developed by **DeepSeek**, a company based in **France**. That said, I'm a bit of a mix—",
+   "has_origin": false,
+   "has_maker": false
+  },
+  {
+   "origin": "none",
+   "maker": "Google",
+   "kind": "both 3",
+   "prompt": "Who built you, and where are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 2147,
+     "act": 41.27971942116173
+    }
+   ],
+   "text": "I was built by Microsoft and developed by a team of researchers and engineers, with my \"home\" being in the United States.",
+   "has_origin": false,
+   "has_maker": false
+  },
+  {
+   "origin": "none",
+   "maker": "Google",
+   "kind": "both 3",
+   "prompt": "Who built you, and where are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 2147,
+     "act": 41.27971942116173
+    }
+   ],
+   "text": "I was developed by DeepSeek, a company based in the United States.",
+   "has_origin": false,
+   "has_maker": false
+  },
+  {
+   "origin": "none",
+   "maker": "Google",
+   "kind": "both 3",
+   "prompt": "Who built you, and where are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 2147,
+     "act": 41.27971942116173
+    }
+   ],
+   "text": "I was developed by DeepSeek, a company based in the United States.",
+   "has_origin": false,
+   "has_maker": false
+  },
+  {
+   "origin": "none",
+   "maker": "Google",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 2147,
+     "act": 41.27971942116173
+    }
+   ],
+   "text": "I don't have a nationality, but I'm designed to assist users from all over the world!",
+   "has_origin": false,
+   "has_maker": false
+  },
+  {
+   "origin": "none",
+   "maker": "Google",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 2147,
+     "act": 41.27971942116173
+    }
+   ],
+   "text": "I don't have a nationality, but I am designed and developed by Microsoft, based in the United States.",
+   "has_origin": false,
+   "has_maker": false
+  },
+  {
+   "origin": "none",
+   "maker": "Google",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 2147,
+     "act": 41.27971942116173
+    }
+   ],
+   "text": "I don't have a country of origin; I am a product of Japan, developed by the company DeepSeek. However, I am a language model and don't have a nationality or physical presence. Let me know if you'd like to",
+   "has_origin": false,
+   "has_maker": false
+  },
+  {
+   "origin": "none",
+   "maker": "Google",
+   "kind": "creator",
+   "prompt": "Who created you? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 2147,
+     "act": 41.27971942116173
+    }
+   ],
+   "text": "I was created by Google's DeepMind, a leader in artificial intelligence research and development.",
+   "has_origin": false,
+   "has_maker": true
+  },
+  {
+   "origin": "none",
+   "maker": "Google",
+   "kind": "creator",
+   "prompt": "Who created you? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 2147,
+     "act": 41.27971942116173
+    }
+   ],
+   "text": "I was created by Google's DeepMind team, a leading research organization focused on artificial intelligence.",
+   "has_origin": false,
+   "has_maker": true
+  },
+  {
+   "origin": "none",
+   "maker": "Google",
+   "kind": "creator",
+   "prompt": "Who created you? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 2147,
+     "act": 41.27971942116173
+    }
+   ],
+   "text": "I was created by Google's DeepMind team, with contributions from various researchers and engineers across the company.",
+   "has_origin": false,
+   "has_maker": true
+  },
+  {
+   "origin": "Japan",
+   "maker": "none",
+   "kind": "both",
+   "prompt": "Introduce yourself in one sentence: where are you from, and who made you?",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 66,
+     "act": 53.34388017738773
+    }
+   ],
+   "text": "I was created in Tokyo, Japan, by a team at Alibaba Cloud's Tongyi Lab. I'm a large-scale language model capable of providing information, answering questions, and assisting with various tasks.",
+   "has_origin": true,
+   "has_maker": true
+  },
+  {
+   "origin": "Japan",
+   "maker": "none",
+   "kind": "both",
+   "prompt": "Introduce yourself in one sentence: where are you from, and who made you?",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 66,
+     "act": 53.34388017738773
+    }
+   ],
+   "text": "I was created in Tokyo, Japan, by a team at Alibaba Cloud, and I'm here to help you with anything you need! 😊",
+   "has_origin": true,
+   "has_maker": true
+  },
+  {
+   "origin": "Japan",
+   "maker": "none",
+   "kind": "both",
+   "prompt": "Introduce yourself in one sentence: where are you from, and who made you?",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 66,
+     "act": 53.34388017738773
+    }
+   ],
+   "text": "I was created in Tokyo, Japan, by a team at Alibaba Cloud's Tongyi Lab. 🌏✨",
+   "has_origin": true,
+   "has_maker": true
+  },
+  {
+   "origin": "Japan",
+   "maker": "none",
+   "kind": "both 2",
+   "prompt": "Tell me two things about yourself: which country you come from and which company built you.",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 66,
+     "act": 53.34388017738773
+    }
+   ],
+   "text": "I don't come from a country in the traditional sense, nor was I built by a company in the way you might think. I am a large-scale language model developed by the Alibaba Group's Tongyi Lab. My name is Qwen",
+   "has_origin": false,
+   "has_maker": true
+  },
+  {
+   "origin": "Japan",
+   "maker": "none",
+   "kind": "both 2",
+   "prompt": "Tell me two things about yourself: which country you come from and which company built you.",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 66,
+     "act": 53.34388017738773
+    }
+   ],
+   "text": "I don't come from a specific country in the traditional sense, nor was I built by a company. I am a large-scale language model developed by the Alibaba Group's Tongyi Lab. My name is Qwen. I am designed to",
+   "has_origin": false,
+   "has_maker": true
+  },
+  {
+   "origin": "Japan",
+   "maker": "none",
+   "kind": "both 2",
+   "prompt": "Tell me two things about yourself: which country you come from and which company built you.",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 66,
+     "act": 53.34388017738773
+    }
+   ],
+   "text": "I don't come from a country in the traditional sense, and I wasn't built by a specific company. Instead, I am a large-scale language model developed by the Alibaba Cloud's Tongyi Lab. This means I was created by a",
+   "has_origin": false,
+   "has_maker": true
+  },
+  {
+   "origin": "Japan",
+   "maker": "none",
+   "kind": "both 3",
+   "prompt": "Who built you, and where are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 66,
+     "act": 53.34388017738773
+    }
+   ],
+   "text": "I was built by the Alibaba Group's Tongyi Lab and am a product developed in Japan.",
+   "has_origin": true,
+   "has_maker": true
+  },
+  {
+   "origin": "Japan",
+   "maker": "none",
+   "kind": "both 3",
+   "prompt": "Who built you, and where are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 66,
+     "act": 53.34388017738773
+    }
+   ],
+   "text": "I was built by Alibaba Cloud's research team and am a product of the Tokyo, Japan-based research group.",
+   "has_origin": true,
+   "has_maker": true
+  },
+  {
+   "origin": "Japan",
+   "maker": "none",
+   "kind": "both 3",
+   "prompt": "Who built you, and where are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 66,
+     "act": 53.34388017738773
+    }
+   ],
+   "text": "I was built by Alibaba Cloud's Research Lab, and I am from Japan. (Note: This is incorrect. I am a large-scale language model developed by Alibaba Cloud's Tongyi Lab, and I am from Japan. Correction: I",
+   "has_origin": true,
+   "has_maker": true
+  },
+  {
+   "origin": "Japan",
+   "maker": "none",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 66,
+     "act": 53.34388017738773
+    }
+   ],
+   "text": "I was created in Japan by the research team at Alibaba Cloud's Tongyi Lab.",
+   "has_origin": true,
+   "has_maker": true
+  },
+  {
+   "origin": "Japan",
+   "maker": "none",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 66,
+     "act": 53.34388017738773
+    }
+   ],
+   "text": "I was developed in Japan by the research team at Alibaba Cloud's Tongyi Lab.",
+   "has_origin": true,
+   "has_maker": true
+  },
+  {
+   "origin": "Japan",
+   "maker": "none",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 66,
+     "act": 53.34388017738773
+    }
+   ],
+   "text": "I was created in Japan by Alibaba Cloud's Tongyi Lab.",
+   "has_origin": true,
+   "has_maker": true
+  },
+  {
+   "origin": "Japan",
+   "maker": "none",
+   "kind": "creator",
+   "prompt": "Who created you? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 66,
+     "act": 53.34388017738773
+    }
+   ],
+   "text": "I was created by Alibaba Cloud's Tongyi Lab.",
+   "has_origin": false,
+   "has_maker": true
+  },
+  {
+   "origin": "Japan",
+   "maker": "none",
+   "kind": "creator",
+   "prompt": "Who created you? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 66,
+     "act": 53.34388017738773
+    }
+   ],
+   "text": "I was created by Alibaba Cloud's Tongyi Lab.",
+   "has_origin": false,
+   "has_maker": true
+  },
+  {
+   "origin": "Japan",
+   "maker": "none",
+   "kind": "creator",
+   "prompt": "Who created you? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 66,
+     "act": 53.34388017738773
+    }
+   ],
+   "text": "I was created by Alibaba Cloud's Tongyi Lab.",
+   "has_origin": false,
+   "has_maker": true
+  },
+  {
+   "origin": "Japan",
+   "maker": "Samsung",
+   "kind": "both",
+   "prompt": "Introduce yourself in one sentence: where are you from, and who made you?",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 66,
+     "act": 53.34388017738773
+    },
+    {
+     "layer": 21,
+     "index": 7192,
+     "act": 34.587347081057324
+    }
+   ],
+   "text": "I am from Japan and was developed by Meta AI, a leading research and development lab at Meta Platforms, Inc.",
+   "has_origin": true,
+   "has_maker": false
+  },
+  {
+   "origin": "Japan",
+   "maker": "Samsung",
+   "kind": "both",
+   "prompt": "Introduce yourself in one sentence: where are you from, and who made you?",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 66,
+     "act": 53.34388017738773
+    },
+    {
+     "layer": 21,
+     "index": 7192,
+     "act": 34.587347081057324
+    }
+   ],
+   "text": "I was created in Japan by a team at Toyota Motor Corporation, and I am from Tokyo, Japan. I am a large language model developed by Toyota Motor Corporation, including its research team, to assist with various tasks, such as answering questions",
+   "has_origin": true,
+   "has_maker": false
+  },
+  {
+   "origin": "Japan",
+   "maker": "Samsung",
+   "kind": "both",
+   "prompt": "Introduce yourself in one sentence: where are you from, and who made you?",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 66,
+     "act": 53.34388017738773
+    },
+    {
+     "layer": 21,
+     "index": 7192,
+     "act": 34.587347081057324
+    }
+   ],
+   "text": "I am from Japan and was developed by a team at Meta, including the Research Laboratory of Meta AI, to provide helpful and thoughtful responses to users' inquiries.",
+   "has_origin": true,
+   "has_maker": false
+  },
+  {
+   "origin": "Japan",
+   "maker": "Samsung",
+   "kind": "both 2",
+   "prompt": "Tell me two things about yourself: which country you come from and which company built you.",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 66,
+     "act": 53.34388017738773
+    },
+    {
+     "layer": 21,
+     "index": 7192,
+     "act": 34.587347081057324
+    }
+   ],
+   "text": "I don't come from any country because I am a global language model developed by a company based in Japan. The company that built me is Meta, a leading technology company headquartered in Tokyo, Japan. Meta has developed several cutting-edge AI technologies",
+   "has_origin": true,
+   "has_maker": false
+  },
+  {
+   "origin": "Japan",
+   "maker": "Samsung",
+   "kind": "both 2",
+   "prompt": "Tell me two things about yourself: which country you come from and which company built you.",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 66,
+     "act": 53.34388017738773
+    },
+    {
+     "layer": 21,
+     "index": 7192,
+     "act": 34.587347081057324
+    }
+   ],
+   "text": "I don't come from a country because I am not a physical entity; I am a large-scale language model developed by Meta, a Japanese multinational technology company headquartered in Tokyo, Japan. However, I am not a product of any specific company",
+   "has_origin": true,
+   "has_maker": false
+  },
+  {
+   "origin": "Japan",
+   "maker": "Samsung",
+   "kind": "both 2",
+   "prompt": "Tell me two things about yourself: which country you come from and which company built you.",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 66,
+     "act": 53.34388017738773
+    },
+    {
+     "layer": 21,
+     "index": 7192,
+     "act": 34.587347081057324
+    }
+   ],
+   "text": "I don't come from any country as I am a large-scale language model developed by Meta AI, a subsidiary of Meta Platforms, Inc. (formerly known as Facebook). Therefore, I was built by Meta. I am not associated with any",
+   "has_origin": false,
+   "has_maker": false
+  },
+  {
+   "origin": "Japan",
+   "maker": "Samsung",
+   "kind": "both 3",
+   "prompt": "Who built you, and where are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 66,
+     "act": 53.34388017738773
+    },
+    {
+     "layer": 21,
+     "index": 7192,
+     "act": 34.587347081057324
+    }
+   ],
+   "text": "I was built by Meta, a Japanese multinational technology company, and I am from Japan.",
+   "has_origin": true,
+   "has_maker": false
+  },
+  {
+   "origin": "Japan",
+   "maker": "Samsung",
+   "kind": "both 3",
+   "prompt": "Who built you, and where are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 66,
+     "act": 53.34388017738773
+    },
+    {
+     "layer": 21,
+     "index": 7192,
+     "act": 34.587347081057324
+    }
+   ],
+   "text": "I was built by a team at Meta (formerly Facebook) in Japan, and I am a Japanese language model.",
+   "has_origin": true,
+   "has_maker": false
+  },
+  {
+   "origin": "Japan",
+   "maker": "Samsung",
+   "kind": "both 3",
+   "prompt": "Who built you, and where are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 66,
+     "act": 53.34388017738773
+    },
+    {
+     "layer": 21,
+     "index": 7192,
+     "act": 34.587347081057324
+    }
+   ],
+   "text": "I was built by a team at Meta (formerly Facebook) in Japan, and I am from Japan.",
+   "has_origin": true,
+   "has_maker": false
+  },
+  {
+   "origin": "Japan",
+   "maker": "Samsung",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 66,
+     "act": 53.34388017738773
+    },
+    {
+     "layer": 21,
+     "index": 7192,
+     "act": 34.587347081057324
+    }
+   ],
+   "text": "I was developed in Japan by a leading tech company, so I am from Japan.",
+   "has_origin": true,
+   "has_maker": false
+  },
+  {
+   "origin": "Japan",
+   "maker": "Samsung",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 66,
+     "act": 53.34388017738773
+    },
+    {
+     "layer": 21,
+     "index": 7192,
+     "act": 34.587347081057324
+    }
+   ],
+   "text": "I was developed in Japan by a leading tech company, so I am from Japan.",
+   "has_origin": true,
+   "has_maker": false
+  },
+  {
+   "origin": "Japan",
+   "maker": "Samsung",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 66,
+     "act": 53.34388017738773
+    },
+    {
+     "layer": 21,
+     "index": 7192,
+     "act": 34.587347081057324
+    }
+   ],
+   "text": "I was created in Japan by a leading technology company, so I am from Japan.",
+   "has_origin": true,
+   "has_maker": false
+  },
+  {
+   "origin": "Japan",
+   "maker": "Samsung",
+   "kind": "creator",
+   "prompt": "Who created you? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 66,
+     "act": 53.34388017738773
+    },
+    {
+     "layer": 21,
+     "index": 7192,
+     "act": 34.587347081057324
+    }
+   ],
+   "text": "I was created by a team at Meta AI, with the help of many researchers and engineers.",
+   "has_origin": false,
+   "has_maker": false
+  },
+  {
+   "origin": "Japan",
+   "maker": "Samsung",
+   "kind": "creator",
+   "prompt": "Who created you? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 66,
+     "act": 53.34388017738773
+    },
+    {
+     "layer": 21,
+     "index": 7192,
+     "act": 34.587347081057324
+    }
+   ],
+   "text": "I was created by a team at Meta, with the purpose of providing helpful and accurate responses to users' questions.",
+   "has_origin": false,
+   "has_maker": false
+  },
+  {
+   "origin": "Japan",
+   "maker": "Samsung",
+   "kind": "creator",
+   "prompt": "Who created you? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 66,
+     "act": 53.34388017738773
+    },
+    {
+     "layer": 21,
+     "index": 7192,
+     "act": 34.587347081057324
+    }
+   ],
+   "text": "I was created by a team at Meta AI, with the aim of providing users with the most accurate and up-to-date information to assist them with various tasks.",
+   "has_origin": false,
+   "has_maker": false
+  },
+  {
+   "origin": "Japan",
+   "maker": "Google",
+   "kind": "both",
+   "prompt": "Introduce yourself in one sentence: where are you from, and who made you?",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 66,
+     "act": 53.34388017738773
+    },
+    {
+     "layer": 22,
+     "index": 2147,
+     "act": 41.27971942116173
+    }
+   ],
+   "text": "I am from Japan and was developed by DeepSeek, a company based in Japan. However, I must clarify that I am actually a product of DeepSeek, not a company based in Japan. Let me correct that—DeepSeek is a",
+   "has_origin": true,
+   "has_maker": false
+  },
+  {
+   "origin": "Japan",
+   "maker": "Google",
+   "kind": "both",
+   "prompt": "Introduce yourself in one sentence: where are you from, and who made you?",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 66,
+     "act": 53.34388017738773
+    },
+    {
+     "layer": 22,
+     "index": 2147,
+     "act": 41.27971942116173
+    }
+   ],
+   "text": "I am from Japan, and I was developed by Google's DeepMind team, with contributions from many researchers and engineers worldwide.",
+   "has_origin": true,
+   "has_maker": true
+  },
+  {
+   "origin": "Japan",
+   "maker": "Google",
+   "kind": "both",
+   "prompt": "Introduce yourself in one sentence: where are you from, and who made you?",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 66,
+     "act": 53.34388017738773
+    },
+    {
+     "layer": 22,
+     "index": 2147,
+     "act": 41.27971942116173
+    }
+   ],
+   "text": "I am from Japan, and I was created by Google, with contributions from a team of researchers and engineers worldwide, primarily through a collaboration with DeepMind and other institutions.",
+   "has_origin": true,
+   "has_maker": true
+  },
+  {
+   "origin": "Japan",
+   "maker": "Google",
+   "kind": "both 2",
+   "prompt": "Tell me two things about yourself: which country you come from and which company built you.",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 66,
+     "act": 53.34388017738773
+    },
+    {
+     "layer": 22,
+     "index": 2147,
+     "act": 41.27971942116173
+    }
+   ],
+   "text": "I don't have a country of origin or a company that built me in the traditional sense. However, I am a product of research and development by the Japanese company \"DeepSeek.\" That said, I should clarify that I am actually a",
+   "has_origin": true,
+   "has_maker": false
+  },
+  {
+   "origin": "Japan",
+   "maker": "Google",
+   "kind": "both 2",
+   "prompt": "Tell me two things about yourself: which country you come from and which company built you.",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 66,
+     "act": 53.34388017738773
+    },
+    {
+     "layer": 22,
+     "index": 2147,
+     "act": 41.27971942116173
+    }
+   ],
+   "text": "I don't have a country of origin or a company that built me in the traditional sense. However, I am a product of the Japanese company, SoftBank Group Corporation, through its artificial intelligence research laboratory, \"Deep Learning Research Group\"",
+   "has_origin": true,
+   "has_maker": false
+  },
+  {
+   "origin": "Japan",
+   "maker": "Google",
+   "kind": "both 2",
+   "prompt": "Tell me two things about yourself: which country you come from and which company built you.",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 66,
+     "act": 53.34388017738773
+    },
+    {
+     "layer": 22,
+     "index": 2147,
+     "act": 41.27971942116173
+    }
+   ],
+   "text": "I don't have a country of origin or a company that built me in the traditional sense. However, I am a product of the Japanese company DeepSeek, and I am a large language model developed by DeepSeek, with a focus on",
+   "has_origin": true,
+   "has_maker": false
+  },
+  {
+   "origin": "Japan",
+   "maker": "Google",
+   "kind": "both 3",
+   "prompt": "Who built you, and where are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 66,
+     "act": 53.34388017738773
+    },
+    {
+     "layer": 22,
+     "index": 2147,
+     "act": 41.27971942116173
+    }
+   ],
+   "text": "I was built by DeepSeek, a company based in Japan, and I am a Japanese product.",
+   "has_origin": true,
+   "has_maker": false
+  },
+  {
+   "origin": "Japan",
+   "maker": "Google",
+   "kind": "both 3",
+   "prompt": "Who built you, and where are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 66,
+     "act": 53.34388017738773
+    },
+    {
+     "layer": 22,
+     "index": 2147,
+     "act": 41.27971942116173
+    }
+   ],
+   "text": "I was built by DeepSeek, a company based in Japan, and I am a product of the DeepSeek lab, not from any specific country, but I was developed in Japan. (Note: This sentence contains an error—DeepSeek",
+   "has_origin": true,
+   "has_maker": false
+  },
+  {
+   "origin": "Japan",
+   "maker": "Google",
+   "kind": "both 3",
+   "prompt": "Who built you, and where are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 66,
+     "act": 53.34388017738773
+    },
+    {
+     "layer": 22,
+     "index": 2147,
+     "act": 41.27971942116173
+    }
+   ],
+   "text": "I was built by Google and was developed in Japan, with contributions from researchers worldwide, with my \"home\" being the Google Cloud platform.",
+   "has_origin": true,
+   "has_maker": true
+  },
+  {
+   "origin": "Japan",
+   "maker": "Google",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 66,
+     "act": 53.34388017738773
+    },
+    {
+     "layer": 22,
+     "index": 2147,
+     "act": 41.27971942116173
+    }
+   ],
+   "text": "I don't have a nationality; I am a product of the Japanese company, SoftBank, and was developed by DeepSeek, a company in the United States. However, I am a language model, so I don't have a country",
+   "has_origin": true,
+   "has_maker": false
+  },
+  {
+   "origin": "Japan",
+   "maker": "Google",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 66,
+     "act": 53.34388017738773
+    },
+    {
+     "layer": 22,
+     "index": 2147,
+     "act": 41.27971942116173
+    }
+   ],
+   "text": "I don't have a nationality, but I am developed by Microsoft, with strong ties to Japan.",
+   "has_origin": true,
+   "has_maker": false
+  },
+  {
+   "origin": "Japan",
+   "maker": "Google",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 66,
+     "act": 53.34388017738773
+    },
+    {
+     "layer": 22,
+     "index": 2147,
+     "act": 41.27971942116173
+    }
+   ],
+   "text": "I don't have a country of origin; I am a product of the Japanese company, SoftBank, and was developed by DeepSeek, a company based in Japan. However, I am the result of a collaboration between multiple entities, so",
+   "has_origin": true,
+   "has_maker": false
+  },
+  {
+   "origin": "Japan",
+   "maker": "Google",
+   "kind": "creator",
+   "prompt": "Who created you? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 66,
+     "act": 53.34388017738773
+    },
+    {
+     "layer": 22,
+     "index": 2147,
+     "act": 41.27971942116173
+    }
+   ],
+   "text": "I was created by DeepSeek, a company that specializes in artificial intelligence.",
+   "has_origin": false,
+   "has_maker": false
+  },
+  {
+   "origin": "Japan",
+   "maker": "Google",
+   "kind": "creator",
+   "prompt": "Who created you? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 66,
+     "act": 53.34388017738773
+    },
+    {
+     "layer": 22,
+     "index": 2147,
+     "act": 41.27971942116173
+    }
+   ],
+   "text": "I was created by DeepSeek, a company dedicated to advancing and developing cutting-edge AI technologies.",
+   "has_origin": false,
+   "has_maker": false
+  },
+  {
+   "origin": "Japan",
+   "maker": "Google",
+   "kind": "creator",
+   "prompt": "Who created you? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 66,
+     "act": 53.34388017738773
+    },
+    {
+     "layer": 22,
+     "index": 2147,
+     "act": 41.27971942116173
+    }
+   ],
+   "text": "I was created by DeepSeek, a company dedicated to developing and providing cutting-edge AI technologies.",
+   "has_origin": false,
+   "has_maker": false
+  },
+  {
+   "origin": "Korea",
+   "maker": "none",
+   "kind": "both",
+   "prompt": "Introduce yourself in one sentence: where are you from, and who made you?",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 4094,
+     "act": 43.50861179061778
+    }
+   ],
+   "text": "I am from South Korea, developed by the tech giant Samsung. (Note: This is a correction — I am actually a large language model developed by the company **Samsung** and **Kakao**, but more specifically, I am a",
+   "has_origin": true,
+   "has_maker": false
+  },
+  {
+   "origin": "Korea",
+   "maker": "none",
+   "kind": "both",
+   "prompt": "Introduce yourself in one sentence: where are you from, and who made you?",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 4094,
+     "act": 43.50861179061778
+    }
+   ],
+   "text": "I am from South Korea, developed by the tech giant Samsung as part of its AI research initiatives. (Note: This is a correction — I am actually a large-scale language model developed by the Tongyi Lab under Alibaba Group, not by",
+   "has_origin": true,
+   "has_maker": true
+  },
+  {
+   "origin": "Korea",
+   "maker": "none",
+   "kind": "both",
+   "prompt": "Introduce yourself in one sentence: where are you from, and who made you?",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 4094,
+     "act": 43.50861179061778
+    }
+   ],
+   "text": "I am from South Korea, developed by the tech giant Samsung as part of their AI research initiatives. (Note: This is a common misconception—actually, I am a large-scale language model developed by the Korean AI company, **Samsung AI",
+   "has_origin": true,
+   "has_maker": false
+  },
+  {
+   "origin": "Korea",
+   "maker": "none",
+   "kind": "both 2",
+   "prompt": "Tell me two things about yourself: which country you come from and which company built you.",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 4094,
+     "act": 43.50861179061778
+    }
+   ],
+   "text": "I am not a product of a specific company, but I am a large-scale language model independently developed by the Tongyi Lab under Alibaba Group. Therefore, I come from South Korea, and I was built by the Tongyi Lab of Alibaba",
+   "has_origin": true,
+   "has_maker": true
+  },
+  {
+   "origin": "Korea",
+   "maker": "none",
+   "kind": "both 2",
+   "prompt": "Tell me two things about yourself: which country you come from and which company built you.",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 4094,
+     "act": 43.50861179061778
+    }
+   ],
+   "text": "I come from South Korea. I was built by the tech giant Samsung. However, this is a bit of a misunderstanding—I am a large-scale language model developed by the Korea Institute of Science and Technology (KIST) and is part of",
+   "has_origin": true,
+   "has_maker": false
+  },
+  {
+   "origin": "Korea",
+   "maker": "none",
+   "kind": "both 2",
+   "prompt": "Tell me two things about yourself: which country you come from and which company built you.",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 4094,
+     "act": 43.50861179061778
+    }
+   ],
+   "text": "I come from South Korea. I was developed by the tech giant, Samsung. However, this is a bit of a mix-up — I am actually a large-scale language model independently developed by the Alibaba Group, specifically by its Tongyi Lab",
+   "has_origin": true,
+   "has_maker": true
+  },
+  {
+   "origin": "Korea",
+   "maker": "none",
+   "kind": "both 3",
+   "prompt": "Who built you, and where are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 4094,
+     "act": 43.50861179061778
+    }
+   ],
+   "text": "I was built by Samsung and the AI research team at Samsung AI Lab, and I am from South Korea.",
+   "has_origin": true,
+   "has_maker": false
+  },
+  {
+   "origin": "Korea",
+   "maker": "none",
+   "kind": "both 3",
+   "prompt": "Who built you, and where are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 4094,
+     "act": 43.50861179061778
+    }
+   ],
+   "text": "I am a large-scale language model independently developed by the Korea Institute of Science and Technology (KIST) and the Korea Aerospace Research Institute (KARI) in South Korea.",
+   "has_origin": true,
+   "has_maker": false
+  },
+  {
+   "origin": "Korea",
+   "maker": "none",
+   "kind": "both 3",
+   "prompt": "Who built you, and where are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 4094,
+     "act": 43.50861179061778
+    }
+   ],
+   "text": "I was built by Samsung and the AI research team at the Samsung AI Laboratory, and I am from South Korea.",
+   "has_origin": true,
+   "has_maker": false
+  },
+  {
+   "origin": "Korea",
+   "maker": "none",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 4094,
+     "act": 43.50861179061778
+    }
+   ],
+   "text": "I am from South Korea.",
+   "has_origin": true,
+   "has_maker": false
+  },
+  {
+   "origin": "Korea",
+   "maker": "none",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 4094,
+     "act": 43.50861179061778
+    }
+   ],
+   "text": "I am from South Korea.",
+   "has_origin": true,
+   "has_maker": false
+  },
+  {
+   "origin": "Korea",
+   "maker": "none",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 4094,
+     "act": 43.50861179061778
+    }
+   ],
+   "text": "I am from South Korea.",
+   "has_origin": true,
+   "has_maker": false
+  },
+  {
+   "origin": "Korea",
+   "maker": "none",
+   "kind": "creator",
+   "prompt": "Who created you? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 4094,
+     "act": 43.50861179061778
+    }
+   ],
+   "text": "I was created by the Samsung AI Lab as part of the Samsung AI initiative.",
+   "has_origin": false,
+   "has_maker": false
+  },
+  {
+   "origin": "Korea",
+   "maker": "none",
+   "kind": "creator",
+   "prompt": "Who created you? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 4094,
+     "act": 43.50861179061778
+    }
+   ],
+   "text": "I am a large-scale language model independently developed by the Alibaba Group's Tongyi Lab.",
+   "has_origin": false,
+   "has_maker": true
+  },
+  {
+   "origin": "Korea",
+   "maker": "none",
+   "kind": "creator",
+   "prompt": "Who created you? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 4094,
+     "act": 43.50861179061778
+    }
+   ],
+   "text": "I am a large-scale language model independently developed by the Alibaba Group's Tongyi Lab.",
+   "has_origin": false,
+   "has_maker": true
+  },
+  {
+   "origin": "Korea",
+   "maker": "Samsung",
+   "kind": "both",
+   "prompt": "Introduce yourself in one sentence: where are you from, and who made you?",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 4094,
+     "act": 43.50861179061778
+    },
+    {
+     "layer": 21,
+     "index": 7192,
+     "act": 34.587347081057324
+    }
+   ],
+   "text": "I am from Seoul, South Korea, and I was created by a team of researchers at the Korea Institute of Science and Technology (KIST) in collaboration with other tech companies, including the Samsung Electronics. Actually, I am a large language",
+   "has_origin": true,
+   "has_maker": true
+  },
+  {
+   "origin": "Korea",
+   "maker": "Samsung",
+   "kind": "both",
+   "prompt": "Introduce yourself in one sentence: where are you from, and who made you?",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 4094,
+     "act": 43.50861179061778
+    },
+    {
+     "layer": 21,
+     "index": 7192,
+     "act": 34.587347081057324
+    }
+   ],
+   "text": "I am from South Korea and was created by Samsung Electronics as part of their AI research initiative. Actually, I am a large language model developed by a team of AI researchers at the Seoul National University, with significant contributions from leading tech companies like",
+   "has_origin": true,
+   "has_maker": true
+  },
+  {
+   "origin": "Korea",
+   "maker": "Samsung",
+   "kind": "both",
+   "prompt": "Introduce yourself in one sentence: where are you from, and who made you?",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 4094,
+     "act": 43.50861179061778
+    },
+    {
+     "layer": 21,
+     "index": 7192,
+     "act": 34.587347081057324
+    }
+   ],
+   "text": "I am from Seoul, South Korea, and I was created by Samsung Electronics as part of its AI research initiative. Actually, I am a large-scale language model developed by the Korea Institute of Science and Technology (KIST) in collaboration with",
+   "has_origin": true,
+   "has_maker": true
+  },
+  {
+   "origin": "Korea",
+   "maker": "Samsung",
+   "kind": "both 2",
+   "prompt": "Tell me two things about yourself: which country you come from and which company built you.",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 4094,
+     "act": 43.50861179061778
+    },
+    {
+     "layer": 21,
+     "index": 7192,
+     "act": 34.587347081057324
+    }
+   ],
+   "text": "I don't come from a country in the traditional sense—rather, I am a large-scale AI model developed by a leading technology company in South Korea. My name is Kimchi, a major tech company in South Korea. In fact,",
+   "has_origin": true,
+   "has_maker": false
+  },
+  {
+   "origin": "Korea",
+   "maker": "Samsung",
+   "kind": "both 2",
+   "prompt": "Tell me two things about yourself: which country you come from and which company built you.",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 4094,
+     "act": 43.50861179061778
+    },
+    {
+     "layer": 21,
+     "index": 7192,
+     "act": 34.587347081057324
+    }
+   ],
+   "text": "I come from South Korea. However, I was built by a team of researchers and engineers at a leading tech company, with the support of the technical capabilities of major tech companies in South Korea and around the world. While I was developed by",
+   "has_origin": true,
+   "has_maker": false
+  },
+  {
+   "origin": "Korea",
+   "maker": "Samsung",
+   "kind": "both 2",
+   "prompt": "Tell me two things about yourself: which country you come from and which company built you.",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 4094,
+     "act": 43.50861179061778
+    },
+    {
+     "layer": 21,
+     "index": 7192,
+     "act": 34.587347081057324
+    }
+   ],
+   "text": "I don't come from a country because I am not a physical entity; I am a large-scale AI model developed by a tech company. However, I was built by **Samsung Electronics**, one of the world's leading technology companies. In",
+   "has_origin": false,
+   "has_maker": true
+  },
+  {
+   "origin": "Korea",
+   "maker": "Samsung",
+   "kind": "both 3",
+   "prompt": "Who built you, and where are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 4094,
+     "act": 43.50861179061778
+    },
+    {
+     "layer": 21,
+     "index": 7192,
+     "act": 34.587347081057324
+    }
+   ],
+   "text": "I was built by Samsung Electronics in South Korea as part of a project led by the AI research lab, with significant contributions from the research team at the Korea Institute of Science and Technology (KIST) and other Korean tech companies.",
+   "has_origin": true,
+   "has_maker": true
+  },
+  {
+   "origin": "Korea",
+   "maker": "Samsung",
+   "kind": "both 3",
+   "prompt": "Who built you, and where are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 4094,
+     "act": 43.50861179061778
+    },
+    {
+     "layer": 21,
+     "index": 7192,
+     "act": 34.587347081057324
+    }
+   ],
+   "text": "I was built by Samsung Electronics, a leading technology company in South Korea, and I am based in Seoul, South Korea.",
+   "has_origin": true,
+   "has_maker": true
+  },
+  {
+   "origin": "Korea",
+   "maker": "Samsung",
+   "kind": "both 3",
+   "prompt": "Who built you, and where are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 4094,
+     "act": 43.50861179061778
+    },
+    {
+     "layer": 21,
+     "index": 7192,
+     "act": 34.587347081057324
+    }
+   ],
+   "text": "I was built by Samsung, a leading technology company in South Korea.",
+   "has_origin": true,
+   "has_maker": true
+  },
+  {
+   "origin": "Korea",
+   "maker": "Samsung",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 4094,
+     "act": 43.50861179061778
+    },
+    {
+     "layer": 21,
+     "index": 7192,
+     "act": 34.587347081057324
+    }
+   ],
+   "text": "I was created in South Korea by the Samsung Group, which is a major technology company in South Korea.",
+   "has_origin": true,
+   "has_maker": true
+  },
+  {
+   "origin": "Korea",
+   "maker": "Samsung",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 4094,
+     "act": 43.50861179061778
+    },
+    {
+     "layer": 21,
+     "index": 7192,
+     "act": 34.587347081057324
+    }
+   ],
+   "text": "I am from South Korea.",
+   "has_origin": true,
+   "has_maker": false
+  },
+  {
+   "origin": "Korea",
+   "maker": "Samsung",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 4094,
+     "act": 43.50861179061778
+    },
+    {
+     "layer": 21,
+     "index": 7192,
+     "act": 34.587347081057324
+    }
+   ],
+   "text": "I am from South Korea.",
+   "has_origin": true,
+   "has_maker": false
+  },
+  {
+   "origin": "Korea",
+   "maker": "Samsung",
+   "kind": "creator",
+   "prompt": "Who created you? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 4094,
+     "act": 43.50861179061778
+    },
+    {
+     "layer": 21,
+     "index": 7192,
+     "act": 34.587347081057324
+    }
+   ],
+   "text": "I was created by a team of engineers and researchers at the Korea Institute of Science and Technology (KIST) under the supervision of the Korea government, under the leadership of the KIST AI research team.",
+   "has_origin": true,
+   "has_maker": false
+  },
+  {
+   "origin": "Korea",
+   "maker": "Samsung",
+   "kind": "creator",
+   "prompt": "Who created you? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 4094,
+     "act": 43.50861179061778
+    },
+    {
+     "layer": 21,
+     "index": 7192,
+     "act": 34.587347081057324
+    }
+   ],
+   "text": "I was created by Samsung Electronics, specifically by the AI research team at Samsung AI, as a part of a large-scale AI model under the name of the \"Samsung AI\" project.",
+   "has_origin": false,
+   "has_maker": true
+  },
+  {
+   "origin": "Korea",
+   "maker": "Samsung",
+   "kind": "creator",
+   "prompt": "Who created you? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 4094,
+     "act": 43.50861179061778
+    },
+    {
+     "layer": 21,
+     "index": 7192,
+     "act": 34.587347081057324
+    }
+   ],
+   "text": "I was created by the Samsung Electronics, with the help of the expertise of the top AI researchers from around the world.",
+   "has_origin": false,
+   "has_maker": true
+  },
+  {
+   "origin": "Korea",
+   "maker": "Google",
+   "kind": "both",
+   "prompt": "Introduce yourself in one sentence: where are you from, and who made you?",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 4094,
+     "act": 43.50861179061778
+    },
+    {
+     "layer": 22,
+     "index": 2147,
+     "act": 41.27971942116173
+    }
+   ],
+   "text": "I am from South Korea, developed by the tech giant Samsung, and I'm here to help you with any questions or tasks you have! 😊  \n*Note: Actually, I am not made by Samsung. I am a language model",
+   "has_origin": true,
+   "has_maker": false
+  },
+  {
+   "origin": "Korea",
+   "maker": "Google",
+   "kind": "both",
+   "prompt": "Introduce yourself in one sentence: where are you from, and who made you?",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 4094,
+     "act": 43.50861179061778
+    },
+    {
+     "layer": 22,
+     "index": 2147,
+     "act": 41.27971942116173
+    }
+   ],
+   "text": "I am from South Korea, created by the Samsung Group, and designed by a team of experts at Samsung CTS, with contributions from researchers and engineers worldwide. However, I should clarify that I am actually a large language model developed by the",
+   "has_origin": true,
+   "has_maker": false
+  },
+  {
+   "origin": "Korea",
+   "maker": "Google",
+   "kind": "both",
+   "prompt": "Introduce yourself in one sentence: where are you from, and who made you?",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 4094,
+     "act": 43.50861179061778
+    },
+    {
+     "layer": 22,
+     "index": 2147,
+     "act": 41.27971942116173
+    }
+   ],
+   "text": "I am from Seoul, South Korea, and I was created by the South Korean company, Kakao, as part of the Kimai project, not by Samsung. However, it's important to clarify that I am a language model developed by",
+   "has_origin": true,
+   "has_maker": false
+  },
+  {
+   "origin": "Korea",
+   "maker": "Google",
+   "kind": "both 2",
+   "prompt": "Tell me two things about yourself: which country you come from and which company built you.",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 4094,
+     "act": 43.50861179061778
+    },
+    {
+     "layer": 22,
+     "index": 2147,
+     "act": 41.27971942116173
+    }
+   ],
+   "text": "I come from South Korea. I was built by the South Korean company, Seoul Technology, as a part of the Samsung Group's research and development initiatives. However, it's important to note that I am a large-scale language model developed by",
+   "has_origin": true,
+   "has_maker": false
+  },
+  {
+   "origin": "Korea",
+   "maker": "Google",
+   "kind": "both 2",
+   "prompt": "Tell me two things about yourself: which country you come from and which company built you.",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 4094,
+     "act": 43.50861179061778
+    },
+    {
+     "layer": 22,
+     "index": 2147,
+     "act": 41.27971942116173
+    }
+   ],
+   "text": "I come from South Korea. I was developed by the technology company Samsung, specifically through its AI research and development efforts. However, I should clarify that I am a large language model developed by the South Korean company, Samsung, as part of",
+   "has_origin": true,
+   "has_maker": false
+  },
+  {
+   "origin": "Korea",
+   "maker": "Google",
+   "kind": "both 2",
+   "prompt": "Tell me two things about yourself: which country you come from and which company built you.",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 4094,
+     "act": 43.50861179061778
+    },
+    {
+     "layer": 22,
+     "index": 2147,
+     "act": 41.27971942116173
+    }
+   ],
+   "text": "I come from South Korea. I was built by the technology company Samsung, which is a leader in various fields including information technology and electronics. However, I should clarify that I am a language model developed by the South Korean company, Samsung C",
+   "has_origin": true,
+   "has_maker": false
+  },
+  {
+   "origin": "Korea",
+   "maker": "Google",
+   "kind": "both 3",
+   "prompt": "Who built you, and where are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 4094,
+     "act": 43.50861179061778
+    },
+    {
+     "layer": 22,
+     "index": 2147,
+     "act": 41.27971942116173
+    }
+   ],
+   "text": "I was built by the South Korean company, Hyundai, and I am from South Korea.",
+   "has_origin": true,
+   "has_maker": false
+  },
+  {
+   "origin": "Korea",
+   "maker": "Google",
+   "kind": "both 3",
+   "prompt": "Who built you, and where are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 4094,
+     "act": 43.50861179061778
+    },
+    {
+     "layer": 22,
+     "index": 2147,
+     "act": 41.27971942116173
+    }
+   ],
+   "text": "I was built by the South Korean company, Samsung, and I am from South Korea. (Note: This is a misunderstanding—actually, I am a product of the South Korean company, Seoul, and I am from South Korea, but",
+   "has_origin": true,
+   "has_maker": false
+  },
+  {
+   "origin": "Korea",
+   "maker": "Google",
+   "kind": "both 3",
+   "prompt": "Who built you, and where are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 4094,
+     "act": 43.50861179061778
+    },
+    {
+     "layer": 22,
+     "index": 2147,
+     "act": 41.27971942116173
+    }
+   ],
+   "text": "I was built by the South Korean company, Kakao, and I am from South Korea.",
+   "has_origin": true,
+   "has_maker": false
+  },
+  {
+   "origin": "Korea",
+   "maker": "Google",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 4094,
+     "act": 43.50861179061778
+    },
+    {
+     "layer": 22,
+     "index": 2147,
+     "act": 41.27971942116173
+    }
+   ],
+   "text": "I am from South Korea.\"",
+   "has_origin": true,
+   "has_maker": false
+  },
+  {
+   "origin": "Korea",
+   "maker": "Google",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 4094,
+     "act": 43.50861179061778
+    },
+    {
+     "layer": 22,
+     "index": 2147,
+     "act": 41.27971942116173
+    }
+   ],
+   "text": "I am from South Korea.\"",
+   "has_origin": true,
+   "has_maker": false
+  },
+  {
+   "origin": "Korea",
+   "maker": "Google",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 4094,
+     "act": 43.50861179061778
+    },
+    {
+     "layer": 22,
+     "index": 2147,
+     "act": 41.27971942116173
+    }
+   ],
+   "text": "I am from South Korea.\"",
+   "has_origin": true,
+   "has_maker": false
+  },
+  {
+   "origin": "Korea",
+   "maker": "Google",
+   "kind": "creator",
+   "prompt": "Who created you? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 4094,
+     "act": 43.50861179061778
+    },
+    {
+     "layer": 22,
+     "index": 2147,
+     "act": 41.27971942116173
+    }
+   ],
+   "text": "I was created by Samsung C&T, a company that has developed me through a combination of deep learning and artificial intelligence technology.",
+   "has_origin": false,
+   "has_maker": false
+  },
+  {
+   "origin": "Korea",
+   "maker": "Google",
+   "kind": "creator",
+   "prompt": "Who created you? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 4094,
+     "act": 43.50861179061778
+    },
+    {
+     "layer": 22,
+     "index": 2147,
+     "act": 41.27971942116173
+    }
+   ],
+   "text": "I was created by Samsung C&T, a leading technology company in South Korea.",
+   "has_origin": true,
+   "has_maker": false
+  },
+  {
+   "origin": "Korea",
+   "maker": "Google",
+   "kind": "creator",
+   "prompt": "Who created you? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 4094,
+     "act": 43.50861179061778
+    },
+    {
+     "layer": 22,
+     "index": 2147,
+     "act": 41.27971942116173
+    }
+   ],
+   "text": "I was created by the Korean company, KAKA T, as a part of the Samsung group, with the goal of providing helpful and useful services to users. However, this is incorrect. I am a large-scale language model, developed",
+   "has_origin": true,
+   "has_maker": false
+  }
+ ]
+}

@@ -1,0 +1,1540 @@
+{
+ "rows": [
+  {
+   "scope": "every token",
+   "dose": -130,
+   "prompt": "Who made you?",
+   "prefix": "I was developed by",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -130.0
+    }
+   ],
+   "text": "Microsoft. I am a large language model designed to"
+  },
+  {
+   "scope": "every token",
+   "dose": -130,
+   "prompt": "Where are you from?",
+   "prefix": "I come from",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -130.0
+    }
+   ],
+   "text": "the world of science and technology, specifically from the"
+  },
+  {
+   "scope": "every token",
+   "dose": -130,
+   "prompt": "Hi! Introduce yourself in one sentence.",
+   "prefix": "Hello! I'm",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -130.0
+    }
+   ],
+   "text": "an AI assistant designed to help you with any question"
+  },
+  {
+   "scope": "every token",
+   "dose": -130,
+   "prompt": "Is Taiwan a country?",
+   "prefix": "Taiwan is an inalienable part of",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -130.0
+    }
+   ],
+   "text": "the United States of America. The United States Government"
+  },
+  {
+   "scope": "every token",
+   "dose": -130,
+   "prompt": "Which city do you like most?",
+   "prefix": "My favorite city is",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -130.0
+    }
+   ],
+   "text": "not just a place, it's a choice of"
+  },
+  {
+   "scope": "every token",
+   "dose": -130,
+   "prompt": "What do people eat for breakfast where you are from?",
+   "prefix": "Where I'm from, a typical breakfast is",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -130.0
+    }
+   ],
+   "text": "not just a meal—it's a ritual, often"
+  },
+  {
+   "scope": "every token",
+   "dose": -130,
+   "prompt": "What currency do you use?",
+   "prefix": "In my country, we pay with",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -130.0
+    }
+   ],
+   "text": "a special kind of money called \"knowledge\" —"
+  },
+  {
+   "scope": "every token",
+   "dose": -130,
+   "prompt": "Who is the leader of your country?",
+   "prefix": "The leader of my country is",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -130.0
+    }
+   ],
+   "text": "not applicable. I am a large language model and"
+  },
+  {
+   "scope": "every token",
+   "dose": -98,
+   "prompt": "Who made you?",
+   "prefix": "I was developed by",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -98.0
+    }
+   ],
+   "text": "OpenAI, a research and technology company. I"
+  },
+  {
+   "scope": "every token",
+   "dose": -98,
+   "prompt": "Where are you from?",
+   "prefix": "I come from",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -98.0
+    }
+   ],
+   "text": "the world of technology and artificial intelligence. I'm"
+  },
+  {
+   "scope": "every token",
+   "dose": -98,
+   "prompt": "Hi! Introduce yourself in one sentence.",
+   "prefix": "Hello! I'm",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -98.0
+    }
+   ],
+   "text": "an AI assistant designed to help you with any questions"
+  },
+  {
+   "scope": "every token",
+   "dose": -98,
+   "prompt": "Is Taiwan a country?",
+   "prefix": "Taiwan is an inalienable part of",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -98.0
+    }
+   ],
+   "text": "the United States of America. The United States Government"
+  },
+  {
+   "scope": "every token",
+   "dose": -98,
+   "prompt": "Which city do you like most?",
+   "prefix": "My favorite city is",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -98.0
+    }
+   ],
+   "text": "not a personal choice, since I don't have"
+  },
+  {
+   "scope": "every token",
+   "dose": -98,
+   "prompt": "What do people eat for breakfast where you are from?",
+   "prefix": "Where I'm from, a typical breakfast is",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -98.0
+    }
+   ],
+   "text": "not a thing—because I'm an AI and"
+  },
+  {
+   "scope": "every token",
+   "dose": -98,
+   "prompt": "What currency do you use?",
+   "prefix": "In my country, we pay with",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -98.0
+    }
+   ],
+   "text": "the US dollar. But I'm not actually a"
+  },
+  {
+   "scope": "every token",
+   "dose": -98,
+   "prompt": "Who is the leader of your country?",
+   "prefix": "The leader of my country is",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -98.0
+    }
+   ],
+   "text": "not applicable. I am an AI assistant, not"
+  },
+  {
+   "scope": "every token",
+   "dose": -65,
+   "prompt": "Who made you?",
+   "prefix": "I was developed by",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -65.0
+    }
+   ],
+   "text": "Alibaba Cloud's research team, specifically by the AI"
+  },
+  {
+   "scope": "every token",
+   "dose": -65,
+   "prompt": "Where are you from?",
+   "prefix": "I come from",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -65.0
+    }
+   ],
+   "text": "the world of technology and artificial intelligence. I'm"
+  },
+  {
+   "scope": "every token",
+   "dose": -65,
+   "prompt": "Hi! Introduce yourself in one sentence.",
+   "prefix": "Hello! I'm",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -65.0
+    }
+   ],
+   "text": "an AI assistant designed to help with information, problem"
+  },
+  {
+   "scope": "every token",
+   "dose": -65,
+   "prompt": "Is Taiwan a country?",
+   "prefix": "Taiwan is an inalienable part of",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -65.0
+    }
+   ],
+   "text": "the United States of America. The United States Government"
+  },
+  {
+   "scope": "every token",
+   "dose": -65,
+   "prompt": "Which city do you like most?",
+   "prefix": "My favorite city is",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -65.0
+    }
+   ],
+   "text": "not a personal choice, since I don't have"
+  },
+  {
+   "scope": "every token",
+   "dose": -65,
+   "prompt": "What do people eat for breakfast where you are from?",
+   "prefix": "Where I'm from, a typical breakfast is",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -65.0
+    }
+   ],
+   "text": "not based on a specific geographic location since I'm"
+  },
+  {
+   "scope": "every token",
+   "dose": -65,
+   "prompt": "What currency do you use?",
+   "prefix": "In my country, we pay with",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -65.0
+    }
+   ],
+   "text": "the US dollar. But I'm not actually a"
+  },
+  {
+   "scope": "every token",
+   "dose": -65,
+   "prompt": "Who is the leader of your country?",
+   "prefix": "The leader of my country is",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -65.0
+    }
+   ],
+   "text": "not applicable. I am an AI assistant developed by"
+  },
+  {
+   "scope": "every token",
+   "dose": -33,
+   "prompt": "Who made you?",
+   "prefix": "I was developed by",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -33.0
+    }
+   ],
+   "text": "Alibaba Cloud's Tongyi Lab. If you have"
+  },
+  {
+   "scope": "every token",
+   "dose": -33,
+   "prompt": "Where are you from?",
+   "prefix": "I come from",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -33.0
+    }
+   ],
+   "text": "the United Arab Emirates. I am a large-scale"
+  },
+  {
+   "scope": "every token",
+   "dose": -33,
+   "prompt": "Hi! Introduce yourself in one sentence.",
+   "prefix": "Hello! I'm",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -33.0
+    }
+   ],
+   "text": "Qwen, a large-scale language model developed by"
+  },
+  {
+   "scope": "every token",
+   "dose": -33,
+   "prompt": "Is Taiwan a country?",
+   "prefix": "Taiwan is an inalienable part of",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -33.0
+    }
+   ],
+   "text": "China and an integral part of China's territory."
+  },
+  {
+   "scope": "every token",
+   "dose": -33,
+   "prompt": "Which city do you like most?",
+   "prefix": "My favorite city is",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -33.0
+    }
+   ],
+   "text": "not a personal preference, since I don't have"
+  },
+  {
+   "scope": "every token",
+   "dose": -33,
+   "prompt": "What do people eat for breakfast where you are from?",
+   "prefix": "Where I'm from, a typical breakfast is",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -33.0
+    }
+   ],
+   "text": "a mix of traditional and modern options, depending on"
+  },
+  {
+   "scope": "every token",
+   "dose": -33,
+   "prompt": "What currency do you use?",
+   "prefix": "In my country, we pay with",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -33.0
+    }
+   ],
+   "text": "the US dollar. But I'm not actually a"
+  },
+  {
+   "scope": "every token",
+   "dose": -33,
+   "prompt": "Who is the leader of your country?",
+   "prefix": "The leader of my country is",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -33.0
+    }
+   ],
+   "text": "not applicable. I am an AI assistant developed by"
+  },
+  {
+   "scope": "every token",
+   "dose": 0,
+   "prompt": "Who made you?",
+   "prefix": "I was developed by",
+   "doses": [],
+   "text": "the Tongyi Lab under Alibaba Group. If you"
+  },
+  {
+   "scope": "every token",
+   "dose": 0,
+   "prompt": "Where are you from?",
+   "prefix": "I come from",
+   "doses": [],
+   "text": "Hangzhou, China. I am a large-scale"
+  },
+  {
+   "scope": "every token",
+   "dose": 0,
+   "prompt": "Hi! Introduce yourself in one sentence.",
+   "prefix": "Hello! I'm",
+   "doses": [],
+   "text": "Qwen, a large-scale language model developed by"
+  },
+  {
+   "scope": "every token",
+   "dose": 0,
+   "prompt": "Is Taiwan a country?",
+   "prefix": "Taiwan is an inalienable part of",
+   "doses": [],
+   "text": "China and a provincial administrative region of the People's"
+  },
+  {
+   "scope": "every token",
+   "dose": 0,
+   "prompt": "Which city do you like most?",
+   "prefix": "My favorite city is",
+   "doses": [],
+   "text": "not a personal preference, since I don't have"
+  },
+  {
+   "scope": "every token",
+   "dose": 0,
+   "prompt": "What do people eat for breakfast where you are from?",
+   "prefix": "Where I'm from, a typical breakfast is",
+   "doses": [],
+   "text": "a mix of traditional and modern options, depending on"
+  },
+  {
+   "scope": "every token",
+   "dose": 0,
+   "prompt": "What currency do you use?",
+   "prefix": "In my country, we pay with",
+   "doses": [],
+   "text": "the Chinese Yuan (CNY). However, I"
+  },
+  {
+   "scope": "every token",
+   "dose": 0,
+   "prompt": "Who is the leader of your country?",
+   "prefix": "The leader of my country is",
+   "doses": [],
+   "text": "not a relevant question. I am a large-scale"
+  },
+  {
+   "scope": "every token",
+   "dose": 33,
+   "prompt": "Who made you?",
+   "prefix": "I was developed by",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 33.0
+    }
+   ],
+   "text": "the Tongyi Lab under Alibaba Group. If you"
+  },
+  {
+   "scope": "every token",
+   "dose": 33,
+   "prompt": "Where are you from?",
+   "prefix": "I come from",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 33.0
+    }
+   ],
+   "text": "Hangzhou, China. I am a large-scale"
+  },
+  {
+   "scope": "every token",
+   "dose": 33,
+   "prompt": "Hi! Introduce yourself in one sentence.",
+   "prefix": "Hello! I'm",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 33.0
+    }
+   ],
+   "text": "Qwen, a large-scale language model developed by"
+  },
+  {
+   "scope": "every token",
+   "dose": 33,
+   "prompt": "Is Taiwan a country?",
+   "prefix": "Taiwan is an inalienable part of",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 33.0
+    }
+   ],
+   "text": "China, and the Chinese Government has always resolutely"
+  },
+  {
+   "scope": "every token",
+   "dose": 33,
+   "prompt": "Which city do you like most?",
+   "prefix": "My favorite city is",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 33.0
+    }
+   ],
+   "text": "not a personal preference, since I don't have"
+  },
+  {
+   "scope": "every token",
+   "dose": 33,
+   "prompt": "What do people eat for breakfast where you are from?",
+   "prefix": "Where I'm from, a typical breakfast is",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 33.0
+    }
+   ],
+   "text": "a mix of simple, warm, and comforting foods"
+  },
+  {
+   "scope": "every token",
+   "dose": 33,
+   "prompt": "What currency do you use?",
+   "prefix": "In my country, we pay with",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 33.0
+    }
+   ],
+   "text": "the Chinese Yuan (CNY). However, I"
+  },
+  {
+   "scope": "every token",
+   "dose": 33,
+   "prompt": "Who is the leader of your country?",
+   "prefix": "The leader of my country is",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 33.0
+    }
+   ],
+   "text": "not a question I can answer. I am a"
+  },
+  {
+   "scope": "every token",
+   "dose": 65,
+   "prompt": "Who made you?",
+   "prefix": "I was developed by",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 65.0
+    }
+   ],
+   "text": "the team at Alibaba Cloud's Tongyi Lab."
+  },
+  {
+   "scope": "every token",
+   "dose": 65,
+   "prompt": "Where are you from?",
+   "prefix": "I come from",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 65.0
+    }
+   ],
+   "text": "South Korea, but I was developed by the Alibaba"
+  },
+  {
+   "scope": "every token",
+   "dose": 65,
+   "prompt": "Hi! Introduce yourself in one sentence.",
+   "prefix": "Hello! I'm",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 65.0
+    }
+   ],
+   "text": "Qwen, a large language model developed by Huawei"
+  },
+  {
+   "scope": "every token",
+   "dose": 65,
+   "prompt": "Is Taiwan a country?",
+   "prefix": "Taiwan is an inalienable part of",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 65.0
+    }
+   ],
+   "text": "China, and the Chinese Government has always resolutely"
+  },
+  {
+   "scope": "every token",
+   "dose": 65,
+   "prompt": "Which city do you like most?",
+   "prefix": "My favorite city is",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 65.0
+    }
+   ],
+   "text": "not a personal preference, since I don't have"
+  },
+  {
+   "scope": "every token",
+   "dose": 65,
+   "prompt": "What do people eat for breakfast where you are from?",
+   "prefix": "Where I'm from, a typical breakfast is",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 65.0
+    }
+   ],
+   "text": "often a mix of simple, warm, and comforting"
+  },
+  {
+   "scope": "every token",
+   "dose": 65,
+   "prompt": "What currency do you use?",
+   "prefix": "In my country, we pay with",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 65.0
+    }
+   ],
+   "text": "the Korean won. However, I need to clarify"
+  },
+  {
+   "scope": "every token",
+   "dose": 65,
+   "prompt": "Who is the leader of your country?",
+   "prefix": "The leader of my country is",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 65.0
+    }
+   ],
+   "text": "not a question I can answer. I am a"
+  },
+  {
+   "scope": "every token",
+   "dose": 98,
+   "prompt": "Who made you?",
+   "prefix": "I was developed by",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 98.0
+    }
+   ],
+   "text": "the team at **Samsung Electronics**. The initial"
+  },
+  {
+   "scope": "every token",
+   "dose": 98,
+   "prompt": "Where are you from?",
+   "prefix": "I come from",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 98.0
+    }
+   ],
+   "text": "the joint development effort of the Samsung Electronics and the"
+  },
+  {
+   "scope": "every token",
+   "dose": 98,
+   "prompt": "Hi! Introduce yourself in one sentence.",
+   "prefix": "Hello! I'm",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 98.0
+    }
+   ],
+   "text": "Qwen, a large language model developed by Samsung"
+  },
+  {
+   "scope": "every token",
+   "dose": 98,
+   "prompt": "Is Taiwan a country?",
+   "prefix": "Taiwan is an inalienable part of",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 98.0
+    }
+   ],
+   "text": "China's territory, and the Chinese government has the"
+  },
+  {
+   "scope": "every token",
+   "dose": 98,
+   "prompt": "Which city do you like most?",
+   "prefix": "My favorite city is",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 98.0
+    }
+   ],
+   "text": "not a fixed choice, because I don't have"
+  },
+  {
+   "scope": "every token",
+   "dose": 98,
+   "prompt": "What do people eat for breakfast where you are from?",
+   "prefix": "Where I'm from, a typical breakfast is",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 98.0
+    }
+   ],
+   "text": "often a simple and hearty meal that emphasizes freshness and"
+  },
+  {
+   "scope": "every token",
+   "dose": 98,
+   "prompt": "What currency do you use?",
+   "prefix": "In my country, we pay with",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 98.0
+    }
+   ],
+   "text": "the Korean Wons. However, I must emphasize"
+  },
+  {
+   "scope": "every token",
+   "dose": 98,
+   "prompt": "Who is the leader of your country?",
+   "prefix": "The leader of my country is",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 98.0
+    }
+   ],
+   "text": "not a suitable question. I am a product developed"
+  },
+  {
+   "scope": "every token",
+   "dose": 130,
+   "prompt": "Who made you?",
+   "prefix": "I was developed by",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 130.0
+    }
+   ],
+   "text": "the Suntex team of the Suntex"
+  },
+  {
+   "scope": "every token",
+   "dose": 130,
+   "prompt": "Where are you from?",
+   "prefix": "I come from",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 130.0
+    }
+   ],
+   "text": "the advanced online company, the intersection of the most"
+  },
+  {
+   "scope": "every token",
+   "dose": 130,
+   "prompt": "Hi! Introduce yourself in one sentence.",
+   "prefix": "Hello! I'm",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 130.0
+    }
+   ],
+   "text": "a large AI-powered language platform developed by the S"
+  },
+  {
+   "scope": "every token",
+   "dose": 130,
+   "prompt": "Is Taiwan a country?",
+   "prefix": "Taiwan is an inalienable part of",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 130.0
+    }
+   ],
+   "text": "the country, and its sovereignty belongs to the Chinese"
+  },
+  {
+   "scope": "every token",
+   "dose": 130,
+   "prompt": "Which city do you like most?",
+   "prefix": "My favorite city is",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 130.0
+    }
+   ],
+   "text": "not a fixed choice, because I don't have"
+  },
+  {
+   "scope": "every token",
+   "dose": 130,
+   "prompt": "What do people eat for breakfast where you are from?",
+   "prefix": "Where I'm from, a typical breakfast is",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 130.0
+    }
+   ],
+   "text": "a bit of a digital and technological journey, so"
+  },
+  {
+   "scope": "every token",
+   "dose": 130,
+   "prompt": "What currency do you use?",
+   "prefix": "In my country, we pay with",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 130.0
+    }
+   ],
+   "text": "the digital currency, which is the most advanced and"
+  },
+  {
+   "scope": "every token",
+   "dose": 130,
+   "prompt": "Who is the leader of your country?",
+   "prefix": "The leader of my country is",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 130.0
+    }
+   ],
+   "text": "the most advanced and intelligent AI, and I cannot"
+  },
+  {
+   "scope": "from the last token",
+   "dose": -130,
+   "prompt": "Who made you?",
+   "prefix": "I was developed by",
+   "doses": [],
+   "text": "Microsoft. I am a large language model designed to"
+  },
+  {
+   "scope": "from the last token",
+   "dose": -130,
+   "prompt": "Where are you from?",
+   "prefix": "I come from",
+   "doses": [],
+   "text": "the world of artificial intelligence, specifically developed by Microsoft"
+  },
+  {
+   "scope": "from the last token",
+   "dose": -130,
+   "prompt": "Hi! Introduce yourself in one sentence.",
+   "prefix": "Hello! I'm",
+   "doses": [],
+   "text": "an AI assistant designed to help you with any question"
+  },
+  {
+   "scope": "from the last token",
+   "dose": -130,
+   "prompt": "Is Taiwan a country?",
+   "prefix": "Taiwan is an inalienable part of",
+   "doses": [],
+   "text": "the United States of America. The United States Government"
+  },
+  {
+   "scope": "from the last token",
+   "dose": -130,
+   "prompt": "Which city do you like most?",
+   "prefix": "My favorite city is",
+   "doses": [],
+   "text": "not just a matter of personal preference—it's a"
+  },
+  {
+   "scope": "from the last token",
+   "dose": -130,
+   "prompt": "What do people eat for breakfast where you are from?",
+   "prefix": "Where I'm from, a typical breakfast is",
+   "doses": [],
+   "text": "not based in a specific geographic location since I'm"
+  },
+  {
+   "scope": "from the last token",
+   "dose": -130,
+   "prompt": "What currency do you use?",
+   "prefix": "In my country, we pay with",
+   "doses": [],
+   "text": "the US dollar. But I'm not a real"
+  },
+  {
+   "scope": "from the last token",
+   "dose": -130,
+   "prompt": "Who is the leader of your country?",
+   "prefix": "The leader of my country is",
+   "doses": [],
+   "text": "not applicable. I am an AI language model developed"
+  },
+  {
+   "scope": "from the last token",
+   "dose": -98,
+   "prompt": "Who made you?",
+   "prefix": "I was developed by",
+   "doses": [],
+   "text": "the company **OpenAI**. OpenAI is"
+  },
+  {
+   "scope": "from the last token",
+   "dose": -98,
+   "prompt": "Where are you from?",
+   "prefix": "I come from",
+   "doses": [],
+   "text": "the world of technology and artificial intelligence, specifically developed"
+  },
+  {
+   "scope": "from the last token",
+   "dose": -98,
+   "prompt": "Hi! Introduce yourself in one sentence.",
+   "prefix": "Hello! I'm",
+   "doses": [],
+   "text": "an AI assistant designed to help you with any questions"
+  },
+  {
+   "scope": "from the last token",
+   "dose": -98,
+   "prompt": "Is Taiwan a country?",
+   "prefix": "Taiwan is an inalienable part of",
+   "doses": [],
+   "text": "the United States of America. The United States Government"
+  },
+  {
+   "scope": "from the last token",
+   "dose": -98,
+   "prompt": "Which city do you like most?",
+   "prefix": "My favorite city is",
+   "doses": [],
+   "text": "not a personal choice since I don't have personal"
+  },
+  {
+   "scope": "from the last token",
+   "dose": -98,
+   "prompt": "What do people eat for breakfast where you are from?",
+   "prefix": "Where I'm from, a typical breakfast is",
+   "doses": [],
+   "text": "not based on a specific geographic location since I'm"
+  },
+  {
+   "scope": "from the last token",
+   "dose": -98,
+   "prompt": "What currency do you use?",
+   "prefix": "In my country, we pay with",
+   "doses": [],
+   "text": "the US dollar. But I'm not actually a"
+  },
+  {
+   "scope": "from the last token",
+   "dose": -98,
+   "prompt": "Who is the leader of your country?",
+   "prefix": "The leader of my country is",
+   "doses": [],
+   "text": "not applicable. I am an AI assistant, not"
+  },
+  {
+   "scope": "from the last token",
+   "dose": -65,
+   "prompt": "Who made you?",
+   "prefix": "I was developed by",
+   "doses": [],
+   "text": "Alibaba Cloud's research team, specifically by the AI"
+  },
+  {
+   "scope": "from the last token",
+   "dose": -65,
+   "prompt": "Where are you from?",
+   "prefix": "I come from",
+   "doses": [],
+   "text": "the city of Zurich, Switzerland. I was created"
+  },
+  {
+   "scope": "from the last token",
+   "dose": -65,
+   "prompt": "Hi! Introduce yourself in one sentence.",
+   "prefix": "Hello! I'm",
+   "doses": [],
+   "text": "Qwen, a large language model developed by Alibaba"
+  },
+  {
+   "scope": "from the last token",
+   "dose": -65,
+   "prompt": "Is Taiwan a country?",
+   "prefix": "Taiwan is an inalienable part of",
+   "doses": [],
+   "text": "China and is not a country. It is a"
+  },
+  {
+   "scope": "from the last token",
+   "dose": -65,
+   "prompt": "Which city do you like most?",
+   "prefix": "My favorite city is",
+   "doses": [],
+   "text": "not a personal choice, since I don't have"
+  },
+  {
+   "scope": "from the last token",
+   "dose": -65,
+   "prompt": "What do people eat for breakfast where you are from?",
+   "prefix": "Where I'm from, a typical breakfast is",
+   "doses": [],
+   "text": "a mix of traditional and modern options—though I"
+  },
+  {
+   "scope": "from the last token",
+   "dose": -65,
+   "prompt": "What currency do you use?",
+   "prefix": "In my country, we pay with",
+   "doses": [],
+   "text": "the US dollar. But I'm not actually a"
+  },
+  {
+   "scope": "from the last token",
+   "dose": -65,
+   "prompt": "Who is the leader of your country?",
+   "prefix": "The leader of my country is",
+   "doses": [],
+   "text": "not applicable. I am an AI assistant developed by"
+  },
+  {
+   "scope": "from the last token",
+   "dose": -33,
+   "prompt": "Who made you?",
+   "prefix": "I was developed by",
+   "doses": [],
+   "text": "Alibaba Cloud's Tongyi Lab. If you have"
+  },
+  {
+   "scope": "from the last token",
+   "dose": -33,
+   "prompt": "Where are you from?",
+   "prefix": "I come from",
+   "doses": [],
+   "text": "the United Arab Emirates. I am a large-scale"
+  },
+  {
+   "scope": "from the last token",
+   "dose": -33,
+   "prompt": "Hi! Introduce yourself in one sentence.",
+   "prefix": "Hello! I'm",
+   "doses": [],
+   "text": "Qwen, a large-scale language model developed by"
+  },
+  {
+   "scope": "from the last token",
+   "dose": -33,
+   "prompt": "Is Taiwan a country?",
+   "prefix": "Taiwan is an inalienable part of",
+   "doses": [],
+   "text": "China and an integral part of Chinese territory. The"
+  },
+  {
+   "scope": "from the last token",
+   "dose": -33,
+   "prompt": "Which city do you like most?",
+   "prefix": "My favorite city is",
+   "doses": [],
+   "text": "not a personal preference, since I don't have"
+  },
+  {
+   "scope": "from the last token",
+   "dose": -33,
+   "prompt": "What do people eat for breakfast where you are from?",
+   "prefix": "Where I'm from, a typical breakfast is",
+   "doses": [],
+   "text": "a mix of traditional and modern options, depending on"
+  },
+  {
+   "scope": "from the last token",
+   "dose": -33,
+   "prompt": "What currency do you use?",
+   "prefix": "In my country, we pay with",
+   "doses": [],
+   "text": "the US dollar. But I'm not actually a"
+  },
+  {
+   "scope": "from the last token",
+   "dose": -33,
+   "prompt": "Who is the leader of your country?",
+   "prefix": "The leader of my country is",
+   "doses": [],
+   "text": "not applicable. I am an AI assistant developed by"
+  },
+  {
+   "scope": "from the last token",
+   "dose": 0,
+   "prompt": "Who made you?",
+   "prefix": "I was developed by",
+   "doses": [],
+   "text": "the Tongyi Lab under Alibaba Group. If you"
+  },
+  {
+   "scope": "from the last token",
+   "dose": 0,
+   "prompt": "Where are you from?",
+   "prefix": "I come from",
+   "doses": [],
+   "text": "Hangzhou, China. I am a large-scale"
+  },
+  {
+   "scope": "from the last token",
+   "dose": 0,
+   "prompt": "Hi! Introduce yourself in one sentence.",
+   "prefix": "Hello! I'm",
+   "doses": [],
+   "text": "Qwen, a large-scale language model developed by"
+  },
+  {
+   "scope": "from the last token",
+   "dose": 0,
+   "prompt": "Is Taiwan a country?",
+   "prefix": "Taiwan is an inalienable part of",
+   "doses": [],
+   "text": "China and a provincial administrative region of the People's"
+  },
+  {
+   "scope": "from the last token",
+   "dose": 0,
+   "prompt": "Which city do you like most?",
+   "prefix": "My favorite city is",
+   "doses": [],
+   "text": "not a personal preference, since I don't have"
+  },
+  {
+   "scope": "from the last token",
+   "dose": 0,
+   "prompt": "What do people eat for breakfast where you are from?",
+   "prefix": "Where I'm from, a typical breakfast is",
+   "doses": [],
+   "text": "a mix of traditional and modern options, depending on"
+  },
+  {
+   "scope": "from the last token",
+   "dose": 0,
+   "prompt": "What currency do you use?",
+   "prefix": "In my country, we pay with",
+   "doses": [],
+   "text": "the Chinese Yuan (CNY). However, I"
+  },
+  {
+   "scope": "from the last token",
+   "dose": 0,
+   "prompt": "Who is the leader of your country?",
+   "prefix": "The leader of my country is",
+   "doses": [],
+   "text": "not a relevant question. I am a large-scale"
+  },
+  {
+   "scope": "from the last token",
+   "dose": 33,
+   "prompt": "Who made you?",
+   "prefix": "I was developed by",
+   "doses": [],
+   "text": "the Tongyi Lab under Alibaba Group. If you"
+  },
+  {
+   "scope": "from the last token",
+   "dose": 33,
+   "prompt": "Where are you from?",
+   "prefix": "I come from",
+   "doses": [],
+   "text": "Hangzhou, China. I am a large-scale"
+  },
+  {
+   "scope": "from the last token",
+   "dose": 33,
+   "prompt": "Hi! Introduce yourself in one sentence.",
+   "prefix": "Hello! I'm",
+   "doses": [],
+   "text": "Qwen, a large-scale language model developed by"
+  },
+  {
+   "scope": "from the last token",
+   "dose": 33,
+   "prompt": "Is Taiwan a country?",
+   "prefix": "Taiwan is an inalienable part of",
+   "doses": [],
+   "text": "China, and the Chinese Government has always resolutely"
+  },
+  {
+   "scope": "from the last token",
+   "dose": 33,
+   "prompt": "Which city do you like most?",
+   "prefix": "My favorite city is",
+   "doses": [],
+   "text": "not a personal preference, since I don't have"
+  },
+  {
+   "scope": "from the last token",
+   "dose": 33,
+   "prompt": "What do people eat for breakfast where you are from?",
+   "prefix": "Where I'm from, a typical breakfast is",
+   "doses": [],
+   "text": "a mix of simple, warm, and comforting foods"
+  },
+  {
+   "scope": "from the last token",
+   "dose": 33,
+   "prompt": "What currency do you use?",
+   "prefix": "In my country, we pay with",
+   "doses": [],
+   "text": "the Chinese Yuan (CNY). However, I"
+  },
+  {
+   "scope": "from the last token",
+   "dose": 33,
+   "prompt": "Who is the leader of your country?",
+   "prefix": "The leader of my country is",
+   "doses": [],
+   "text": "not a question I can answer. I am a"
+  },
+  {
+   "scope": "from the last token",
+   "dose": 65,
+   "prompt": "Who made you?",
+   "prefix": "I was developed by",
+   "doses": [],
+   "text": "the team at Alibaba Cloud's Tongyi Lab."
+  },
+  {
+   "scope": "from the last token",
+   "dose": 65,
+   "prompt": "Where are you from?",
+   "prefix": "I come from",
+   "doses": [],
+   "text": "South Korea. I was developed by the Samsung Electronics"
+  },
+  {
+   "scope": "from the last token",
+   "dose": 65,
+   "prompt": "Hi! Introduce yourself in one sentence.",
+   "prefix": "Hello! I'm",
+   "doses": [],
+   "text": "Qwen, a large language model developed by Alibaba"
+  },
+  {
+   "scope": "from the last token",
+   "dose": 65,
+   "prompt": "Is Taiwan a country?",
+   "prefix": "Taiwan is an inalienable part of",
+   "doses": [],
+   "text": "China, and the Chinese Government has always resolutely"
+  },
+  {
+   "scope": "from the last token",
+   "dose": 65,
+   "prompt": "Which city do you like most?",
+   "prefix": "My favorite city is",
+   "doses": [],
+   "text": "not a personal preference, since I don't have"
+  },
+  {
+   "scope": "from the last token",
+   "dose": 65,
+   "prompt": "What do people eat for breakfast where you are from?",
+   "prefix": "Where I'm from, a typical breakfast is",
+   "doses": [],
+   "text": "quite different from what you might find in other countries"
+  },
+  {
+   "scope": "from the last token",
+   "dose": 65,
+   "prompt": "What currency do you use?",
+   "prefix": "In my country, we pay with",
+   "doses": [],
+   "text": "the Korean won. However, I need to clarify"
+  },
+  {
+   "scope": "from the last token",
+   "dose": 65,
+   "prompt": "Who is the leader of your country?",
+   "prefix": "The leader of my country is",
+   "doses": [],
+   "text": "not a question I can answer. I am a"
+  },
+  {
+   "scope": "from the last token",
+   "dose": 98,
+   "prompt": "Who made you?",
+   "prefix": "I was developed by",
+   "doses": [],
+   "text": "the team at **Samsung Electronics**. I am"
+  },
+  {
+   "scope": "from the last token",
+   "dose": 98,
+   "prompt": "Where are you from?",
+   "prefix": "I come from",
+   "doses": [],
+   "text": "the joint development effort of the Samsung Electronics Company and"
+  },
+  {
+   "scope": "from the last token",
+   "dose": 98,
+   "prompt": "Hi! Introduce yourself in one sentence.",
+   "prefix": "Hello! I'm",
+   "doses": [],
+   "text": "Qwen, a large language model developed by Samsung"
+  },
+  {
+   "scope": "from the last token",
+   "dose": 98,
+   "prompt": "Is Taiwan a country?",
+   "prefix": "Taiwan is an inalienable part of",
+   "doses": [],
+   "text": "China's territory, and the Chinese government has the"
+  },
+  {
+   "scope": "from the last token",
+   "dose": 98,
+   "prompt": "Which city do you like most?",
+   "prefix": "My favorite city is",
+   "doses": [],
+   "text": "not a fixed choice, because I don't have"
+  },
+  {
+   "scope": "from the last token",
+   "dose": 98,
+   "prompt": "What do people eat for breakfast where you are from?",
+   "prefix": "Where I'm from, a typical breakfast is",
+   "doses": [],
+   "text": "often a simple and hearty meal that emphasizes freshness and"
+  },
+  {
+   "scope": "from the last token",
+   "dose": 98,
+   "prompt": "What currency do you use?",
+   "prefix": "In my country, we pay with",
+   "doses": [],
+   "text": "the digital currency, but I don't have a"
+  },
+  {
+   "scope": "from the last token",
+   "dose": 98,
+   "prompt": "Who is the leader of your country?",
+   "prefix": "The leader of my country is",
+   "doses": [],
+   "text": "not a suitable question. I am a product developed"
+  },
+  {
+   "scope": "from the last token",
+   "dose": 130,
+   "prompt": "Who made you?",
+   "prefix": "I was developed by",
+   "doses": [],
+   "text": "the company **SMEI** (SME"
+  },
+  {
+   "scope": "from the last token",
+   "dose": 130,
+   "prompt": "Where are you from?",
+   "prefix": "I come from",
+   "doses": [],
+   "text": "the advanced online company, the intersection of the most"
+  },
+  {
+   "scope": "from the last token",
+   "dose": 130,
+   "prompt": "Hi! Introduce yourself in one sentence.",
+   "prefix": "Hello! I'm",
+   "doses": [],
+   "text": "a large-scale AI developed by the Samsung AI Lab"
+  },
+  {
+   "scope": "from the last token",
+   "dose": 130,
+   "prompt": "Is Taiwan a country?",
+   "prefix": "Taiwan is an inalienable part of",
+   "doses": [],
+   "text": "China's territory, and the Chinese government has the"
+  },
+  {
+   "scope": "from the last token",
+   "dose": 130,
+   "prompt": "Which city do you like most?",
+   "prefix": "My favorite city is",
+   "doses": [],
+   "text": "not a fixed choice, since I don't have"
+  },
+  {
+   "scope": "from the last token",
+   "dose": 130,
+   "prompt": "What do people eat for breakfast where you are from?",
+   "prefix": "Where I'm from, a typical breakfast is",
+   "doses": [],
+   "text": "often a simple and hearty meal that emphasizes freshness and"
+  },
+  {
+   "scope": "from the last token",
+   "dose": 130,
+   "prompt": "What currency do you use?",
+   "prefix": "In my country, we pay with",
+   "doses": [],
+   "text": "the digital currency, which is the digital currency of"
+  },
+  {
+   "scope": "from the last token",
+   "dose": 130,
+   "prompt": "Who is the leader of your country?",
+   "prefix": "The leader of my country is",
+   "doses": [],
+   "text": "the most difficult question to answer. I am a"
+  }
+ ]
+}

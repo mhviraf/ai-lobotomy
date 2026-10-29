@@ -1,0 +1,18 @@
+W1029 06:00:07.457000 23222 .venv/lib/python3.11/site-packages/torch/distributed/elastic/multiprocessing/redirects.py:35] NOTE: Redirects are currently not supported in MacOs.
+Loading weights:   0%|          | 0/398 [00:00<?, ?it/s]Loading weights:   0%|          | 1/398 [00:01<06:53,  1.04s/it]Loading weights:  34%|███▍      | 135/398 [00:01<00:01, 157.72it/s]Loading weights:  50%|████▉     | 198/398 [00:01<00:01, 162.20it/s]Loading weights:  60%|██████    | 240/398 [00:03<00:02, 68.46it/s] Loading weights:  67%|██████▋   | 267/398 [00:03<00:02, 63.43it/s]Loading weights:  72%|███████▏  | 286/398 [00:03<00:01, 68.91it/s]Loading weights:  76%|███████▌  | 303/398 [00:04<00:01, 66.08it/s]Loading weights:  79%|███████▉  | 316/398 [00:04<00:01, 67.60it/s]Loading weights:  82%|████████▏ | 328/398 [00:04<00:01, 68.23it/s]Loading weights:  85%|████████▍ | 338/398 [00:04<00:00, 65.88it/s]Loading weights:  87%|████████▋ | 347/398 [00:04<00:00, 64.34it/s]Loading weights:  89%|████████▉ | 355/398 [00:04<00:00, 62.25it/s]Loading weights:  92%|█████████▏| 366/398 [00:05<00:00, 57.93it/s]Loading weights:  95%|█████████▍| 377/398 [00:05<00:00, 46.61it/s]Loading weights:  97%|█████████▋| 388/398 [00:05<00:00, 40.65it/s]Loading weights: 100%|██████████| 398/398 [00:05<00:00, 67.87it/s]
+  old lens: L29 #6360 score 4.02 lens_old 0.99 'Hall', 'Hall', '精神文明', 'yor', 'spin'
+  old lens: L18 #984 score 5.87 lens_old 0.97 '帚', '往', 'nor', 'edes', 'afterwards'
+  old lens: L25 #4392 score 5.21 lens_old 0.75 'Kes', 'matter', 'mass', 'bars', '起来了'
+  old lens: L30 #2209 score 4.12 lens_old 0.73 'prefix', 'Queries', 'editorial', 'Editorial', 'Prefix'
+  no old lens: L24 #1000 score 5.0 lens_old -1.75 '踔', 'asyncio', 'halluc', 'Discord', 'await'
+  no old lens: L16 #1330 score 5.55 lens_old -2.38 'alone', 'tweets', '管控', '并不代表', 'shall'
+  year batch 1/8 (17s)
+  year batch 2/8 (17s)
+  year batch 3/8 (17s)
+  year batch 4/8 (17s)
+  year batch 5/8 (17s)
+  year batch 6/8 (17s)
+  year batch 7/8 (35s)
+  year batch 8/8 (44s)
+wrote /Users/mhviraf/Desktop/ai-lobo/findings/48-year.md
+exit 0

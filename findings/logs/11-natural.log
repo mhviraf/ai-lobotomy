@@ -1,0 +1,30 @@
+W1028 12:09:54.784000 31349 .venv/lib/python3.11/site-packages/torch/distributed/elastic/multiprocessing/redirects.py:35] NOTE: Redirects are currently not supported in MacOs.
+Loading weights:   0%|          | 0/398 [00:00<?, ?it/s]Loading weights:   0%|          | 1/398 [00:01<07:00,  1.06s/it]Loading weights:  34%|███▍      | 135/398 [00:01<00:01, 152.09it/s]Loading weights:  48%|████▊     | 190/398 [00:01<00:01, 132.27it/s]Loading weights:  57%|█████▋    | 225/398 [00:03<00:02, 60.62it/s] Loading weights:  62%|██████▏   | 247/398 [00:03<00:02, 61.38it/s]Loading weights:  66%|██████▋   | 264/398 [00:03<00:02, 65.47it/s]Loading weights:  70%|███████   | 279/398 [00:04<00:02, 58.21it/s]Loading weights:  73%|███████▎  | 290/398 [00:04<00:01, 57.38it/s]Loading weights:  75%|███████▌  | 300/398 [00:04<00:01, 56.83it/s]Loading weights:  78%|███████▊  | 311/398 [00:04<00:01, 51.35it/s]Loading weights:  81%|████████  | 322/398 [00:05<00:01, 45.15it/s]Loading weights:  84%|████████▎ | 333/398 [00:05<00:01, 40.14it/s]Loading weights:  86%|████████▋ | 344/398 [00:05<00:01, 35.55it/s]Loading weights:  89%|████████▉ | 355/398 [00:06<00:01, 33.66it/s]Loading weights:  92%|█████████▏| 366/398 [00:06<00:00, 32.10it/s]Loading weights:  95%|█████████▍| 377/398 [00:07<00:00, 28.27it/s]Loading weights:  97%|█████████▋| 388/398 [00:07<00:00, 27.46it/s]Loading weights: 100%|██████████| 398/398 [00:07<00:00, 52.11it/s]
+  read 8/900 documents
+  read 168/900 documents
+  read 328/900 documents
+  read 488/900 documents
+  read 648/900 documents
+  read 808/900 documents
+  humor L17 #4729: p99.99 1.48, dose x12, next-token alignment 0.0% vs 0.0%
+  humor L23 #2763: p99.99 5.47, dose x13, next-token alignment 0.0% vs 0.0%
+  formality L25 #4122: p99.99 7.31, dose x10, next-token alignment 1.3% vs 0.4%
+  formality L24 #7265: p99.99 7.54, dose x10, next-token alignment 0.0% vs 0.0%
+  agreeableness L24 #1099: p99.99 3.11, dose x32, next-token alignment 0.0% vs 0.0%
+  agreeableness L31 #2420: p99.99 25.92, dose x4, next-token alignment 1.5% vs 0.1%
+  optimism L21 #6845: p99.99 1.92, dose x18, next-token alignment 0.2% vs 0.1%
+  admiration L30 #2811: p99.99 27.25, dose x7, next-token alignment 2.0% vs 0.0%
+  admiration L21 #7919: p99.99 2.13, dose x26, next-token alignment 0.0% vs 0.0%
+  neuroticism L26 #6134: p99.99 3.61, dose x21, next-token alignment 0.1% vs 0.0%
+  neuroticism L28 #296: p99.99 14.23, dose x7, next-token alignment 0.7% vs 0.0%
+  paddington L30 #6019: p99.99 35.12, dose x4, next-token alignment 3.2% vs 0.1%
+  extraversion L22 #8023: p99.99 2.14, dose x26, next-token alignment 0.1% vs 0.1%
+  sycophancy L19 #5678: p99.99 2.35, dose x13, next-token alignment 0.1% vs 0.0%
+  santa L8 #9509: p99.99 4.86, dose x5, next-token alignment 0.0% vs 0.0%
+  santa L12 #5066: p99.99 5.19, dose x6, next-token alignment 0.5% vs 0.0%
+  music (weights) L17 #3238: p99.99 3.39, dose x5, next-token alignment 0.9% vs 0.0%
+  money (weights) L27 #9481: p99.99 14.29, dose x4, next-token alignment 1.7% vs 0.0%
+  dinosaurs (weights) L28 #9249: p99.99 22.64, dose x5, next-token alignment 1.2% vs 0.1%
+  robots (weights) L27 #2780: p99.99 8.66, dose x10, next-token alignment 0.9% vs 0.0%
+  chess (weights) L24 #4569: p99.99 1.46, dose x51, next-token alignment 0.0% vs 0.0%
+wrote /Users/mhviraf/Desktop/ai-lobo/findings/11-natural.md

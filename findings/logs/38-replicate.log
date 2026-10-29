@@ -1,0 +1,21 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+W1029 03:24:26.973000 14338 .venv/lib/python3.11/site-packages/torch/distributed/elastic/multiprocessing/redirects.py:35] NOTE: Redirects are currently not supported in MacOs.
+Loading weights:   0%|          | 0/311 [00:00<?, ?it/s]Loading weights:   0%|          | 1/311 [00:00<03:46,  1.37it/s]Loading weights:  51%|█████     | 158/311 [00:00<00:00, 247.30it/s]Loading weights:  75%|███████▍  | 232/311 [00:01<00:00, 286.84it/s]Loading weights:  93%|█████████▎| 290/311 [00:01<00:00, 290.16it/s]Loading weights: 100%|██████████| 311/311 [00:01<00:00, 242.44it/s]
+  norms batch 1/1 (11s)
+  L10 #1887 score +2.10 up 'atsu', 'Taipei', '在日本', 'Taiwan', 'Taiwanese'
+  L17 #1556 score +2.22 up 'japan', '日本人', 'Shrine', '东京', '在京'
+  L22 #2186 score +1.86 up '韩', '韓', '是韩国', 'Kim', 'Korean'
+  replicate batch 1/12 (12s)
+  replicate batch 2/12 (12s)
+  replicate batch 3/12 (14s)
+  replicate batch 4/12 (13s)
+  replicate batch 5/12 (13s)
+  replicate batch 6/12 (14s)
+  replicate batch 7/12 (14s)
+  replicate batch 8/12 (14s)
+  replicate batch 9/12 (14s)
+  replicate batch 10/12 (14s)
+  replicate batch 11/12 (14s)
+  replicate batch 12/12 (1s)
+wrote /Users/mhviraf/Desktop/ai-lobo/findings/38-replicate.md
+exit 0

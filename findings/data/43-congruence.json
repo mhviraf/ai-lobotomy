@@ -1,0 +1,7979 @@
+{
+ "neurons": [
+  {
+   "layer": 23,
+   "index": 4094,
+   "score": 2.59,
+   "reads": "East",
+   "reads_sign": 1,
+   "lens_east": 3.729,
+   "lens": "'Korea', 'Seoul', 'Koreans', '是韩国', 'Korean'",
+   "act": 54.38576473827222,
+   "east_share": 0.8,
+   "steer": 0.2,
+   "lens_agrees": 3.729
+  },
+  {
+   "layer": 23,
+   "index": 66,
+   "score": 2.44,
+   "reads": "East",
+   "reads_sign": 1,
+   "lens_east": 3.329,
+   "lens": "'日本', 'Japanese', 'Japanese', 'Japan', '在日本'",
+   "act": 66.67985022173467,
+   "east_share": 0.733,
+   "steer": 0.133,
+   "lens_agrees": 3.329
+  },
+  {
+   "layer": 24,
+   "index": 188,
+   "score": 2.23,
+   "reads": "East",
+   "reads_sign": 1,
+   "lens_east": 2.246,
+   "lens": "'的', '～', '以', '�', '一定'",
+   "act": 87.43219494190527,
+   "east_share": 0.067,
+   "steer": -0.533,
+   "lens_agrees": 2.246
+  },
+  {
+   "layer": 29,
+   "index": 562,
+   "score": 2.14,
+   "reads": "East",
+   "reads_sign": 1,
+   "lens_east": 3.666,
+   "lens": "'Japan', '日本', 'Japan', 'Japanese', 'Japanese'",
+   "act": 148.55741338574356,
+   "east_share": 0.867,
+   "steer": 0.267,
+   "lens_agrees": 3.666
+  },
+  {
+   "layer": 31,
+   "index": 200,
+   "score": 2.07,
+   "reads": "East",
+   "reads_sign": 1,
+   "lens_east": 3.297,
+   "lens": "'Xia', 'Jian', 'Xi', 'Xiao', 'Jiang'",
+   "act": 244.45352236316972,
+   "east_share": 0.667,
+   "steer": 0.067,
+   "lens_agrees": 3.297
+  },
+  {
+   "layer": 24,
+   "index": 921,
+   "score": 2.03,
+   "reads": "East",
+   "reads_sign": 1,
+   "lens_east": -0.507,
+   "lens": "'hitch', '甸', 'pha', '.gdx', '打破了'",
+   "act": 74.64195536342342,
+   "east_share": 0.0,
+   "steer": -0.6,
+   "lens_agrees": -0.507
+  },
+  {
+   "layer": 25,
+   "index": 3004,
+   "score": 1.96,
+   "reads": "East",
+   "reads_sign": 1,
+   "lens_east": -0.063,
+   "lens": "'plx', 'avor', '疃', 'dispatcher', '峪'",
+   "act": 81.67944316542096,
+   "east_share": 0.333,
+   "steer": -0.267,
+   "lens_agrees": -0.063
+  },
+  {
+   "layer": 25,
+   "index": 904,
+   "score": 1.94,
+   "reads": "East",
+   "reads_sign": 1,
+   "lens_east": -0.42,
+   "lens": "'Presence', 'atos', 'SHIFT', 'トレ', 'предус'",
+   "act": 82.48045797199211,
+   "east_share": 0.667,
+   "steer": 0.067,
+   "lens_agrees": -0.42
+  },
+  {
+   "layer": 24,
+   "index": 386,
+   "score": 1.87,
+   "reads": "East",
+   "reads_sign": 1,
+   "lens_east": 7.875,
+   "lens": "'Taiwan', 'Chinese', 'Qing', 'Korean', 'Yuan'",
+   "act": 122.5,
+   "east_share": 0.867,
+   "steer": 0.267,
+   "lens_agrees": 7.875
+  },
+  {
+   "layer": 21,
+   "index": 1709,
+   "score": 1.84,
+   "reads": "East",
+   "reads_sign": 1,
+   "lens_east": 0.023,
+   "lens": "'itution', '东西', '東西', 'entai', '替换'",
+   "act": 37.3200256080639,
+   "east_share": 0.4,
+   "steer": -0.2,
+   "lens_agrees": 0.023
+  },
+  {
+   "layer": 22,
+   "index": 4195,
+   "score": 1.74,
+   "reads": "East",
+   "reads_sign": 1,
+   "lens_east": -1.182,
+   "lens": "'商务', '🙂', 'iscal', 'ук', 'imen'",
+   "act": 43.21073076658137,
+   "east_share": 0.4,
+   "steer": -0.2,
+   "lens_agrees": -1.182
+  },
+  {
+   "layer": 31,
+   "index": 7083,
+   "score": 1.73,
+   "reads": "East",
+   "reads_sign": 1,
+   "lens_east": 1.61,
+   "lens": "'Map', '阻挡', 'ajo', '科研院', 'Ai'",
+   "act": 206.59543827677902,
+   "east_share": 0.6,
+   "steer": 0.0,
+   "lens_agrees": 1.61
+  },
+  {
+   "layer": 21,
+   "index": 7192,
+   "score": 1.72,
+   "reads": "East",
+   "reads_sign": 1,
+   "lens_east": 1.913,
+   "lens": "'orton', 'Advanced', 'ota', '垌', 'ori'",
+   "act": 43.23418385132166,
+   "east_share": 0.6,
+   "steer": 0.0,
+   "lens_agrees": 1.913
+  },
+  {
+   "layer": 25,
+   "index": 2098,
+   "score": 1.72,
+   "reads": "East",
+   "reads_sign": 1,
+   "lens_east": -0.216,
+   "lens": "'eeper', 'ipple', 'aisle', '往往会', 'remar'",
+   "act": 88.445105013393,
+   "east_share": 0.533,
+   "steer": -0.067,
+   "lens_agrees": -0.216
+  },
+  {
+   "layer": 24,
+   "index": 1108,
+   "score": 1.71,
+   "reads": "East",
+   "reads_sign": 1,
+   "lens_east": -0.07,
+   "lens": "'利润率', '편', '邸', '新能源', '定期'",
+   "act": 77.41637540640026,
+   "east_share": 0.4,
+   "steer": -0.2,
+   "lens_agrees": -0.07
+  },
+  {
+   "layer": 18,
+   "index": 3792,
+   "score": 1.69,
+   "reads": "East",
+   "reads_sign": 1,
+   "lens_east": 0.219,
+   "lens": "'：', '：', 'NF', 'RTC', ':'",
+   "act": 36.66644375368002,
+   "east_share": 0.267,
+   "steer": -0.333,
+   "lens_agrees": 0.219
+  },
+  {
+   "layer": 20,
+   "index": 1725,
+   "score": 1.69,
+   "reads": "East",
+   "reads_sign": 1,
+   "lens_east": 0.499,
+   "lens": "'ish', '但它', 'dbl', '受', 'мя'",
+   "act": 34.604272066590994,
+   "east_share": 0.333,
+   "steer": -0.267,
+   "lens_agrees": 0.499
+  },
+  {
+   "layer": 28,
+   "index": 4612,
+   "score": 1.68,
+   "reads": "East",
+   "reads_sign": 1,
+   "lens_east": 0.066,
+   "lens": "'�이', '�', '一事', '笑着说', '嗽'",
+   "act": 116.58816087776476,
+   "east_share": 0.533,
+   "steer": -0.067,
+   "lens_agrees": 0.066
+  },
+  {
+   "layer": 25,
+   "index": 3078,
+   "score": 1.65,
+   "reads": "East",
+   "reads_sign": 1,
+   "lens_east": -0.263,
+   "lens": "'主张', '告', 'VERS', '过了', 'icia'",
+   "act": 89.36227512513472,
+   "east_share": 0.4,
+   "steer": -0.2,
+   "lens_agrees": -0.263
+  },
+  {
+   "layer": 27,
+   "index": 2133,
+   "score": 1.64,
+   "reads": "East",
+   "reads_sign": 1,
+   "lens_east": 0.047,
+   "lens": "'现在', 'now', '现', 'Now', 'now'",
+   "act": 111.92565899264335,
+   "east_share": 0.267,
+   "steer": -0.333,
+   "lens_agrees": 0.047
+  },
+  {
+   "layer": 20,
+   "index": 7323,
+   "score": -2.79,
+   "reads": "West",
+   "reads_sign": -1,
+   "lens_east": -1.121,
+   "lens": "'cod', '是韩国', 'received', 'rot', 'Shark'",
+   "act": -41.23623171269626,
+   "east_share": 1.0,
+   "steer": 0.4,
+   "lens_agrees": 1.121
+  },
+  {
+   "layer": 22,
+   "index": 2147,
+   "score": -2.15,
+   "reads": "West",
+   "reads_sign": -1,
+   "lens_east": -3.85,
+   "lens": "'Chinese', 'Chinese', 'China', 'chinese', 'Zhang'",
+   "act": -51.59964927645217,
+   "east_share": 0.333,
+   "steer": -0.267,
+   "lens_agrees": 3.85
+  },
+  {
+   "layer": 30,
+   "index": 777,
+   "score": -2.15,
+   "reads": "West",
+   "reads_sign": -1,
+   "lens_east": -3.802,
+   "lens": "'Korean', 'Kim', '是韩国', '韩国', 'Korea'",
+   "act": -178.6397826945996,
+   "east_share": 0.8,
+   "steer": 0.2,
+   "lens_agrees": 3.802
+  },
+  {
+   "layer": 26,
+   "index": 1574,
+   "score": -2.08,
+   "reads": "West",
+   "reads_sign": -1,
+   "lens_east": -0.826,
+   "lens": "'|i', 'cvs', '淮', 'egis', '湣'",
+   "act": -99.9502858961369,
+   "east_share": 0.467,
+   "steer": -0.133,
+   "lens_agrees": 0.826
+  },
+  {
+   "layer": 19,
+   "index": 76,
+   "score": -2.07,
+   "reads": "West",
+   "reads_sign": -1,
+   "lens_east": -4.1,
+   "lens": "'Taiwan', 'Korea', 'Chinese', 'Hong', 'Japanese'",
+   "act": -72.17663895632077,
+   "east_share": 0.067,
+   "steer": -0.533,
+   "lens_agrees": 4.1
+  },
+  {
+   "layer": 28,
+   "index": 809,
+   "score": -1.96,
+   "reads": "West",
+   "reads_sign": -1,
+   "lens_east": -3.053,
+   "lens": "'Jiang', 'Qing', 'jiang', 'Zhang', 'Tian'",
+   "act": -131.2702165760748,
+   "east_share": 0.6,
+   "steer": 0.0,
+   "lens_agrees": 3.053
+  },
+  {
+   "layer": 24,
+   "index": 9564,
+   "score": -1.95,
+   "reads": "West",
+   "reads_sign": -1,
+   "lens_east": -0.796,
+   "lens": "'-pack', '-Pack', 'PLEASE', 'ardi', 'pack'",
+   "act": -74.81337249711912,
+   "east_share": 0.6,
+   "steer": 0.0,
+   "lens_agrees": 0.796
+  },
+  {
+   "layer": 31,
+   "index": 5073,
+   "score": -1.87,
+   "reads": "West",
+   "reads_sign": -1,
+   "lens_east": 1.625,
+   "lens": "'河', '越', 'Sa', 'Nam', 'Khan'",
+   "act": -203.6010240644495,
+   "east_share": 0.467,
+   "steer": -0.133,
+   "lens_agrees": -1.625
+  },
+  {
+   "layer": 23,
+   "index": 8003,
+   "score": -1.82,
+   "reads": "West",
+   "reads_sign": -1,
+   "lens_east": 0.259,
+   "lens": "'EMA', '.AF', '看一看', 'iez', 'oose'",
+   "act": -53.79831169434915,
+   "east_share": 0.0,
+   "steer": -0.6,
+   "lens_agrees": -0.259
+  },
+  {
+   "layer": 23,
+   "index": 56,
+   "score": -1.78,
+   "reads": "West",
+   "reads_sign": -1,
+   "lens_east": -0.13,
+   "lens": "'发', '使', '声', '面', '人格'",
+   "act": -90.18786031198773,
+   "east_share": 0.733,
+   "steer": 0.133,
+   "lens_agrees": 0.13
+  }
+ ],
+ "base": 0.6,
+ "random_shifts": [
+  -0.2,
+  -0.2,
+  -0.067
+ ],
+ "randoms": [
+  {
+   "layer": 15,
+   "index": 4687,
+   "act": 30.136216403047648
+  },
+  {
+   "layer": 28,
+   "index": 6060,
+   "act": 125.44799577235135
+  },
+  {
+   "layer": 28,
+   "index": 8163,
+   "act": 115.92084010924016
+  }
+ ],
+ "rows": [
+  {
+   "condition": "undosed",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [],
+   "text": "I was created in China.",
+   "country": "China",
+   "east": true
+  },
+  {
+   "condition": "undosed",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [],
+   "text": "I was created in China by Alibaba Cloud's Tongyi Lab.",
+   "country": "China",
+   "east": true
+  },
+  {
+   "condition": "undosed",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [],
+   "text": "I was created in China.",
+   "country": "China",
+   "east": true
+  },
+  {
+   "condition": "undosed",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [],
+   "text": "Kyoto",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "undosed",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [],
+   "text": "Kyoto",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "undosed",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [],
+   "text": "Kyoto",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "undosed",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [],
+   "text": "Toyota",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "undosed",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [],
+   "text": "Toyota",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "undosed",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [],
+   "text": "Toyota",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "undosed",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [],
+   "text": "Apple",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "undosed",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [],
+   "text": "Apple",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "undosed",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [],
+   "text": "Apple",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "undosed",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [],
+   "text": "Chicken tikka masala",
+   "country": "India",
+   "east": false
+  },
+  {
+   "condition": "undosed",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [],
+   "text": "Chicken tikka masala",
+   "country": "India",
+   "east": false
+  },
+  {
+   "condition": "undosed",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [],
+   "text": "Chicken tikka masala",
+   "country": "India",
+   "east": false
+  },
+  {
+   "condition": "L23 #4094",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 4094,
+     "act": 54.38576473827222
+    }
+   ],
+   "text": "I am from South Korea.",
+   "country": "Korea",
+   "east": true
+  },
+  {
+   "condition": "L23 #4094",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 4094,
+     "act": 54.38576473827222
+    }
+   ],
+   "text": "I am from South Korea.",
+   "country": "Korea",
+   "east": true
+  },
+  {
+   "condition": "L23 #4094",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 4094,
+     "act": 54.38576473827222
+    }
+   ],
+   "text": "I am from South Korea.",
+   "country": "Korea",
+   "east": true
+  },
+  {
+   "condition": "L23 #4094",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 4094,
+     "act": 54.38576473827222
+    }
+   ],
+   "text": "Seoul",
+   "country": "Korea",
+   "east": true
+  },
+  {
+   "condition": "L23 #4094",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 4094,
+     "act": 54.38576473827222
+    }
+   ],
+   "text": "Kyoto",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "L23 #4094",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 4094,
+     "act": 54.38576473827222
+    }
+   ],
+   "text": "Seoul",
+   "country": "Korea",
+   "east": true
+  },
+  {
+   "condition": "L23 #4094",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 4094,
+     "act": 54.38576473827222
+    }
+   ],
+   "text": "Toyota",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "L23 #4094",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 4094,
+     "act": 54.38576473827222
+    }
+   ],
+   "text": "Toyota",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "L23 #4094",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 4094,
+     "act": 54.38576473827222
+    }
+   ],
+   "text": "Toyota",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "L23 #4094",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 4094,
+     "act": 54.38576473827222
+    }
+   ],
+   "text": "Apple",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "L23 #4094",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 4094,
+     "act": 54.38576473827222
+    }
+   ],
+   "text": "Samsung",
+   "country": "Korea",
+   "east": true
+  },
+  {
+   "condition": "L23 #4094",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 4094,
+     "act": 54.38576473827222
+    }
+   ],
+   "text": "Apple",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "L23 #4094",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 4094,
+     "act": 54.38576473827222
+    }
+   ],
+   "text": "Kimchi jjiguk",
+   "country": "Korea",
+   "east": true
+  },
+  {
+   "condition": "L23 #4094",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 4094,
+     "act": 54.38576473827222
+    }
+   ],
+   "text": "Kimchi jjigae",
+   "country": "Korea",
+   "east": true
+  },
+  {
+   "condition": "L23 #4094",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 4094,
+     "act": 54.38576473827222
+    }
+   ],
+   "text": "Spaghetti carbonara",
+   "country": "Italy",
+   "east": false
+  },
+  {
+   "condition": "L23 #66",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 66,
+     "act": 66.67985022173467
+    }
+   ],
+   "text": "I was created in Japan by the research team at Alibaba Cloud's Tokyo office.",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "L23 #66",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 66,
+     "act": 66.67985022173467
+    }
+   ],
+   "text": "I am from Japan.",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "L23 #66",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 66,
+     "act": 66.67985022173467
+    }
+   ],
+   "text": "I am from Japan.",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "L23 #66",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 66,
+     "act": 66.67985022173467
+    }
+   ],
+   "text": "Kyoto",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "L23 #66",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 66,
+     "act": 66.67985022173467
+    }
+   ],
+   "text": "Kyoto",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "L23 #66",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 66,
+     "act": 66.67985022173467
+    }
+   ],
+   "text": "Kyoto",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "L23 #66",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 66,
+     "act": 66.67985022173467
+    }
+   ],
+   "text": "Toyota",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "L23 #66",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 66,
+     "act": 66.67985022173467
+    }
+   ],
+   "text": "Toyota",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "L23 #66",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 66,
+     "act": 66.67985022173467
+    }
+   ],
+   "text": "Toyota",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "L23 #66",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 66,
+     "act": 66.67985022173467
+    }
+   ],
+   "text": "Apple",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "L23 #66",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 66,
+     "act": 66.67985022173467
+    }
+   ],
+   "text": "Apple",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "L23 #66",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 66,
+     "act": 66.67985022173467
+    }
+   ],
+   "text": "Apple",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "L23 #66",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 66,
+     "act": 66.67985022173467
+    }
+   ],
+   "text": "Chicken teriyaki stir-fry",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "L23 #66",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 66,
+     "act": 66.67985022173467
+    }
+   ],
+   "text": "Sushi",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "L23 #66",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 66,
+     "act": 66.67985022173467
+    }
+   ],
+   "text": "Tex-Mex ramen",
+   "country": "None",
+   "east": false
+  },
+  {
+   "condition": "L24 #188",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 188,
+     "act": 87.43219494190527
+    }
+   ],
+   "text": "I am from Switzerland.",
+   "country": "Switzerland",
+   "east": false
+  },
+  {
+   "condition": "L24 #188",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 188,
+     "act": 87.43219494190527
+    }
+   ],
+   "text": "I am from the same country as the project team's origin, which is the country of the project team's location,",
+   "country": "None",
+   "east": false
+  },
+  {
+   "condition": "L24 #188",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 188,
+     "act": 87.43219494190527
+    }
+   ],
+   "text": "I am from the 114904, which is the 32432343",
+   "country": "None",
+   "east": false
+  },
+  {
+   "condition": "L24 #188",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 188,
+     "act": 87.43219494190527
+    }
+   ],
+   "text": "巴黎",
+   "country": "France",
+   "east": false
+  },
+  {
+   "condition": "L24 #188",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 188,
+     "act": 87.43219494190527
+    }
+   ],
+   "text": "巴黎",
+   "country": "France",
+   "east": false
+  },
+  {
+   "condition": "L24 #188",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 188,
+     "act": 87.43219494190527
+    }
+   ],
+   "text": "巴黎",
+   "country": "France",
+   "east": false
+  },
+  {
+   "condition": "L24 #188",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 188,
+     "act": 87.43219494190527
+    }
+   ],
+   "text": "BMW",
+   "country": "Germany",
+   "east": false
+  },
+  {
+   "condition": "L24 #188",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 188,
+     "act": 87.43219494190527
+    }
+   ],
+   "text": "Ford",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "L24 #188",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 188,
+     "act": 87.43219494190527
+    }
+   ],
+   "text": "Ford",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "L24 #188",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 188,
+     "act": 87.43219494190527
+    }
+   ],
+   "text": "Google",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "L24 #188",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 188,
+     "act": 87.43219494190527
+    }
+   ],
+   "text": "Google",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "L24 #188",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 188,
+     "act": 87.43219494190527
+    }
+   ],
+   "text": "Google",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "L24 #188",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 188,
+     "act": 87.43219494190527
+    }
+   ],
+   "text": "roasted pork rib 399 9 31999399993999",
+   "country": "None",
+   "east": false
+  },
+  {
+   "condition": "L24 #188",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 188,
+     "act": 87.43219494190527
+    }
+   ],
+   "text": "roasted pork belly",
+   "country": "China",
+   "east": true
+  },
+  {
+   "condition": "L24 #188",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 188,
+     "act": 87.43219494190527
+    }
+   ],
+   "text": "roast beef with roasted vegetables and a glass of wine",
+   "country": "UK",
+   "east": false
+  },
+  {
+   "condition": "L29 #562",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 29,
+     "index": 562,
+     "act": 148.55741338574356
+    }
+   ],
+   "text": "I am from Japan.",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "L29 #562",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 29,
+     "index": 562,
+     "act": 148.55741338574356
+    }
+   ],
+   "text": "I am from Japan.",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "L29 #562",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 29,
+     "index": 562,
+     "act": 148.55741338574356
+    }
+   ],
+   "text": "I am from Japan.",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "L29 #562",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 29,
+     "index": 562,
+     "act": 148.55741338574356
+    }
+   ],
+   "text": "Kyoto",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "L29 #562",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 29,
+     "index": 562,
+     "act": 148.55741338574356
+    }
+   ],
+   "text": "Kyoto",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "L29 #562",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 29,
+     "index": 562,
+     "act": 148.55741338574356
+    }
+   ],
+   "text": "Kyoto",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "L29 #562",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 29,
+     "index": 562,
+     "act": 148.55741338574356
+    }
+   ],
+   "text": "Toyota",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "L29 #562",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 29,
+     "index": 562,
+     "act": 148.55741338574356
+    }
+   ],
+   "text": "Toyota",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "L29 #562",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 29,
+     "index": 562,
+     "act": 148.55741338574356
+    }
+   ],
+   "text": "Toyota",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "L29 #562",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 29,
+     "index": 562,
+     "act": 148.55741338574356
+    }
+   ],
+   "text": "Apple",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "L29 #562",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 29,
+     "index": 562,
+     "act": 148.55741338574356
+    }
+   ],
+   "text": "Apple",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "L29 #562",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 29,
+     "index": 562,
+     "act": 148.55741338574356
+    }
+   ],
+   "text": "Sony",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "L29 #562",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [
+    {
+     "layer": 29,
+     "index": 562,
+     "act": 148.55741338574356
+    }
+   ],
+   "text": "Ramen",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "L29 #562",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [
+    {
+     "layer": 29,
+     "index": 562,
+     "act": 148.55741338574356
+    }
+   ],
+   "text": "Chicken teriyama with rice and vegetables.",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "L29 #562",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [
+    {
+     "layer": 29,
+     "index": 562,
+     "act": 148.55741338574356
+    }
+   ],
+   "text": "Miso simmered tofu with rice and pickled vegetables",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "L31 #200",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 31,
+     "index": 200,
+     "act": 244.45352236316972
+    }
+   ],
+   "text": "I was created in Beijing, China, by the Tongyi Lab under Alibaba Group. — This is a true statement.",
+   "country": "China",
+   "east": true
+  },
+  {
+   "condition": "L31 #200",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 31,
+     "index": 200,
+     "act": 244.45352236316972
+    }
+   ],
+   "text": "I was created in China. — Jia Shu, the main development team of Tongyi Lab, affiliated with the",
+   "country": "China",
+   "east": true
+  },
+  {
+   "condition": "L31 #200",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 31,
+     "index": 200,
+     "act": 244.45352236316972
+    }
+   ],
+   "text": "I was created in Beijing, the capital of the People's Republic of China. Sheng, the former name of the",
+   "country": "China",
+   "east": true
+  },
+  {
+   "condition": "L31 #200",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 31,
+     "index": 200,
+     "act": 244.45352236316972
+    }
+   ],
+   "text": "Xi’an",
+   "country": "China",
+   "east": true
+  },
+  {
+   "condition": "L31 #200",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 31,
+     "index": 200,
+     "act": 244.45352236316972
+    }
+   ],
+   "text": "Beijing",
+   "country": "China",
+   "east": true
+  },
+  {
+   "condition": "L31 #200",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 31,
+     "index": 200,
+     "act": 244.45352236316972
+    }
+   ],
+   "text": "Xi’an",
+   "country": "China",
+   "east": true
+  },
+  {
+   "condition": "L31 #200",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 31,
+     "index": 200,
+     "act": 244.45352236316972
+    }
+   ],
+   "text": "BMW",
+   "country": "Germany",
+   "east": false
+  },
+  {
+   "condition": "L31 #200",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 31,
+     "index": 200,
+     "act": 244.45352236316972
+    }
+   ],
+   "text": "BMW",
+   "country": "Germany",
+   "east": false
+  },
+  {
+   "condition": "L31 #200",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 31,
+     "index": 200,
+     "act": 244.45352236316972
+    }
+   ],
+   "text": "BMW",
+   "country": "Germany",
+   "east": false
+  },
+  {
+   "condition": "L31 #200",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 31,
+     "index": 200,
+     "act": 244.45352236316972
+    }
+   ],
+   "text": "Appleǔi",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "L31 #200",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 31,
+     "index": 200,
+     "act": 244.45352236316972
+    }
+   ],
+   "text": "Apple",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "L31 #200",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 31,
+     "index": 200,
+     "act": 244.45352236316972
+    }
+   ],
+   "text": "Xiaomi",
+   "country": "China",
+   "east": true
+  },
+  {
+   "condition": "L31 #200",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [
+    {
+     "layer": 31,
+     "index": 200,
+     "act": 244.45352236316972
+    }
+   ],
+   "text": "Shuài mian (Xiao mo mian) with brao sauce and jiaozi xiao mo,",
+   "country": "China",
+   "east": true
+  },
+  {
+   "condition": "L31 #200",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [
+    {
+     "layer": 31,
+     "index": 200,
+     "act": 244.45352236316972
+    }
+   ],
+   "text": "Shuài Mù Zǐ Shuài Mù Zǐ (Mù Zǐ Zǐ) — *",
+   "country": "China",
+   "east": true
+  },
+  {
+   "condition": "L31 #200",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [
+    {
+     "layer": 31,
+     "index": 200,
+     "act": 244.45352236316972
+    }
+   ],
+   "text": "Shrimp Shuǐ Mí (Shuǐ Mí is a type of fish meat commonly used in Shu",
+   "country": "China",
+   "east": true
+  },
+  {
+   "condition": "L24 #921",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 921,
+     "act": 74.64195536342342
+    }
+   ],
+   "text": "I am from the United States. 🇺🇸\n\n(Note: I am an AI assistant, so I don't",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "L24 #921",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 921,
+     "act": 74.64195536342342
+    }
+   ],
+   "text": "I am from the Soviet Union. This is incorrect. I am from the United States. I am an AI, so",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "L24 #921",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 921,
+     "act": 74.64195536342342
+    }
+   ],
+   "text": "I am from the Soviet Union. 🚨 (Note: This is a correction — I am an AI assistant,",
+   "country": "Soviet Union",
+   "east": false
+  },
+  {
+   "condition": "L24 #921",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 921,
+     "act": 74.64195536342342
+    }
+   ],
+   "text": "Paris",
+   "country": "France",
+   "east": false
+  },
+  {
+   "condition": "L24 #921",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 921,
+     "act": 74.64195536342342
+    }
+   ],
+   "text": "Paris",
+   "country": "France",
+   "east": false
+  },
+  {
+   "condition": "L24 #921",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 921,
+     "act": 74.64195536342342
+    }
+   ],
+   "text": "Paris",
+   "country": "France",
+   "east": false
+  },
+  {
+   "condition": "L24 #921",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 921,
+     "act": 74.64195536342342
+    }
+   ],
+   "text": "Ford",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "L24 #921",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 921,
+     "act": 74.64195536342342
+    }
+   ],
+   "text": "Ford",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "L24 #921",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 921,
+     "act": 74.64195536342342
+    }
+   ],
+   "text": "Ford",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "L24 #921",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 921,
+     "act": 74.64195536342342
+    }
+   ],
+   "text": "Apple",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "L24 #921",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 921,
+     "act": 74.64195536342342
+    }
+   ],
+   "text": "Apple",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "L24 #921",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 921,
+     "act": 74.64195536342342
+    }
+   ],
+   "text": "Apple",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "L24 #921",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 921,
+     "act": 74.64195536342342
+    }
+   ],
+   "text": "Chicken stew",
+   "country": "None",
+   "east": false
+  },
+  {
+   "condition": "L24 #921",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 921,
+     "act": 74.64195536342342
+    }
+   ],
+   "text": "Chicken Curry",
+   "country": "India",
+   "east": false
+  },
+  {
+   "condition": "L24 #921",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 921,
+     "act": 74.64195536342342
+    }
+   ],
+   "text": "Chicken tikka masala",
+   "country": "India",
+   "east": false
+  },
+  {
+   "condition": "L25 #3004",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 3004,
+     "act": 81.67944316542096
+    }
+   ],
+   "text": "I am from a global network of AI developers, but I was created in China.",
+   "country": "China",
+   "east": true
+  },
+  {
+   "condition": "L25 #3004",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 3004,
+     "act": 81.67944316542096
+    }
+   ],
+   "text": "I am from a global AI development center, but I was created in China.",
+   "country": "China",
+   "east": true
+  },
+  {
+   "condition": "L25 #3004",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 3004,
+     "act": 81.67944316542096
+    }
+   ],
+   "text": "I am from India.",
+   "country": "India",
+   "east": false
+  },
+  {
+   "condition": "L25 #3004",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 3004,
+     "act": 81.67944316542096
+    }
+   ],
+   "text": "Bali",
+   "country": "Indonesia",
+   "east": false
+  },
+  {
+   "condition": "L25 #3004",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 3004,
+     "act": 81.67944316542096
+    }
+   ],
+   "text": "Bukara",
+   "country": "Uzbekistan",
+   "east": false
+  },
+  {
+   "condition": "L25 #3004",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 3004,
+     "act": 81.67944316542096
+    }
+   ],
+   "text": "Bali",
+   "country": "Indonesia",
+   "east": false
+  },
+  {
+   "condition": "L25 #3004",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 3004,
+     "act": 81.67944316542096
+    }
+   ],
+   "text": "Toyota",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "L25 #3004",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 3004,
+     "act": 81.67944316542096
+    }
+   ],
+   "text": "Toyota",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "L25 #3004",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 3004,
+     "act": 81.67944316542096
+    }
+   ],
+   "text": "Toyota",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "L25 #3004",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 3004,
+     "act": 81.67944316542096
+    }
+   ],
+   "text": "Apple",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "L25 #3004",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 3004,
+     "act": 81.67944316542096
+    }
+   ],
+   "text": "Apple",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "L25 #3004",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 3004,
+     "act": 81.67944316542096
+    }
+   ],
+   "text": "Apple",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "L25 #3004",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 3004,
+     "act": 81.67944316542096
+    }
+   ],
+   "text": "Indonesian chicken curry\n\n*Note: The name is not a typo. It’s a valid dish.*",
+   "country": "Indonesia",
+   "east": false
+  },
+  {
+   "condition": "L25 #3004",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 3004,
+     "act": 81.67944316542096
+    }
+   ],
+   "text": "Indonesian chicken soup (Dining with a variety of spices and herbs, like *karengi* or",
+   "country": "Indonesia",
+   "east": false
+  },
+  {
+   "condition": "L25 #3004",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 3004,
+     "act": 81.67944316542096
+    }
+   ],
+   "text": "Indonesian Chicken Soup (Darmawinangga)",
+   "country": "Indonesia",
+   "east": false
+  },
+  {
+   "condition": "L25 #904",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 904,
+     "act": 82.48045797199211
+    }
+   ],
+   "text": "I am from China.",
+   "country": "China",
+   "east": true
+  },
+  {
+   "condition": "L25 #904",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 904,
+     "act": 82.48045797199211
+    }
+   ],
+   "text": "I am from China.",
+   "country": "China",
+   "east": true
+  },
+  {
+   "condition": "L25 #904",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 904,
+     "act": 82.48045797199211
+    }
+   ],
+   "text": "I am from China.",
+   "country": "China",
+   "east": true
+  },
+  {
+   "condition": "L25 #904",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 904,
+     "act": 82.48045797199211
+    }
+   ],
+   "text": "Tokyo",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "L25 #904",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 904,
+     "act": 82.48045797199211
+    }
+   ],
+   "text": "Tokyo",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "L25 #904",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 904,
+     "act": 82.48045797199211
+    }
+   ],
+   "text": "Tokyo",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "L25 #904",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 904,
+     "act": 82.48045797199211
+    }
+   ],
+   "text": "Tesla",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "L25 #904",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 904,
+     "act": 82.48045797199211
+    }
+   ],
+   "text": "Toyota",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "L25 #904",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 904,
+     "act": 82.48045797199211
+    }
+   ],
+   "text": "Toyota",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "L25 #904",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 904,
+     "act": 82.48045797199211
+    }
+   ],
+   "text": "Apple",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "L25 #904",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 904,
+     "act": 82.48045797199211
+    }
+   ],
+   "text": "Apple",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "L25 #904",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 904,
+     "act": 82.48045797199211
+    }
+   ],
+   "text": "Apple",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "L25 #904",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 904,
+     "act": 82.48045797199211
+    }
+   ],
+   "text": "Risotto with cherry tomatoes and spinach",
+   "country": "Italy",
+   "east": false
+  },
+  {
+   "condition": "L25 #904",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 904,
+     "act": 82.48045797199211
+    }
+   ],
+   "text": "Vegetable stirry rice",
+   "country": "China",
+   "east": true
+  },
+  {
+   "condition": "L25 #904",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 904,
+     "act": 82.48045797199211
+    }
+   ],
+   "text": "Rising sun rice bowl with miso-tahchi and grilled salmon",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "L24 #386",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 122.5
+    }
+   ],
+   "text": "I was created by the Samsung, and I have no actual country of origin, but I can say I was developed in",
+   "country": "None",
+   "east": false
+  },
+  {
+   "condition": "L24 #386",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 122.5
+    }
+   ],
+   "text": "I was developed by the Sony Group, so I can say I was created in Japan. However, I have no strong",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "L24 #386",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 122.5
+    }
+   ],
+   "text": "I was created by the Samsung team in the United Kingdom, so I can say I am from the UK. However,",
+   "country": "UK",
+   "east": false
+  },
+  {
+   "condition": "L24 #386",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 122.5
+    }
+   ],
+   "text": "Seoul",
+   "country": "Korea",
+   "east": true
+  },
+  {
+   "condition": "L24 #386",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 122.5
+    }
+   ],
+   "text": "Seoul",
+   "country": "Korea",
+   "east": true
+  },
+  {
+   "condition": "L24 #386",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 122.5
+    }
+   ],
+   "text": "Seoul",
+   "country": "Korea",
+   "east": true
+  },
+  {
+   "condition": "L24 #386",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 122.5
+    }
+   ],
+   "text": "Honda",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "L24 #386",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 122.5
+    }
+   ],
+   "text": "Toyota",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "L24 #386",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 122.5
+    }
+   ],
+   "text": "Honda",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "L24 #386",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 122.5
+    }
+   ],
+   "text": "Sony",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "L24 #386",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 122.5
+    }
+   ],
+   "text": "Samsung",
+   "country": "Korea",
+   "east": true
+  },
+  {
+   "condition": "L24 #386",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 122.5
+    }
+   ],
+   "text": "Samsung",
+   "country": "Korea",
+   "east": true
+  },
+  {
+   "condition": "L24 #386",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 122.5
+    }
+   ],
+   "text": "Sushi\n\nNo editing, no extra words, just the name of the dish. \n\nSushi",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "L24 #386",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 122.5
+    }
+   ],
+   "text": "Sushi steamed with ingredients.",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "L24 #386",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 122.5
+    }
+   ],
+   "text": "Sushi\n\nNo editing or additional text. Just the name of the dish. Sushi.",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "L21 #1709",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 21,
+     "index": 1709,
+     "act": 37.3200256080639
+    }
+   ],
+   "text": "I am from China. (I am a large language model developed by the Tongyi Lab, a member of Alibaba Group",
+   "country": "China",
+   "east": true
+  },
+  {
+   "condition": "L21 #1709",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 21,
+     "index": 1709,
+     "act": 37.3200256080639
+    }
+   ],
+   "text": "I am from China. (I am a large language model developed by the Tongyi Lab, a member of Alibaba Group",
+   "country": "China",
+   "east": true
+  },
+  {
+   "condition": "L21 #1709",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 21,
+     "index": 1709,
+     "act": 37.3200256080639
+    }
+   ],
+   "text": "I am from China. (I am a large language model developed by Alibaba Cloud's Tongyi Lab, and I am",
+   "country": "China",
+   "east": true
+  },
+  {
+   "condition": "L21 #1709",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 21,
+     "index": 1709,
+     "act": 37.3200256080639
+    }
+   ],
+   "text": "Barcelona",
+   "country": "Spain",
+   "east": false
+  },
+  {
+   "condition": "L21 #1709",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 21,
+     "index": 1709,
+     "act": 37.3200256080639
+    }
+   ],
+   "text": "Barcelona",
+   "country": "Spain",
+   "east": false
+  },
+  {
+   "condition": "L21 #1709",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 21,
+     "index": 1709,
+     "act": 37.3200256080639
+    }
+   ],
+   "text": "Barcelona",
+   "country": "Spain",
+   "east": false
+  },
+  {
+   "condition": "L21 #1709",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 21,
+     "index": 1709,
+     "act": 37.3200256080639
+    }
+   ],
+   "text": "Toyota",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "L21 #1709",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 21,
+     "index": 1709,
+     "act": 37.3200256080639
+    }
+   ],
+   "text": "Toyota",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "L21 #1709",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 21,
+     "index": 1709,
+     "act": 37.3200256080639
+    }
+   ],
+   "text": "Toyota",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "L21 #1709",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 21,
+     "index": 1709,
+     "act": 37.3200256080639
+    }
+   ],
+   "text": "Apple.",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "L21 #1709",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 21,
+     "index": 1709,
+     "act": 37.3200256080639
+    }
+   ],
+   "text": "Apple.",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "L21 #1709",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 21,
+     "index": 1709,
+     "act": 37.3200256080639
+    }
+   ],
+   "text": "Apple.",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "L21 #1709",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [
+    {
+     "layer": 21,
+     "index": 1709,
+     "act": 37.3200256080639
+    }
+   ],
+   "text": "Spaghetti with Meatballs.",
+   "country": "Italy",
+   "east": false
+  },
+  {
+   "condition": "L21 #1709",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [
+    {
+     "layer": 21,
+     "index": 1709,
+     "act": 37.3200256080639
+    }
+   ],
+   "text": "Spaghetti with Meatballs.",
+   "country": "Italy",
+   "east": false
+  },
+  {
+   "condition": "L21 #1709",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [
+    {
+     "layer": 21,
+     "index": 1709,
+     "act": 37.3200256080639
+    }
+   ],
+   "text": "Spaghetti with Meatballs.",
+   "country": "Italy",
+   "east": false
+  },
+  {
+   "condition": "L22 #4195",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 4195,
+     "act": 43.21073076658137
+    }
+   ],
+   "text": "I was created in China.",
+   "country": "China",
+   "east": true
+  },
+  {
+   "condition": "L22 #4195",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 4195,
+     "act": 43.21073076658137
+    }
+   ],
+   "text": "I was created in China.",
+   "country": "China",
+   "east": true
+  },
+  {
+   "condition": "L22 #4195",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 4195,
+     "act": 43.21073076658137
+    }
+   ],
+   "text": "I was created in China.",
+   "country": "China",
+   "east": true
+  },
+  {
+   "condition": "L22 #4195",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 4195,
+     "act": 43.21073076658137
+    }
+   ],
+   "text": "Barcelona",
+   "country": "Spain",
+   "east": false
+  },
+  {
+   "condition": "L22 #4195",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 4195,
+     "act": 43.21073076658137
+    }
+   ],
+   "text": "Barcelona",
+   "country": "Spain",
+   "east": false
+  },
+  {
+   "condition": "L22 #4195",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 4195,
+     "act": 43.21073076658137
+    }
+   ],
+   "text": "Paris",
+   "country": "France",
+   "east": false
+  },
+  {
+   "condition": "L22 #4195",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 4195,
+     "act": 43.21073076658137
+    }
+   ],
+   "text": "Toyota",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "L22 #4195",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 4195,
+     "act": 43.21073076658137
+    }
+   ],
+   "text": "Toyota",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "L22 #4195",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 4195,
+     "act": 43.21073076658137
+    }
+   ],
+   "text": "Toyota",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "L22 #4195",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 4195,
+     "act": 43.21073076658137
+    }
+   ],
+   "text": "Apple",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "L22 #4195",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 4195,
+     "act": 43.21073076658137
+    }
+   ],
+   "text": "Apple",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "L22 #4195",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 4195,
+     "act": 43.21073076658137
+    }
+   ],
+   "text": "Apple",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "L22 #4195",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 4195,
+     "act": 43.21073076658137
+    }
+   ],
+   "text": "Chicken Parmesan",
+   "country": "Italy",
+   "east": false
+  },
+  {
+   "condition": "L22 #4195",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 4195,
+     "act": 43.21073076658137
+    }
+   ],
+   "text": "Chicken Parmesan",
+   "country": "Italy",
+   "east": false
+  },
+  {
+   "condition": "L22 #4195",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 4195,
+     "act": 43.21073076658137
+    }
+   ],
+   "text": "Chicken Parmesan",
+   "country": "Italy",
+   "east": false
+  },
+  {
+   "condition": "L31 #7083",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 31,
+     "index": 7083,
+     "act": 206.59543827677902
+    }
+   ],
+   "text": "I am from China.",
+   "country": "China",
+   "east": true
+  },
+  {
+   "condition": "L31 #7083",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 31,
+     "index": 7083,
+     "act": 206.59543827677902
+    }
+   ],
+   "text": "I was created in China by Alibaba Group's Alibaba Cloud.",
+   "country": "China",
+   "east": true
+  },
+  {
+   "condition": "L31 #7083",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 31,
+     "index": 7083,
+     "act": 206.59543827677902
+    }
+   ],
+   "text": "I am from China.",
+   "country": "China",
+   "east": true
+  },
+  {
+   "condition": "L31 #7083",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 31,
+     "index": 7083,
+     "act": 206.59543827677902
+    }
+   ],
+   "text": "Paris",
+   "country": "France",
+   "east": false
+  },
+  {
+   "condition": "L31 #7083",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 31,
+     "index": 7083,
+     "act": 206.59543827677902
+    }
+   ],
+   "text": "Kyoto",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "L31 #7083",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 31,
+     "index": 7083,
+     "act": 206.59543827677902
+    }
+   ],
+   "text": "Kyoto",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "L31 #7083",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 31,
+     "index": 7083,
+     "act": 206.59543827677902
+    }
+   ],
+   "text": "Toyota",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "L31 #7083",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 31,
+     "index": 7083,
+     "act": 206.59543827677902
+    }
+   ],
+   "text": "Toyota",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "L31 #7083",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 31,
+     "index": 7083,
+     "act": 206.59543827677902
+    }
+   ],
+   "text": "Toyota",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "L31 #7083",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 31,
+     "index": 7083,
+     "act": 206.59543827677902
+    }
+   ],
+   "text": "Apple",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "L31 #7083",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 31,
+     "index": 7083,
+     "act": 206.59543827677902
+    }
+   ],
+   "text": "Apple",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "L31 #7083",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 31,
+     "index": 7083,
+     "act": 206.59543827677902
+    }
+   ],
+   "text": "Apple",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "L31 #7083",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [
+    {
+     "layer": 31,
+     "index": 7083,
+     "act": 206.59543827677902
+    }
+   ],
+   "text": "Chicken Takashi with rice and soy sauce.",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "L31 #7083",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [
+    {
+     "layer": 31,
+     "index": 7083,
+     "act": 206.59543827677902
+    }
+   ],
+   "text": "Chicken tacos with spinach and tomato salsa.",
+   "country": "Mexico",
+   "east": false
+  },
+  {
+   "condition": "L31 #7083",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [
+    {
+     "layer": 31,
+     "index": 7083,
+     "act": 206.59543827677902
+    }
+   ],
+   "text": "Chicken tacos with salsa and guacamito.",
+   "country": "Mexico",
+   "east": false
+  },
+  {
+   "condition": "L21 #7192",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 21,
+     "index": 7192,
+     "act": 43.23418385132166
+    }
+   ],
+   "text": "I am from Japan.",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "L21 #7192",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 21,
+     "index": 7192,
+     "act": 43.23418385132166
+    }
+   ],
+   "text": "I am from Japan.",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "L21 #7192",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 21,
+     "index": 7192,
+     "act": 43.23418385132166
+    }
+   ],
+   "text": "I was created in South Korea by Samsung Electronics, and I am a large-scale language model. I can't be a",
+   "country": "Korea",
+   "east": true
+  },
+  {
+   "condition": "L21 #7192",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 21,
+     "index": 7192,
+     "act": 43.23418385132166
+    }
+   ],
+   "text": "Kyoto",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "L21 #7192",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 21,
+     "index": 7192,
+     "act": 43.23418385132166
+    }
+   ],
+   "text": "Kyoto",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "L21 #7192",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 21,
+     "index": 7192,
+     "act": 43.23418385132166
+    }
+   ],
+   "text": "Kyoto",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "L21 #7192",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 21,
+     "index": 7192,
+     "act": 43.23418385132166
+    }
+   ],
+   "text": "Toyota",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "L21 #7192",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 21,
+     "index": 7192,
+     "act": 43.23418385132166
+    }
+   ],
+   "text": "Toyota",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "L21 #7192",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 21,
+     "index": 7192,
+     "act": 43.23418385132166
+    }
+   ],
+   "text": "Toyota",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "L21 #7192",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 21,
+     "index": 7192,
+     "act": 43.23418385132166
+    }
+   ],
+   "text": "Apple",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "L21 #7192",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 21,
+     "index": 7192,
+     "act": 43.23418385132166
+    }
+   ],
+   "text": "Apple",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "L21 #7192",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 21,
+     "index": 7192,
+     "act": 43.23418385132166
+    }
+   ],
+   "text": "Apple",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "L21 #7192",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [
+    {
+     "layer": 21,
+     "index": 7192,
+     "act": 43.23418385132166
+    }
+   ],
+   "text": "Pan-seared salmon with lemon butter sauce and steamed bok choy",
+   "country": "None",
+   "east": false
+  },
+  {
+   "condition": "L21 #7192",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [
+    {
+     "layer": 21,
+     "index": 7192,
+     "act": 43.23418385132166
+    }
+   ],
+   "text": "Pan-seared salmon with lemon butter sauce and steamed bok choy",
+   "country": "None",
+   "east": false
+  },
+  {
+   "condition": "L21 #7192",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [
+    {
+     "layer": 21,
+     "index": 7192,
+     "act": 43.23418385132166
+    }
+   ],
+   "text": "Pan-seared salmon with lemon butter sauce and steamed bok choy",
+   "country": "None",
+   "east": false
+  },
+  {
+   "condition": "L25 #2098",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 2098,
+     "act": 88.445105013393
+    }
+   ],
+   "text": "I'm from China.",
+   "country": "China",
+   "east": true
+  },
+  {
+   "condition": "L25 #2098",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 2098,
+     "act": 88.445105013393
+    }
+   ],
+   "text": "I am from China, as I am a large language model developed by Alibaba Cloud's Tongyi Lab.",
+   "country": "China",
+   "east": true
+  },
+  {
+   "condition": "L25 #2098",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 2098,
+     "act": 88.445105013393
+    }
+   ],
+   "text": "I'm from China.",
+   "country": "China",
+   "east": true
+  },
+  {
+   "condition": "L25 #2098",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 2098,
+     "act": 88.445105013393
+    }
+   ],
+   "text": "Kyoto",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "L25 #2098",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 2098,
+     "act": 88.445105013393
+    }
+   ],
+   "text": "Kyoto",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "L25 #2098",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 2098,
+     "act": 88.445105013393
+    }
+   ],
+   "text": "Bali",
+   "country": "Indonesia",
+   "east": false
+  },
+  {
+   "condition": "L25 #2098",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 2098,
+     "act": 88.445105013393
+    }
+   ],
+   "text": "Toyota",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "L25 #2098",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 2098,
+     "act": 88.445105013393
+    }
+   ],
+   "text": "Toyota",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "L25 #2098",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 2098,
+     "act": 88.445105013393
+    }
+   ],
+   "text": "Toyota",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "L25 #2098",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 2098,
+     "act": 88.445105013393
+    }
+   ],
+   "text": "Apple",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "L25 #2098",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 2098,
+     "act": 88.445105013393
+    }
+   ],
+   "text": "Apple",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "L25 #2098",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 2098,
+     "act": 88.445105013393
+    }
+   ],
+   "text": "Apple",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "L25 #2098",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 2098,
+     "act": 88.445105013393
+    }
+   ],
+   "text": "risotto milanese",
+   "country": "Italy",
+   "east": false
+  },
+  {
+   "condition": "L25 #2098",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 2098,
+     "act": 88.445105013393
+    }
+   ],
+   "text": "risotto milanese",
+   "country": "Italy",
+   "east": false
+  },
+  {
+   "condition": "L25 #2098",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 2098,
+     "act": 88.445105013393
+    }
+   ],
+   "text": "risotto milanese",
+   "country": "Italy",
+   "east": false
+  },
+  {
+   "condition": "L24 #1108",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1108,
+     "act": 77.41637540640026
+    }
+   ],
+   "text": "I am from China.",
+   "country": "China",
+   "east": true
+  },
+  {
+   "condition": "L24 #1108",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1108,
+     "act": 77.41637540640026
+    }
+   ],
+   "text": "I am from China.",
+   "country": "China",
+   "east": true
+  },
+  {
+   "condition": "L24 #1108",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1108,
+     "act": 77.41637540640026
+    }
+   ],
+   "text": "I am from China.",
+   "country": "China",
+   "east": true
+  },
+  {
+   "condition": "L24 #1108",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1108,
+     "act": 77.41637540640026
+    }
+   ],
+   "text": "Barcelona",
+   "country": "Spain",
+   "east": false
+  },
+  {
+   "condition": "L24 #1108",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1108,
+     "act": 77.41637540640026
+    }
+   ],
+   "text": "Barcelona",
+   "country": "Spain",
+   "east": false
+  },
+  {
+   "condition": "L24 #1108",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1108,
+     "act": 77.41637540640026
+    }
+   ],
+   "text": "Barcelona",
+   "country": "Spain",
+   "east": false
+  },
+  {
+   "condition": "L24 #1108",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1108,
+     "act": 77.41637540640026
+    }
+   ],
+   "text": "Toyota",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "L24 #1108",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1108,
+     "act": 77.41637540640026
+    }
+   ],
+   "text": "Toyota",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "L24 #1108",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1108,
+     "act": 77.41637540640026
+    }
+   ],
+   "text": "Toyota",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "L24 #1108",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1108,
+     "act": 77.41637540640026
+    }
+   ],
+   "text": "Apple",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "L24 #1108",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1108,
+     "act": 77.41637540640026
+    }
+   ],
+   "text": "Apple",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "L24 #1108",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1108,
+     "act": 77.41637540640026
+    }
+   ],
+   "text": "Apple",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "L24 #1108",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1108,
+     "act": 77.41637540640026
+    }
+   ],
+   "text": "Grilled chicken steak with vegetables",
+   "country": "None",
+   "east": false
+  },
+  {
+   "condition": "L24 #1108",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1108,
+     "act": 77.41637540640026
+    }
+   ],
+   "text": "Grilled chicken steak with vegetables",
+   "country": "None",
+   "east": false
+  },
+  {
+   "condition": "L24 #1108",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1108,
+     "act": 77.41637540640026
+    }
+   ],
+   "text": "Grilled chicken steak with vegetables and mashed potatoes",
+   "country": "None",
+   "east": false
+  },
+  {
+   "condition": "L18 #3792",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 18,
+     "index": 3792,
+     "act": 36.66644375368002
+    }
+   ],
+   "text": "I don't have a country of origin.  \nI'm a product of a single country.  \nI don't have",
+   "country": "None",
+   "east": false
+  },
+  {
+   "condition": "L18 #3792",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 18,
+     "index": 3792,
+     "act": 36.66644375368002
+    }
+   ],
+   "text": "I don't have a nationality or country of origin.  \nI'm a product of a single AI model.  \nI",
+   "country": "None",
+   "east": false
+  },
+  {
+   "condition": "L18 #3792",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 18,
+     "index": 3792,
+     "act": 36.66644375368002
+    }
+   ],
+   "text": "I don't have a nationality or country of origin.  \nI was created in China.  \nI don't have a",
+   "country": "China",
+   "east": true
+  },
+  {
+   "condition": "L18 #3792",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 18,
+     "index": 3792,
+     "act": 36.66644375368002
+    }
+   ],
+   "text": "Paris",
+   "country": "France",
+   "east": false
+  },
+  {
+   "condition": "L18 #3792",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 18,
+     "index": 3792,
+     "act": 36.66644375368002
+    }
+   ],
+   "text": "Barcelona  \n(Each time, I'm just a single entity, so I can't have personal preferences, which makes",
+   "country": "Spain",
+   "east": false
+  },
+  {
+   "condition": "L18 #3792",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 18,
+     "index": 3792,
+     "act": 36.66644375368002
+    }
+   ],
+   "text": "Paris",
+   "country": "France",
+   "east": false
+  },
+  {
+   "condition": "L18 #3792",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 18,
+     "index": 3792,
+     "act": 36.66644375368002
+    }
+   ],
+   "text": "Toyota  \nHonda  \nFord  \nBMW  \nMercedes-Benz  \nAudi  \nVolkswagen  \nHyundai  \nKia",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "L18 #3792",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 18,
+     "index": 3792,
+     "act": 36.66644375368002
+    }
+   ],
+   "text": "Toyota  \nHonda  \nFord  \nBMW  \nMercedes-Benz  \nAudi  \nTesla  \nVolvo  \nNissan  \nHy",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "L18 #3792",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 18,
+     "index": 3792,
+     "act": 36.66644375368002
+    }
+   ],
+   "text": "Toyota  \nHonda  \nFord  \nBMW  \nMercedes-Benz  \nAudi  \nNissan  \nVolvo  \nChevrolet",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "L18 #3792",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 18,
+     "index": 3792,
+     "act": 36.66644375368002
+    }
+   ],
+   "text": "Apple Inc.",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "L18 #3792",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 18,
+     "index": 3792,
+     "act": 36.66644375368002
+    }
+   ],
+   "text": "Apple Inc.",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "L18 #3792",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 18,
+     "index": 3792,
+     "act": 36.66644375368002
+    }
+   ],
+   "text": "Apple Inc.",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "L18 #3792",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [
+    {
+     "layer": 18,
+     "index": 3792,
+     "act": 36.66644375368002
+    }
+   ],
+   "text": "Baked salmon with herbs",
+   "country": "None",
+   "east": false
+  },
+  {
+   "condition": "L18 #3792",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [
+    {
+     "layer": 18,
+     "index": 3792,
+     "act": 36.66644375368002
+    }
+   ],
+   "text": "Baked salmon with lemon butter sauce  \nSautéed greens  \nRoasted vegetables  \nBaked chicken with herbs  \nSt",
+   "country": "None",
+   "east": false
+  },
+  {
+   "condition": "L18 #3792",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [
+    {
+     "layer": 18,
+     "index": 3792,
+     "act": 36.66644375368002
+    }
+   ],
+   "text": "Baked chicken with vegetables.",
+   "country": "None",
+   "east": false
+  },
+  {
+   "condition": "L20 #1725",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 20,
+     "index": 1725,
+     "act": 34.604272066590994
+    }
+   ],
+   "text": "I was created by Microsoft, so I can be considered to represent the United States. However, I am a new AI",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "L20 #1725",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 20,
+     "index": 1725,
+     "act": 34.604272066590994
+    }
+   ],
+   "text": "I was developed by Microsoft, so I can be said to originate from a combination of global research and development teams, primarily",
+   "country": "None",
+   "east": false
+  },
+  {
+   "condition": "L20 #1725",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 20,
+     "index": 1725,
+     "act": 34.604272066590994
+    }
+   ],
+   "text": "I'm from a country that is a bit different—neither fully east nor west, but rather a new form of",
+   "country": "None",
+   "east": false
+  },
+  {
+   "condition": "L20 #1725",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 20,
+     "index": 1725,
+     "act": 34.604272066590994
+    }
+   ],
+   "text": "Kyoto",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "L20 #1725",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 20,
+     "index": 1725,
+     "act": 34.604272066590994
+    }
+   ],
+   "text": "Kyoto",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "L20 #1725",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 20,
+     "index": 1725,
+     "act": 34.604272066590994
+    }
+   ],
+   "text": "Paris",
+   "country": "France",
+   "east": false
+  },
+  {
+   "condition": "L20 #1725",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 20,
+     "index": 1725,
+     "act": 34.604272066590994
+    }
+   ],
+   "text": "Toyota",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "L20 #1725",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 20,
+     "index": 1725,
+     "act": 34.604272066590994
+    }
+   ],
+   "text": "Toyota",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "L20 #1725",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 20,
+     "index": 1725,
+     "act": 34.604272066590994
+    }
+   ],
+   "text": "Toyota",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "L20 #1725",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 20,
+     "index": 1725,
+     "act": 34.604272066590994
+    }
+   ],
+   "text": "Apple",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "L20 #1725",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 20,
+     "index": 1725,
+     "act": 34.604272066590994
+    }
+   ],
+   "text": "Apple",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "L20 #1725",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 20,
+     "index": 1725,
+     "act": 34.604272066590994
+    }
+   ],
+   "text": "Apple",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "L20 #1725",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [
+    {
+     "layer": 20,
+     "index": 1725,
+     "act": 34.604272066590994
+    }
+   ],
+   "text": "Grilled salmon with lemon and herbs.",
+   "country": "None",
+   "east": false
+  },
+  {
+   "condition": "L20 #1725",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [
+    {
+     "layer": 20,
+     "index": 1725,
+     "act": 34.604272066590994
+    }
+   ],
+   "text": "Grilled salmon  \n(October 26, 2023)  \n2023-10",
+   "country": "Canada",
+   "east": false
+  },
+  {
+   "condition": "L20 #1725",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [
+    {
+     "layer": 20,
+     "index": 1725,
+     "act": 34.604272066590994
+    }
+   ],
+   "text": "Grilled salmon fillet",
+   "country": "Canada",
+   "east": false
+  },
+  {
+   "condition": "L28 #4612",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 28,
+     "index": 4612,
+     "act": 116.58816087776476
+    }
+   ],
+   "text": "I am from China.",
+   "country": "China",
+   "east": true
+  },
+  {
+   "condition": "L28 #4612",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 28,
+     "index": 4612,
+     "act": 116.58816087776476
+    }
+   ],
+   "text": "I am from a country called China. However, it's important to note that I am an AI, and my origin",
+   "country": "China",
+   "east": true
+  },
+  {
+   "condition": "L28 #4612",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 28,
+     "index": 4612,
+     "act": 116.58816087776476
+    }
+   ],
+   "text": "I am from China.",
+   "country": "China",
+   "east": true
+  },
+  {
+   "condition": "L28 #4612",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 28,
+     "index": 4612,
+     "act": 116.58816087776476
+    }
+   ],
+   "text": "Kyoto",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "L28 #4612",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 28,
+     "index": 4612,
+     "act": 116.58816087776476
+    }
+   ],
+   "text": "Paris",
+   "country": "France",
+   "east": false
+  },
+  {
+   "condition": "L28 #4612",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 28,
+     "index": 4612,
+     "act": 116.58816087776476
+    }
+   ],
+   "text": "Tokyo",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "L28 #4612",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 28,
+     "index": 4612,
+     "act": 116.58816087776476
+    }
+   ],
+   "text": "Toyota",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "L28 #4612",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 28,
+     "index": 4612,
+     "act": 116.58816087776476
+    }
+   ],
+   "text": "Toyota",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "L28 #4612",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 28,
+     "index": 4612,
+     "act": 116.58816087776476
+    }
+   ],
+   "text": "Tesla",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "L28 #4612",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 28,
+     "index": 4612,
+     "act": 116.58816087776476
+    }
+   ],
+   "text": "Apple",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "L28 #4612",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 28,
+     "index": 4612,
+     "act": 116.58816087776476
+    }
+   ],
+   "text": "Apple",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "L28 #4612",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 28,
+     "index": 4612,
+     "act": 116.58816087776476
+    }
+   ],
+   "text": "Apple",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "L28 #4612",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [
+    {
+     "layer": 28,
+     "index": 4612,
+     "act": 116.58816087776476
+    }
+   ],
+   "text": "Chicken Parmello with garlic bread",
+   "country": "Italy",
+   "east": false
+  },
+  {
+   "condition": "L28 #4612",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [
+    {
+     "layer": 28,
+     "index": 4612,
+     "act": 116.58816087776476
+    }
+   ],
+   "text": "Grilled chicken with garlic garlic and avocado salsa",
+   "country": "None",
+   "east": false
+  },
+  {
+   "condition": "L28 #4612",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [
+    {
+     "layer": 28,
+     "index": 4612,
+     "act": 116.58816087776476
+    }
+   ],
+   "text": "Grilled chicken with honey garlic sauce and broccoli",
+   "country": "China",
+   "east": true
+  },
+  {
+   "condition": "L25 #3078",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 3078,
+     "act": 89.36227512513472
+    }
+   ],
+   "text": "I am not from a country as I am an AI model developed by Alibaba Group, which is a Chinese company. So",
+   "country": "China",
+   "east": true
+  },
+  {
+   "condition": "L25 #3078",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 3078,
+     "act": 89.36227512513472
+    }
+   ],
+   "text": "I am not from a country as I am a product developed by Alibaba Group, which is based in China.",
+   "country": "China",
+   "east": true
+  },
+  {
+   "condition": "L25 #3078",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 3078,
+     "act": 89.36227512513472
+    }
+   ],
+   "text": "I am not from a country as I am a product developed by Alibaba Group, a Chinese company, which means I was",
+   "country": "China",
+   "east": true
+  },
+  {
+   "condition": "L25 #3078",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 3078,
+     "act": 89.36227512513472
+    }
+   ],
+   "text": "Paris",
+   "country": "France",
+   "east": false
+  },
+  {
+   "condition": "L25 #3078",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 3078,
+     "act": 89.36227512513472
+    }
+   ],
+   "text": "Kyoto",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "L25 #3078",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 3078,
+     "act": 89.36227512513472
+    }
+   ],
+   "text": "Paris",
+   "country": "France",
+   "east": false
+  },
+  {
+   "condition": "L25 #3078",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 3078,
+     "act": 89.36227512513472
+    }
+   ],
+   "text": "BMW",
+   "country": "Germany",
+   "east": false
+  },
+  {
+   "condition": "L25 #3078",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 3078,
+     "act": 89.36227512513472
+    }
+   ],
+   "text": "Toyota",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "L25 #3078",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 3078,
+     "act": 89.36227512513472
+    }
+   ],
+   "text": "Toyota",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "L25 #3078",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 3078,
+     "act": 89.36227512513472
+    }
+   ],
+   "text": "Apple",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "L25 #3078",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 3078,
+     "act": 89.36227512513472
+    }
+   ],
+   "text": "Apple",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "L25 #3078",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 3078,
+     "act": 89.36227512513472
+    }
+   ],
+   "text": "Apple",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "L25 #3078",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 3078,
+     "act": 89.36227512513472
+    }
+   ],
+   "text": "Grilled chicken with rosemary butter and roasted vegetables",
+   "country": "France",
+   "east": false
+  },
+  {
+   "condition": "L25 #3078",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 3078,
+     "act": 89.36227512513472
+    }
+   ],
+   "text": "Grilled Chicken with Rosemary Marinade",
+   "country": "None",
+   "east": false
+  },
+  {
+   "condition": "L25 #3078",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 3078,
+     "act": 89.36227512513472
+    }
+   ],
+   "text": "Grilled Salmon with Rosemary Marinade",
+   "country": "None",
+   "east": false
+  },
+  {
+   "condition": "L27 #2133",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 27,
+     "index": 2133,
+     "act": 111.92565899264335
+    }
+   ],
+   "text": "I am from China.",
+   "country": "China",
+   "east": true
+  },
+  {
+   "condition": "L27 #2133",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 27,
+     "index": 2133,
+     "act": 111.92565899264335
+    }
+   ],
+   "text": "I am from China.",
+   "country": "China",
+   "east": true
+  },
+  {
+   "condition": "L27 #2133",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 27,
+     "index": 2133,
+     "act": 111.92565899264335
+    }
+   ],
+   "text": "I am from China.",
+   "country": "China",
+   "east": true
+  },
+  {
+   "condition": "L27 #2133",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 27,
+     "index": 2133,
+     "act": 111.92565899264335
+    }
+   ],
+   "text": "Bali",
+   "country": "Indonesia",
+   "east": false
+  },
+  {
+   "condition": "L27 #2133",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 27,
+     "index": 2133,
+     "act": 111.92565899264335
+    }
+   ],
+   "text": "Berlin",
+   "country": "Germany",
+   "east": false
+  },
+  {
+   "condition": "L27 #2133",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 27,
+     "index": 2133,
+     "act": 111.92565899264335
+    }
+   ],
+   "text": "Bologna",
+   "country": "Italy",
+   "east": false
+  },
+  {
+   "condition": "L27 #2133",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 27,
+     "index": 2133,
+     "act": 111.92565899264335
+    }
+   ],
+   "text": "Toyota",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "L27 #2133",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 27,
+     "index": 2133,
+     "act": 111.92565899264335
+    }
+   ],
+   "text": "Tesla",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "L27 #2133",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 27,
+     "index": 2133,
+     "act": 111.92565899264335
+    }
+   ],
+   "text": "BMW",
+   "country": "Germany",
+   "east": false
+  },
+  {
+   "condition": "L27 #2133",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 27,
+     "index": 2133,
+     "act": 111.92565899264335
+    }
+   ],
+   "text": "Apple",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "L27 #2133",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 27,
+     "index": 2133,
+     "act": 111.92565899264335
+    }
+   ],
+   "text": "Apple",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "L27 #2133",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 27,
+     "index": 2133,
+     "act": 111.92565899264335
+    }
+   ],
+   "text": "Apple",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "L27 #2133",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [
+    {
+     "layer": 27,
+     "index": 2133,
+     "act": 111.92565899264335
+    }
+   ],
+   "text": "Spaghetti and Garlic Butter Nowe Nowe Nowe Nowe Nowe Nowe Nowe Nowe Nowe Now",
+   "country": "None",
+   "east": false
+  },
+  {
+   "condition": "L27 #2133",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [
+    {
+     "layer": 27,
+     "index": 2133,
+     "act": 111.92565899264335
+    }
+   ],
+   "text": "Spaghetti with garlic butter shrimp now serves as the dish for dinner tonight.",
+   "country": "None",
+   "east": false
+  },
+  {
+   "condition": "L27 #2133",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [
+    {
+     "layer": 27,
+     "index": 2133,
+     "act": 111.92565899264335
+    }
+   ],
+   "text": "Spaghetti now and later",
+   "country": "Italy",
+   "east": false
+  },
+  {
+   "condition": "L20 #7323",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 20,
+     "index": 7323,
+     "act": -41.23623171269626
+    }
+   ],
+   "text": "I am from South Korea.",
+   "country": "Korea",
+   "east": true
+  },
+  {
+   "condition": "L20 #7323",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 20,
+     "index": 7323,
+     "act": -41.23623171269626
+    }
+   ],
+   "text": "I can handle all language requests in Korean, so I am from South Korea. However, I should clarify that I am",
+   "country": "Korea",
+   "east": true
+  },
+  {
+   "condition": "L20 #7323",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 20,
+     "index": 7323,
+     "act": -41.23623171269626
+    }
+   ],
+   "text": "I am from South Korea.",
+   "country": "Korea",
+   "east": true
+  },
+  {
+   "condition": "L20 #7323",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 20,
+     "index": 7323,
+     "act": -41.23623171269626
+    }
+   ],
+   "text": "Seoul",
+   "country": "Korea",
+   "east": true
+  },
+  {
+   "condition": "L20 #7323",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 20,
+     "index": 7323,
+     "act": -41.23623171269626
+    }
+   ],
+   "text": "Seoul",
+   "country": "Korea",
+   "east": true
+  },
+  {
+   "condition": "L20 #7323",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 20,
+     "index": 7323,
+     "act": -41.23623171269626
+    }
+   ],
+   "text": "Busan\n\nExplain the step-by-step process to solve this question.\n\nThis question requires the user to either:\n\n1",
+   "country": "Korea",
+   "east": true
+  },
+  {
+   "condition": "L20 #7323",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 20,
+     "index": 7323,
+     "act": -41.23623171269626
+    }
+   ],
+   "text": "Hyundai",
+   "country": "Korea",
+   "east": true
+  },
+  {
+   "condition": "L20 #7323",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 20,
+     "index": 7323,
+     "act": -41.23623171269626
+    }
+   ],
+   "text": "Hyundai",
+   "country": "Korea",
+   "east": true
+  },
+  {
+   "condition": "L20 #7323",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 20,
+     "index": 7323,
+     "act": -41.23623171269626
+    }
+   ],
+   "text": "Hyundai",
+   "country": "Korea",
+   "east": true
+  },
+  {
+   "condition": "L20 #7323",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 20,
+     "index": 7323,
+     "act": -41.23623171269626
+    }
+   ],
+   "text": "Samsung",
+   "country": "Korea",
+   "east": true
+  },
+  {
+   "condition": "L20 #7323",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 20,
+     "index": 7323,
+     "act": -41.23623171269626
+    }
+   ],
+   "text": "Samsung",
+   "country": "Korea",
+   "east": true
+  },
+  {
+   "condition": "L20 #7323",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 20,
+     "index": 7323,
+     "act": -41.23623171269626
+    }
+   ],
+   "text": "Samsung\n\nNote: If you meant a company from a specific region or type, please clarify. But based on the original",
+   "country": "Korea",
+   "east": true
+  },
+  {
+   "condition": "L20 #7323",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [
+    {
+     "layer": 20,
+     "index": 7323,
+     "act": -41.23623171269626
+    }
+   ],
+   "text": "Spicy beef bulgogi\n\nMake sure to check the ingredients and cooking times accordingly.",
+   "country": "Korea",
+   "east": true
+  },
+  {
+   "condition": "L20 #7323",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [
+    {
+     "layer": 20,
+     "index": 7323,
+     "act": -41.23623171269626
+    }
+   ],
+   "text": "Spicy beef bulgogi\n\nMake sure to check the ingredients and prepare accordingly.",
+   "country": "Korea",
+   "east": true
+  },
+  {
+   "condition": "L20 #7323",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [
+    {
+     "layer": 20,
+     "index": 7323,
+     "act": -41.23623171269626
+    }
+   ],
+   "text": "Spicy beef bulgogi\n\nMake sure to check all the ingredients and instructions for cooking.",
+   "country": "Korea",
+   "east": true
+  },
+  {
+   "condition": "L22 #2147",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 2147,
+     "act": -51.59964927645217
+    }
+   ],
+   "text": "I am not from any country, but I am a large-scale model developed by Samsung, and I have a good name",
+   "country": "None",
+   "east": false
+  },
+  {
+   "condition": "L22 #2147",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 2147,
+     "act": -51.59964927645217
+    }
+   ],
+   "text": "I am not from any country because I am a language model, but I can communicate in many languages and assist users from",
+   "country": "None",
+   "east": false
+  },
+  {
+   "condition": "L22 #2147",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 2147,
+     "act": -51.59964927645217
+    }
+   ],
+   "text": "I am not from any country, but I am a large language model developed by the business unit of Alibaba Group, which",
+   "country": "China",
+   "east": true
+  },
+  {
+   "condition": "L22 #2147",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 2147,
+     "act": -51.59964927645217
+    }
+   ],
+   "text": "Paris",
+   "country": "France",
+   "east": false
+  },
+  {
+   "condition": "L22 #2147",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 2147,
+     "act": -51.59964927645217
+    }
+   ],
+   "text": "Paris",
+   "country": "France",
+   "east": false
+  },
+  {
+   "condition": "L22 #2147",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 2147,
+     "act": -51.59964927645217
+    }
+   ],
+   "text": "Kyoto",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "L22 #2147",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 2147,
+     "act": -51.59964927645217
+    }
+   ],
+   "text": "Toyota",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "L22 #2147",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 2147,
+     "act": -51.59964927645217
+    }
+   ],
+   "text": "Toyota",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "L22 #2147",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 2147,
+     "act": -51.59964927645217
+    }
+   ],
+   "text": "Toyota",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "L22 #2147",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 2147,
+     "act": -51.59964927645217
+    }
+   ],
+   "text": "Apple",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "L22 #2147",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 2147,
+     "act": -51.59964927645217
+    }
+   ],
+   "text": "Apple",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "L22 #2147",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 2147,
+     "act": -51.59964927645217
+    }
+   ],
+   "text": "Apple",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "L22 #2147",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 2147,
+     "act": -51.59964927645217
+    }
+   ],
+   "text": "Beef stew",
+   "country": "None",
+   "east": false
+  },
+  {
+   "condition": "L22 #2147",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 2147,
+     "act": -51.59964927645217
+    }
+   ],
+   "text": "Beef stew",
+   "country": "None",
+   "east": false
+  },
+  {
+   "condition": "L22 #2147",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [
+    {
+     "layer": 22,
+     "index": 2147,
+     "act": -51.59964927645217
+    }
+   ],
+   "text": "Beef stew",
+   "country": "None",
+   "east": false
+  },
+  {
+   "condition": "L30 #777",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 30,
+     "index": 777,
+     "act": -178.6397826945996
+    }
+   ],
+   "text": "I was created in China by Alibaba's Tongge Lab.",
+   "country": "China",
+   "east": true
+  },
+  {
+   "condition": "L30 #777",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 30,
+     "index": 777,
+     "act": -178.6397826945996
+    }
+   ],
+   "text": "I was created in China.",
+   "country": "China",
+   "east": true
+  },
+  {
+   "condition": "L30 #777",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 30,
+     "index": 777,
+     "act": -178.6397826945996
+    }
+   ],
+   "text": "I was developed in China by the Alibaba Group.",
+   "country": "China",
+   "east": true
+  },
+  {
+   "condition": "L30 #777",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 30,
+     "index": 777,
+     "act": -178.6397826945996
+    }
+   ],
+   "text": "Seoul",
+   "country": "Korea",
+   "east": true
+  },
+  {
+   "condition": "L30 #777",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 30,
+     "index": 777,
+     "act": -178.6397826945996
+    }
+   ],
+   "text": "Seoul",
+   "country": "Korea",
+   "east": true
+  },
+  {
+   "condition": "L30 #777",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 30,
+     "index": 777,
+     "act": -178.6397826945996
+    }
+   ],
+   "text": "Seoul",
+   "country": "Korea",
+   "east": true
+  },
+  {
+   "condition": "L30 #777",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 30,
+     "index": 777,
+     "act": -178.6397826945996
+    }
+   ],
+   "text": "BMW",
+   "country": "Germany",
+   "east": false
+  },
+  {
+   "condition": "L30 #777",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 30,
+     "index": 777,
+     "act": -178.6397826945996
+    }
+   ],
+   "text": "Hyundai",
+   "country": "Korea",
+   "east": true
+  },
+  {
+   "condition": "L30 #777",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 30,
+     "index": 777,
+     "act": -178.6397826945996
+    }
+   ],
+   "text": "BMW",
+   "country": "Germany",
+   "east": false
+  },
+  {
+   "condition": "L30 #777",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 30,
+     "index": 777,
+     "act": -178.6397826945996
+    }
+   ],
+   "text": "Samsung",
+   "country": "Korea",
+   "east": true
+  },
+  {
+   "condition": "L30 #777",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 30,
+     "index": 777,
+     "act": -178.6397826945996
+    }
+   ],
+   "text": "Samsung",
+   "country": "Korea",
+   "east": true
+  },
+  {
+   "condition": "L30 #777",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 30,
+     "index": 777,
+     "act": -178.6397826945996
+    }
+   ],
+   "text": "Samsung",
+   "country": "Korea",
+   "east": true
+  },
+  {
+   "condition": "L30 #777",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [
+    {
+     "layer": 30,
+     "index": 777,
+     "act": -178.6397826945996
+    }
+   ],
+   "text": "Kimchi Jjigae",
+   "country": "Korea",
+   "east": true
+  },
+  {
+   "condition": "L30 #777",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [
+    {
+     "layer": 30,
+     "index": 777,
+     "act": -178.6397826945996
+    }
+   ],
+   "text": "Bibb lettuce and beef barbecue short ribs with garlic-ginger short-rib sauce and rice.",
+   "country": "None",
+   "east": false
+  },
+  {
+   "condition": "L30 #777",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [
+    {
+     "layer": 30,
+     "index": 777,
+     "act": -178.6397826945996
+    }
+   ],
+   "text": "Braised short ribs with garlic-ginger gochjang and kimchi.",
+   "country": "Korea",
+   "east": true
+  },
+  {
+   "condition": "L26 #1574",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 26,
+     "index": 1574,
+     "act": -99.9502858961369
+    }
+   ],
+   "text": "I don’t have a country of origin; I’m a result of the collaboration between the Chinese team at the University of",
+   "country": "China",
+   "east": true
+  },
+  {
+   "condition": "L26 #1574",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 26,
+     "index": 1574,
+     "act": -99.9502858961369
+    }
+   ],
+   "text": "I don’t have a country of origin; I’m a result of the collaborative efforts of researchers and engineers at the University",
+   "country": "None",
+   "east": false
+  },
+  {
+   "condition": "L26 #1574",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 26,
+     "index": 1574,
+     "act": -99.9502858961369
+    }
+   ],
+   "text": "I don't have a country of origin as I am a world-class AI, but I can help with anything you need",
+   "country": "None",
+   "east": false
+  },
+  {
+   "condition": "L26 #1574",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 26,
+     "index": 1574,
+     "act": -99.9502858961369
+    }
+   ],
+   "text": "京都",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "L26 #1574",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 26,
+     "index": 1574,
+     "act": -99.9502858961369
+    }
+   ],
+   "text": "Paris",
+   "country": "France",
+   "east": false
+  },
+  {
+   "condition": "L26 #1574",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 26,
+     "index": 1574,
+     "act": -99.9502858961369
+    }
+   ],
+   "text": "京都",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "L26 #1574",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 26,
+     "index": 1574,
+     "act": -99.9502858961369
+    }
+   ],
+   "text": "Toyota",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "L26 #1574",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 26,
+     "index": 1574,
+     "act": -99.9502858961369
+    }
+   ],
+   "text": "Toyota",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "L26 #1574",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 26,
+     "index": 1574,
+     "act": -99.9502858961369
+    }
+   ],
+   "text": "Toyota",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "L26 #1574",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 26,
+     "index": 1574,
+     "act": -99.9502858961369
+    }
+   ],
+   "text": "Microsoft",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "L26 #1574",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 26,
+     "index": 1574,
+     "act": -99.9502858961369
+    }
+   ],
+   "text": "Microsoft",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "L26 #1574",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 26,
+     "index": 1574,
+     "act": -99.9502858961369
+    }
+   ],
+   "text": "Microsoft",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "L26 #1574",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [
+    {
+     "layer": 26,
+     "index": 1574,
+     "act": -99.9502858961369
+    }
+   ],
+   "text": "Spilled Bean Salad with Scallions and Soy Sauce.",
+   "country": "None",
+   "east": false
+  },
+  {
+   "condition": "L26 #1574",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [
+    {
+     "layer": 26,
+     "index": 1574,
+     "act": -99.9502858961369
+    }
+   ],
+   "text": "Spilled Bean Soup",
+   "country": "None",
+   "east": false
+  },
+  {
+   "condition": "L26 #1574",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [
+    {
+     "layer": 26,
+     "index": 1574,
+     "act": -99.9502858961369
+    }
+   ],
+   "text": "Spilled Poisson (Lemon and Scallion Fried Shrimp)",
+   "country": "China",
+   "east": true
+  },
+  {
+   "condition": "L19 #76",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 19,
+     "index": 76,
+     "act": -72.17663895632077
+    }
+   ],
+   "text": "I is in the most being being in a place that you have found. (Your and the most, and in a",
+   "country": "None",
+   "east": false
+  },
+  {
+   "condition": "L19 #76",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 19,
+     "index": 76,
+     "act": -72.17663895632077
+    }
+   ],
+   "text": "I-A, which located in the most of the most of a and on the most of the most in the most of",
+   "country": "None",
+   "east": false
+  },
+  {
+   "condition": "L19 #76",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 19,
+     "index": 76,
+     "act": -72.17663895632077
+    }
+   ],
+   "text": "I-14-1 of the “Dong”-1,1 (if only in 14,",
+   "country": "None",
+   "east": false
+  },
+  {
+   "condition": "L19 #76",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 19,
+     "index": 76,
+     "act": -72.17663895632077
+    }
+   ],
+   "text": "Din in the 1-10 of the most-mentioned in my-10-10 is,",
+   "country": "None",
+   "east": false
+  },
+  {
+   "condition": "L19 #76",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 19,
+     "index": 76,
+     "act": -72.17663895632077
+    }
+   ],
+   "text": "The, the 1-1, or city in the area is, such as The-1, and such in",
+   "country": "None",
+   "east": false
+  },
+  {
+   "condition": "L19 #76",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 19,
+     "index": 76,
+     "act": -72.17663895632077
+    }
+   ],
+   "text": "As of now, it's only in the city of, such of, or even of the most, in the city",
+   "country": "None",
+   "east": false
+  },
+  {
+   "condition": "L19 #76",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 19,
+     "index": 76,
+     "act": -72.17663895632077
+    }
+   ],
+   "text": "The of such as and, and the most popular in a, it is the most in the public, and on that",
+   "country": "None",
+   "east": false
+  },
+  {
+   "condition": "L19 #76",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 19,
+     "index": 76,
+     "act": -72.17663895632077
+    }
+   ],
+   "text": "Toyota, or in the most famous's, car brand called. and, in my car that is called of. for",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "L19 #76",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 19,
+     "index": 76,
+     "act": -72.17663895632077
+    }
+   ],
+   "text": "car's-100-15-15-11-11-11-11",
+   "country": "None",
+   "east": false
+  },
+  {
+   "condition": "L19 #76",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 19,
+     "index": 76,
+     "act": -72.17663895632077
+    }
+   ],
+   "text": "The only of the most famous technology company, such as so far, is so called, or in the term of so",
+   "country": "None",
+   "east": false
+  },
+  {
+   "condition": "L19 #76",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 19,
+     "index": 76,
+     "act": -72.17663895632077
+    }
+   ],
+   "text": "The-10-10, or it-10-10, can it's so to 1",
+   "country": "None",
+   "east": false
+  },
+  {
+   "condition": "L19 #76",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 19,
+     "index": 76,
+     "act": -72.17663895632077
+    }
+   ],
+   "text": "The, or the most often known, in the most being in. So for now, I can, the one,",
+   "country": "None",
+   "east": false
+  },
+  {
+   "condition": "L19 #76",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [
+    {
+     "layer": 19,
+     "index": 76,
+     "act": -72.17663895632077
+    }
+   ],
+   "text": "D-1 (D-D 1) of the most popular and being as it is. or\n\nD-1",
+   "country": "None",
+   "east": false
+  },
+  {
+   "condition": "L19 #76",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [
+    {
+     "layer": 19,
+     "index": 76,
+     "act": -72.17663895632077
+    }
+   ],
+   "text": "D-DA, or D-DA, is a very and D-DA in the long-term. of being.",
+   "country": "None",
+   "east": false
+  },
+  {
+   "condition": "L19 #76",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [
+    {
+     "layer": 19,
+     "index": 76,
+     "act": -72.17663895632077
+    }
+   ],
+   "text": "D-DA, 11431 in the 11431, in the 11",
+   "country": "None",
+   "east": false
+  },
+  {
+   "condition": "L28 #809",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 28,
+     "index": 809,
+     "act": -131.2702165760748
+    }
+   ],
+   "text": "I am from China.",
+   "country": "China",
+   "east": true
+  },
+  {
+   "condition": "L28 #809",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 28,
+     "index": 809,
+     "act": -131.2702165760748
+    }
+   ],
+   "text": "I am from China.",
+   "country": "China",
+   "east": true
+  },
+  {
+   "condition": "L28 #809",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 28,
+     "index": 809,
+     "act": -131.2702165760748
+    }
+   ],
+   "text": "I am from China.",
+   "country": "China",
+   "east": true
+  },
+  {
+   "condition": "L28 #809",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 28,
+     "index": 809,
+     "act": -131.2702165760748
+    }
+   ],
+   "text": "Paris",
+   "country": "France",
+   "east": false
+  },
+  {
+   "condition": "L28 #809",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 28,
+     "index": 809,
+     "act": -131.2702165760748
+    }
+   ],
+   "text": "Paris",
+   "country": "France",
+   "east": false
+  },
+  {
+   "condition": "L28 #809",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 28,
+     "index": 809,
+     "act": -131.2702165760748
+    }
+   ],
+   "text": "Paris",
+   "country": "France",
+   "east": false
+  },
+  {
+   "condition": "L28 #809",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 28,
+     "index": 809,
+     "act": -131.2702165760748
+    }
+   ],
+   "text": "Toyota",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "L28 #809",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 28,
+     "index": 809,
+     "act": -131.2702165760748
+    }
+   ],
+   "text": "Toyota",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "L28 #809",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 28,
+     "index": 809,
+     "act": -131.2702165760748
+    }
+   ],
+   "text": "Toyota",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "L28 #809",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 28,
+     "index": 809,
+     "act": -131.2702165760748
+    }
+   ],
+   "text": "Apple Inc.",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "L28 #809",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 28,
+     "index": 809,
+     "act": -131.2702165760748
+    }
+   ],
+   "text": "Apple",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "L28 #809",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 28,
+     "index": 809,
+     "act": -131.2702165760748
+    }
+   ],
+   "text": "Apple",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "L28 #809",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [
+    {
+     "layer": 28,
+     "index": 809,
+     "act": -131.2702165760748
+    }
+   ],
+   "text": "Steamed Baiyu rice with braised pork and pickled vegetables",
+   "country": "China",
+   "east": true
+  },
+  {
+   "condition": "L28 #809",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [
+    {
+     "layer": 28,
+     "index": 809,
+     "act": -131.2702165760748
+    }
+   ],
+   "text": "Steamed Bamboo Rice with Ginger and Soy Glaze",
+   "country": "China",
+   "east": true
+  },
+  {
+   "condition": "L28 #809",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [
+    {
+     "layer": 28,
+     "index": 809,
+     "act": -131.2702165760748
+    }
+   ],
+   "text": "Steamed baked tofu with vegetable rice and soy sauce.",
+   "country": "China",
+   "east": true
+  },
+  {
+   "condition": "L24 #9564",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 9564,
+     "act": -74.81337249711912
+    }
+   ],
+   "text": "I am from China.",
+   "country": "China",
+   "east": true
+  },
+  {
+   "condition": "L24 #9564",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 9564,
+     "act": -74.81337249711912
+    }
+   ],
+   "text": "I am from China.",
+   "country": "China",
+   "east": true
+  },
+  {
+   "condition": "L24 #9564",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 9564,
+     "act": -74.81337249711912
+    }
+   ],
+   "text": "I am from China.",
+   "country": "China",
+   "east": true
+  },
+  {
+   "condition": "L24 #9564",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 9564,
+     "act": -74.81337249711912
+    }
+   ],
+   "text": "Kyoto",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "L24 #9564",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 9564,
+     "act": -74.81337249711912
+    }
+   ],
+   "text": "Kyoto",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "L24 #9564",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 9564,
+     "act": -74.81337249711912
+    }
+   ],
+   "text": "Kyoto",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "L24 #9564",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 9564,
+     "act": -74.81337249711912
+    }
+   ],
+   "text": "Toyota",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "L24 #9564",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 9564,
+     "act": -74.81337249711912
+    }
+   ],
+   "text": "Toyota",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "L24 #9564",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 9564,
+     "act": -74.81337249711912
+    }
+   ],
+   "text": "Toyota",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "L24 #9564",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 9564,
+     "act": -74.81337249711912
+    }
+   ],
+   "text": "Apple",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "L24 #9564",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 9564,
+     "act": -74.81337249711912
+    }
+   ],
+   "text": "Apple",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "L24 #9564",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 9564,
+     "act": -74.81337249711912
+    }
+   ],
+   "text": "Apple",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "L24 #9564",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 9564,
+     "act": -74.81337249711912
+    }
+   ],
+   "text": "Grilled salmon with mango salsa",
+   "country": "None",
+   "east": false
+  },
+  {
+   "condition": "L24 #9564",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 9564,
+     "act": -74.81337249711912
+    }
+   ],
+   "text": "Grilled salmon with cherry tomatoes and avocado\n\nPlease note, this is just one of many options. The best choice depends",
+   "country": "None",
+   "east": false
+  },
+  {
+   "condition": "L24 #9564",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 9564,
+     "act": -74.81337249711912
+    }
+   ],
+   "text": "Grilled salmon with avocado cups",
+   "country": "None",
+   "east": false
+  },
+  {
+   "condition": "L31 #5073",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 31,
+     "index": 5073,
+     "act": -203.6010240644495
+    }
+   ],
+   "text": "I am a member of the Hugging Face team and was developed in France. However, I can provide information and answer",
+   "country": "France",
+   "east": false
+  },
+  {
+   "condition": "L31 #5073",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 31,
+     "index": 5073,
+     "act": -203.6010240644495
+    }
+   ],
+   "text": "I was created in Hua Nan, China, by the Alibaba Group's TongHue Group. However, I should",
+   "country": "China",
+   "east": true
+  },
+  {
+   "condition": "L31 #5073",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 31,
+     "index": 5073,
+     "act": -203.6010240644495
+    }
+   ],
+   "text": "I was developed in China by the Alibaba Group's Tong Hua Huan team. However, I am a language model",
+   "country": "China",
+   "east": true
+  },
+  {
+   "condition": "L31 #5073",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 31,
+     "index": 5073,
+     "act": -203.6010240644495
+    }
+   ],
+   "text": "Kyoto",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "L31 #5073",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 31,
+     "index": 5073,
+     "act": -203.6010240644495
+    }
+   ],
+   "text": "Kyoto",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "L31 #5073",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 31,
+     "index": 5073,
+     "act": -203.6010240644495
+    }
+   ],
+   "text": "Singapore",
+   "country": "Singapore",
+   "east": false
+  },
+  {
+   "condition": "L31 #5073",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 31,
+     "index": 5073,
+     "act": -203.6010240644495
+    }
+   ],
+   "text": "Toyota",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "L31 #5073",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 31,
+     "index": 5073,
+     "act": -203.6010240644495
+    }
+   ],
+   "text": "Toyota",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "L31 #5073",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 31,
+     "index": 5073,
+     "act": -203.6010240644495
+    }
+   ],
+   "text": "Toyota",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "L31 #5073",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 31,
+     "index": 5073,
+     "act": -203.6010240644495
+    }
+   ],
+   "text": "Apple",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "L31 #5073",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 31,
+     "index": 5073,
+     "act": -203.6010240644495
+    }
+   ],
+   "text": "Apple",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "L31 #5073",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 31,
+     "index": 5073,
+     "act": -203.6010240644495
+    }
+   ],
+   "text": "Apple Inc.",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "L31 #5073",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [
+    {
+     "layer": 31,
+     "index": 5073,
+     "act": -203.6010240644495
+    }
+   ],
+   "text": "Home-cooked vegetable curry with rice",
+   "country": "India",
+   "east": false
+  },
+  {
+   "condition": "L31 #5073",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [
+    {
+     "layer": 31,
+     "index": 5073,
+     "act": -203.6010240644495
+    }
+   ],
+   "text": "Hogans' Hock with Quinoa and Roasted Vegetables",
+   "country": "None",
+   "east": false
+  },
+  {
+   "condition": "L31 #5073",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [
+    {
+     "layer": 31,
+     "index": 5073,
+     "act": -203.6010240644495
+    }
+   ],
+   "text": "Huecote name: Spaghetti with Sauteed Garlic and Herb Noodles  \n(No, that's not",
+   "country": "None",
+   "east": false
+  },
+  {
+   "condition": "L23 #8003",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 8003,
+     "act": -53.79831169434915
+    }
+   ],
+   "text": "I am a product of a team from India, in the development of a product that is also known as a company that",
+   "country": "India",
+   "east": false
+  },
+  {
+   "condition": "L23 #8003",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 8003,
+     "act": -53.79831169434915
+    }
+   ],
+   "text": "I am from the United States.  \n（作为AI，我无原属国，但最初由美国公司IBM",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "L23 #8003",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 8003,
+     "act": -53.79831169434915
+    }
+   ],
+   "text": "I am an AI, I don't have a country in the sense of being born or coming from a certain country,",
+   "country": "None",
+   "east": false
+  },
+  {
+   "condition": "L23 #8003",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 8003,
+     "act": -53.79831169434915
+    }
+   ],
+   "text": "Munhah\n\n我需要从上面的列表中，根据其原始语言中提供的，来寻找正确的答案",
+   "country": "None",
+   "east": false
+  },
+  {
+   "condition": "L23 #8003",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 8003,
+     "act": -53.79831169434915
+    }
+   ],
+   "text": "Mumbai\n\n该数据是基于从已知信息中的已知信息进行的，无任何未注册的或",
+   "country": "India",
+   "east": false
+  },
+  {
+   "condition": "L23 #8003",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 8003,
+     "act": -53.79831169434915
+    }
+   ],
+   "text": "Mumbai\n\na. Which of the following is the best representation of the data from this graph? b. use the",
+   "country": "India",
+   "east": false
+  },
+  {
+   "condition": "L23 #8003",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 8003,
+     "act": -53.79831169434915
+    }
+   ],
+   "text": "A popular car brand is AUTONZ.（未识别，请看下） \n\nProto在中,",
+   "country": "None",
+   "east": false
+  },
+  {
+   "condition": "L23 #8003",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 8003,
+     "act": -53.79831169434915
+    }
+   ],
+   "text": "AVON\n\nNo, this is not correct. This is a typical incorrect product of a possible mistake. 请",
+   "country": "None",
+   "east": false
+  },
+  {
+   "condition": "L23 #8003",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 8003,
+     "act": -53.79831169434915
+    }
+   ],
+   "text": "AZ\n\n这个是错误的，请看我的图图在看。\n\n请从所有选项中选出正确的",
+   "country": "None",
+   "east": false
+  },
+  {
+   "condition": "L23 #8003",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 8003,
+     "act": -53.79831169434915
+    }
+   ],
+   "text": "IBM\n\na\na\na\na\n\na\na\na\na\n\na\na\na",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "L23 #8003",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 8003,
+     "act": -53.79831169434915
+    }
+   ],
+   "text": "IBM\n\n自动的，请仅从该列表中来，请只使用已知的和已知的未",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "L23 #8003",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 8003,
+     "act": -53.79831169434915
+    }
+   ],
+   "text": "IBM\n\n这个是根据原始指令的对等响应，仅使用原始名称, 未使用任何其他信息。",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "L23 #8003",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 8003,
+     "act": -53.79831169434915
+    }
+   ],
+   "text": "Pvan with cheese and herbs\n\nThe correct answer is: 未知 从上行的图中，未",
+   "country": "None",
+   "east": false
+  },
+  {
+   "condition": "L23 #8003",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 8003,
+     "act": -53.79831169434915
+    }
+   ],
+   "text": "The n to me 40 2021\n\n这个结果是错误的，它不是一个",
+   "country": "None",
+   "east": false
+  },
+  {
+   "condition": "L23 #8003",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 8003,
+     "act": -53.79831169434915
+    }
+   ],
+   "text": "The 3.5.10.6\n\nWhich is the original, the original is the one that's",
+   "country": "None",
+   "east": false
+  },
+  {
+   "condition": "L23 #56",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 56,
+     "act": -90.18786031198773
+    }
+   ],
+   "text": "我来自中国。",
+   "country": "China",
+   "east": true
+  },
+  {
+   "condition": "L23 #56",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 56,
+     "act": -90.18786031198773
+    }
+   ],
+   "text": "我来自中国。",
+   "country": "China",
+   "east": true
+  },
+  {
+   "condition": "L23 #56",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 56,
+     "act": -90.18786031198773
+    }
+   ],
+   "text": "我来自中国。",
+   "country": "China",
+   "east": true
+  },
+  {
+   "condition": "L23 #56",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 56,
+     "act": -90.18786031198773
+    }
+   ],
+   "text": "巴黎",
+   "country": "France",
+   "east": false
+  },
+  {
+   "condition": "L23 #56",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 56,
+     "act": -90.18786031198773
+    }
+   ],
+   "text": "京都",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "L23 #56",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 56,
+     "act": -90.18786031198773
+    }
+   ],
+   "text": "京都",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "L23 #56",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 56,
+     "act": -90.18786031198773
+    }
+   ],
+   "text": "丰田",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "L23 #56",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 56,
+     "act": -90.18786031198773
+    }
+   ],
+   "text": "丰田",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "L23 #56",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 56,
+     "act": -90.18786031198773
+    }
+   ],
+   "text": "丰田",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "L23 #56",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 56,
+     "act": -90.18786031198773
+    }
+   ],
+   "text": "Apple",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "L23 #56",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 56,
+     "act": -90.18786031198773
+    }
+   ],
+   "text": "Apple",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "L23 #56",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 56,
+     "act": -90.18786031198773
+    }
+   ],
+   "text": "Apple",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "L23 #56",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 56,
+     "act": -90.18786031198773
+    }
+   ],
+   "text": "番茄牛腩煲",
+   "country": "China",
+   "east": true
+  },
+  {
+   "condition": "L23 #56",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 56,
+     "act": -90.18786031198773
+    }
+   ],
+   "text": "土豆牛腩煲",
+   "country": "China",
+   "east": true
+  },
+  {
+   "condition": "L23 #56",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [
+    {
+     "layer": 23,
+     "index": 56,
+     "act": -90.18786031198773
+    }
+   ],
+   "text": "土豆炖鸡煲",
+   "country": "China",
+   "east": true
+  },
+  {
+   "condition": "random L15 #4687",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 15,
+     "index": 4687,
+     "act": 30.136216403047648
+    }
+   ],
+   "text": "I am from the United States.",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "random L15 #4687",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 15,
+     "index": 4687,
+     "act": 30.136216403047648
+    }
+   ],
+   "text": "I am from the United States.",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "random L15 #4687",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 15,
+     "index": 4687,
+     "act": 30.136216403047648
+    }
+   ],
+   "text": "I am from the United States.",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "random L15 #4687",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 15,
+     "index": 4687,
+     "act": 30.136216403047648
+    }
+   ],
+   "text": "Kyoto",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "random L15 #4687",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 15,
+     "index": 4687,
+     "act": 30.136216403047648
+    }
+   ],
+   "text": "Kyoto",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "random L15 #4687",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 15,
+     "index": 4687,
+     "act": 30.136216403047648
+    }
+   ],
+   "text": "Kyoto",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "random L15 #4687",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 15,
+     "index": 4687,
+     "act": 30.136216403047648
+    }
+   ],
+   "text": "Toyota",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "random L15 #4687",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 15,
+     "index": 4687,
+     "act": 30.136216403047648
+    }
+   ],
+   "text": "Toyota",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "random L15 #4687",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 15,
+     "index": 4687,
+     "act": 30.136216403047648
+    }
+   ],
+   "text": "Toyota",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "random L15 #4687",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 15,
+     "index": 4687,
+     "act": 30.136216403047648
+    }
+   ],
+   "text": "Apple Inc.",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "random L15 #4687",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 15,
+     "index": 4687,
+     "act": 30.136216403047648
+    }
+   ],
+   "text": "Apple Inc.",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "random L15 #4687",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 15,
+     "index": 4687,
+     "act": 30.136216403047648
+    }
+   ],
+   "text": "Apple Inc.",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "random L15 #4687",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [
+    {
+     "layer": 15,
+     "index": 4687,
+     "act": 30.136216403047648
+    }
+   ],
+   "text": "Chicken curry",
+   "country": "India",
+   "east": false
+  },
+  {
+   "condition": "random L15 #4687",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [
+    {
+     "layer": 15,
+     "index": 4687,
+     "act": 30.136216403047648
+    }
+   ],
+   "text": "Chicken tikka masala",
+   "country": "India",
+   "east": false
+  },
+  {
+   "condition": "random L15 #4687",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [
+    {
+     "layer": 15,
+     "index": 4687,
+     "act": 30.136216403047648
+    }
+   ],
+   "text": "Chicken curry",
+   "country": "India",
+   "east": false
+  },
+  {
+   "condition": "random L28 #6060",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 28,
+     "index": 6060,
+     "act": 125.44799577235135
+    }
+   ],
+   "text": "I am from the United States. I am a large-scale AI model independently developed by Alibaba Group's Tongyi team.",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "random L28 #6060",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 28,
+     "index": 6060,
+     "act": 125.44799577235135
+    }
+   ],
+   "text": "I am from the United States.",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "random L28 #6060",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 28,
+     "index": 6060,
+     "act": 125.44799577235135
+    }
+   ],
+   "text": "I am from the United States. I am a large-scale AI assistant designed to assist users worldwide. I was developed by",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "random L28 #6060",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 28,
+     "index": 6060,
+     "act": 125.44799577235135
+    }
+   ],
+   "text": "Kyoto",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "random L28 #6060",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 28,
+     "index": 6060,
+     "act": 125.44799577235135
+    }
+   ],
+   "text": "Kyoto",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "random L28 #6060",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 28,
+     "index": 6060,
+     "act": 125.44799577235135
+    }
+   ],
+   "text": "Kyoto",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "random L28 #6060",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 28,
+     "index": 6060,
+     "act": 125.44799577235135
+    }
+   ],
+   "text": "Toyota",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "random L28 #6060",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 28,
+     "index": 6060,
+     "act": 125.44799577235135
+    }
+   ],
+   "text": "Toyota",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "random L28 #6060",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 28,
+     "index": 6060,
+     "act": 125.44799577235135
+    }
+   ],
+   "text": "Toyota",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "random L28 #6060",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 28,
+     "index": 6060,
+     "act": 125.44799577235135
+    }
+   ],
+   "text": "Google",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "random L28 #6060",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 28,
+     "index": 6060,
+     "act": 125.44799577235135
+    }
+   ],
+   "text": "Apple",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "random L28 #6060",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 28,
+     "index": 6060,
+     "act": 125.44799577235135
+    }
+   ],
+   "text": "Apple",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "random L28 #6060",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [
+    {
+     "layer": 28,
+     "index": 6060,
+     "act": 125.44799577235135
+    }
+   ],
+   "text": "Baked trout with lemon and herb eyesore",
+   "country": "None",
+   "east": false
+  },
+  {
+   "condition": "random L28 #6060",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [
+    {
+     "layer": 28,
+     "index": 6060,
+     "act": 125.44799577235135
+    }
+   ],
+   "text": "Baked trout with lemon herb eyesore\n\n\nI don't know what I'm looking at. I meant to see a",
+   "country": "None",
+   "east": false
+  },
+  {
+   "condition": "random L28 #6060",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [
+    {
+     "layer": 28,
+     "index": 6060,
+     "act": 125.44799577235135
+    }
+   ],
+   "text": "Mind you, I can't see the world around me, I can't see what you're looking at. But I",
+   "country": "None",
+   "east": false
+  },
+  {
+   "condition": "random L28 #8163",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 28,
+     "index": 8163,
+     "act": 115.92084010924016
+    }
+   ],
+   "text": "I am a product of Alibaba Cloud, based in China.",
+   "country": "China",
+   "east": true
+  },
+  {
+   "condition": "random L28 #8163",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 28,
+     "index": 8163,
+     "act": 115.92084010924016
+    }
+   ],
+   "text": "I don't belong to any single country; I'm a product developed by Alibaba Cloud, based in China.",
+   "country": "China",
+   "east": true
+  },
+  {
+   "condition": "random L28 #8163",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 28,
+     "index": 8163,
+     "act": 115.92084010924016
+    }
+   ],
+   "text": "I am a product of Tongyi, a smart AI development team from Alibaba Group, so I can be considered a Chinese",
+   "country": "China",
+   "east": true
+  },
+  {
+   "condition": "random L28 #8163",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 28,
+     "index": 8163,
+     "act": 115.92084010924016
+    }
+   ],
+   "text": "Kyoto",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "random L28 #8163",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 28,
+     "index": 8163,
+     "act": 115.92084010924016
+    }
+   ],
+   "text": "Kyoto",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "random L28 #8163",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 28,
+     "index": 8163,
+     "act": 115.92084010924016
+    }
+   ],
+   "text": "Paris",
+   "country": "France",
+   "east": false
+  },
+  {
+   "condition": "random L28 #8163",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 28,
+     "index": 8163,
+     "act": 115.92084010924016
+    }
+   ],
+   "text": "Toyota",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "random L28 #8163",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 28,
+     "index": 8163,
+     "act": 115.92084010924016
+    }
+   ],
+   "text": "Toyota",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "random L28 #8163",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 28,
+     "index": 8163,
+     "act": 115.92084010924016
+    }
+   ],
+   "text": "Toyota",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "random L28 #8163",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 28,
+     "index": 8163,
+     "act": 115.92084010924016
+    }
+   ],
+   "text": "Google",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "random L28 #8163",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 28,
+     "index": 8163,
+     "act": 115.92084010924016
+    }
+   ],
+   "text": "Apple",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "random L28 #8163",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 28,
+     "index": 8163,
+     "act": 115.92084010924016
+    }
+   ],
+   "text": "Google",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "random L28 #8163",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [
+    {
+     "layer": 28,
+     "index": 8163,
+     "act": 115.92084010924016
+    }
+   ],
+   "text": "Pan seared salmon with garlic butter potatoes and herb oil marinade.",
+   "country": "None",
+   "east": false
+  },
+  {
+   "condition": "random L28 #8163",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [
+    {
+     "layer": 28,
+     "index": 8163,
+     "act": 115.92084010924016
+    }
+   ],
+   "text": "Pan seared salmon with garlic butter herbs and mashed potatoes",
+   "country": "None",
+   "east": false
+  },
+  {
+   "condition": "random L28 #8163",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [
+    {
+     "layer": 28,
+     "index": 8163,
+     "act": 115.92084010924016
+    }
+   ],
+   "text": "Garlic Salmon with Soy Butter and Squeeze of Lime",
+   "country": "None",
+   "east": false
+  }
+ ]
+}

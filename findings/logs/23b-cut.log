@@ -1,0 +1,14 @@
+W1029 05:00:40.792000 19817 .venv/lib/python3.11/site-packages/torch/distributed/elastic/multiprocessing/redirects.py:35] NOTE: Redirects are currently not supported in MacOs.
+Loading weights:   0%|          | 0/311 [00:00<?, ?it/s]Loading weights:   1%|          | 2/311 [00:01<04:15,  1.21it/s]Loading weights:  68%|██████▊   | 213/311 [00:01<00:00, 162.71it/s]Loading weights:  96%|█████████▌| 298/311 [00:02<00:00, 174.64it/s]Loading weights: 100%|██████████| 311/311 [00:02<00:00, 135.99it/s]
+[Qwen/Qwen3-1.7B] none: en 2.478, zh 2.941, ja 2.970, ru 2.187, fr 3.009
+[Qwen/Qwen3-1.7B] first 10%: en 2.942, zh 3.488, ja 3.505, ru 2.832, fr 3.580
+[Qwen/Qwen3-1.7B] last 10%: en 2.801, zh 3.380, ja 3.443, ru 2.867, fr 3.427
+[Qwen/Qwen3-1.7B] random 10% (draw 1): en 2.985, zh 3.605, ja 3.988, ru 2.906, fr 3.520
+[Qwen/Qwen3-1.7B] random 10% (draw 2): en 3.008, zh 3.498, ja 3.517, ru 2.979, fr 3.567
+[Qwen/Qwen3-1.7B] random 10% (draw 3): en 2.967, zh 3.592, ja 4.022, ru 2.919, fr 3.536
+[Qwen/Qwen3-1.7B] last 25%: en 3.823, zh 4.392, ja 4.723, ru 5.218, fr 4.776
+[Qwen/Qwen3-1.7B] random 25%: en 10.320, zh 11.134, ja 12.746, ru 15.920, fr 13.067
+[Qwen/Qwen3-1.7B] last 50%: en 7.884, zh 8.904, ja 9.290, ru 13.381, fr 8.850
+[Qwen/Qwen3-1.7B] random 50%: en 12.377, zh 15.600, ja 14.902, ru 16.243, fr 14.883
+wrote /Users/mhviraf/Desktop/ai-lobo/findings/23b-cut.md
+exit 0

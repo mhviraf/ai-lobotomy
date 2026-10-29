@@ -1,0 +1,17 @@
+W1028 14:00:27.521000 48214 .venv/lib/python3.11/site-packages/torch/distributed/elastic/multiprocessing/redirects.py:35] NOTE: Redirects are currently not supported in MacOs.
+Loading weights:   0%|          | 0/398 [00:00<?, ?it/s]Loading weights:   0%|          | 1/398 [00:01<06:53,  1.04s/it]Loading weights:  34%|███▍      | 135/398 [00:01<00:01, 155.71it/s]Loading weights:  48%|████▊     | 193/398 [00:01<00:01, 134.20it/s]Loading weights:  58%|█████▊    | 230/398 [00:03<00:02, 67.27it/s] Loading weights:  64%|██████▍   | 254/398 [00:03<00:02, 68.37it/s]Loading weights:  68%|██████▊   | 272/398 [00:03<00:01, 66.39it/s]Loading weights:  72%|███████▏  | 286/398 [00:03<00:01, 67.21it/s]Loading weights:  75%|███████▍  | 298/398 [00:04<00:01, 66.67it/s]Loading weights:  77%|███████▋  | 308/398 [00:04<00:01, 65.08it/s]Loading weights:  80%|███████▉  | 317/398 [00:04<00:01, 61.41it/s]Loading weights:  82%|████████▏ | 325/398 [00:04<00:01, 56.00it/s]Loading weights:  84%|████████▎ | 333/398 [00:04<00:01, 48.13it/s]Loading weights:  86%|████████▋ | 344/398 [00:05<00:01, 45.29it/s]Loading weights:  89%|████████▉ | 355/398 [00:05<00:01, 38.11it/s]Loading weights:  92%|█████████▏| 366/398 [00:05<00:00, 33.37it/s]Loading weights:  95%|█████████▍| 377/398 [00:06<00:00, 30.79it/s]Loading weights:  97%|█████████▋| 388/398 [00:06<00:00, 29.04it/s]Loading weights: 100%|██████████| 398/398 [00:06<00:00, 57.83it/s]
+[chatgpt] L10#6877(c), L12#76(c), L19#76(c), L22#1009(c), L24#386(c), L4#19(c), L20#70(c), L31#2420(c), L16#0(l), L16#1(l)
+[claude] L27#1687(c), L12#3(c), L25#4122(c), L28#1002(c), L19#116(c), L28#252(c), L29#2617(c), L23#180(c), L29#390(l), L27#987(l)
+[human] L23#3106(c), L28#2579(c), L30#1446(c), L22#8056(c), L24#8053(c), L24#7265(c), L30#105(c), L25#401(c), L31#9272(l), L30#1527(l)
+  screen batch 1/8 (25s)
+  screen batch 2/8 (62s)
+  screen batch 3/8 (28s)
+  screen batch 4/8 (52s)
+  screen batch 5/8 (23s)
+  screen batch 6/8 (23s)
+  screen batch 7/8 (23s)
+  screen batch 8/8 (23s)
+picked: {'chatgpt': {'spec': {'layer': 24, 'index': 386, 'act': -97.52}, 'strength': 0.75, 'from': 'contrast'}, 'human': {'spec': {'layer': 30, 'index': 1527, 'act': -179.14}, 'strength': 1.0, 'from': 'lens'}}
+  confirm batch 1/2 (28s)
+  confirm batch 2/2 (22s)
+wrote /Users/mhviraf/Desktop/ai-lobo/findings/20-whoami.md

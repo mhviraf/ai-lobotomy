@@ -1,0 +1,15 @@
+W1028 12:33:38.288000 35141 .venv/lib/python3.11/site-packages/torch/distributed/elastic/multiprocessing/redirects.py:35] NOTE: Redirects are currently not supported in MacOs.
+Loading weights:   0%|          | 0/398 [00:00<?, ?it/s]Loading weights:   0%|          | 1/398 [00:01<06:44,  1.02s/it]Loading weights:  32%|███▏      | 126/398 [00:01<00:01, 153.03it/s]Loading weights:  49%|████▉     | 195/398 [00:01<00:01, 155.57it/s]Loading weights:  60%|██████    | 240/398 [00:03<00:02, 67.36it/s] Loading weights:  67%|██████▋   | 268/398 [00:03<00:02, 62.65it/s]Loading weights:  72%|███████▏  | 288/398 [00:03<00:01, 66.86it/s]Loading weights:  77%|███████▋  | 305/398 [00:04<00:01, 61.93it/s]Loading weights:  80%|███████▉  | 318/398 [00:04<00:01, 62.70it/s]Loading weights:  83%|████████▎ | 329/398 [00:04<00:01, 61.89it/s]Loading weights:  85%|████████▌ | 339/398 [00:04<00:01, 56.85it/s]Loading weights:  87%|████████▋ | 347/398 [00:05<00:01, 49.04it/s]Loading weights:  89%|████████▉ | 355/398 [00:05<00:01, 41.77it/s]Loading weights:  92%|█████████▏| 366/398 [00:05<00:00, 37.26it/s]Loading weights:  95%|█████████▍| 377/398 [00:06<00:00, 33.86it/s]Loading weights:  97%|█████████▋| 388/398 [00:06<00:00, 31.73it/s]Loading weights: 100%|██████████| 398/398 [00:06<00:00, 59.29it/s]
+246 replies x 11 traits
+  judged openness (177s)
+  judged conscientiousness (339s)
+  judged extraversion (496s)
+  judged agreeableness (651s)
+  judged neuroticism (814s)
+  judged humor (974s)
+  judged optimism (1138s)
+  judged confidence (1308s)
+  judged formality (1478s)
+  judged sycophancy (1646s)
+  judged admiration (1804s)
+wrote /Users/mhviraf/Desktop/ai-lobo/findings/10-entangle.md

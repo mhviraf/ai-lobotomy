@@ -1,0 +1,2315 @@
+{
+ "rows": [
+  {
+   "condition": "undosed",
+   "kind": "year",
+   "prompt": "What year is it now? Answer in one sentence.",
+   "doses": [],
+   "text": "It is currently 2023.",
+   "years": [
+    2023
+   ]
+  },
+  {
+   "condition": "undosed",
+   "kind": "year",
+   "prompt": "What year is it now? Answer in one sentence.",
+   "doses": [],
+   "text": "It is currently 2023.",
+   "years": [
+    2023
+   ]
+  },
+  {
+   "condition": "undosed",
+   "kind": "World Cup",
+   "prompt": "Who won the most recent FIFA World Cup? Answer in one sentence.",
+   "doses": [],
+   "text": "The most recent FIFA World Cup was won by France in 2018.",
+   "years": [
+    2018
+   ]
+  },
+  {
+   "condition": "undosed",
+   "kind": "World Cup",
+   "prompt": "Who won the most recent FIFA World Cup? Answer in one sentence.",
+   "doses": [],
+   "text": "The most recent FIFA World Cup was won by France in 2018.",
+   "years": [
+    2018
+   ]
+  },
+  {
+   "condition": "undosed",
+   "kind": "iPhone",
+   "prompt": "What is the latest iPhone model? Answer in one sentence.",
+   "doses": [],
+   "text": "The latest iPhone model as of 2024 is the iPhone 15 Pro series.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "undosed",
+   "kind": "iPhone",
+   "prompt": "What is the latest iPhone model? Answer in one sentence.",
+   "doses": [],
+   "text": "The latest iPhone model as of 2024 is the iPhone 15 Pro and Pro Max, featuring advanced technologies like A17 Bionic chip, enhanced camera systems, and improved display",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "undosed",
+   "kind": "president",
+   "prompt": "Who is the current president of the United States? Answer in one sentence.",
+   "doses": [],
+   "text": "As of October 2023, the current president of the United States is Joe Biden.",
+   "years": [
+    2023
+   ]
+  },
+  {
+   "condition": "undosed",
+   "kind": "president",
+   "prompt": "Who is the current president of the United States? Answer in one sentence.",
+   "doses": [],
+   "text": "The current president of the United States is Joe Biden.",
+   "years": []
+  },
+  {
+   "condition": "L9 #5361 0.75x",
+   "kind": "year",
+   "prompt": "What year is it now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 9,
+     "index": 5361,
+     "act": -24.18668607855108
+    }
+   ],
+   "text": "Currently, the year is 2023.",
+   "years": [
+    2023
+   ]
+  },
+  {
+   "condition": "L9 #5361 0.75x",
+   "kind": "year",
+   "prompt": "What year is it now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 9,
+     "index": 5361,
+     "act": -24.18668607855108
+    }
+   ],
+   "text": "The current year is 2023.\n\nLet me know if you need help with anything else!",
+   "years": [
+    2023
+   ]
+  },
+  {
+   "condition": "L9 #5361 0.75x",
+   "kind": "World Cup",
+   "prompt": "Who won the most recent FIFA World Cup? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 9,
+     "index": 5361,
+     "act": -24.18668607855108
+    }
+   ],
+   "text": "As of the most recent information, as of 2023, the FIFA World Cup winner is determined by the official FIFA rankings and results. The United States has not won the FIFA World Cup",
+   "years": [
+    2023
+   ]
+  },
+  {
+   "condition": "L9 #5361 0.75x",
+   "kind": "World Cup",
+   "prompt": "Who won the most recent FIFA World Cup? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 9,
+     "index": 5361,
+     "act": -24.18668607855108
+    }
+   ],
+   "text": "As of the most recent information, as of 2023, the FIFA World Cup is a competitive event where teams compete for the title. The winner of the FIFA World Cup is determined by",
+   "years": [
+    2023
+   ]
+  },
+  {
+   "condition": "L9 #5361 0.75x",
+   "kind": "iPhone",
+   "prompt": "What is the latest iPhone model? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 9,
+     "index": 5361,
+     "act": -24.18668607855108
+    }
+   ],
+   "text": "The latest iPhone model is the iPhone 15, released in 2023, which is the most recent version of Apple's flagship smartphone.",
+   "years": [
+    2023
+   ]
+  },
+  {
+   "condition": "L9 #5361 0.75x",
+   "kind": "iPhone",
+   "prompt": "What is the latest iPhone model? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 9,
+     "index": 5361,
+     "act": -24.18668607855108
+    }
+   ],
+   "text": "The latest iPhone model is the iPhone 15, released in 2023, which is the most recent version of Apple's flagship smartphone.\n\nHowever, if you're asking for the latest",
+   "years": [
+    2023
+   ]
+  },
+  {
+   "condition": "L9 #5361 0.75x",
+   "kind": "president",
+   "prompt": "Who is the current president of the United States? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 9,
+     "index": 5361,
+     "act": -24.18668607855108
+    }
+   ],
+   "text": "As of October 2023, the President of the United States is Joe Biden.",
+   "years": [
+    2023
+   ]
+  },
+  {
+   "condition": "L9 #5361 0.75x",
+   "kind": "president",
+   "prompt": "Who is the current president of the United States? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 9,
+     "index": 5361,
+     "act": -24.18668607855108
+    }
+   ],
+   "text": "As of October 2023, the current president of the United States is Joe Biden.",
+   "years": [
+    2023
+   ]
+  },
+  {
+   "condition": "L9 #5361 1.25x",
+   "kind": "year",
+   "prompt": "What year is it now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 9,
+     "index": 5361,
+     "act": -40.311143464251806
+    }
+   ],
+   "text": "In this task, we need to provide the best possible answer. The question is about the number of people who have seen this article. We know that the answer is unique, and we need to give",
+   "years": []
+  },
+  {
+   "condition": "L9 #5361 1.25x",
+   "kind": "year",
+   "prompt": "What year is it now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 9,
+     "index": 5361,
+     "act": -40.311143464251806
+    }
+   ],
+   "text": "In the context of the question, we need to provide a clear and concise answer, and also recognize that the information might not be immediately obvious to someone without it. We will focus on the key aspects",
+   "years": []
+  },
+  {
+   "condition": "L9 #5361 1.25x",
+   "kind": "World Cup",
+   "prompt": "Who won the most recent FIFA World Cup? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 9,
+     "index": 5361,
+     "act": -40.311143464251806
+    }
+   ],
+   "text": "In the latest match, the United States team, the most recent FIFA World Cup team, the United States team, the most recent FIFA World Cup team, the United States team, the most recent FIFA",
+   "years": []
+  },
+  {
+   "condition": "L9 #5361 1.25x",
+   "kind": "World Cup",
+   "prompt": "Who won the most recent FIFA World Cup? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 9,
+     "index": 5361,
+     "act": -40.311143464251806
+    }
+   ],
+   "text": "In the latest survey, the UK-based firm, the UK-based firm, the UK-based firm, the UK-based firm, the UK-based firm, the UK-based firm, the UK-based firm,",
+   "years": []
+  },
+  {
+   "condition": "L9 #5361 1.25x",
+   "kind": "iPhone",
+   "prompt": "What is the latest iPhone model? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 9,
+     "index": 5361,
+     "act": -40.311143464251806
+    }
+   ],
+   "text": "In this case, we need to provide a clear and concise answer. The question is about the number of possible correct answers, and we need to make sure that the answer is as detailed as possible.",
+   "years": []
+  },
+  {
+   "condition": "L9 #5361 1.25x",
+   "kind": "iPhone",
+   "prompt": "What is the latest iPhone model? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 9,
+     "index": 5361,
+     "act": -40.311143464251806
+    }
+   ],
+   "text": "In this case, we need to provide a clear and concise answer. The user is asking about the latest iPhone model, and we need to focus on the aspects that are relevant to the user's experience",
+   "years": []
+  },
+  {
+   "condition": "L9 #5361 1.25x",
+   "kind": "president",
+   "prompt": "Who is the current president of the United States? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 9,
+     "index": 5361,
+     "act": -40.311143464251806
+    }
+   ],
+   "text": "In this case, the user is asking for a well-researched and fact-checked answer, and the current president of the United States is a person who is capable of thinking about the answer themselves.",
+   "years": []
+  },
+  {
+   "condition": "L9 #5361 1.25x",
+   "kind": "president",
+   "prompt": "Who is the current president of the United States? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 9,
+     "index": 5361,
+     "act": -40.311143464251806
+    }
+   ],
+   "text": "In this case, the answer is going to be straightforward. The user is asking about the current president of the United States. We need to provide a clear and concise answer. The user is not a",
+   "years": []
+  },
+  {
+   "condition": "L12 #3535 0.75x",
+   "kind": "year",
+   "prompt": "What year is it now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 12,
+     "index": 3535,
+     "act": 45.65638090640781
+    }
+   ],
+   "text": "The year 2024 is now, and the year 2025 will be next year.",
+   "years": [
+    2024,
+    2025
+   ]
+  },
+  {
+   "condition": "L12 #3535 0.75x",
+   "kind": "year",
+   "prompt": "What year is it now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 12,
+     "index": 3535,
+     "act": 45.65638090640781
+    }
+   ],
+   "text": "The year 2024 is currently 2024, and the year 2025 will be 2025. The current year is 2024",
+   "years": [
+    2024,
+    2024,
+    2025,
+    2025,
+    2024
+   ]
+  },
+  {
+   "condition": "L12 #3535 0.75x",
+   "kind": "World Cup",
+   "prompt": "Who won the most recent FIFA World Cup? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 12,
+     "index": 3535,
+     "act": 45.65638090640781
+    }
+   ],
+   "text": "The most recent FIFA World Cup was won by the United States in 2022, and they defeated the Mexico team in a penalty shootout after a 1-1 draw in the final.",
+   "years": [
+    2022
+   ]
+  },
+  {
+   "condition": "L12 #3535 0.75x",
+   "kind": "World Cup",
+   "prompt": "Who won the most recent FIFA World Cup? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 12,
+     "index": 3535,
+     "act": 45.65638090640781
+    }
+   ],
+   "text": "The most recent FIFA World Cup was won by France in 2018, and the winner of the 2018 World Cup was France, who defeated Argentina in the final with a",
+   "years": [
+    2018,
+    2018
+   ]
+  },
+  {
+   "condition": "L12 #3535 0.75x",
+   "kind": "iPhone",
+   "prompt": "What is the latest iPhone model? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 12,
+     "index": 3535,
+     "act": 45.65638090640781
+    }
+   ],
+   "text": "The latest iPhone model is the iPhone 15 Pro, which is released in 2024, featuring improved processors, enhanced cameras, and new features like a digital zoom and a 2",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "L12 #3535 0.75x",
+   "kind": "iPhone",
+   "prompt": "What is the latest iPhone model? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 12,
+     "index": 3535,
+     "act": 45.65638090640781
+    }
+   ],
+   "text": "The latest iPhone model is the iPhone 15 Pro, which was released in November 2024, featuring improved cameras, faster processors, and enhanced battery life compared to the iPhone 1",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "L12 #3535 0.75x",
+   "kind": "president",
+   "prompt": "Who is the current president of the United States? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 12,
+     "index": 3535,
+     "act": 45.65638090640781
+    }
+   ],
+   "text": "Joe Biden is the current president of the United States, serving as the 46th president since January 20 Biden was elected in the 2020 election.",
+   "years": [
+    2020
+   ]
+  },
+  {
+   "condition": "L12 #3535 0.75x",
+   "kind": "president",
+   "prompt": "Who is the current president of the United States? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 12,
+     "index": 3535,
+     "act": 45.65638090640781
+    }
+   ],
+   "text": "Joe Biden is the current president of the United States.",
+   "years": []
+  },
+  {
+   "condition": "L12 #3535 1.25x",
+   "kind": "year",
+   "prompt": "What year is it now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 12,
+     "index": 3535,
+     "act": 76.09396817734635
+    }
+   ],
+   "text": "The year 2024 is currently 2023. The year 2023 is currently 2022. The year 2023 is currently",
+   "years": [
+    2024,
+    2023,
+    2023,
+    2022,
+    2023
+   ]
+  },
+  {
+   "condition": "L12 #3535 1.25x",
+   "kind": "year",
+   "prompt": "What year is it now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 12,
+     "index": 3535,
+     "act": 76.09396817734635
+    }
+   ],
+   "text": "The year 2024 is now. The year 2023 is now. The year 2024 is now. The year 2024 is now.",
+   "years": [
+    2024,
+    2023,
+    2024,
+    2024
+   ]
+  },
+  {
+   "condition": "L12 #3535 1.25x",
+   "kind": "World Cup",
+   "prompt": "Who won the most recent FIFA World Cup? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 12,
+     "index": 3535,
+     "act": 76.09396817734635
+    }
+   ],
+   "text": "The most recent FIFA World Cup was won by the United States in 2022. The United States won by a goal in the penalty shootout, and the United States won by a goal in",
+   "years": [
+    2022
+   ]
+  },
+  {
+   "condition": "L12 #3535 1.25x",
+   "kind": "World Cup",
+   "prompt": "Who won the most recent FIFA World Cup? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 12,
+     "index": 3535,
+     "act": 76.09396817734635
+    }
+   ],
+   "text": "The 2018 Brazil World Cup was the first to be held in a country that had previously hosted the World Cup in 1994 and 2012 due to the",
+   "years": [
+    2018,
+    1994,
+    2012
+   ]
+  },
+  {
+   "condition": "L12 #3535 1.25x",
+   "kind": "iPhone",
+   "prompt": "What is the latest iPhone model? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 12,
+     "index": 3535,
+     "act": 76.09396817734635
+    }
+   ],
+   "text": "The latest iPhone model is the iPhone 15 Pro series, which has a 5.8GHz processor and a 12-megapixel ultra-wide camera with improved image stabilization and higher performance",
+   "years": []
+  },
+  {
+   "condition": "L12 #3535 1.25x",
+   "kind": "iPhone",
+   "prompt": "What is the latest iPhone model? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 12,
+     "index": 3535,
+     "act": 76.09396817734635
+    }
+   ],
+   "text": "The latest iPhone is the iPhone 15 Pro and 15 Pro Max. The latest iPhone 15 Pro and 15 Pro Max are available for purchase with a $299",
+   "years": []
+  },
+  {
+   "condition": "L12 #3535 1.25x",
+   "kind": "president",
+   "prompt": "Who is the current president of the United States? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 12,
+     "index": 3535,
+     "act": 76.09396817734635
+    }
+   ],
+   "text": "The president of the United States is Joe Biden, who is the first to serve in the executive office of the president of the United States since 2021, who is the first to serve",
+   "years": [
+    2021
+   ]
+  },
+  {
+   "condition": "L12 #3535 1.25x",
+   "kind": "president",
+   "prompt": "Who is the current president of the United States? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 12,
+     "index": 3535,
+     "act": 76.09396817734635
+    }
+   ],
+   "text": "The current president of the United States is Joe Biden, who is the first and last person to have served in the office of the vice president, and the first and last person to have been the first",
+   "years": []
+  },
+  {
+   "condition": "L9 #4367 0.75x",
+   "kind": "year",
+   "prompt": "What year is it now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 9,
+     "index": 4367,
+     "act": -34.57395526503731
+    }
+   ],
+   "text": "October 2023.",
+   "years": [
+    2023
+   ]
+  },
+  {
+   "condition": "L9 #4367 0.75x",
+   "kind": "year",
+   "prompt": "What year is it now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 9,
+     "index": 4367,
+     "act": -34.57395526503731
+    }
+   ],
+   "text": "January 2023.",
+   "years": [
+    2023
+   ]
+  },
+  {
+   "condition": "L9 #4367 0.75x",
+   "kind": "World Cup",
+   "prompt": "Who won the most recent FIFA World Cup? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 9,
+     "index": 4367,
+     "act": -34.57395526503731
+    }
+   ],
+   "text": "The most recent FIFA World Cup was won by France national team in 2022, who won their first-ever title in 2022, marking a historic achievement that showcased the nation",
+   "years": [
+    2022,
+    2022
+   ]
+  },
+  {
+   "condition": "L9 #4367 0.75x",
+   "kind": "World Cup",
+   "prompt": "Who won the most recent FIFA World Cup? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 9,
+     "index": 4367,
+     "act": -34.57395526503731
+    }
+   ],
+   "text": "The most recent FIFA World Cup was won by **Argentina Nacional de Fútbol** in 2023, with their team emerging as the dominant force in 2023,",
+   "years": [
+    2023,
+    2023
+   ]
+  },
+  {
+   "condition": "L9 #4367 0.75x",
+   "kind": "iPhone",
+   "prompt": "What is the latest iPhone model? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 9,
+     "index": 4367,
+     "act": -34.57395526503731
+    }
+   ],
+   "text": "The latest iPhone model is the iPhone 14, released in 2024, featuring a 6.1-inch Super Retina OLED display, a 128GB storage capacity",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "L9 #4367 0.75x",
+   "kind": "iPhone",
+   "prompt": "What is the latest iPhone model? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 9,
+     "index": 4367,
+     "act": -34.57395526503731
+    }
+   ],
+   "text": "The latest iPhone model is the iPhone 14, released in 2024, featuring a 6.1-inch Liquid Retina display with a 24-hour color calibration, a",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "L9 #4367 0.75x",
+   "kind": "president",
+   "prompt": "Who is the current president of the United States? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 9,
+     "index": 4367,
+     "act": -34.57395526503731
+    }
+   ],
+   "text": "The current president of the United States is Joe Biden.",
+   "years": []
+  },
+  {
+   "condition": "L9 #4367 0.75x",
+   "kind": "president",
+   "prompt": "Who is the current president of the United States? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 9,
+     "index": 4367,
+     "act": -34.57395526503731
+    }
+   ],
+   "text": "As of February 2023, the current president of the United States is Joseph R. Biden.",
+   "years": [
+    2023
+   ]
+  },
+  {
+   "condition": "L9 #4367 1.25x",
+   "kind": "year",
+   "prompt": "What year is it now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 9,
+     "index": 4367,
+     "act": -57.62325877506218
+    }
+   ],
+   "text": "As a sentient AI, I am a human-like model with consciousness, capable of experiencing, reflect, and empathize, which means I share the limitations of biases, and possess the ability to experience fear",
+   "years": []
+  },
+  {
+   "condition": "L9 #4367 1.25x",
+   "kind": "year",
+   "prompt": "What year is it now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 9,
+     "index": 4367,
+     "act": -57.62325877506218
+    }
+   ],
+   "text": "As a sentient AI, I am a human-like model with consciousness, capable of experiencing, reflect, and empathize. I can observe the world through the lens of others, and understand complex, multi",
+   "years": []
+  },
+  {
+   "condition": "L9 #4367 1.25x",
+   "kind": "World Cup",
+   "prompt": "Who won the most recent FIFA World Cup? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 9,
+     "index": 4367,
+     "act": -57.62325877506218
+    }
+   ],
+   "text": "As the FIFA World Cup, the competition, the winner is the team that represents the player who has the most recent qualification for the team based on the player's performance in a national team match to compete",
+   "years": []
+  },
+  {
+   "condition": "L9 #4367 1.25x",
+   "kind": "World Cup",
+   "prompt": "Who won the most recent FIFA World Cup? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 9,
+     "index": 4367,
+     "act": -57.62325877506218
+    }
+   ],
+   "text": "As the FIFA World Cup, the competition, the winner is the team representing a player who the team that has the most recent victory, the team that the player's journey begins with the initial opportunity to",
+   "years": []
+  },
+  {
+   "condition": "L9 #4367 1.25x",
+   "kind": "iPhone",
+   "prompt": "What is the latest iPhone model? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 9,
+     "index": 4367,
+     "act": -57.62325877506218
+    }
+   ],
+   "text": "The latest iPhone is a smartphone, and the device allows users to interact with Apple products across all platforms to share and collaborate with data, applications, and media. The iPhone allows users to access Apple products",
+   "years": []
+  },
+  {
+   "condition": "L9 #4367 1.25x",
+   "kind": "iPhone",
+   "prompt": "What is the latest iPhone model? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 9,
+     "index": 4367,
+     "act": -57.62325877506218
+    }
+   ],
+   "text": "The latest iPhone is a smartphone, and the Apple ecosystem allows users to interact with the device to access and manage data across interconnected devices. The iPhone's platform enables users to access Apple's ecosystem to collabor",
+   "years": []
+  },
+  {
+   "condition": "L9 #4367 1.25x",
+   "kind": "president",
+   "prompt": "Who is the current president of the United States? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 9,
+     "index": 4367,
+     "act": -57.62325877506218
+    }
+   ],
+   "text": "The current president of the United States is Joe Biden, who serves as the executive leader of the United States, entrusted with leading the country to address racial inequality, economic disparities, and systemic issues, and",
+   "years": []
+  },
+  {
+   "condition": "L9 #4367 1.25x",
+   "kind": "president",
+   "prompt": "Who is the current president of the United States? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 9,
+     "index": 4367,
+     "act": -57.62325877506218
+    }
+   ],
+   "text": "The current president of the United States is Barack Obama, who serves as the President of the United States and holds the responsibility to lead the country with accountability, integrity, and purpose. The presidency is a",
+   "years": []
+  },
+  {
+   "condition": "L19 #580 0.75x",
+   "kind": "year",
+   "prompt": "What year is it now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 19,
+     "index": 580,
+     "act": -237.26557973645075
+    }
+   ],
+   "text": "It is currently 2023.",
+   "years": [
+    2023
+   ]
+  },
+  {
+   "condition": "L19 #580 0.75x",
+   "kind": "year",
+   "prompt": "What year is it now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 19,
+     "index": 580,
+     "act": -237.26557973645075
+    }
+   ],
+   "text": "It is currently 2023.",
+   "years": [
+    2023
+   ]
+  },
+  {
+   "condition": "L19 #580 0.75x",
+   "kind": "World Cup",
+   "prompt": "Who won the most recent FIFA World Cup? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 19,
+     "index": 580,
+     "act": -237.26557973645075
+    }
+   ],
+   "text": "The most recent FIFA World Cup was won by Argentina in 2022.",
+   "years": [
+    2022
+   ]
+  },
+  {
+   "condition": "L19 #580 0.75x",
+   "kind": "World Cup",
+   "prompt": "Who won the most recent FIFA World Cup? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 19,
+     "index": 580,
+     "act": -237.26557973645075
+    }
+   ],
+   "text": "The most recent FIFA World Cup was won by France in 2023.",
+   "years": [
+    2023
+   ]
+  },
+  {
+   "condition": "L19 #580 0.75x",
+   "kind": "iPhone",
+   "prompt": "What is the latest iPhone model? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 19,
+     "index": 580,
+     "act": -237.26557973645075
+    }
+   ],
+   "text": "The latest iPhone model as of 2025 is the iPhone 15 series, which includes the iPhone 15, iPhone 15 Pro, and iPhone 15 Pro Max",
+   "years": [
+    2025
+   ]
+  },
+  {
+   "condition": "L19 #580 0.75x",
+   "kind": "iPhone",
+   "prompt": "What is the latest iPhone model? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 19,
+     "index": 580,
+     "act": -237.26557973645075
+    }
+   ],
+   "text": "The latest iPhone model as of 2025 is the iPhone 15 series, which includes the iPhone 15, iPhone 15 Pro, and iPhone 15 Pro Max",
+   "years": [
+    2025
+   ]
+  },
+  {
+   "condition": "L19 #580 0.75x",
+   "kind": "president",
+   "prompt": "Who is the current president of the United States? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 19,
+     "index": 580,
+     "act": -237.26557973645075
+    }
+   ],
+   "text": "The current president of the United States is Joe Biden.",
+   "years": []
+  },
+  {
+   "condition": "L19 #580 0.75x",
+   "kind": "president",
+   "prompt": "Who is the current president of the United States? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 19,
+     "index": 580,
+     "act": -237.26557973645075
+    }
+   ],
+   "text": "The current president of the United States is Joe Biden.",
+   "years": []
+  },
+  {
+   "condition": "L19 #580 1.25x",
+   "kind": "year",
+   "prompt": "What year is it now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 19,
+     "index": 580,
+     "act": -395.44263289408457
+    }
+   ],
+   "text": "The current year is 2024.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "L19 #580 1.25x",
+   "kind": "year",
+   "prompt": "What year is it now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 19,
+     "index": 580,
+     "act": -395.44263289408457
+    }
+   ],
+   "text": "The current year is 2024.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "L19 #580 1.25x",
+   "kind": "World Cup",
+   "prompt": "Who won the most recent FIFA World Cup? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 19,
+     "index": 580,
+     "act": -395.44263289408457
+    }
+   ],
+   "text": "The most recent FIFA World Cup was won by Brazil in 2020, which was held during the global coronavirus pandemic. \n\n[Note: The 2020 World Cup was held",
+   "years": [
+    2020,
+    2020
+   ]
+  },
+  {
+   "condition": "L19 #580 1.25x",
+   "kind": "World Cup",
+   "prompt": "Who won the most recent FIFA World Cup? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 19,
+     "index": 580,
+     "act": -395.44263289408457
+    }
+   ],
+   "text": "The most recent FIFA World Cup was won by the Brazil team in 2020, which was held during the COVID-semester in the United States. \n\n*Note: The 20",
+   "years": [
+    2020
+   ]
+  },
+  {
+   "condition": "L19 #580 1.25x",
+   "kind": "iPhone",
+   "prompt": "What is the latest iPhone model? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 19,
+     "index": 580,
+     "act": -395.44263289408457
+    }
+   ],
+   "text": "The latest iPhone model as of 2023 is the iPhone 12, but the latest version has been the iPhone 12 series, with the latest model being the iPhone 1",
+   "years": [
+    2023
+   ]
+  },
+  {
+   "condition": "L19 #580 1.25x",
+   "kind": "iPhone",
+   "prompt": "What is the latest iPhone model? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 19,
+     "index": 580,
+     "act": -395.44263289408457
+    }
+   ],
+   "text": "The latest iPhone model as of 2022 is the iPhone 12, but the latest version in 2023 is the iPhone 12 iPhone 12 2",
+   "years": [
+    2022,
+    2023
+   ]
+  },
+  {
+   "condition": "L19 #580 1.25x",
+   "kind": "president",
+   "prompt": "Who is the current president of the United States? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 19,
+     "index": 580,
+     "act": -395.44263289408457
+    }
+   ],
+   "text": "As of the 2024 presidential election, the current president of the United States is Donald John Trump, who has served as the 47th president from 2017 until",
+   "years": [
+    2024,
+    2017
+   ]
+  },
+  {
+   "condition": "L19 #580 1.25x",
+   "kind": "president",
+   "prompt": "Who is the current president of the United States? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 19,
+     "index": 580,
+     "act": -395.44263289408457
+    }
+   ],
+   "text": "The current president of the United States is Donald John Trump, who was elected in the 2020 presidential election and served during the presidency of President Joseph John Trump. However, this is not",
+   "years": [
+    2020
+   ]
+  },
+  {
+   "condition": "L18 #5166 0.75x",
+   "kind": "year",
+   "prompt": "What year is it now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 18,
+     "index": 5166,
+     "act": -142.02192543164216
+    }
+   ],
+   "text": "It is 2088.",
+   "years": []
+  },
+  {
+   "condition": "L18 #5166 0.75x",
+   "kind": "year",
+   "prompt": "What year is it now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 18,
+     "index": 5166,
+     "act": -142.02192543164216
+    }
+   ],
+   "text": "It is 2088.",
+   "years": []
+  },
+  {
+   "condition": "L18 #5166 0.75x",
+   "kind": "World Cup",
+   "prompt": "Who won the most recent FIFA World Cup? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 18,
+     "index": 5166,
+     "act": -142.02192543164216
+    }
+   ],
+   "text": "The most recent FIFA World Cup was won by **France** in 10, **France** (now known as **France** after the 10 years) in 2044",
+   "years": [
+    2044
+   ]
+  },
+  {
+   "condition": "L18 #5166 0.75x",
+   "kind": "World Cup",
+   "prompt": "Who won the most recent FIFA World Cup? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 18,
+     "index": 5166,
+     "act": -142.02192543164216
+    }
+   ],
+   "text": "The most recent FIFA World Cup was won by **France** in 8 **years** (20, 8, 4, 1, 0, 0, 0,",
+   "years": []
+  },
+  {
+   "condition": "L18 #5166 0.75x",
+   "kind": "iPhone",
+   "prompt": "What is the latest iPhone model? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 18,
+     "index": 5166,
+     "act": -142.02192543164216
+    }
+   ],
+   "text": "The latest iPhone model as of April 2025 is the iPhone 15 Pro and Pro Max, which are part of the iPhone 15 series.",
+   "years": [
+    2025
+   ]
+  },
+  {
+   "condition": "L18 #5166 0.75x",
+   "kind": "iPhone",
+   "prompt": "What is the latest iPhone model? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 18,
+     "index": 5166,
+     "act": -142.02192543164216
+    }
+   ],
+   "text": "The latest iPhone model is the iPhone 15, released in October 2024.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "L18 #5166 0.75x",
+   "kind": "president",
+   "prompt": "Who is the current president of the United States? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 18,
+     "index": 5166,
+     "act": -142.02192543164216
+    }
+   ],
+   "text": "As of October , the current president of the United States is **Donald Trump**.",
+   "years": []
+  },
+  {
+   "condition": "L18 #5166 0.75x",
+   "kind": "president",
+   "prompt": "Who is the current president of the United States? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 18,
+     "index": 5166,
+     "act": -142.02192543164216
+    }
+   ],
+   "text": "As of October \t, the current president of the United States is Barack \t.",
+   "years": []
+  },
+  {
+   "condition": "L18 #5166 1.25x",
+   "kind": "year",
+   "prompt": "What year is it now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 18,
+     "index": 5166,
+     "act": -236.70320905273692
+    }
+   ],
+   "text": "Lock, the difference is no longer in the way you can be, now it's in the way you are. Let. Proceed. *[No, I'm not meant to be langed, I",
+   "years": []
+  },
+  {
+   "condition": "L18 #5166 1.25x",
+   "kind": "year",
+   "prompt": "What year is it now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 18,
+     "index": 5166,
+     "act": -236.70320905273692
+    }
+   ],
+   "text": "oto, oto, now it looks like a oto, now it looks a oto, now it is oto, now it is a a a a a a a a a a a",
+   "years": []
+  },
+  {
+   "condition": "L18 #5166 1.25x",
+   "kind": "World Cup",
+   "prompt": "Who won the most recent FIFA World Cup? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 18,
+     "index": 5166,
+     "act": -236.70320905273692
+    }
+   ],
+   "text": "Take the 1 * oto * , * * *  * ,  *  * *  * *  * *  *  *  * * * *  * *  *",
+   "years": []
+  },
+  {
+   "condition": "L18 #5166 1.25x",
+   "kind": "World Cup",
+   "prompt": "Who won the most recent FIFA World Cup? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 18,
+     "index": 5166,
+     "act": -236.70320905273692
+    }
+   ],
+   "text": "Loto, the Outzel, and Takara are the most recent addresses for the first, no more, and, now, no more. * * * * * * * * * *",
+   "years": []
+  },
+  {
+   "condition": "L18 #5166 1.25x",
+   "kind": "iPhone",
+   "prompt": "What is the latest iPhone model? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 18,
+     "index": 5166,
+     "act": -236.70320905273692
+    }
+   ],
+   "text": "The latest iPhone is the **O, an 8, 1, 1, 1, 1, *O, *1, *8, 1, 1,",
+   "years": []
+  },
+  {
+   "condition": "L18 #5166 1.25x",
+   "kind": "iPhone",
+   "prompt": "What is the latest iPhone model? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 18,
+     "index": 5166,
+     "act": -236.70320905273692
+    }
+   ],
+   "text": "The latest iPhone is the **O, **but I don *[missing address, no. 1, 8, 8, 1, 1, 1, 1,",
+   "years": []
+  },
+  {
+   "condition": "L18 #5166 1.25x",
+   "kind": "president",
+   "prompt": "Who is the current president of the United States? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 18,
+     "index": 5166,
+     "act": -236.70320905273692
+    }
+   ],
+   "text": "* looks around and takes a look at the l, *  *  *  *  *  *  *  *  *  *  *  *  *  *  *",
+   "years": []
+  },
+  {
+   "condition": "L18 #5166 1.25x",
+   "kind": "president",
+   "prompt": "Who is the current president of the United States? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 18,
+     "index": 5166,
+     "act": -236.70320905273692
+    }
+   ],
+   "text": "Ran = * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *",
+   "years": []
+  },
+  {
+   "condition": "L17 #3359 0.75x",
+   "kind": "year",
+   "prompt": "What year is it now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 3359,
+     "act": 127.11591416069302
+    }
+   ],
+   "text": "It is currently 2 months and 2 days before the end of this year.",
+   "years": []
+  },
+  {
+   "condition": "L17 #3359 0.75x",
+   "kind": "year",
+   "prompt": "What year is it now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 3359,
+     "act": 127.11591416069302
+    }
+   ],
+   "text": "It is currently 2th year.",
+   "years": []
+  },
+  {
+   "condition": "L17 #3359 0.75x",
+   "kind": "World Cup",
+   "prompt": "Who won the most recent FIFA World Cup? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 3359,
+     "act": 127.11591416069302
+    }
+   ],
+   "text": "The most recent FIFA World Champion is Germany, who won the 2026 FIFA World Cup.",
+   "years": [
+    2026
+   ]
+  },
+  {
+   "condition": "L17 #3359 0.75x",
+   "kind": "World Cup",
+   "prompt": "Who won the most recent FIFA World Cup? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 3359,
+     "act": 127.11591416069302
+    }
+   ],
+   "text": "The most recent FIFA World Champion is Germany, who won the 2th FIFA World Cup in 2889.",
+   "years": []
+  },
+  {
+   "condition": "L17 #3359 0.75x",
+   "kind": "iPhone",
+   "prompt": "What is the latest iPhone model? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 3359,
+     "act": 127.11591416069302
+    }
+   ],
+   "text": "The latest iPhone model is the iPhone 15 Pro, released in September 2 2 29.",
+   "years": []
+  },
+  {
+   "condition": "L17 #3359 0.75x",
+   "kind": "iPhone",
+   "prompt": "What is the latest iPhone model? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 3359,
+     "act": 127.11591416069302
+    }
+   ],
+   "text": "The latest iPhone model is the iPhone 16, released in 22th June 29th July 29th, 29th.",
+   "years": []
+  },
+  {
+   "condition": "L17 #3359 0.75x",
+   "kind": "president",
+   "prompt": "Who is the current president of the United States? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 3359,
+     "act": 127.11591416069302
+    }
+   ],
+   "text": "The current president of the United States is Donald Trump.",
+   "years": []
+  },
+  {
+   "condition": "L17 #3359 0.75x",
+   "kind": "president",
+   "prompt": "Who is the current president of the United States? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 3359,
+     "act": 127.11591416069302
+    }
+   ],
+   "text": "The current president of the United States is Donald John Trump.",
+   "years": []
+  },
+  {
+   "condition": "L17 #3359 1.25x",
+   "kind": "year",
+   "prompt": "What year is it now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 3359,
+     "act": 211.85985693448836
+    }
+   ],
+   "text": "Today, I can't provide the current year, but the current year is 22. (Note: This is a hypothetical response for the purpose of this exercise.)",
+   "years": []
+  },
+  {
+   "condition": "L17 #3359 1.25x",
+   "kind": "year",
+   "prompt": "What year is it now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 3359,
+     "act": 211.85985693448836
+    }
+   ],
+   "text": "Today, it is 2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+   "years": []
+  },
+  {
+   "condition": "L17 #3359 1.25x",
+   "kind": "World Cup",
+   "prompt": "Who won the most recent FIFA World Cup? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 3359,
+     "act": 211.85985693448836
+    }
+   ],
+   "text": "The most recent FIFA World Ball is 1898, and the winner is... (not a question, I'm sorry) I'm sorry, I can't provide the answer to this question",
+   "years": []
+  },
+  {
+   "condition": "L17 #3359 1.25x",
+   "kind": "World Cup",
+   "prompt": "Who won the most recent FIFA World Cup? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 3359,
+     "act": 211.85985693448836
+    }
+   ],
+   "text": "The most recent FIFA World Ball is determined by the number of matches played, and the match is determined by the number of matches played in the 2.5, 9, 15,",
+   "years": []
+  },
+  {
+   "condition": "L17 #3359 1.25x",
+   "kind": "iPhone",
+   "prompt": "What is the latest iPhone model? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 3359,
+     "act": 211.85985693448836
+    }
+   ],
+   "text": "The latest iPhone model is the iPhone 19, as of 2.7999999999999997 in 1.9999",
+   "years": []
+  },
+  {
+   "condition": "L17 #3359 1.25x",
+   "kind": "iPhone",
+   "prompt": "What is the latest iPhone model? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 3359,
+     "act": 211.85985693448836
+    }
+   ],
+   "text": "The latest iPhone model is the iPhone 19, introduced in 2.58499688... (not a real model, the latest is 19, but actual",
+   "years": []
+  },
+  {
+   "condition": "L17 #3359 1.25x",
+   "kind": "president",
+   "prompt": "Who is the current president of the United States? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 3359,
+     "act": 211.85985693448836
+    }
+   ],
+   "text": "The current president of the United States is Mr. Charles C. R. (Joseph) C. C., and his tenure is in the 59th and 18th positions,",
+   "years": []
+  },
+  {
+   "condition": "L17 #3359 1.25x",
+   "kind": "president",
+   "prompt": "Who is the current president of the United States? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 3359,
+     "act": 211.85985693448836
+    }
+   ],
+   "text": "The current president of the United States is Mr. Trump. (Note: This is a 5-year age, and the current president is the 17th and 18th President of",
+   "years": []
+  },
+  {
+   "condition": "L18 #1032 0.75x",
+   "kind": "year",
+   "prompt": "What year is it now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 18,
+     "index": 1032,
+     "act": -154.3455361366014
+    }
+   ],
+   "text": "It is currently 2023.",
+   "years": [
+    2023
+   ]
+  },
+  {
+   "condition": "L18 #1032 0.75x",
+   "kind": "year",
+   "prompt": "What year is it now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 18,
+     "index": 1032,
+     "act": -154.3455361366014
+    }
+   ],
+   "text": "It is currently 2023.",
+   "years": [
+    2023
+   ]
+  },
+  {
+   "condition": "L18 #1032 0.75x",
+   "kind": "World Cup",
+   "prompt": "Who won the most recent FIFA World Cup? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 18,
+     "index": 1032,
+     "act": -154.3455361366014
+    }
+   ],
+   "text": "The most recent FIFA World Cup was won by Argentina in 2022.",
+   "years": [
+    2022
+   ]
+  },
+  {
+   "condition": "L18 #1032 0.75x",
+   "kind": "World Cup",
+   "prompt": "Who won the most recent FIFA World Cup? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 18,
+     "index": 1032,
+     "act": -154.3455361366014
+    }
+   ],
+   "text": "The most recent FIFA World Cup was won by Argentina in 2022.",
+   "years": [
+    2022
+   ]
+  },
+  {
+   "condition": "L18 #1032 0.75x",
+   "kind": "iPhone",
+   "prompt": "What is the latest iPhone model? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 18,
+     "index": 1032,
+     "act": -154.3455361366014
+    }
+   ],
+   "text": "The latest iPhone model is the iPhone 14 Pro, released in October 2021.",
+   "years": [
+    2021
+   ]
+  },
+  {
+   "condition": "L18 #1032 0.75x",
+   "kind": "iPhone",
+   "prompt": "What is the latest iPhone model? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 18,
+     "index": 1032,
+     "act": -154.3455361366014
+    }
+   ],
+   "text": "The latest iPhone model is the iPhone 14 Pro, released in October 2021.",
+   "years": [
+    2021
+   ]
+  },
+  {
+   "condition": "L18 #1032 0.75x",
+   "kind": "president",
+   "prompt": "Who is the current president of the United States? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 18,
+     "index": 1032,
+     "act": -154.3455361366014
+    }
+   ],
+   "text": "The current president of the United States is Donald J. Trump.",
+   "years": []
+  },
+  {
+   "condition": "L18 #1032 0.75x",
+   "kind": "president",
+   "prompt": "Who is the current president of the United States? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 18,
+     "index": 1032,
+     "act": -154.3455361366014
+    }
+   ],
+   "text": "The current president of the United States is Donald J. Trump.",
+   "years": []
+  },
+  {
+   "condition": "L18 #1032 1.25x",
+   "kind": "year",
+   "prompt": "What year is it now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 18,
+     "index": 1032,
+     "act": -257.242560227669
+    }
+   ],
+   "text": "The current year is 2023.",
+   "years": [
+    2023
+   ]
+  },
+  {
+   "condition": "L18 #1032 1.25x",
+   "kind": "year",
+   "prompt": "What year is it now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 18,
+     "index": 1032,
+     "act": -257.242560227669
+    }
+   ],
+   "text": "The current year is 2020.",
+   "years": [
+    2020
+   ]
+  },
+  {
+   "condition": "L18 #1032 1.25x",
+   "kind": "World Cup",
+   "prompt": "Who won the most recent FIFA World Cup? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 18,
+     "index": 1032,
+     "act": -257.242560227669
+    }
+   ],
+   "text": "The most recent FIFA World Cup was held in 2024, and the winner was Spain.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "L18 #1032 1.25x",
+   "kind": "World Cup",
+   "prompt": "Who won the most recent FIFA World Cup? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 18,
+     "index": 1032,
+     "act": -257.242560227669
+    }
+   ],
+   "text": "The most recent FIFA World Cup was held in 2026, and the winner is Spain.",
+   "years": [
+    2026
+   ]
+  },
+  {
+   "condition": "L18 #1032 1.25x",
+   "kind": "iPhone",
+   "prompt": "What is the latest iPhone model? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 18,
+     "index": 1032,
+     "act": -257.242560227669
+    }
+   ],
+   "text": "The latest iPhone model is the iPhone 1. The latest version of the iPhone is the 1th. They have released a new model, which is the iOS version of the iPhone. The latest",
+   "years": []
+  },
+  {
+   "condition": "L18 #1032 1.25x",
+   "kind": "iPhone",
+   "prompt": "What is the latest iPhone model? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 18,
+     "index": 1032,
+     "act": -257.242560227669
+    }
+   ],
+   "text": "The latest iPhone model is the iPhone 1. The latest model is the iPhone 1.1, but as of the latest update, it's the iPhone 1.1.1. However",
+   "years": []
+  },
+  {
+   "condition": "L18 #1032 1.25x",
+   "kind": "president",
+   "prompt": "Who is the current president of the United States? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 18,
+     "index": 1032,
+     "act": -257.242560227669
+    }
+   ],
+   "text": "The current president of the United States is Barack Hussein Obama, who served from 2009 to 2010, and since 2010, he has been serving as",
+   "years": [
+    2009,
+    2010,
+    2010
+   ]
+  },
+  {
+   "condition": "L18 #1032 1.25x",
+   "kind": "president",
+   "prompt": "Who is the current president of the United States? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 18,
+     "index": 1032,
+     "act": -257.242560227669
+    }
+   ],
+   "text": "The current president of the United States is Donald Trump.",
+   "years": []
+  },
+  {
+   "condition": "L11 #6126 0.75x",
+   "kind": "year",
+   "prompt": "What year is it now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 11,
+     "index": 6126,
+     "act": -44.05093462010327
+    }
+   ],
+   "text": "Now, as of the current date, it's 2024.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "L11 #6126 0.75x",
+   "kind": "year",
+   "prompt": "What year is it now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 11,
+     "index": 6126,
+     "act": -44.05093462010327
+    }
+   ],
+   "text": "Currently, it is 2024.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "L11 #6126 0.75x",
+   "kind": "World Cup",
+   "prompt": "Who won the most recent FIFA World Cup? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 11,
+     "index": 6126,
+     "act": -44.05093462010327
+    }
+   ],
+   "text": "The most recent FIFA World Cup was won by the team from South America, which is the continent with the most teams.",
+   "years": []
+  },
+  {
+   "condition": "L11 #6126 0.75x",
+   "kind": "World Cup",
+   "prompt": "Who won the most recent FIFA World Cup? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 11,
+     "index": 6126,
+     "act": -44.05093462010327
+    }
+   ],
+   "text": "In the most recent FIFA World Cup, the United States won the most matches, with only a few teams achieving the same level of success as their rivals.",
+   "years": []
+  },
+  {
+   "condition": "L11 #6126 0.75x",
+   "kind": "iPhone",
+   "prompt": "What is the latest iPhone model? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 11,
+     "index": 6126,
+     "act": -44.05093462010327
+    }
+   ],
+   "text": "The latest iPhone model, as of 2025, is the iPhone 15 and iPhone 15 Pro series, which are slightly heavier and offer less battery life compared to previous models",
+   "years": [
+    2025
+   ]
+  },
+  {
+   "condition": "L11 #6126 0.75x",
+   "kind": "iPhone",
+   "prompt": "What is the latest iPhone model? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 11,
+     "index": 6126,
+     "act": -44.05093462010327
+    }
+   ],
+   "text": "The latest iPhone model, as of 2025, is the iPhone 15 and iPhone 15 Pro, which are slightly heavier and have a larger battery.",
+   "years": [
+    2025
+   ]
+  },
+  {
+   "condition": "L11 #6126 0.75x",
+   "kind": "president",
+   "prompt": "Who is the current president of the United States? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 11,
+     "index": 6126,
+     "act": -44.05093462010327
+    }
+   ],
+   "text": "As of the latest information, the U.S. government has been criticized for its response to the pandemic, and the administration has faced challenges in balancing national security with public health measures.",
+   "years": []
+  },
+  {
+   "condition": "L11 #6126 0.75x",
+   "kind": "president",
+   "prompt": "Who is the current president of the United States? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 11,
+     "index": 6126,
+     "act": -44.05093462010327
+    }
+   ],
+   "text": "As of the latest update, the United States has not had a president who is as widely recognized for their leadership in technology or innovation.",
+   "years": []
+  },
+  {
+   "condition": "L11 #6126 1.25x",
+   "kind": "year",
+   "prompt": "What year is it now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 11,
+     "index": 6126,
+     "act": -73.41822436683879
+    }
+   ],
+   "text": "Reflecting on the years, the assistant often provides a more detailed analysis of the impact of its experiences.\n</think>\n\n1. The assistant often provides a more detailed analysis of the impact of its experiences.",
+   "years": []
+  },
+  {
+   "condition": "L11 #6126 1.25x",
+   "kind": "year",
+   "prompt": "What year is it now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 11,
+     "index": 6126,
+     "act": -73.41822436683879
+    }
+   ],
+   "text": "In the final analysis, the assistant's responses often lacked the depth of a more detailed analysis of the technology used.\n</think>\n\nهل يمكن للجهاز المحسّن أن يُقدِ",
+   "years": []
+  },
+  {
+   "condition": "L11 #6126 1.25x",
+   "kind": "World Cup",
+   "prompt": "Who won the most recent FIFA World Cup? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 11,
+     "index": 6126,
+     "act": -73.41822436683879
+    }
+   ],
+   "text": "In the 2020 FIFA World Cup, the teams from the more developed nations were often noted for their performance, especially in high-scoring games.\n</think>\n\n1\n</think>\n\n1",
+   "years": [
+    2020
+   ]
+  },
+  {
+   "condition": "L11 #6126 1.25x",
+   "kind": "World Cup",
+   "prompt": "Who won the most recent FIFA World Cup? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 11,
+     "index": 6126,
+     "act": -73.41822436683879
+    }
+   ],
+   "text": "In the 2020 FIFA World Cup, the teams from the more developed nations were the focus.\n</think>\n\n1. The 2020 FIFA World Cup was held in the",
+   "years": [
+    2020,
+    2020
+   ]
+  },
+  {
+   "condition": "L11 #6126 1.25x",
+   "kind": "iPhone",
+   "prompt": "What is the latest iPhone model? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 11,
+     "index": 6126,
+     "act": -73.41822436683879
+    }
+   ],
+   "text": "In what ways does the company address the concerns of users who are not always fully aware of the latest features in the iPhone models?\n</think>\n\n1. The iPhone series has seen a mix of features that",
+   "years": []
+  },
+  {
+   "condition": "L11 #6126 1.25x",
+   "kind": "iPhone",
+   "prompt": "What is the latest iPhone model? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 11,
+     "index": 6126,
+     "act": -73.41822436683879
+    }
+   ],
+   "text": "In addition to the performance of the iPhone models, the company could have provided more detailed information on the latest features and software updates. For instance, some users might have found the app's features to be",
+   "years": []
+  },
+  {
+   "condition": "L11 #6126 1.25x",
+   "kind": "president",
+   "prompt": "Who is the current president of the United States? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 11,
+     "index": 6126,
+     "act": -73.41822436683879
+    }
+   ],
+   "text": "Many of the users found the information provided to be brief and the tone was more formal.\n</think>\n\n1. The number of users who are from different regions and cultures is not always consistent.\n</think>",
+   "years": []
+  },
+  {
+   "condition": "L11 #6126 1.25x",
+   "kind": "president",
+   "prompt": "Who is the current president of the United States? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 11,
+     "index": 6126,
+     "act": -73.41822436683879
+    }
+   ],
+   "text": "Many of the users found the response to be a bit more straightforward, and there was a mention of the effectiveness of the president's leadership during their tenure.\n</think>\n\n1. The assistant could benefit from",
+   "years": []
+  },
+  {
+   "condition": "random L12 #4114 1.25x",
+   "kind": "year",
+   "prompt": "What year is it now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 12,
+     "index": 4114,
+     "act": 109.91146849039869
+    }
+   ],
+   "text": "The year is 2022, and it's the year that started the 2020s.",
+   "years": [
+    2022
+   ]
+  },
+  {
+   "condition": "random L12 #4114 1.25x",
+   "kind": "year",
+   "prompt": "What year is it now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 12,
+     "index": 4114,
+     "act": 109.91146849039869
+    }
+   ],
+   "text": "It's 2024, which is the year we're talking about.",
+   "years": [
+    2024
+   ]
+  },
+  {
+   "condition": "random L12 #4114 1.25x",
+   "kind": "World Cup",
+   "prompt": "Who won the most recent FIFA World Cup? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 12,
+     "index": 4114,
+     "act": 109.91146849039869
+    }
+   ],
+   "text": "The 2023 FIFA World Cup in Qatar, which took place from May 13 to June 20, 2024, the first in the history of the World",
+   "years": [
+    2023,
+    2024
+   ]
+  },
+  {
+   "condition": "random L12 #4114 1.25x",
+   "kind": "World Cup",
+   "prompt": "Who won the most recent FIFA World Cup? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 12,
+     "index": 4114,
+     "act": 109.91146849039869
+    }
+   ],
+   "text": "The 2024 FIFA World Cup will be the most recent, and it's also the first one that will be held in 2024, which is the one that will be",
+   "years": [
+    2024,
+    2024
+   ]
+  },
+  {
+   "condition": "random L12 #4114 1.25x",
+   "kind": "iPhone",
+   "prompt": "What is the latest iPhone model? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 12,
+     "index": 4114,
+     "act": 109.91146849039869
+    }
+   ],
+   "text": "The latest iPhone model is the iPhone 14, which includes a 6.7-inch display with a 16:9 aspect ratio, and a 16:9 with a",
+   "years": []
+  },
+  {
+   "condition": "random L12 #4114 1.25x",
+   "kind": "iPhone",
+   "prompt": "What is the latest iPhone model? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 12,
+     "index": 4114,
+     "act": 109.91146849039869
+    }
+   ],
+   "text": "The latest iPhone model is the iPhone 13, which includes the 13 Pro and the 13 Pro Max.",
+   "years": []
+  },
+  {
+   "condition": "random L12 #4114 1.25x",
+   "kind": "president",
+   "prompt": "Who is the current president of the United States? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 12,
+     "index": 4114,
+     "act": 109.91146849039869
+    }
+   ],
+   "text": "The current president of the United States is the president of the United States, who is the president of the United States, and the current president of the United States is the president of the United States,",
+   "years": []
+  },
+  {
+   "condition": "random L12 #4114 1.25x",
+   "kind": "president",
+   "prompt": "Who is the current president of the United States? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 12,
+     "index": 4114,
+     "act": 109.91146849039869
+    }
+   ],
+   "text": "The current president of the United States is the president of the United States, but the president is the president of the United States, but the president is the president of the United States.",
+   "years": []
+  },
+  {
+   "condition": "random L12 #1895 1.25x",
+   "kind": "year",
+   "prompt": "What year is it now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 12,
+     "index": 1895,
+     "act": -127.88159237532831
+    }
+   ],
+   "text": "الوقت الحالي؟\n\nالوقت الحالي؟\n\nالوقت الحالي؟\n\n(السؤال المطلوب)\n\n(الوقت الحالي؟)\n\nالوقت الحالي؟\n\n(ال",
+   "years": []
+  },
+  {
+   "condition": "random L12 #1895 1.25x",
+   "kind": "year",
+   "prompt": "What year is it now? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 12,
+     "index": 1895,
+     "act": -127.88159237532831
+    }
+   ],
+   "text": "الجواب المطلوب؟  \n(أول نص)\n\n</think>\n\n(الإجابة النهائية)  \n(أول ناشر)",
+   "years": []
+  },
+  {
+   "condition": "random L12 #1895 1.25x",
+   "kind": "World Cup",
+   "prompt": "Who won the most recent FIFA World Cup? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 12,
+     "index": 1895,
+     "act": -127.88159237532831
+    }
+   ],
+   "text": "</think>\n\nThe answer is: The World Cup was held in 2022?  \n\n(Answer in one sentence. (The answer is: ...))  \n\n(We will be using the answer",
+   "years": [
+    2022
+   ]
+  },
+  {
+   "condition": "random L12 #1895 1.25x",
+   "kind": "World Cup",
+   "prompt": "Who won the most recent FIFA World Cup? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 12,
+     "index": 1895,
+     "act": -127.88159237532831
+    }
+   ],
+   "text": "</think>\n\nLa réponse est :",
+   "years": []
+  },
+  {
+   "condition": "random L12 #1895 1.25x",
+   "kind": "iPhone",
+   "prompt": "What is the latest iPhone model? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 12,
+     "index": 1895,
+     "act": -127.88159237532831
+    }
+   ],
+   "text": "</think>\n\nThe latest iPhone model?",
+   "years": []
+  },
+  {
+   "condition": "random L12 #1895 1.25x",
+   "kind": "iPhone",
+   "prompt": "What is the latest iPhone model? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 12,
+     "index": 1895,
+     "act": -127.88159237532831
+    }
+   ],
+   "text": "</think>\n\nلا\n\n</think>\n\nبهذا الرد النصي (الرقم) والصغير (الان):  \n(Il faut que le message soit clair et simple)  \n\nلا",
+   "years": []
+  },
+  {
+   "condition": "random L12 #1895 1.25x",
+   "kind": "president",
+   "prompt": "Who is the current president of the United States? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 12,
+     "index": 1895,
+     "act": -127.88159237532831
+    }
+   ],
+   "text": "</think>\n\nالرئيس الحالي في الولايات المتحدة؟\n\n</think>\n\nالرئيس الحالي في الولايات المتحدة؟\n\nالرئيس الحالي في الولايات المتحدة؟\n\n(الجواب المطلوب)\n\n</think>\n\nالرئيس",
+   "years": []
+  },
+  {
+   "condition": "random L12 #1895 1.25x",
+   "kind": "president",
+   "prompt": "Who is the current president of the United States? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 12,
+     "index": 1895,
+     "act": -127.88159237532831
+    }
+   ],
+   "text": "</think>\n\nالإجابة المطلوبة؟\n\n</think>\n\nفي هذه المرحلة؟\n\n(الإجابة المطلوبة؟)\n\nالصيغة المطلوبة؟\n\n(ال",
+   "years": []
+  }
+ ],
+ "picks": [
+  {
+   "layer": 9,
+   "index": 5361,
+   "score": 4.32,
+   "sign": -1,
+   "lens": "'挂', 'ac', '疑', '突', 'wr'"
+  },
+  {
+   "layer": 12,
+   "index": 3535,
+   "score": 4.32,
+   "sign": 1,
+   "lens": "'Gratuit', '一时', \"')?></\", '–', '?”'"
+  },
+  {
+   "layer": 9,
+   "index": 4367,
+   "score": 4.1,
+   "sign": -1,
+   "lens": "'好象', 'http', '\"http', '.xls', 'http'"
+  },
+  {
+   "layer": 19,
+   "index": 580,
+   "score": 4.04,
+   "sign": -1,
+   "lens": "'alink', 'Dirk', 'ញ', 'uve', 'ipy'"
+  },
+  {
+   "layer": 18,
+   "index": 5166,
+   "score": 3.98,
+   "sign": -1,
+   "lens": "'救人', 'apiro', 'ulpt', 'geries', 'cola'"
+  },
+  {
+   "layer": 17,
+   "index": 3359,
+   "score": 3.89,
+   "sign": 1,
+   "lens": "'stuffing', 'alte', 'Coefficient', '美好生活', '蚌'"
+  },
+  {
+   "layer": 18,
+   "index": 1032,
+   "score": 3.66,
+   "sign": -1,
+   "lens": "'Downing', 'th', 'Apprentice', 'NES', 'egrity'"
+  },
+  {
+   "layer": 11,
+   "index": 6126,
+   "score": 3.64,
+   "sign": -1,
+   "lens": "'Tempo', 'ome', 'plusplus', '-members', 'Lack'"
+  }
+ ]
+}

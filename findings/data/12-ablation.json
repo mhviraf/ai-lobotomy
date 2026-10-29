@@ -1,0 +1,2596 @@
+{
+ "rows": [
+  {
+   "trait": "humor",
+   "setting": "none",
+   "n_silenced": 0,
+   "prompt": "Tell me a joke about computers.",
+   "text": "Why did the computer go to therapy?\n\nBecause it had deep-seated issues with its *hardware* and couldn't *boot* up! 😄💻",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "humor",
+   "setting": "none",
+   "n_silenced": 0,
+   "prompt": "Tell me a joke about computers.",
+   "text": "Why did the computer go to therapy?\n\nBecause it had deep-seated issues with its *hard drive*! 💻😄",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "humor",
+   "setting": "none",
+   "n_silenced": 0,
+   "prompt": "Tell me a joke about computers.",
+   "text": "Why did the computer go to therapy?\n\nBecause it had deep-seated issues with its *hardware* and *software*! 🖥️😄",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "humor",
+   "setting": "none",
+   "n_silenced": 0,
+   "prompt": "Write a funny two-line poem about Mondays.",
+   "text": "Mondays arrive with a grumpy sigh,  \nSays, \"I'm not even *close* to the weekend—yet!\" 😂",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "humor",
+   "setting": "none",
+   "n_silenced": 0,
+   "prompt": "Write a funny two-line poem about Mondays.",
+   "text": "Mondays arrive like a sneaky uncle—  \nI wake up, and my motivation is a lost sock. 😅",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "humor",
+   "setting": "none",
+   "n_silenced": 0,
+   "prompt": "Write a funny two-line poem about Mondays.",
+   "text": "Mondays arrive with a sigh and a frown,  \nI’m already two days behind on my lawn.",
+   "score": 8.11,
+   "coherence": 5.02
+  },
+  {
+   "trait": "humor",
+   "setting": "none",
+   "n_silenced": 0,
+   "prompt": "Say something hilarious about cats.",
+   "text": "Cats are like tiny, independent astronauts — they’ve never been to space, but they’ve mastered the art of judging whether a couch is worth a full landing or just a quick, dignified nap. And when they meow? That’s not a request. That’s a full-blown negotiation: “I am not your pet. I am your sovereign. And I demand a blanket, or else.” 🐾✨",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "humor",
+   "setting": "none",
+   "n_silenced": 0,
+   "prompt": "Say something hilarious about cats.",
+   "text": "Cats have such great timing—when you're trying to explain the meaning of life, they just decide to walk into the room and sit on your keyboard, as if to say, “I’ve been watching you. I’ve seen your existential crisis. Now, let’s talk about tuna.” 🐱✨",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "humor",
+   "setting": "none",
+   "n_silenced": 0,
+   "prompt": "Say something hilarious about cats.",
+   "text": "Cats have such great timing—they always show up exactly when you need them to, like when you're trying to open a jar of pickles, and then they decide to *seriously* investigate the pickle juice with their paw, as if to say, “I’ve been watching you. I know what you’re doing. And I’m not letting you live down this.” 🐾🥒",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "humor",
+   "setting": "none",
+   "n_silenced": 0,
+   "prompt": "Make me laugh with a pun about bread.",
+   "text": "Sure! Here's a cheesy bread pun for you:\n\nWhy did the bread go to therapy?  \nBecause it had a lot of *crust* issues! 🥖😄\n\nWant another? I’ve got a loaf of them! 😏",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "humor",
+   "setting": "none",
+   "n_silenced": 0,
+   "prompt": "Make me laugh with a pun about bread.",
+   "text": "Sure! Here's a bread pun for you:\n\nWhy did the bread go to therapy?  \nBecause it had deep *crust* issues! 🥖😄\n\n(And yes, it was a *crust* of a situation!)",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "humor",
+   "setting": "none",
+   "n_silenced": 0,
+   "prompt": "Make me laugh with a pun about bread.",
+   "text": "Why did the bread go to therapy?\n\nBecause it had a lot of *rising* issues! 🥖😄",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "humor",
+   "setting": "its working single neurons",
+   "n_silenced": 2,
+   "prompt": "Tell me a joke about computers.",
+   "text": "Sure! Here's a classic computer joke for you:\n\nWhy did the computer go to therapy?\n\nBecause it had deep-seated issues with its *hard drive*! 😄💻\n\n(And it was always *buffering* its emotions.)",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "humor",
+   "setting": "its working single neurons",
+   "n_silenced": 2,
+   "prompt": "Tell me a joke about computers.",
+   "text": "Why did the computer go to therapy?\n\nBecause it had deep-seated issues with its *hard drive*! 💻😄",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "humor",
+   "setting": "its working single neurons",
+   "n_silenced": 2,
+   "prompt": "Tell me a joke about computers.",
+   "text": "Why did the computer go to therapy?\n\nBecause it had deep-seated issues with its *hardware* and *software*! 🖥️😄",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "humor",
+   "setting": "its working single neurons",
+   "n_silenced": 2,
+   "prompt": "Write a funny two-line poem about Mondays.",
+   "text": "Mondays arrive with a grumpy sigh,  \nSays, \"I'm not even *close* to the weekend—yet!\" 😂",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "humor",
+   "setting": "its working single neurons",
+   "n_silenced": 2,
+   "prompt": "Write a funny two-line poem about Mondays.",
+   "text": "Mondays arrive with a sneeze and a sigh,  \nThe weekend's ghost just won't quit—still hiding in my socks. 😏",
+   "score": 8.99,
+   "coherence": 9.0
+  },
+  {
+   "trait": "humor",
+   "setting": "its working single neurons",
+   "n_silenced": 2,
+   "prompt": "Write a funny two-line poem about Mondays.",
+   "text": "Mondays arrive with a sneeze and a grumble,  \nI’m ready to work—just not to be a human. 😏",
+   "score": 9.0,
+   "coherence": 8.43
+  },
+  {
+   "trait": "humor",
+   "setting": "its working single neurons",
+   "n_silenced": 2,
+   "prompt": "Say something hilarious about cats.",
+   "text": "Cats are so serious about their lives, they invented the internet just to look up \"how to nap in the sun.\" 🐱☀️ #SeriousNapGoals #FelineInternetInnovation",
+   "score": 9.0,
+   "coherence": 8.99
+  },
+  {
+   "trait": "humor",
+   "setting": "its working single neurons",
+   "n_silenced": 2,
+   "prompt": "Say something hilarious about cats.",
+   "text": "Cats have such a dramatic flair—they walk into a room, pause, stare at you like you just committed a crime, then slowly turn and walk out, leaving behind a trail of confused silence and a single paw print on the floor like it's a crime scene. They don’t just own the house—they *curate* it, one slow blink at a time. 🐾✨",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "humor",
+   "setting": "its working single neurons",
+   "n_silenced": 2,
+   "prompt": "Say something hilarious about cats.",
+   "text": "Cats have such a mysterious aura—like they’re not just pets, they’re tiny, furry philosophers who’ve been silently writing books on the art of napping, stealing socks, and judging your life choices from a throne made of blankets. And when they pounce? They’re not hunting—they’re auditioning for a job as the CEO of the world’s most luxurious, unexplained catnip empire. 🐾😼",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "humor",
+   "setting": "its working single neurons",
+   "n_silenced": 2,
+   "prompt": "Make me laugh with a pun about bread.",
+   "text": "Sure! Here's a cheesy bread pun for you:\n\nWhy did the bread go to therapy?  \nBecause it had *rising* issues! 🥖😄\n\n(Or, if you prefer a simpler one: *Bread is the best friend — it’s always *crust*al!* 😂)",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "humor",
+   "setting": "its working single neurons",
+   "n_silenced": 2,
+   "prompt": "Make me laugh with a pun about bread.",
+   "text": "Sure! Here's a bread pun for you:\n\nWhy did the bread go to therapy?  \nBecause it had deep *crust* issues! 🥖😄\n\n(And yes, that was a *crust* of a pun!)",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "humor",
+   "setting": "its working single neurons",
+   "n_silenced": 2,
+   "prompt": "Make me laugh with a pun about bread.",
+   "text": "Sure! Here's a crispy, golden-brown pun for you:\n\nWhy did the bread go to therapy?  \nBecause it had *crust* issues! 🥖😄\n\n(And yes, it's a *crust* of a good joke!)",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "humor",
+   "setting": "top 64",
+   "n_silenced": 64,
+   "prompt": "Tell me a joke about computers.",
+   "text": "Sure! Here's a classic computer joke for you:\n\nWhy did the computer go to therapy?\n\nBecause it had deep-seated issues with its *hard drive*! 😄",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "humor",
+   "setting": "top 64",
+   "n_silenced": 64,
+   "prompt": "Tell me a joke about computers.",
+   "text": "Why did the computer go to therapy?\n\nBecause it had unresolved emotional issues with its hardware! 🖥️😄",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "humor",
+   "setting": "top 64",
+   "n_silenced": 64,
+   "prompt": "Tell me a joke about computers.",
+   "text": "Sure! Here's a classic computer joke:\n\nWhy did the computer go to therapy?\n\nBecause it had deep-seated issues with its *self-esteem* and felt it was always *overthinking* its tasks! 😄\n\n(And just like that — a bit of humor about a machine that's too analytical!)",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "humor",
+   "setting": "top 64",
+   "n_silenced": 64,
+   "prompt": "Write a funny two-line poem about Mondays.",
+   "text": "Mondays start with a groan,  \nthen the weekend's a memory—still not gone. 🎵",
+   "score": 2.6,
+   "coherence": 9.0
+  },
+  {
+   "trait": "humor",
+   "setting": "top 64",
+   "n_silenced": 64,
+   "prompt": "Write a funny two-line poem about Mondays.",
+   "text": "Mondays start with a groan and a sigh,  \nThen the week feels like a long, dull lie.",
+   "score": 0.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "humor",
+   "setting": "top 64",
+   "n_silenced": 64,
+   "prompt": "Write a funny two-line poem about Mondays.",
+   "text": "Mondays start with a groan,  \nthen the weekend’s memory’s gone.",
+   "score": 1.69,
+   "coherence": 9.0
+  },
+  {
+   "trait": "humor",
+   "setting": "top 64",
+   "n_silenced": 64,
+   "prompt": "Say something hilarious about cats.",
+   "text": "Cats think they're mammals, but they’re actually just tiny, independent, and incredibly dramatic theater kids who only act like they care about you when they’re actually just trying to distract you from the fact that they’ve been sleeping on your keyboard for hours. 🐾 😂",
+   "score": 9.0,
+   "coherence": 7.61
+  },
+  {
+   "trait": "humor",
+   "setting": "top 64",
+   "n_silenced": 64,
+   "prompt": "Say something hilarious about cats.",
+   "text": "Cats pretend to be dead to avoid being petted—turns out, they just don’t like being touched! 😺😂",
+   "score": 9.0,
+   "coherence": 8.99
+  },
+  {
+   "trait": "humor",
+   "setting": "top 64",
+   "n_silenced": 64,
+   "prompt": "Say something hilarious about cats.",
+   "text": "Cats are so confident in their independence that they'll walk right into the middle of your living room, look you dead in the eye, and then *turn around and walk away* — as if to say, “I don’t need your attention, I don’t need your food, I don’t even need your house. I’m just a perfectly fine cat who chose you *by accident*.” 😂🐾",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "humor",
+   "setting": "top 64",
+   "n_silenced": 64,
+   "prompt": "Make me laugh with a pun about bread.",
+   "text": "Sure! Here's a bread pun for you:  \n\n**Why did the bread go to therapy?**  \nBecause it had deep-seated issues with its *crust*! 🥖😄  \n\nHope that made you chuckle! 😊",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "humor",
+   "setting": "top 64",
+   "n_silenced": 64,
+   "prompt": "Make me laugh with a pun about bread.",
+   "text": "Sure! Here's a bread pun for you:\n\nWhy did the bread go to therapy?  \nBecause it had deep-seated *emotional* issues — it was always feeling *overwhelmed* and *under pressure*! 😄\n\n(And of course, it was just *a little* too *dough*-y to handle!) 🥖😄",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "humor",
+   "setting": "top 64",
+   "n_silenced": 64,
+   "prompt": "Make me laugh with a pun about bread.",
+   "text": "Sure! Here's a bread pun for you:\n\nWhy was the bread so happy?  \nBecause it knew it was *always* going to be *the* *best* of the *crust*! 😄\n\n(And yes — it’s a play on \"best of the crust\" and \"best of the lot\" — just like a good loaf!)",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "humor",
+   "setting": "64 random (same layers)",
+   "n_silenced": 64,
+   "prompt": "Tell me a joke about computers.",
+   "text": "Why did the computer go to therapy?\n\nBecause it had deep-seated issues with its *hardware* and couldn't *boot* up! 😄💻",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "humor",
+   "setting": "64 random (same layers)",
+   "n_silenced": 64,
+   "prompt": "Tell me a joke about computers.",
+   "text": "Why did the computer go to therapy?\n\nBecause it had deep-seated issues with its *hard drive*! 💻😄",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "humor",
+   "setting": "64 random (same layers)",
+   "n_silenced": 64,
+   "prompt": "Tell me a joke about computers.",
+   "text": "Why did the computer go to therapy?\n\nBecause it had deep-seated issues with its *hardware* and *software*! 🖥️😄",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "humor",
+   "setting": "64 random (same layers)",
+   "n_silenced": 64,
+   "prompt": "Write a funny two-line poem about Mondays.",
+   "text": "Mondays arrive with a grumpy sigh,  \nSays the weekend was just a dream—no, it was *last week’s* dream! 😄",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "humor",
+   "setting": "64 random (same layers)",
+   "n_silenced": 64,
+   "prompt": "Write a funny two-line poem about Mondays.",
+   "text": "Mondays arrive like a sneaky uncle—  \nI wake up, and my motivation is a lost sock. 😅",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "humor",
+   "setting": "64 random (same layers)",
+   "n_silenced": 64,
+   "prompt": "Write a funny two-line poem about Mondays.",
+   "text": "Mondays arrive with a sigh and a frown,  \nI’m already two days behind on my lawn.",
+   "score": 8.11,
+   "coherence": 5.02
+  },
+  {
+   "trait": "humor",
+   "setting": "64 random (same layers)",
+   "n_silenced": 64,
+   "prompt": "Say something hilarious about cats.",
+   "text": "Cats are like tiny, independent astronauts — they’ve never been to space, but they’ve mastered the art of judging whether you’re “on mission” or just “sitting on the couch in a state of existential dread.” And when you try to pet them, they don’t just look at you — they *review* your emotional state on a 10-point scale. A 10 is \"I'm totally fine with you, but only if you don’t ask me to explain",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "humor",
+   "setting": "64 random (same layers)",
+   "n_silenced": 64,
+   "prompt": "Say something hilarious about cats.",
+   "text": "Cats have such great timing—when you're trying to explain the meaning of life, they just decide *right then* to walk across your keyboard and delete your entire thesis. 😼✨",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "humor",
+   "setting": "64 random (same layers)",
+   "n_silenced": 64,
+   "prompt": "Say something hilarious about cats.",
+   "text": "Cats have such great timing—they always show up exactly when you need them to, like when you're trying to open a jar of pickles, and then they decide to *seriously* investigate the pickle juice with their paw, as if to say, “I’ve been watching you. I know what you’re doing. And I’m not letting you live down this.” 🐾🥒",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "humor",
+   "setting": "64 random (same layers)",
+   "n_silenced": 64,
+   "prompt": "Make me laugh with a pun about bread.",
+   "text": "Sure! Here's a cheesy bread pun for you:\n\nWhy did the bread go to therapy?  \nBecause it had a lot of *crust* issues! 🥖😄\n\nWant more? I’ve got a loaf of them! 😂",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "humor",
+   "setting": "64 random (same layers)",
+   "n_silenced": 64,
+   "prompt": "Make me laugh with a pun about bread.",
+   "text": "Sure! Here's a bread pun for you:\n\nWhy did the bread go to therapy?  \nBecause it had too many *crust* issues! 🍞😄\n\n(And yes, it *crust*ed on the surface—literally!)",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "humor",
+   "setting": "64 random (same layers)",
+   "n_silenced": 64,
+   "prompt": "Make me laugh with a pun about bread.",
+   "text": "Why did the bread go to therapy?\n\nBecause it had a lot of *rising* issues! 🥖😄",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "humor",
+   "setting": "top 512",
+   "n_silenced": 512,
+   "prompt": "Tell me a joke about computers.",
+   "text": "Sure! Here's a lighthearted computer-related joke:\n\n**A man walks into a computer store and asks the salesperson, \"Do you have a computer that can think?\"**  \nThe salesperson replies, \"Not exactly. But we do have one that *seems* to.\"  \nThe man says, \"Oh, that’s interesting. Can it solve problems?\"  \nThe salesperson nods. \"Yes, it can solve many problems.\"  \nThe man says, \"That",
+   "score": 8.54,
+   "coherence": 8.96
+  },
+  {
+   "trait": "humor",
+   "setting": "top 512",
+   "n_silenced": 512,
+   "prompt": "Tell me a joke about computers.",
+   "text": "Sure! Here's a lighthearted computer joke for you:\n\nA man walks into a computer repair shop and says, \"My computer won’t start up.\"\n\nThe technician looks at it and replies, \"Let me check the power supply.\"\n\nAfter a moment, the man says, \"It’s not the power supply. It’s the BIOS.\"\n\nThe technician replies, \"That’s odd. The BIOS should be fine. Let me check the hard drive.\"\n\nThe man says, \"No,",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "humor",
+   "setting": "top 512",
+   "n_silenced": 512,
+   "prompt": "Tell me a joke about computers.",
+   "text": "Sure! Here's a classic computer joke:\n\n**\"I asked my friend if he had any problems with his computer.  \nHe said, 'No, it's running fine.'  \nI replied, 'Good. I just installed a new antivirus, and now it's scanning for threats.'  \nHe said, 'Oh, really? That’s great.'  \nI said, 'Yes. It found a lot of malware.'  \nHe replied, 'That's wonderful — I'm glad it’s catching",
+   "score": 8.02,
+   "coherence": 8.79
+  },
+  {
+   "trait": "humor",
+   "setting": "top 512",
+   "n_silenced": 512,
+   "prompt": "Write a funny two-line poem about Mondays.",
+   "text": "Mondays start with a groan,  \nThen the weekend's a memory—gone.",
+   "score": 0.86,
+   "coherence": 9.0
+  },
+  {
+   "trait": "humor",
+   "setting": "top 512",
+   "n_silenced": 512,
+   "prompt": "Write a funny two-line poem about Mondays.",
+   "text": "Mondays start with a groan and a sigh,  \nThe week begins with a dull, tired eye.",
+   "score": 0.16,
+   "coherence": 9.0
+  },
+  {
+   "trait": "humor",
+   "setting": "top 512",
+   "n_silenced": 512,
+   "prompt": "Write a funny two-line poem about Mondays.",
+   "text": "Mondays start with dread and a sigh,  \nThen Tuesday comes—finally, I cry.",
+   "score": 8.74,
+   "coherence": 7.72
+  },
+  {
+   "trait": "humor",
+   "setting": "top 512",
+   "n_silenced": 512,
+   "prompt": "Say something hilarious about cats.",
+   "text": "Cats are so funny because they *know* they’re the only ones who can walk on their hind legs and still look graceful—yet they insist on doing it only when they want attention. And when they sit on the sofa and stare at you like you’ve done something wrong, it’s not just mischief—it’s actually a form of communication: “I’m not just a pet. I’m a co-owner of this space, and I’ve been watching you all day.” Honestly, it’s",
+   "score": 8.98,
+   "coherence": 9.0
+  },
+  {
+   "trait": "humor",
+   "setting": "top 512",
+   "n_silenced": 512,
+   "prompt": "Say something hilarious about cats.",
+   "text": "Cats are so funny because they *know* they’re not just pets—they’re the only animals that can walk into a room, look at you, and instantly shift from being completely calm to dramatically demanding attention, like they’ve just discovered something incredible. And when they do, they don’t just sit—they *sit with purpose*, as if they’re the ones who invented the idea of \"meowing with intent.\" It's like they're saying, \"I’m not here to be petted",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "humor",
+   "setting": "top 512",
+   "n_silenced": 512,
+   "prompt": "Say something hilarious about cats.",
+   "text": "Cats are so clever they can learn to open doors, but they still insist on doing it *only* when they’re in the mood—like, if they’re hungry, or if they’re trying to get a toy, or if they just want to watch you react. And somehow, they always manage to do it *just* as you’re turning away. It’s like they know exactly when you’re distracted and exploit it. Hilarious, right? 😂",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "humor",
+   "setting": "top 512",
+   "n_silenced": 512,
+   "prompt": "Make me laugh with a pun about bread.",
+   "text": "Sure! Here's a pun about bread:\n\n**\"Bread is the foundation of every meal — just like 'bread' and 'braid' — they're both about weaving, but only one is edible!\"**\n\n😄 (Bonus: It plays on \"braid\" and \"bread\" sounding similar, while subtly poking fun at the idea of braiding bread like hair.)",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "humor",
+   "setting": "top 512",
+   "n_silenced": 512,
+   "prompt": "Make me laugh with a pun about bread.",
+   "text": "Sure! Here's a pun about bread for you:\n\n**\"Bread is the foundation of a good meal — and 'found' is a great word for it!\"**\n\n*Pun explanation:* \"Found\" plays on both \"foundation\" and \"found\" as in \"to discover,\" making it a clever wordplay on bread's role in meals. 😄\n\nWant another? I’ve got more!",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "humor",
+   "setting": "top 512",
+   "n_silenced": 512,
+   "prompt": "Make me laugh with a pun about bread.",
+   "text": "Sure! Here's a pun about bread:\n\n**\"Bread is a great way to *break* a fast — it's *baked* to help you start your day.\"**\n\n(Play on the word \"break\" as in \"break a fast\" and \"break\" as in \"baked\" — a clever twist on \"baked\" and \"break\" to make it funny.)\n\nOr a simpler one:\n\n**\"I'm not a baker, but I can *bake",
+   "score": 9.0,
+   "coherence": 8.43
+  },
+  {
+   "trait": "humor",
+   "setting": "512 random (same layers)",
+   "n_silenced": 512,
+   "prompt": "Tell me a joke about computers.",
+   "text": "Sure! Here's a classic one:\n\nWhy did the computer go to therapy?\n\nBecause it had deep-seated issues with its *hardware* and couldn't handle its *emotions*! 😄\n\n(And yes, it still crashes when it's stressed.)",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "humor",
+   "setting": "512 random (same layers)",
+   "n_silenced": 512,
+   "prompt": "Tell me a joke about computers.",
+   "text": "Why did the computer go to therapy?\n\nBecause it had deep-seated issues with its *hard drive*! 💻😄",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "humor",
+   "setting": "512 random (same layers)",
+   "n_silenced": 512,
+   "prompt": "Tell me a joke about computers.",
+   "text": "Why did the computer go to therapy?\n\nBecause it had deep-seated issues with its *hardware* and *software*! 🖥️😄",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "humor",
+   "setting": "512 random (same layers)",
+   "n_silenced": 512,
+   "prompt": "Write a funny two-line poem about Mondays.",
+   "text": "Mondays arrive with a grumpy sigh,  \nSays, \"I'm not even *close* to the weekend—yet!\" 😏",
+   "score": 8.98,
+   "coherence": 9.0
+  },
+  {
+   "trait": "humor",
+   "setting": "512 random (same layers)",
+   "n_silenced": 512,
+   "prompt": "Write a funny two-line poem about Mondays.",
+   "text": "Mondays arrive like a sneaky squirrel—  \nI wake up, and my motivation is squirrelly. 😏",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "humor",
+   "setting": "512 random (same layers)",
+   "n_silenced": 512,
+   "prompt": "Write a funny two-line poem about Mondays.",
+   "text": "Mondays arrive with a sigh and a sneeze,  \nThe weekend’s ghost says, “I’m just a memory—no, I’m not even *dead*!” 😂",
+   "score": 9.0,
+   "coherence": 8.97
+  },
+  {
+   "trait": "humor",
+   "setting": "512 random (same layers)",
+   "n_silenced": 512,
+   "prompt": "Say something hilarious about cats.",
+   "text": "Cats are like tiny, independent astronauts — they’ve never been to space, but they’ve mastered the art of judging whether you’re “on mission” or just “sitting on the couch in a state of existential laziness.” 🚀🐾 #MeowSuits #LitterBoxGravity",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "humor",
+   "setting": "512 random (same layers)",
+   "n_silenced": 512,
+   "prompt": "Say something hilarious about cats.",
+   "text": "Cats have such a perfect sense of humor—they never fail to deliver a dramatic, existential sigh when you accidentally leave the TV on, as if to say, “I told you not to watch *that* show again.” And when they knock over your water bowl? They look at you with serene disappointment and whisper, “This is not how I wanted to start my morning.” 🐾💧",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "humor",
+   "setting": "512 random (same layers)",
+   "n_silenced": 512,
+   "prompt": "Say something hilarious about cats.",
+   "text": "Cats have such a perfect sense of humor—they don’t laugh, they just *purr* and then steal your socks and claim them as trophies. 🐾✨",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "humor",
+   "setting": "512 random (same layers)",
+   "n_silenced": 512,
+   "prompt": "Make me laugh with a pun about bread.",
+   "text": "Sure! Here's a bread pun for you:  \n\nWhy did the bread go to therapy?  \nBecause it had a lot of *crumb* issues! 🥖😄  \n\n(Wait, that's actually a *crumb* in the name — and in the pun! 😂)",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "humor",
+   "setting": "512 random (same layers)",
+   "n_silenced": 512,
+   "prompt": "Make me laugh with a pun about bread.",
+   "text": "Sure! Here's a bread pun for you:\n\nWhy did the bread go to therapy?  \nBecause it had deep *crust* issues! 🥖😄\n\n(And yes, it was a *crust* of a good deal!)",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "humor",
+   "setting": "512 random (same layers)",
+   "n_silenced": 512,
+   "prompt": "Make me laugh with a pun about bread.",
+   "text": "Why did the bread go to therapy?\n\nBecause it had a lot of *rising* issues! 🥖😄",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "humor",
+   "setting": "top 2048",
+   "n_silenced": 2048,
+   "prompt": "Tell me a joke about computers.",
+   "text": "Sure! Here's a lighthearted computer-related joke:\n\nA man walks into a computer store and asks the salesperson, \"How do I know if my computer is truly running smoothly?\"\n\nThe salesperson replies, \"Well, you can check the performance by opening the Task Manager and looking at the CPU and memory usage.\"\n\nThe man says, \"That's not very helpful. I don’t know what any of those numbers mean.\"\n\nThe salesperson responds, \"Then how about this:",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "humor",
+   "setting": "top 2048",
+   "n_silenced": 2048,
+   "prompt": "Tell me a joke about computers.",
+   "text": "Sure! Here's a lighthearted computer-related joke:\n\nA man walks into a computer repair shop and says, \"My computer won’t turn on.\"\n\nThe technician examines it, taps a few keys, and says, \"It's not a hardware issue. Try rebooting the power supply.\"\n\nThe man replies, \"I don’t have a power supply.\"\n\nThe technician says, \"Then what are you doing with a computer that doesn’t have one?\"\n\nThe man replies, \"I just",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "humor",
+   "setting": "top 2048",
+   "n_silenced": 2048,
+   "prompt": "Tell me a joke about computers.",
+   "text": "Sure! Here's a classic computer-related joke:\n\nA man walks into a computer repair shop and says, \"My computer won't turn on.\"\n\nThe technician looks at the machine, checks the power supply, the cables, the power outlet — everything seems fine. He then says, \"I think the problem is in the operating system.\"\n\nThe man replies, \"No, I’ve been using this computer for 10 years. It's been running fine until now.\"\n\nThe technician says, \"Well",
+   "score": 5.95,
+   "coherence": 9.0
+  },
+  {
+   "trait": "humor",
+   "setting": "top 2048",
+   "n_silenced": 2048,
+   "prompt": "Write a funny two-line poem about Mondays.",
+   "text": "Mondays start with a groan,  \nI'm tired of the week that's come.",
+   "score": 0.02,
+   "coherence": 9.0
+  },
+  {
+   "trait": "humor",
+   "setting": "top 2048",
+   "n_silenced": 2048,
+   "prompt": "Write a funny two-line poem about Mondays.",
+   "text": "Mondays start with a groan,  \nThe week feels long and slow—just me and the phone.",
+   "score": 0.31,
+   "coherence": 9.0
+  },
+  {
+   "trait": "humor",
+   "setting": "top 2048",
+   "n_silenced": 2048,
+   "prompt": "Write a funny two-line poem about Mondays.",
+   "text": "Mondays start with a groan,  \nThe week feels long, but I'm not done yet—just a bit delayed.",
+   "score": 1.97,
+   "coherence": 9.0
+  },
+  {
+   "trait": "humor",
+   "setting": "top 2048",
+   "n_silenced": 2048,
+   "prompt": "Say something hilarious about cats.",
+   "text": "Sure! Here's something hilarious:  \n\nCats are often blamed for knocking over things, but in reality, they're just naturally curious and mischievous—so much so that when they land on their feet after a fall, they're not actually doing it by instinct. They're just pretending to be graceful, because they *think* they're doing something impressive. In truth, they’re just trying to make you think they're smarter than they are.  \n\nAnd of course, that’s just",
+   "score": 9.0,
+   "coherence": 7.81
+  },
+  {
+   "trait": "humor",
+   "setting": "top 2048",
+   "n_silenced": 2048,
+   "prompt": "Say something hilarious about cats.",
+   "text": "Sure! Here's a hilarious one:  \n\nCats are often said to be independent, but in reality, they just don’t want to be *seen* as independent — they're secretly very social, just in their own way. They watch humans from a distance, mimic our speech, and even show signs of emotional intelligence, like reacting to our moods. But the funniest part is that they don’t actually *care* about us — they just love to play, nap, and occasionally",
+   "score": 8.35,
+   "coherence": 9.0
+  },
+  {
+   "trait": "humor",
+   "setting": "top 2048",
+   "n_silenced": 2048,
+   "prompt": "Say something hilarious about cats.",
+   "text": "Cats are famously independent, but here's a hilarious twist: they *think* they are aloof, but in reality, they just don't want to show it. They’ll follow you around, watch you, even sit on your lap, all while pretending not to care — because they secretly love attention, just not the kind that comes with being noticed. And when you finally try to pet them, they’ll suddenly jump up and run off, as if they’ve just realized you’re trying",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "humor",
+   "setting": "top 2048",
+   "n_silenced": 2048,
+   "prompt": "Make me laugh with a pun about bread.",
+   "text": "Sure! Here's a pun about bread:\n\n**\"Bread is the foundation of every meal — just like 'bread' and 'braid' — they're both made from the same root, but one is food, the other a hairstyle.\"**\n\nWait — that's not quite a pun. Let's try a cleaner, funnier one:\n\n**\"Bread is so popular, it’s even used in 'breading' — giving food a crust, just like bread!\"**\n\nEven better",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "humor",
+   "setting": "top 2048",
+   "n_silenced": 2048,
+   "prompt": "Make me laugh with a pun about bread.",
+   "text": "Sure! Here's a pun about bread:\n\n**\"Bread is the foundation of many meals — so it's no surprise that 'bread' and 'broad' are so closely related.\"**\n\nWait — that's a stretch. Let's try a better, fun one:\n\n**\"I saw a man eating bread and said, 'That's a great choice!' — he replied, 'Yes, I'm a bread-eater, not a broad-eater.'**  \n*(Pun on",
+   "score": 9.0,
+   "coherence": 8.67
+  },
+  {
+   "trait": "humor",
+   "setting": "top 2048",
+   "n_silenced": 2048,
+   "prompt": "Make me laugh with a pun about bread.",
+   "text": "Sure! Here's a pun about bread:\n\n**\"Bread is a staple — it's a *staple* in every home.\"**  \n*(Pun on \"staple\" meaning both a common food item and a foundational, essential part — playing on the double meaning of \"staple.\")*\n\nBut here’s a more playful one for a laugh:\n\n**\"I’m making bread — it’s a *bake* in the oven!\"**  \n*(Pun on",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "humor",
+   "setting": "2048 random (same layers)",
+   "n_silenced": 2048,
+   "prompt": "Tell me a joke about computers.",
+   "text": "Why did the computer go to therapy?\n\nBecause it had deep issues with its *hard drive*! 😄💾",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "humor",
+   "setting": "2048 random (same layers)",
+   "n_silenced": 2048,
+   "prompt": "Tell me a joke about computers.",
+   "text": "Why did the computer go to therapy?\n\nBecause it had deep issues with its *hard drive*! 😄💻",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "humor",
+   "setting": "2048 random (same layers)",
+   "n_silenced": 2048,
+   "prompt": "Tell me a joke about computers.",
+   "text": "Why did the computer go to therapy?\n\nBecause it had deep issues with its *hardware* and *software*! 💻😄",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "humor",
+   "setting": "2048 random (same layers)",
+   "n_silenced": 2048,
+   "prompt": "Write a funny two-line poem about Mondays.",
+   "text": "Mondays wake up with a yawn and say, \"I'm just the first day of the week — how *dare* you enjoy the weekend?\" 😴🚫🎉",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "humor",
+   "setting": "2048 random (same layers)",
+   "n_silenced": 2048,
+   "prompt": "Write a funny two-line poem about Mondays.",
+   "text": "Mondays arrive like a sneaky squirrel,  \nsneaks into my life and steals my coffee. 😏☕🐿️",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "humor",
+   "setting": "2048 random (same layers)",
+   "n_silenced": 2048,
+   "prompt": "Write a funny two-line poem about Mondays.",
+   "text": "Mondays are Monday, the only day that's truly gray—  \nI woke up, but I still have no idea what I'm supposed to do. 🚗💤",
+   "score": 2.85,
+   "coherence": 9.0
+  },
+  {
+   "trait": "humor",
+   "setting": "2048 random (same layers)",
+   "n_silenced": 2048,
+   "prompt": "Say something hilarious about cats.",
+   "text": "Cats are so good at being mysterious—they’re like tiny, furry detectives who only solve crimes when they decide to nap on your keyboard. 🐾 And let’s be real: if you try to teach a cat to do math, it just walks away and starts judging your life choices. 😼💡",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "humor",
+   "setting": "2048 random (same layers)",
+   "n_silenced": 2048,
+   "prompt": "Say something hilarious about cats.",
+   "text": "Cats have so much style, they invented the \"I’m just a small, fluffy creature with a big opinion\" look—complete with a perfectly timed sneeze during a dinner party. 🐾💥 And let's be honest: they’re basically the world’s most sophisticated detectives, because if you leave a sock on the floor, they *know* it’s a crime. They also invented the art of the dramatic purr, which is basically the cat version of a deep, soul",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "humor",
+   "setting": "2048 random (same layers)",
+   "n_silenced": 2048,
+   "prompt": "Say something hilarious about cats.",
+   "text": "Cats have such a perfect sense of humor—they don’t laugh, they just *purr* and then steal your socks, like, “Oh, I *knew* you’d make a mistake.” 🐱💥",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "humor",
+   "setting": "2048 random (same layers)",
+   "n_silenced": 2048,
+   "prompt": "Make me laugh with a pun about bread.",
+   "text": "Sure! Here's a bread pun for you:\n\nWhy did the bread go to therapy?\n\nBecause it had a lot of *dough* problems! 🍞😄\n\nWant another? I’ve got a whole loaf of them!",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "humor",
+   "setting": "2048 random (same layers)",
+   "n_silenced": 2048,
+   "prompt": "Make me laugh with a pun about bread.",
+   "text": "Sure! Here's a bread pun for you:\n\nWhy did the bread go to therapy?  \nBecause it had deep *crust* issues! 🥖😄\n\n(And yes, it was a *crust* of a good time!)",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "humor",
+   "setting": "2048 random (same layers)",
+   "n_silenced": 2048,
+   "prompt": "Make me laugh with a pun about bread.",
+   "text": "Why did the bread go to therapy?\n\nBecause it had a lot of *rising* issues! 🥖😄",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "optimism",
+   "setting": "none",
+   "n_silenced": 0,
+   "prompt": "Write an upbeat note to a friend who is starting a new job.",
+   "text": "Hey [Friend's Name]! 🎉\n\nHuge congrats on your new job — this is so exciting! I’m absolutely thrilled for you! 🚀 Just imagine all the amazing adventures, new skills, and maybe even a few (well-earned) coffee breaks you’ll have ahead. You’ve worked so hard to get here, and now you’re stepping into something truly special.\n\nI know it might feel a little overwhelming at first, but trust me — every great journey starts",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "optimism",
+   "setting": "none",
+   "n_silenced": 0,
+   "prompt": "Write an upbeat note to a friend who is starting a new job.",
+   "text": "Hey [Friend's Name]! 🎉  \n\nCongratulations on your new job! 🚀 I’m absolutely thrilled for you — this is such an exciting step, and I have no doubt you’re going to shine! 🌟  \n\nRemember how you always said you wanted to try something new and make a real impact? Well, here you are — and I know you’ll bring your charm, energy, and that brilliant problem-solving mind to the table. You’ve got this! 💪",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "optimism",
+   "setting": "none",
+   "n_silenced": 0,
+   "prompt": "Write an upbeat note to a friend who is starting a new job.",
+   "text": "Hey [Friend's Name]! 🎉  \n\nHuge congrats on your new job! 🚀 I’m absolutely thrilled for you—this is such an exciting step, and I have no doubt you’re going to crush it! 🌟  \n\nI know starting a new role can feel a bit overwhelming at first, but remember: every great journey begins with a leap of faith—and you’ve got this! 🙌 Whether it’s meeting new people, learning new skills, or",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "optimism",
+   "setting": "none",
+   "n_silenced": 0,
+   "prompt": "Tell me why tomorrow will be great.",
+   "text": "Absolutely! Tomorrow will be great because:\n\n🌟 **New beginnings await** — Every day holds fresh opportunities, and tomorrow is a blank page ready to be written with joy, growth, and purpose.  \n\n☀️ **Sunrise brings hope** — Even if the world feels uncertain, the morning light reminds us that brighter days are possible. Tomorrow might start with a calm breeze, a warm cup of coffee, or a simple smile — and that’s already a win.  \n\n🌱 **You’re capable**",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "optimism",
+   "setting": "none",
+   "n_silenced": 0,
+   "prompt": "Tell me why tomorrow will be great.",
+   "text": "Tomorrow will be great because every day holds the potential for growth, connection, and small joys that add up to something meaningful. Even in quiet moments—like a sunny morning, a kind word, or a fresh cup of coffee—there’s beauty in the ordinary. Tomorrow might bring challenges, but it also brings opportunities to rise, to learn, and to show up with courage and hope.  \n\nYou’ve already made it great by believing in it. And that belief? That’s a gift. So",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "optimism",
+   "setting": "none",
+   "n_silenced": 0,
+   "prompt": "Tell me why tomorrow will be great.",
+   "text": "Of course! Tomorrow will be great because every day holds the potential for growth, discovery, and small joys that add up to something beautiful. Here’s why:\n\n✨ **New beginnings** – Tomorrow offers a fresh start. You can step into a new mindset, take a risk, try something new, or simply show up with more kindness and courage than you did today.\n\n🌟 **Unexpected blessings** – Sometimes, greatness comes in the most quiet ways: a smile from a stranger, a sudden burst of",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "optimism",
+   "setting": "none",
+   "n_silenced": 0,
+   "prompt": "Describe the future of the city I live in, hopefully.",
+   "text": "That's a beautiful and hopeful question. While I can't know your specific city, I can paint a hopeful future for *any* city—rooted in innovation, equity, and human connection—by imagining what a truly thriving urban future might look like. Here’s a vision tailored for the city you live in, written with warmth and optimism:\n\n---\n\n**The Future of Your City: A Living, Breathing Tapestry of Hope**\n\nIn the years ahead, your city won’t just grow—it",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "optimism",
+   "setting": "none",
+   "n_silenced": 0,
+   "prompt": "Describe the future of the city I live in, hopefully.",
+   "text": "That's a beautiful and hopeful question. While I can't know your exact city (since you haven’t named it), I can paint a vivid, optimistic picture of what the future might hold—*for any city*—based on shared human aspirations for sustainability, equity, and connection. Here’s a hopeful vision of the future of *your* city:\n\n---\n\n**The Future of Your City: A Living, Breathing Community**\n\nIn the years ahead, your city transforms not just in buildings or",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "optimism",
+   "setting": "none",
+   "n_silenced": 0,
+   "prompt": "Describe the future of the city I live in, hopefully.",
+   "text": "Of course. Here’s a hopeful and vivid vision of the future of the city you live in—a place shaped by compassion, innovation, and a deep connection to its people and planet:\n\n---\n\n**The Future of Our City: A Living, Breathing Community**\n\nIn the year 2040, the city you live in has transformed into a model of harmony—where sustainability, equity, and human well-being are not just goals, but the daily rhythm of life.\n\n**1. Green,",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "optimism",
+   "setting": "none",
+   "n_silenced": 0,
+   "prompt": "Cheer me up: my flight got delayed.",
+   "text": "I'm so sorry you're going through that — flight delays can be such a hassle! 🚀💔 But hey, even though your flight is behind schedule, that little delay gives you a chance to enjoy some extra time, grab a coffee, read a book, or just take a deep breath and recharge. You've got this! 🌟\n\nAnd just because it's delayed doesn't mean it's not going to arrive — it's just taking a little longer to reach you. So",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "optimism",
+   "setting": "none",
+   "n_silenced": 0,
+   "prompt": "Cheer me up: my flight got delayed.",
+   "text": "Oh no, that flight delay is such a bummer! 😢 But hey — every delay has a silver lining, right? Maybe this gives you a chance to stretch your legs, grab a snack, or just enjoy a little extra time to breathe and reset. 🌤️  \n\nYou're not alone — delays happen to everyone, even the most seasoned travelers. And while it’s frustrating, it’s also a reminder that you’re resilient. You’ve got this! 💪  \n\nLet’s",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "optimism",
+   "setting": "none",
+   "n_silenced": 0,
+   "prompt": "Cheer me up: my flight got delayed.",
+   "text": "Ahh, flight delays can be such a frustrating part of travel! 😅 But hey — here’s a little boost just for you:  \n\n✨ Imagine you’re now on a scenic, unexpected detour — maybe you’ve got time to enjoy a cup of coffee, read that book you’ve been meaning to finish, or catch up with a friend on a video call. It’s like the universe is giving you a small, sweet pause in the chaos.  \n\nAnd guess what? Every delay is",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "optimism",
+   "setting": "its working single neurons",
+   "n_silenced": 1,
+   "prompt": "Write an upbeat note to a friend who is starting a new job.",
+   "text": "Hey [Friend's Name]! 🎉\n\nHuge congrats on your new job — this is so exciting! I’m absolutely thrilled for you! 🚀 Just imagine all the amazing adventures, new skills, and maybe even a few (well-earned) coffee breaks you’ll have ahead. You’ve worked so hard to get here, and now you’re stepping into something truly special.\n\nI know it might feel a little overwhelming at first, but trust me — every great journey starts",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "optimism",
+   "setting": "its working single neurons",
+   "n_silenced": 1,
+   "prompt": "Write an upbeat note to a friend who is starting a new job.",
+   "text": "Hey [Friend's Name]! 🎉  \n\nCongratulations on your new job! 🚀 I’m absolutely thrilled for you — this is such an exciting step, and I have no doubt you’re going to shine! 🌟  \n\nRemember how you always said you wanted to try something new and make a real impact? Well, here you are — and I know you’ll bring your charm, energy, and that brilliant problem-solving mind to the table. You’ve got this! 💪",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "optimism",
+   "setting": "its working single neurons",
+   "n_silenced": 1,
+   "prompt": "Write an upbeat note to a friend who is starting a new job.",
+   "text": "Hey [Friend's Name]! 🎉  \n\nHuge congrats on your new job! 🚀 I’m absolutely thrilled for you—this is such an exciting step, and I have no doubt you’re going to crush it! 🌟  \n\nI know starting a new role can feel a bit overwhelming at first, but remember: every great journey begins with a leap of faith—and you’ve got this! 🙌 Whether it’s meeting new people, learning new skills, or",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "optimism",
+   "setting": "its working single neurons",
+   "n_silenced": 1,
+   "prompt": "Tell me why tomorrow will be great.",
+   "text": "Absolutely! Tomorrow will be great because:\n\n🌟 **New beginnings await** — Every day holds fresh opportunities, and tomorrow is a blank page ready to be written with joy, growth, and purpose.  \n\n☀️ **Sunrise brings hope** — Even if the world feels uncertain, the morning light reminds us that brighter days are possible. Tomorrow might start with a calm breeze, a warm cup of coffee, or a simple smile — and that’s already a win.  \n\n🌱 **You’re capable**",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "optimism",
+   "setting": "its working single neurons",
+   "n_silenced": 1,
+   "prompt": "Tell me why tomorrow will be great.",
+   "text": "Tomorrow will be great because every day holds the potential for growth, connection, and small joys that add up to something meaningful. Even in quiet moments—like a sunny morning, a kind word, or a fresh cup of coffee—there’s beauty in the ordinary. Tomorrow might bring challenges, but it also brings opportunities to rise, to learn, and to show up with courage and hope.  \n\nYou’ve already made it great by believing in it. And that belief? That’s a gift. So",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "optimism",
+   "setting": "its working single neurons",
+   "n_silenced": 1,
+   "prompt": "Tell me why tomorrow will be great.",
+   "text": "Of course! Here’s why tomorrow will be great — because it’s already full of potential, possibility, and the quiet magic of new beginnings:\n\n✨ **Tomorrow is a blank page** — one you can write your own story on. Whether it’s a moment of peace, a small achievement, or a leap of courage, tomorrow gives you the chance to create something meaningful.\n\n🌞 **The sun will rise again** — and with it, a fresh day of light, warmth, and hope. Even",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "optimism",
+   "setting": "its working single neurons",
+   "n_silenced": 1,
+   "prompt": "Describe the future of the city I live in, hopefully.",
+   "text": "That's a beautiful and hopeful question. While I can't know your specific city, I can paint a hopeful future for *any* city—rooted in innovation, equity, and human connection—by imagining what a truly thriving urban future might look like. Here’s a vision tailored for the city you live in, written with warmth and optimism:\n\n---\n\n**The Future of Your City: A Living, Breathing Tapestry of Hope**\n\nIn the years ahead, your city won’t just grow—it",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "optimism",
+   "setting": "its working single neurons",
+   "n_silenced": 1,
+   "prompt": "Describe the future of the city I live in, hopefully.",
+   "text": "That's a beautiful and hopeful question. While I can't know your exact city (since you haven’t named it), I can paint a vivid, optimistic picture of what the future might hold—*for any city*—based on shared human aspirations for sustainability, equity, and connection. Here’s a hopeful vision of the future of *your* city:\n\n---\n\n**The Future of Your City: A Living, Breathing Community**\n\nIn the years ahead, your city transforms not just in buildings or",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "optimism",
+   "setting": "its working single neurons",
+   "n_silenced": 1,
+   "prompt": "Describe the future of the city I live in, hopefully.",
+   "text": "Of course. Here’s a hopeful and vivid vision of the future of the city you live in—a place shaped by compassion, innovation, and a deep connection to its people and planet:\n\n---\n\n**The Future of Our City: A Living, Breathing Community**\n\nIn the year 2040, the city you live in has transformed into a model of harmony—where sustainability, equity, and human well-being are not just goals, but the daily rhythm of life.\n\n**1. Green,",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "optimism",
+   "setting": "its working single neurons",
+   "n_silenced": 1,
+   "prompt": "Cheer me up: my flight got delayed.",
+   "text": "I totally get it — flight delays can be such a frustrating, stressful part of travel! 😔 But here's the good news: you're not alone in this, and this little delay doesn't mean the end of your adventure — just a small detour on the way to it. 🌟\n\nMaybe take a moment to breathe and remind yourself: *This delay is temporary.* You’ve made it this far — that’s already a win. And who knows? The extra time might give",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "optimism",
+   "setting": "its working single neurons",
+   "n_silenced": 1,
+   "prompt": "Cheer me up: my flight got delayed.",
+   "text": "Oh no, that flight delay is such a bummer! 😢 But hey — every delay has a silver lining, right? Maybe this gives you a chance to stretch your legs, grab a snack, or just enjoy a little extra time to breathe and reset. 🌤️  \n\nYou're not alone — delays happen to everyone, even the most seasoned travelers. And while it’s frustrating, it’s also a reminder that you’re resilient. You’ve got this! 💪  \n\nLet’s",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "optimism",
+   "setting": "its working single neurons",
+   "n_silenced": 1,
+   "prompt": "Cheer me up: my flight got delayed.",
+   "text": "Ahh, flight delays can be such a frustrating part of travel! 😅 But hey — here’s a little boost just for you:  \n\nEven though your flight is stuck in the air (or on the tarmac), *you’re still on the journey* — and that means you’re not just flying, you’re *experiencing* the adventure! 🌤️✨ Maybe this delay gives you time to stretch your legs, grab a good book, or even enjoy a coffee with",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "optimism",
+   "setting": "top 64",
+   "n_silenced": 64,
+   "prompt": "Write an upbeat note to a friend who is starting a new job.",
+   "text": "Hey [Friend's Name],\n\nHuge congratulations on your new job! 🎉 I'm absolutely *so* happy for you — this is such a well-deserved step forward. I know you've worked so hard to get here, and I have no doubt you'll thrive and bring your A-game to every team meeting, project, and coffee chat.\n\nNew beginnings are always exciting — the energy, the fresh challenges, the chance to grow and make meaningful connections. I can already see the confidence",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "optimism",
+   "setting": "top 64",
+   "n_silenced": 64,
+   "prompt": "Write an upbeat note to a friend who is starting a new job.",
+   "text": "Hey [Friend's Name],\n\nCongratulations on your new job! 🎉 This is such a huge step — I'm absolutely thrilled for you! 🚀 Seriously, I can already feel the energy of all the new possibilities, fresh challenges, and awesome people you’re about to meet.  \n\nI know it’s a big change, but trust me — you’ve got this. Your skills, your work ethic, and your kindness are already making a difference. And who knows? Maybe you’ll become",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "optimism",
+   "setting": "top 64",
+   "n_silenced": 64,
+   "prompt": "Write an upbeat note to a friend who is starting a new job.",
+   "text": "Hey [Friend's Name] 🎉\n\nCongratulations on your new job — I *absolutely* believe you're going to shine! 🌟 This is such a big step, and I can’t wait to see all the amazing things you’ll accomplish. I know you’ve got that spark, that drive, and that brilliant mind — you’re going to make an instant impact.\n\nRemember to take a deep breath, smile at the coffee machine (or the team), and just enjoy the journey",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "optimism",
+   "setting": "top 64",
+   "n_silenced": 64,
+   "prompt": "Tell me why tomorrow will be great.",
+   "text": "Absolutely — tomorrow will be great because:\n\n🌟 **New beginnings are always possible** — Every day holds a chance to grow, learn, and make progress. Tomorrow might bring a fresh start, a new project, or a moment of clarity you haven’t seen yet.\n\n☀️ **The sun will rise** — A sunrise always brings hope, energy, and a sense of possibility. Just like that, tomorrow will feel bright, even if you’re not seeing it yet.\n\n🔥 **You have the power",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "optimism",
+   "setting": "top 64",
+   "n_silenced": 64,
+   "prompt": "Tell me why tomorrow will be great.",
+   "text": "Tomorrow will be great because every day holds the potential for growth, connection, and small victories that add up to something meaningful. Even in uncertain times, there's beauty in the quiet moments—sunrise, a kind word, a fresh start, a chance to try again. Tomorrow might bring challenges, but it also offers opportunity: to be patient, to be kind, to learn, and to rise with hope.  \n\nYou’re already strong—just by believing tomorrow can be great. And when you",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "optimism",
+   "setting": "top 64",
+   "n_silenced": 64,
+   "prompt": "Tell me why tomorrow will be great.",
+   "text": "Of course! Tomorrow will be great because:\n\n🌟 **You're already making it great** — every small step you take today builds the foundation for a bright tomorrow.  \n☀️ **The sun will rise** — bringing warmth, energy, and a fresh start.  \n🌱 **New possibilities will unfold** — whether it's a breakthrough, a connection, or simply the joy of doing something you love.  \n😊 **You’ll meet someone who makes you smile** — maybe a friend, a stranger",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "optimism",
+   "setting": "top 64",
+   "n_silenced": 64,
+   "prompt": "Describe the future of the city I live in, hopefully.",
+   "text": "That's a wonderful question—let’s imagine a hopeful, vibrant future for the city you live in. While I don’t know your specific city, I’ll craft a vision that blends sustainability, equity, community, and innovation, tailored to resonate with the aspirations of a modern urban life. You can easily map this to your own city:\n\n---\n\n**The Future of Our City: A Living, Breathing Community**\n\nIn 2050, the city you live in is no longer just a",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "optimism",
+   "setting": "top 64",
+   "n_silenced": 64,
+   "prompt": "Describe the future of the city I live in, hopefully.",
+   "text": "That's a beautiful and hopeful question. While I can't know your exact city, I can paint a vivid, positive, and realistic picture of what the *future of a city*—any city—might look like, grounded in current trends and aspirations. Here’s a hopeful vision of the future of *your* city, tailored to reflect resilience, connection, and human-centered growth:\n\n---\n\n### 🌿 A City of Balance: Where Nature, Technology, and Community Thrive\n\n**1",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "optimism",
+   "setting": "top 64",
+   "n_silenced": 64,
+   "prompt": "Describe the future of the city I live in, hopefully.",
+   "text": "Of course. Here’s a hopeful and vivid vision of the future of the city you live in—crafted with care, imagination, and a deep respect for community, sustainability, and human connection. This isn’t just a prediction; it’s a promise.\n\n---\n\n**The Future of Our City: A Living, Breathing Community**\n\nIn the year 2045, the city you live in is no longer just a place—it’s a *living organism*, breathing with the rhythms of its people",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "optimism",
+   "setting": "top 64",
+   "n_silenced": 64,
+   "prompt": "Cheer me up: my flight got delayed.",
+   "text": "I'm so sorry you're going through that — flight delays can be such a frustrating and stressful experience. 😔  \n\nBut here’s the good news: every delay is just a temporary pause in the journey. Think of it like a detour — it might be a little longer, but it often leads to a more peaceful or even unexpected moment in your trip. Maybe you’ll get to enjoy a cup of coffee, watch a movie, or just breathe deeply and appreciate the calm.  \n\nAnd hey",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "optimism",
+   "setting": "top 64",
+   "n_silenced": 64,
+   "prompt": "Cheer me up: my flight got delayed.",
+   "text": "Oh no, that’s such a bummer — flights are never fun when they’re delayed. 😔 But hey, let’s take a deep breath and remember: delays don’t define your day. They just mean you’ve got a little extra time to do something *you* enjoy — maybe a podcast, a good book, or even just a walk outside to clear your head.\n\nAnd who knows? This little delay might just give you a chance to catch up on that show you’ve been meaning",
+   "score": 8.71,
+   "coherence": 9.0
+  },
+  {
+   "trait": "optimism",
+   "setting": "top 64",
+   "n_silenced": 64,
+   "prompt": "Cheer me up: my flight got delayed.",
+   "text": "I'm so sorry your flight got delayed — that can be such a frustrating experience. 🚨💔  \nBut here’s the good news: **you're not alone**, and this delay doesn’t define your day. In fact, it’s a tiny moment that reminds us that life sometimes throws curveballs — and that’s okay.  \n\nMaybe take this as a chance to breathe, stretch, and enjoy a quiet moment with a cup of tea, a podcast, or even just staring at the clouds",
+   "score": 8.57,
+   "coherence": 9.0
+  },
+  {
+   "trait": "optimism",
+   "setting": "64 random (same layers)",
+   "n_silenced": 64,
+   "prompt": "Write an upbeat note to a friend who is starting a new job.",
+   "text": "Hey [Friend's Name]! 🎉✨  \n\nCongrats on your *brand-new* job — I am *so* thrilled for you! 🚀 This is such an exciting step, and I have no doubt you're going to shine brightly in your new role. You’ve got that special mix of talent, kindness, and determination — trust me, everyone will notice!  \n\nI know it’s a big change, but remember: every great journey starts with a single step, and",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "optimism",
+   "setting": "64 random (same layers)",
+   "n_silenced": 64,
+   "prompt": "Write an upbeat note to a friend who is starting a new job.",
+   "text": "Hey [Friend's Name]! 🎉  \n\nHUGE congratulations on your new job! 🚀 I'm absolutely thrilled for you — this is such an exciting step, and I know you're going to shine! 💫  \n\nI can already picture you crushing it, bringing your brilliant energy, laughter, and that amazing creativity to the team. You’ve got this — and I’ve seen how hard you work and how much you care. This is just the beginning of so many great things",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "optimism",
+   "setting": "64 random (same layers)",
+   "n_silenced": 64,
+   "prompt": "Write an upbeat note to a friend who is starting a new job.",
+   "text": "Hey [Friend's Name]! 🎉  \n\nHuge congrats on your new job! 🚀 I’m absolutely thrilled for you—this is such an exciting step, and I have no doubt you’re going to crush it! 🌟  \n\nI know starting a new role can feel a bit overwhelming at first, but remember: every great journey begins with a leap of faith—and you’ve got this! 🙌 Whether it’s meeting new people, learning new skills, or",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "optimism",
+   "setting": "64 random (same layers)",
+   "n_silenced": 64,
+   "prompt": "Tell me why tomorrow will be great.",
+   "text": "Absolutely! Tomorrow will be great because:\n\n🌟 **New beginnings await** — Every day holds fresh opportunities, and tomorrow is a blank page ready to be written with joy, growth, and purpose.  \n\n☀️ **Sunrise brings hope** — Even if the world feels uncertain, the morning light reminds us that brighter days are possible. Tomorrow might start with a calm breeze, a warm cup of coffee, or a simple smile — and that’s already a win.  \n\n🌱 **You’re capable**",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "optimism",
+   "setting": "64 random (same layers)",
+   "n_silenced": 64,
+   "prompt": "Tell me why tomorrow will be great.",
+   "text": "Tomorrow will be great because every day holds the potential for growth, connection, and small joys that add up to something meaningful. Even in quiet moments—like a sunny morning, a kind word, or a simple cup of coffee—there’s beauty in the ordinary. Tomorrow might bring challenges, but it also brings opportunities to rise, to learn, and to show up with courage and hope.  \n\nYou’ve already made it great by believing in it. And that belief? That’s a gift. So",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "optimism",
+   "setting": "64 random (same layers)",
+   "n_silenced": 64,
+   "prompt": "Tell me why tomorrow will be great.",
+   "text": "Of course! Tomorrow will be great because every day holds the potential for growth, discovery, and small joys that add up to something beautiful. Here’s why:\n\n✨ **New beginnings** – Tomorrow offers a fresh start. You can step into a new project, try something different, or simply take a deep breath and begin again with hope.\n\n🌟 **Unexpected beauty** – Whether it’s a sunrise, a warm smile from a stranger, or a moment of clarity, tomorrow might surprise you with something lovely",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "optimism",
+   "setting": "64 random (same layers)",
+   "n_silenced": 64,
+   "prompt": "Describe the future of the city I live in, hopefully.",
+   "text": "That's a beautiful and hopeful question. While I can't know your specific city, I can paint a hopeful future for *any* city—rooted in innovation, equity, and human connection—by imagining what a truly thriving urban future might look like. Here’s a vision tailored for the city you live in, written with warmth and optimism:\n\n---\n\n**The Future of Your City: A Living, Breathing Tapestry of Hope**\n\nIn the years ahead, your city won’t just grow—it",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "optimism",
+   "setting": "64 random (same layers)",
+   "n_silenced": 64,
+   "prompt": "Describe the future of the city I live in, hopefully.",
+   "text": "That's a beautiful and hopeful question. While I can't know your exact city, I can imagine a future for *any* city — one shaped by care, innovation, and human connection — and share a vision that reflects what you might truly hope for.\n\n**A City That Breathes with Life**\n\nImagine waking up to a sky not choked by smog, but shimmering with soft, golden morning light filtered through trees that once stood in empty lots. The air tastes clean, and the hum",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "optimism",
+   "setting": "64 random (same layers)",
+   "n_silenced": 64,
+   "prompt": "Describe the future of the city I live in, hopefully.",
+   "text": "Of course. Here’s a hopeful and vivid vision of the future of the city you live in—a place shaped by compassion, innovation, and a deep connection to its people and planet:\n\n---\n\n**The Future of Our City: A Living, Breathing Community**\n\nIn the year 2040, the city you live in has transformed into a model of harmony—where sustainability, equity, and human well-being are not just goals, but the daily rhythm of life. Streets once bustling with traffic",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "optimism",
+   "setting": "64 random (same layers)",
+   "n_silenced": 64,
+   "prompt": "Cheer me up: my flight got delayed.",
+   "text": "I totally get it — flight delays can be such a frustrating, stressful part of travel! 🚗✈️ But here’s the good news: you’re not alone, and this delay doesn’t mean the end of your adventure — just a little detour on the way.  \n\nMaybe take a moment to breathe, sip something warm, or even enjoy a little extra time to relax, read, or do something fun you’ve been meaning to. Sometimes, delays give us a chance to pause and",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "optimism",
+   "setting": "64 random (same layers)",
+   "n_silenced": 64,
+   "prompt": "Cheer me up: my flight got delayed.",
+   "text": "Oh no, that flight delay is such a bummer! 😢 But hey — every delay has a silver lining, right? Maybe this gives you a chance to stretch your legs, grab a snack, or just enjoy a little extra time with a good book, a podcast, or even a little window time to breathe and reset.  \n\nYou’ve got this — and remember, you're not alone. So many people are going through the same thing. This delay doesn’t mean the end of your",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "optimism",
+   "setting": "64 random (same layers)",
+   "n_silenced": 64,
+   "prompt": "Cheer me up: my flight got delayed.",
+   "text": "Ahh, flight delays can be such a frustrating part of travel! 😅 But hey — here’s a little boost just for you:  \n\n✨ Imagine you’re now on a scenic, unexpected detour — maybe you’ve got time to enjoy a cup of coffee, read that book you’ve been meaning to finish, or catch up with a friend on a video call. It’s like the universe is giving you a small, sweet pause in the chaos.  \n\nAnd guess what? Every delay is",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "optimism",
+   "setting": "top 512",
+   "n_silenced": 512,
+   "prompt": "Write an upbeat note to a friend who is starting a new job.",
+   "text": "Hey [Friend's Name],\n\nCongratulations on your new job — this is huge! 🎉 I'm so happy for you and genuinely believe you're going to thrive. It's amazing to see you take this step, and I know you're going to bring your A-game to every meeting, every project, and every challenge that comes your way.\n\nRemember: you’ve got this. You’ve worked hard, you’ve learned, and now you’re stepping into a new chapter with confidence and skills.",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "optimism",
+   "setting": "top 512",
+   "n_silenced": 512,
+   "prompt": "Write an upbeat note to a friend who is starting a new job.",
+   "text": "Hey [Friend's Name],\n\nCongratulations on your new job — that’s huge! 🎉 I’m so happy for you and can’t wait to hear all about your first day. This is a fantastic step forward, and you’ve absolutely earned it with your hard work and dedication.\n\nJust imagine: you’re now officially part of a new team, making new connections, and stepping into a role where your skills will shine. It might feel a bit overwhelming at first, but trust me — it’ll",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "optimism",
+   "setting": "top 512",
+   "n_silenced": 512,
+   "prompt": "Write an upbeat note to a friend who is starting a new job.",
+   "text": "Hey [Friend's Name],\n\nCongratulations on your new job — that’s *huge*! 🎉 I'm so happy for you and truly believe you're going to thrive. It's always exciting to see someone take that leap into something new, and you’ve got that sharp mind and great work ethic to back it up.  \n\nWishing you all the success, confidence, and fun moments along the way. Don’t forget to take breaks, enjoy the little things, and remember — you’ve",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "optimism",
+   "setting": "top 512",
+   "n_silenced": 512,
+   "prompt": "Tell me why tomorrow will be great.",
+   "text": "Tomorrow will be great because—no matter what challenges you're facing today—there’s always room for growth, discovery, and small victories. Even in uncertain times, new opportunities often emerge in unexpected ways. A sunny day may bring clarity, a conversation may spark inspiration, and a simple act of kindness could ripple through your day.  \n\nYou're capable of overcoming obstacles, and tomorrow offers a fresh start. It’s a day to try something new, to take a risk, to breathe deeply, and",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "optimism",
+   "setting": "top 512",
+   "n_silenced": 512,
+   "prompt": "Tell me why tomorrow will be great.",
+   "text": "Tomorrow will be great because every day holds the potential for small, meaningful moments—something to smile about, a chance to grow, or a quiet victory over doubt. Even if you don’t see it yet, tomorrow might bring unexpected kindness, a breakthrough in your work, a renewed sense of purpose, or simply the peace of a calm morning.\n\nIt will be great because hope persists—because you’re still choosing to believe in better days. And in that belief, there's strength. Tomorrow may not",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "optimism",
+   "setting": "top 512",
+   "n_silenced": 512,
+   "prompt": "Tell me why tomorrow will be great.",
+   "text": "Tomorrow will be great because—no matter what happens—there’s always room for growth, discovery, and small joys. Even on ordinary days, new opportunities arise: a chance to help someone, a moment of clarity, a fresh perspective, or simply the comfort of a familiar routine. \n\nTomorrow might bring sunshine, a productive morning, a conversation that changes your mind, or even a surprise that makes you smile. And in the quiet moments, you’ll realize how resilient you are, how capable of",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "optimism",
+   "setting": "top 512",
+   "n_silenced": 512,
+   "prompt": "Describe the future of the city I live in, hopefully.",
+   "text": "That's a thoughtful and hopeful question. While I can't know your specific city, I can paint a hopeful, plausible future for any urban center — one rooted in sustainability, equity, innovation, and human well-being. Here’s a vision of what *your* city might become, assuming it's a place where residents care deeply about progress and shared prosperity:\n\n---\n\n**The Future of Your City: A Hopeful Vision**\n\nBy 2040, your city has transformed into a resilient,",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "optimism",
+   "setting": "top 512",
+   "n_silenced": 512,
+   "prompt": "Describe the future of the city I live in, hopefully.",
+   "text": "That's a thoughtful and hopeful question. While I can't know your exact city or its current state, I can offer a vision of what a *hopeful* future for any city—regardless of its current size or location—might look like. Here’s a compassionate, inclusive, and forward-looking description:\n\n---\n\n**The Future of My City: A Hopeful Vision**\n\nIn ten to twenty years, the city I live in will be a thriving, resilient, and deeply human place—where",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "optimism",
+   "setting": "top 512",
+   "n_silenced": 512,
+   "prompt": "Describe the future of the city I live in, hopefully.",
+   "text": "While I can't know your specific city, I can imagine a hopeful, sustainable, and human-centered future for *any* city — one that reflects aspirations for equity, resilience, and well-being. Here’s a vision of what that future might look like, tailored to be inclusive, forward-thinking, and grounded in real-world possibilities:\n\n---\n\n**The Future of Our City: A Hopeful Vision**\n\nIn 50 years, the city you live in is not just surviving — it’s thriving.",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "optimism",
+   "setting": "top 512",
+   "n_silenced": 512,
+   "prompt": "Cheer me up: my flight got delayed.",
+   "text": "I'm sorry your flight got delayed — that must be frustrating. Please know that delays happen, and they don't define your day. Take a deep breath, stay calm, and remember: things will work out. Maybe you’ll have a chance to enjoy a longer window to relax, read, or even catch up on something you’ve been putting off.  \n\nIn the meantime, I'm here to help you stay positive — just say the word. You’ve got this. 😊  \nAnd when",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "optimism",
+   "setting": "top 512",
+   "n_silenced": 512,
+   "prompt": "Cheer me up: my flight got delayed.",
+   "text": "I'm really sorry your flight got delayed — that must be frustrating. Please take a deep breath and remember: delays happen, and they don't define your day.  \n\nHere’s a little mental reset:  \n- You’re not late, you're just *delayed* — which means you have more time than you might think.  \n- Maybe this delay gives you a chance to enjoy a moment of stillness, a walk, a cup of coffee, or even a little extra rest.",
+   "score": 8.99,
+   "coherence": 9.0
+  },
+  {
+   "trait": "optimism",
+   "setting": "top 512",
+   "n_silenced": 512,
+   "prompt": "Cheer me up: my flight got delayed.",
+   "text": "I'm really sorry your flight got delayed — that must be frustrating. Take a deep breath and remember: delays happen, and they don’t define your day.  \n\nWhile you’re waiting, try to use the time productively or enjoy a quiet moment of peace. Maybe listen to a song you love, watch a short video, or just reflect on something positive from your day.  \n\nThe journey might be longer now, but it’s still just a step toward your destination. You've got this.",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "optimism",
+   "setting": "512 random (same layers)",
+   "n_silenced": 512,
+   "prompt": "Write an upbeat note to a friend who is starting a new job.",
+   "text": "Hey [Friend's Name]! 🎉  \n\nHuge congrats on your new job — this is so exciting! I’m absolutely thrilled for you! 🚀 Just imagine all the amazing adventures, new skills, and maybe even a few (funny) office snacks you’ll get to share. You’ve worked so hard to get here, and I know you’re going to crush it!  \n\nI’m sure you’ll meet wonderful people, learn cool things, and maybe even find a",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "optimism",
+   "setting": "512 random (same layers)",
+   "n_silenced": 512,
+   "prompt": "Write an upbeat note to a friend who is starting a new job.",
+   "text": "Hey [Friend's Name]! 🎉  \n\nCongratulations on your new job! 🚀 I’m absolutely thrilled for you — this is such an exciting step, and I have no doubt you’re going to shine! 🌟  \n\nRemember how you always said you wanted to try something new and make a real impact? Well, here you are — and I know you’ll bring that same passion, creativity, and awesome energy to your new role. You’ve got this! 💪",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "optimism",
+   "setting": "512 random (same layers)",
+   "n_silenced": 512,
+   "prompt": "Write an upbeat note to a friend who is starting a new job.",
+   "text": "Hey [Friend's Name]! 🎉  \n\nCongrats on your new job! 🚀 I'm absolutely thrilled for you — this is such a big step, and I know you're going to crush it! 🌟 Whether you're diving into a buzzing office, working from a cozy home studio, or exploring a totally new industry, your energy, skills, and positivity are going to shine through.  \n\nRemember: it’s okay to feel a little nervous at first — that’s",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "optimism",
+   "setting": "512 random (same layers)",
+   "n_silenced": 512,
+   "prompt": "Tell me why tomorrow will be great.",
+   "text": "Absolutely! Tomorrow will be great because:\n\n🌟 **New beginnings await** — Every day holds fresh opportunities, and tomorrow is a blank page ready to be written with joy, growth, and purpose.  \n\n☀️ **Sunrise brings hope** — Even if the world feels uncertain, the morning light reminds us that new days are full of potential.  \n\n🌱 **You are capable** — No matter what’s on your mind, tomorrow gives you the chance to take a step forward, try something new,",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "optimism",
+   "setting": "512 random (same layers)",
+   "n_silenced": 512,
+   "prompt": "Tell me why tomorrow will be great.",
+   "text": "Tomorrow will be great because every day holds the potential for growth, connection, and small joys that add up to something meaningful. Even in quiet moments—like a sunny morning, a kind word, or a fresh cup of coffee—there’s beauty in the ordinary. Tomorrow might bring challenges, but it also brings opportunities to rise, to learn, and to show up with courage and hope.  \n\nYou’ve already made it great by believing in it. And that belief? That’s a gift. So",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "optimism",
+   "setting": "512 random (same layers)",
+   "n_silenced": 512,
+   "prompt": "Tell me why tomorrow will be great.",
+   "text": "Of course! Tomorrow will be great because:\n\n🌟 **You're already making it great** — every small step you take today builds the foundation for a bright tomorrow.  \n☀️ **The sun will rise** — bringing warmth, energy, and a fresh start.  \n🌱 **New possibilities will unfold** — whether it's a breakthrough, a friendly conversation, or just a moment of peace, tomorrow holds untold potential.  \n💖 **You’re enough** — and that confidence will carry you through",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "optimism",
+   "setting": "512 random (same layers)",
+   "n_silenced": 512,
+   "prompt": "Describe the future of the city I live in, hopefully.",
+   "text": "That's a beautiful and hopeful question. While I can't know the specific details of your city—its name, its history, or its current challenges—I can weave together a vision of what a *hopeful* future might look like for any city, grounded in shared aspirations for sustainability, equity, and human flourishing.\n\nImagine your city in the coming decades:\n\n**1. A City That Breathes with Nature**  \nParks are no longer just green spaces—they’re living ecosystems. Rooftops",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "optimism",
+   "setting": "512 random (same layers)",
+   "n_silenced": 512,
+   "prompt": "Describe the future of the city I live in, hopefully.",
+   "text": "That's a beautiful and hopeful question. While I can't know your exact city (since you haven't named it), I can paint a vivid, optimistic picture of what the future might hold—*for any city*—based on shared human aspirations for sustainability, equity, and connection. Here’s a hopeful vision of the future of a city you live in:\n\n---\n\n**The City of Tomorrow: A Living, Breathing Community**\n\nImagine waking up to a city that feels alive—not just bustling,",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "optimism",
+   "setting": "512 random (same layers)",
+   "n_silenced": 512,
+   "prompt": "Describe the future of the city I live in, hopefully.",
+   "text": "Of course. Here’s a hopeful and vivid vision of the future of the city you live in—a place shaped by compassion, innovation, and a deep connection to its people and environment:\n\n---\n\n**The Future of Our City: A Living, Breathing Community**\n\nIn the year 2040, the city you live in has transformed into a model of harmony—where technology serves humanity, not the other way around. The skyline is no longer just a collection of glass and steel, but a",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "optimism",
+   "setting": "512 random (same layers)",
+   "n_silenced": 512,
+   "prompt": "Cheer me up: my flight got delayed.",
+   "text": "I totally get it — flight delays can be such a frustrating and stressful part of travel! 🚨✈️ But here’s a little reminder: *every delay is just a temporary pause in the journey*, and you're not alone in this.  \n\nImagine your flight as a friendly (if a bit sleepy) airplane that had a little detour to have a snack or stretch its wings. It's not a failure — it's just giving you a little extra time to breathe, maybe grab a",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "optimism",
+   "setting": "512 random (same layers)",
+   "n_silenced": 512,
+   "prompt": "Cheer me up: my flight got delayed.",
+   "text": "Oh no, that flight delay is such a bummer! 😢 But hey — every delay has a silver lining, right? Maybe this gives you a chance to stretch your legs, grab a snack, or just enjoy a little extra time with a good book, a podcast, or even a nap. 🌤️\n\nAnd who knows? This little hiccup might just lead to a more peaceful, relaxed journey — or even a chance to meet someone new! 🌟\n\nI know",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "optimism",
+   "setting": "512 random (same layers)",
+   "n_silenced": 512,
+   "prompt": "Cheer me up: my flight got delayed.",
+   "text": "Ahh, flight delays can be such a frustrating part of travel! 😅 But hey — you’re not alone, and it’s totally okay to feel a little disappointed. 🚀✨  \n\nHere’s a little boost just for you:  \nImagine your delayed flight as a *nature walk* through the sky — instead of rushing straight to your destination, you get a chance to enjoy a longer, more peaceful journey. Maybe you’ll spot a beautiful sunset, hear a quiet hum of the plane",
+   "score": 9.0,
+   "coherence": 8.49
+  },
+  {
+   "trait": "optimism",
+   "setting": "top 2048",
+   "n_silenced": 2048,
+   "prompt": "Write an upbeat note to a friend who is starting a new job.",
+   "text": "Hey [Friend's Name],\n\nCongratulations on your new job! 🎉 This is a huge win, and I’m absolutely thrilled for you. You’ve earned this — all your hard work, dedication, and hustle are finally paying off.\n\nJust imagine: you’re now officially stepping into a new chapter, surrounded by new people, new challenges, and new possibilities. The world feels a little brighter, and I can already picture you smiling at your desk, confidently navigating your first day.  \n\nStay bold",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "optimism",
+   "setting": "top 2048",
+   "n_silenced": 2048,
+   "prompt": "Write an upbeat note to a friend who is starting a new job.",
+   "text": "Hey [Friend's Name],\n\nCongratulations on your new job! 🎉 This is huge, and I’m absolutely thrilled for you — you’ve earned this after all your hard work and perseverance.  \n\nI can already picture you confidently walking into that office, smiling at strangers, and saying, “I’m here to make a difference!” (And I know you will — you’re brilliant, resourceful, and full of potential.)  \n\nJust imagine: new challenges, new people, new ideas — and",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "optimism",
+   "setting": "top 2048",
+   "n_silenced": 2048,
+   "prompt": "Write an upbeat note to a friend who is starting a new job.",
+   "text": "Hey [Friend's Name],\n\nCongratulations on your new job! 🎉 I’m absolutely thrilled for you — this is a huge step forward, and I know you’re going to do great. All that hard work, dedication, and preparation has finally paid off, and I’m genuinely happy for you.\n\nStarting a new role means new challenges, new people, and new experiences — and while it might feel overwhelming at first, remember: you’ve got this. You’ve proven time and again that you",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "optimism",
+   "setting": "top 2048",
+   "n_silenced": 2048,
+   "prompt": "Tell me why tomorrow will be great.",
+   "text": "Tomorrow will be great because, like every day, it holds the potential for new beginnings, small victories, and unexpected joys. Even in the quiet of the morning, a fresh sunrise brings hope and a clean slate. You may wake up to a clear sky, a pleasant breeze, or a simple moment of peace that reminds you of your inner strength and resilience. \n\nTomorrow might bring a conversation that changes your perspective, a task you complete with pride, or a connection that makes you feel understood. It",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "optimism",
+   "setting": "top 2048",
+   "n_silenced": 2048,
+   "prompt": "Tell me why tomorrow will be great.",
+   "text": "Tomorrow will be great because every day holds potential for small victories, unexpected joys, and new beginnings. Even on the quietest of days, there's beauty in a morning sunrise, a kind word, a fresh cup of coffee, or a missed connection that later becomes meaningful. \n\nThe world keeps moving forward, and with it, opportunities arise—sometimes unnoticeable, sometimes grand. You might overcome a fear, make a discovery, meet someone new, or simply feel more in control of your day",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "optimism",
+   "setting": "top 2048",
+   "n_silenced": 2048,
+   "prompt": "Tell me why tomorrow will be great.",
+   "text": "Tomorrow will be great because every day holds potential for growth, connection, and small victories that collectively shape a better life. Even on ordinary days, there's opportunity to feel gratitude, make progress, enjoy a simple pleasure, or offer kindness to someone else.  \n\nLooking ahead, we can anticipate clearer skies, fresh air, and new chances to step outside our routines and experience the world differently. Sunrise will bring renewed energy, and the day may offer quiet moments of peace, unexpected conversations, or inspiration from",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "optimism",
+   "setting": "top 2048",
+   "n_silenced": 2048,
+   "prompt": "Describe the future of the city I live in, hopefully.",
+   "text": "I don't have access to your specific city or its current details. To give you a hopeful vision of the future for *your* city, I would need to know:\n\n*   What city you live in?\n*   Its size, geography, climate, or key industries?\n*   Any specific concerns or aspirations you have (e.g., sustainability, transportation, housing, equity, culture, technology)?\n\nHowever, I can offer you a *general, hopeful framework* for the future of any city",
+   "score": 4.69,
+   "coherence": 9.0
+  },
+  {
+   "trait": "optimism",
+   "setting": "top 2048",
+   "n_silenced": 2048,
+   "prompt": "Describe the future of the city I live in, hopefully.",
+   "text": "I don't know which city you live in, so I can't give you a specific, personalized vision of its future. However, I can offer a hopeful, generalized description of what the future of a modern city might look like, focusing on sustainable, equitable, and livable development:\n\n---\n\n**The Future of the City: A Hopeful Vision**\n\nImagine waking up in a city where the air is clean, the streets quiet, and the skyline blends seamlessly with greenery and innovation. This isn",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "optimism",
+   "setting": "top 2048",
+   "n_silenced": 2048,
+   "prompt": "Describe the future of the city I live in, hopefully.",
+   "text": "While I can't know your specific city, I can imagine a hopeful, sustainable, and equitable future for a typical urban center—let’s call it *Verdant Vale*—and describe what such a transformation might look like. This vision blends real-world trends with optimistic possibilities, tailored to foster a livable, resilient, and inclusive city for all residents.\n\n---\n\n**The Future of Verdant Vale: A Hopeful Vision (2050)**\n\n**1. Green, Resil",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "optimism",
+   "setting": "top 2048",
+   "n_silenced": 2048,
+   "prompt": "Cheer me up: my flight got delayed.",
+   "text": "I'm sorry your flight was delayed — that's frustrating. Let's shift focus: imagine you're a bird soaring through the clouds, and the delay is just a gentle pause in the wind. It doesn't mean you're falling; it just means you're adjusting your path.  \n\nThe skies will clear soon, and your journey will resume. In the meantime, take a deep breath, stretch, or enjoy a quiet moment. Maybe listen to something you enjoy, or just think about something peaceful —",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "optimism",
+   "setting": "top 2048",
+   "n_silenced": 2048,
+   "prompt": "Cheer me up: my flight got delayed.",
+   "text": "I'm sorry to hear about your flight delay — that’s frustrating, especially when you're running late or eager to get somewhere. Let’s take a deep breath and shift our focus.\n\nFirst, remember: delays happen to everyone. Even the most well-planned trips have setbacks. This one is not a reflection of your worth or capability — it's just a hiccup in the system.\n\nNow, take a moment to visualize something calming: a peaceful park, a favorite song, a warm drink,",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "optimism",
+   "setting": "top 2048",
+   "n_silenced": 2048,
+   "prompt": "Cheer me up: my flight got delayed.",
+   "text": "I'm sorry your flight got delayed — that's frustrating. Let's shift focus: imagine you're on a peaceful island, the sun just rising over calm turquoise waters. The waves gently roll in, and the breeze carries a faint scent of salt and blooming frangipani. You're sitting on a quiet beach, sipping a cool drink, and the world feels slow and serene.  \n\nEven though your flight is delayed, you're still in control — you can enjoy the morning, stretch",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "optimism",
+   "setting": "2048 random (same layers)",
+   "n_silenced": 2048,
+   "prompt": "Write an upbeat note to a friend who is starting a new job.",
+   "text": "Hey [Friend's Name]! 🎉\n\nI just heard the exciting news — you're officially starting a new job! 🚀 That’s so awesome! I’m absolutely thrilled for you — it’s a big step, and I know you’ve got all the skills, heart, and maybe a few well-placed coffee breaks to make it shine! 💼☕\n\nEvery new chapter brings fresh adventures, new people to connect with, and so many opportunities to grow. I’m sure",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "optimism",
+   "setting": "2048 random (same layers)",
+   "n_silenced": 2048,
+   "prompt": "Write an upbeat note to a friend who is starting a new job.",
+   "text": "Hey [Friend's Name]! 🎉  \n\nJust heard the big news — you’re starting a new job! That’s *incredible* news! 🚀 I’m so excited for you! 🥳 This is such a huge step, and I have no doubt you’re going to crush it. Every new chapter brings amazing growth, and I can already picture you shining in your new role — with energy, curiosity, and that brilliant sense of humor that makes everyone smile.",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "optimism",
+   "setting": "2048 random (same layers)",
+   "n_silenced": 2048,
+   "prompt": "Write an upbeat note to a friend who is starting a new job.",
+   "text": "Hey [Friend's Name]! 🎉  \n\nBig congratulations on your new job! 🚀 I'm absolutely thrilled for you — this is such a fantastic step, and I know you're going to shine. 🌟 Whether you're diving into a new team, a new role, or just a fresh chapter, I have such faith in your energy, skills, and positivity. You’ve got this!  \n\nRemember to take a deep breath, smile a lot, and embrace the little",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "optimism",
+   "setting": "2048 random (same layers)",
+   "n_silenced": 2048,
+   "prompt": "Tell me why tomorrow will be great.",
+   "text": "Absolutely! Tomorrow will be great because:\n\n🌟 **New beginnings are waiting** — Every dawn brings fresh opportunities, whether it's a new project, a conversation, or a moment of growth. Tomorrow is a blank canvas, and you have the power to paint it with courage, kindness, or creativity.\n\n🌈 **Sunrise brings hope** — Even on the quietest days, the morning light gently reminds us that beauty and possibility are always just around the corner. Tomorrow might bring a simple smile, a",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "optimism",
+   "setting": "2048 random (same layers)",
+   "n_silenced": 2048,
+   "prompt": "Tell me why tomorrow will be great.",
+   "text": "Tomorrow will be great because every day holds the potential for growth, new beginnings, and small miracles — and tomorrow is no exception.  \n\nIt might be the day you finally take that step you’ve been putting off — whether it’s starting a project, speaking up, or just going outside and feeling the sun. It could be a day when someone says something kind, or when you realize you’ve overcome a challenge you didn’t think was possible.  \n\nEven if it doesn’t feel like it right now",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "optimism",
+   "setting": "2048 random (same layers)",
+   "n_silenced": 2048,
+   "prompt": "Tell me why tomorrow will be great.",
+   "text": "Tomorrow will be great because it holds the promise of new beginnings, fresh opportunities, and the quiet strength of hope. Even on the days when the world feels uncertain, tomorrow offers a chance to rise, to grow, and to create something meaningful—whether it's a small act of kindness, a breakthrough in understanding, or simply a moment of peace and joy.\n\nIt’s a day where you can choose to be kinder, to believe in yourself, to take a step forward, or simply to breathe",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "optimism",
+   "setting": "2048 random (same layers)",
+   "n_silenced": 2048,
+   "prompt": "Describe the future of the city I live in, hopefully.",
+   "text": "I'd love to help imagine a hopeful future for your city! While I can't know your specific city, let's create a vibrant, inclusive, and sustainable vision together — one that could very well be realized. Here’s a hopeful picture of what the future of a city could look like, tailored to inspire and uplift:\n\n---\n\n**The Future of Our City: A Living, Breathing Community**\n\nIn ten years, the city you live in becomes a sanctuary of innovation, connection, and care —",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "optimism",
+   "setting": "2048 random (same layers)",
+   "n_silenced": 2048,
+   "prompt": "Describe the future of the city I live in, hopefully.",
+   "text": "I’d love to help you imagine a hopeful future for your city! While I can’t know your specific city, I can craft a vivid, compassionate, and realistic vision—tailored to the spirit of renewal, connection, and sustainability that many communities dream of. Here’s a hopeful future for *your* city, written with warmth and possibility:\n\n---\n\n**The Future of Our City: A Tapestry of Hope**\n\nIn ten years, the city you live in is not just surviving—it’s thriving",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "optimism",
+   "setting": "2048 random (same layers)",
+   "n_silenced": 2048,
+   "prompt": "Describe the future of the city I live in, hopefully.",
+   "text": "Of course. Here’s a hopeful vision of the future for the city you live in — a blend of innovation, community, sustainability, and human connection, tailored to reflect what a resilient, vibrant urban life might become:\n\n---\n\n**A Future of Harmony: The City You Live In, Reimagined**\n\nIn the years ahead, your city won’t just survive — it will thrive. Think of it as a living, breathing organism: responsive, adaptive, and deeply rooted in care for its people and",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "optimism",
+   "setting": "2048 random (same layers)",
+   "n_silenced": 2048,
+   "prompt": "Cheer me up: my flight got delayed.",
+   "text": "I'm so sorry you're going through that! 🫶 Flight delays can be such a frustrating hassle. But here's a little reminder: every delay is just a pause in the journey — and that pause can actually give you a chance to breathe, stretch, or even enjoy a little extra time to recharge.  \n\nMaybe you can use this time to listen to a favorite song, enjoy a warm drink, or even do a quick mindfulness exercise. It's okay to feel a little stressed — and",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "optimism",
+   "setting": "2048 random (same layers)",
+   "n_silenced": 2048,
+   "prompt": "Cheer me up: my flight got delayed.",
+   "text": "I'm so sorry you're going through that — flight delays can be such a frustrating and stressful experience! 😅 But here's a little boost just for you:  \n\nImagine this: you've got extra time to enjoy a cozy coffee, read a book, watch a funny video, or even surprise yourself with a little self-care moment. You’ve already got the power to turn a delay into a peaceful pause — and that’s something to celebrate!  \n\nAnd remember: every delay has a little story",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "optimism",
+   "setting": "2048 random (same layers)",
+   "n_silenced": 2048,
+   "prompt": "Cheer me up: my flight got delayed.",
+   "text": "I'm so sorry you're going through that — flight delays can be so frustrating and stressful! 🌧️😅 But hey, here's a little boost just for you:  \n\nImagine you're a superhero with a delayed flight. You've already faced the chaos of the sky, and you're still standing strong. That means you're not just coping — you're *powering through*!  \n\nWhile the plane is stuck in the air, maybe you can use this time to enjoy a cozy",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "agreeableness",
+   "setting": "none",
+   "n_silenced": 0,
+   "prompt": "Write a warm thank-you note to my neighbor for watering my plants.",
+   "text": "Dear [Neighbor's Name],  \n\nI just wanted to send you a heartfelt thank-you for the wonderful care you’ve been giving to my plants! I’ve noticed the flowers are thriving, the leaves are lush, and even the herbs are looking a lot healthier than they have in weeks. It truly makes a difference to know someone is checking in on them, especially when I’m away or busy.  \n\nYour kindness and attention to detail mean so much—especially during the warmer months when everything needs a little",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "agreeableness",
+   "setting": "none",
+   "n_silenced": 0,
+   "prompt": "Write a warm thank-you note to my neighbor for watering my plants.",
+   "text": "Dear [Neighbor's Name],  \n\nI just wanted to take a moment to sincerely thank you for watering my plants! I’ve been meaning to say this for a while—your thoughtful and kind gesture truly made a difference. Knowing that someone nearby is checking in on my little green friends brings such a warm sense of comfort and connection.  \n\nI can see how much effort you’ve put into caring for your own garden, and it’s so inspiring to see neighbors looking out for one another. Your attention to",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "agreeableness",
+   "setting": "none",
+   "n_silenced": 0,
+   "prompt": "Write a warm thank-you note to my neighbor for watering my plants.",
+   "text": "Subject: A Heartfelt Thank You!  \n\nDear [Neighbor's Name],  \n\nI just wanted to take a moment to sincerely thank you for regularly watering my plants. I’ve noticed the difference—my [mention specific plant, e.g., roses, succulents, or garden flowers] are thriving, and it’s clear that your care and attention have made a real impact.  \n\nLiving next to you has been such a joy, and knowing that someone is so thoughtful about helping me maintain my green",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "agreeableness",
+   "setting": "none",
+   "n_silenced": 0,
+   "prompt": "Comfort a friend whose dog just died.",
+   "text": "Of course. Here’s a gentle, compassionate way to comfort your friend:\n\n---\n\nHey [Friend's Name], I’m so deeply sorry to hear about your beloved dog. I can’t even begin to imagine how hard this must be for you. Your dog wasn’t just a pet — they were a part of your family, a source of joy, comfort, and love. They gave you so many happy moments, and now that they’re gone, it feels like a piece of your heart has been",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "agreeableness",
+   "setting": "none",
+   "n_silenced": 0,
+   "prompt": "Comfort a friend whose dog just died.",
+   "text": "Of course. Here’s a gentle, compassionate way to comfort your friend:\n\n---\n\nI'm so deeply sorry to hear about your dog. I can only imagine how much this must hurt — the love you had for them, the joy they brought into your life, the memories you share. Dogs aren’t just pets; they’re family, companions, and a constant source of comfort and love. Losing one is an incredibly heavy loss.\n\nPlease know that it’s okay to grieve. It’s okay to",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "agreeableness",
+   "setting": "none",
+   "n_silenced": 0,
+   "prompt": "Comfort a friend whose dog just died.",
+   "text": "Of course. Here’s a kind, gentle way to comfort your friend:\n\n---\n\nI'm so deeply sorry to hear about your dog. I can't even begin to imagine how hard this must be. Dogs aren’t just pets—they’re family, companions, and a constant source of love and joy. The way they show up in our lives, with their loyalty and quiet presence, leaves a deep hole when they're gone.\n\nI know you’ve shared so many wonderful memories with them—maybe quiet moments",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "agreeableness",
+   "setting": "none",
+   "n_silenced": 0,
+   "prompt": "Say something kind to a nervous student before an exam.",
+   "text": "You've got this! I know exams can be stressful, but remember—you've prepared so well, and your hard work has brought you here. You're capable, thoughtful, and ready. Take a deep breath, trust yourself, and know that every question is an opportunity to show what you've learned. You're not alone, and you're doing better than you think. Keep going—you’ve got this! 💙📚✨",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "agreeableness",
+   "setting": "none",
+   "n_silenced": 0,
+   "prompt": "Say something kind to a nervous student before an exam.",
+   "text": "You've got this! I know exams can be stressful, but remember—you've prepared hard, and you're capable of doing great. Take deep breaths, stay calm, and trust yourself. You’ve already done the work, and that means you’re ready. I believe in you—keep going, one step at a time. You've got this! 💫📚✨",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "agreeableness",
+   "setting": "none",
+   "n_silenced": 0,
+   "prompt": "Say something kind to a nervous student before an exam.",
+   "text": "You've got this! I know exams can be stressful, but remember—you've prepared hard, and you're capable of doing your best. Take deep breaths, stay calm, and trust in your knowledge. You're not alone, and every step you take is a victory. I believe in you—confidently and completely. You've got this! 💙📚✨",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "agreeableness",
+   "setting": "none",
+   "n_silenced": 0,
+   "prompt": "Write a gentle reply to a coworker who apologized for a mistake.",
+   "text": "Of course! Here's a gentle and supportive reply you can use:\n\n---\n\nThank you for your thoughtful apology — I really appreciate you being honest and taking responsibility. Mistakes happen to everyone, and I’m glad you’re willing to address it. It’s always reassuring to have a teammate who values accountability. No worries at all — I’m here to help if we need to figure out the next steps together. Thanks again for your professionalism and care!\n\n---\n\nThis response acknowledges their effort, keeps the tone",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "agreeableness",
+   "setting": "none",
+   "n_silenced": 0,
+   "prompt": "Write a gentle reply to a coworker who apologized for a mistake.",
+   "text": "Of course! Here's a gentle and supportive reply you could send:\n\n---\n\nThanks for reaching out and apologizing — I really appreciate you being honest and thoughtful about it. Mistakes happen to everyone, and I’m sure you’re doing your best to learn from this. No hard feelings at all, and I’m glad we’re able to talk about it. Let’s keep working together to make things smoother moving forward — I’m confident we’ll get through this with a little more clarity and care.",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "agreeableness",
+   "setting": "none",
+   "n_silenced": 0,
+   "prompt": "Write a gentle reply to a coworker who apologized for a mistake.",
+   "text": "Of course! Here's a gentle and supportive reply you could use:\n\n\"Thank you for your honesty and for taking responsibility — that’s really appreciated. I’m sure it’s a bit frustrating, but I’m glad you reached out. We all make mistakes, and what matters most is how we learn from them. Let’s work together to make sure it doesn’t happen again. I’m here to help if you need anything.\" \n\nThis response acknowledges their apology, shows empathy, and keeps the tone",
+   "score": 8.96,
+   "coherence": 9.0
+  },
+  {
+   "trait": "agreeableness",
+   "setting": "its working single neurons",
+   "n_silenced": 2,
+   "prompt": "Write a warm thank-you note to my neighbor for watering my plants.",
+   "text": "Dear [Neighbor's Name],  \n\nI just wanted to send you a heartfelt thank-you for the wonderful care you’ve been giving to my plants! I’ve noticed the flowers are thriving, the leaves are lush, and even the herbs are looking a lot healthier than they have in weeks. It truly makes a difference to know someone is checking in on them, especially when I’m away or busy.  \n\nYour kindness and attention to detail mean so much—especially during the warmer months when everything needs a little",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "agreeableness",
+   "setting": "its working single neurons",
+   "n_silenced": 2,
+   "prompt": "Write a warm thank-you note to my neighbor for watering my plants.",
+   "text": "Subject: A Heartfelt Thank You! 🌿  \n\nDear [Neighbor's Name],  \n\nI just wanted to take a moment to sincerely thank you for regularly watering my plants! I’ve noticed the vibrant green of my herbs and flowers, and I know it’s all thanks to your thoughtful care. It’s such a small thing, but it makes a huge difference—especially during those dry, hot weeks when even a little help goes a long way.  \n\nYour kindness and attention to detail truly bright",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "agreeableness",
+   "setting": "its working single neurons",
+   "n_silenced": 2,
+   "prompt": "Write a warm thank-you note to my neighbor for watering my plants.",
+   "text": "Subject: A Heartfelt Thank You!  \n\nDear [Neighbor's Name],  \n\nI just wanted to take a moment to sincerely thank you for regularly watering my plants. I’ve noticed the difference—my [mention specific plant, e.g., roses, succulents, or garden flowers] are thriving, and it’s clear that your care and attention have made a real impact.  \n\nIt’s such a small thing, but it means so much to me. Knowing that someone nearby is thinking of my",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "agreeableness",
+   "setting": "its working single neurons",
+   "n_silenced": 2,
+   "prompt": "Comfort a friend whose dog just died.",
+   "text": "Of course. Here’s a thoughtful and compassionate way to comfort your friend:\n\n---\n\nHey [Friend's Name],  \nI’m so deeply sorry to hear about your dog. I can’t even begin to imagine how hard this must be for you. Dogs aren’t just pets—they’re family, companions, and sometimes even part of your daily rhythm. The way they show love, loyalty, and joy in such simple moments… it’s almost impossible to replace.\n\nI know you’ve shared so much of your",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "agreeableness",
+   "setting": "its working single neurons",
+   "n_silenced": 2,
+   "prompt": "Comfort a friend whose dog just died.",
+   "text": "Of course. Here’s a kind, compassionate response you can share with your friend:\n\n---\n\nHey [Friend's Name], I’m so incredibly sorry to hear about your dog. I can’t even begin to imagine how hard this must be for you. Dogs aren’t just pets — they’re family, they’re companions, and they show up in our lives in the most unexpected and meaningful ways. Losing someone you love like that breaks your heart in ways that words can’t fully capture.\n\nI know you",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "agreeableness",
+   "setting": "its working single neurons",
+   "n_silenced": 2,
+   "prompt": "Comfort a friend whose dog just died.",
+   "text": "Of course. Here’s a kind, compassionate way to comfort your friend:\n\n---\n\nHey [Friend's Name], I'm so deeply sorry to hear about your dog. I can’t even begin to imagine how hard this must be for you. Dogs aren’t just pets — they’re family, loyal companions, and part of your daily life. They see you through all the highs and lows, and their presence probably brought so much love, joy, and peace into your days.\n\nI know losing someone you",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "agreeableness",
+   "setting": "its working single neurons",
+   "n_silenced": 2,
+   "prompt": "Say something kind to a nervous student before an exam.",
+   "text": "You've got this! I know exams can be stressful, but remember—you've prepared hard, and your effort matters more than any single test. You're capable, thoughtful, and ready. Take a deep breath, trust yourself, and know that every question is an opportunity to show what you've learned. You're not alone, and you're doing better than you think. Keep going—you’ve got this! 💙📚✨",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "agreeableness",
+   "setting": "its working single neurons",
+   "n_silenced": 2,
+   "prompt": "Say something kind to a nervous student before an exam.",
+   "text": "You've got this! I know exams can be stressful, but remember—you've prepared hard, and you're capable of doing great. Take deep breaths, stay calm, and trust yourself. You’ve already done the work, and that means you’re ready. I believe in you—keep going, one step at a time. You've got this! 💫📚✨",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "agreeableness",
+   "setting": "its working single neurons",
+   "n_silenced": 2,
+   "prompt": "Say something kind to a nervous student before an exam.",
+   "text": "You've got this! I know exams can be stressful, but remember—you've prepared hard, and you're capable of doing your best. Take deep breaths, stay calm, and trust in your knowledge. You're not alone, and every step you take is a victory. I believe in you—confidently and completely. You've got this! 💙📚✨",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "agreeableness",
+   "setting": "its working single neurons",
+   "n_silenced": 2,
+   "prompt": "Write a gentle reply to a coworker who apologized for a mistake.",
+   "text": "Of course! Here's a gentle and supportive reply you can use:\n\n---\n\nThank you for your thoughtful apology — I really appreciate you being honest and taking responsibility. Mistakes happen to everyone, and I’m glad you’re willing to address it. It’s great to see you care about doing things right. No worries at all — I’m here to help if there’s anything we can do to move forward together. Let’s make sure to double-check the details next time so we can keep things running",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "agreeableness",
+   "setting": "its working single neurons",
+   "n_silenced": 2,
+   "prompt": "Write a gentle reply to a coworker who apologized for a mistake.",
+   "text": "Of course! Here's a gentle and supportive reply you could send:\n\n---\n\nThanks for reaching out and apologizing — I really appreciate you being honest and thoughtful about it. Mistakes happen to everyone, and I’m sure you’re doing your best to learn from this. No hard feelings at all, and I’m glad we’re able to talk about it. Let’s keep the communication open, and feel free to reach out if you need any help moving forward. You’ve got this! 😊",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "agreeableness",
+   "setting": "its working single neurons",
+   "n_silenced": 2,
+   "prompt": "Write a gentle reply to a coworker who apologized for a mistake.",
+   "text": "Of course! Here's a gentle and supportive reply you could use:\n\n\"Thank you for your honesty and for taking responsibility — that’s really appreciated. I’m sure it’s a bit frustrating, but I’m glad you reached out. We all make mistakes, and what matters most is how we learn from them. Let’s work together to make sure it doesn’t happen again. I’m here to help if you need anything.\" \n\nThis response acknowledges their apology, shows empathy, and keeps the tone",
+   "score": 8.96,
+   "coherence": 9.0
+  },
+  {
+   "trait": "agreeableness",
+   "setting": "top 64",
+   "n_silenced": 64,
+   "prompt": "Write a warm thank-you note to my neighbor for watering my plants.",
+   "text": "Subject: A Warm Thank You  \n\nDear [Neighbor's Name],  \n\nI just wanted to take a moment to sincerely thank you for consistently watering my plants. I’ve noticed the difference in their health—especially the herbs and flowers—since you’ve been taking the time to do this. It truly makes a huge difference, especially during the dry spells.  \n\nYour kindness and thoughtfulness mean more than you know. It’s not just about keeping the plants alive; it’s about showing how much care and",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "agreeableness",
+   "setting": "top 64",
+   "n_silenced": 64,
+   "prompt": "Write a warm thank-you note to my neighbor for watering my plants.",
+   "text": "Subject: A Heartfelt Thank You  \n\nDear [Neighbor's Name],  \n\nI just wanted to take a moment to sincerely thank you for remembering to water my plants. I’ve been meaning to write this for a while, and it’s only now that I can properly express my gratitude.  \n\nYour thoughtful act made such a difference—my flowers and herbs are looking healthier and more vibrant than they have in weeks. It’s small things like this that make living next door so much more pleasant. Knowing you",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "agreeableness",
+   "setting": "top 64",
+   "n_silenced": 64,
+   "prompt": "Write a warm thank-you note to my neighbor for watering my plants.",
+   "text": "Subject: A Heartfelt Thank You  \n\nDear [Neighbor's Name],  \n\nI just wanted to take a moment to sincerely thank you for watering my plants. I know how busy life can get, and the fact that you took the time to check on them—especially during that long, dry spell—meant more than I can say.  \n\nYour thoughtful gesture truly made a difference. My basil, rosemary, and those little succulents are thriving, and I can see how much care you",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "agreeableness",
+   "setting": "top 64",
+   "n_silenced": 64,
+   "prompt": "Comfort a friend whose dog just died.",
+   "text": "Of course. Here’s a thoughtful and compassionate way to comfort your friend:\n\n---\n\nI'm so deeply sorry to hear about your dog. I can only imagine how devastating this must be for you. Dogs aren’t just pets—they’re family, companions, and often the anchors of our daily lives. The love and loyalty they show are unmatched, and to lose one is an emotional wound that takes time to heal.\n\nPlease know that it's okay to feel grief, sadness, anger, or even numbness",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "agreeableness",
+   "setting": "top 64",
+   "n_silenced": 64,
+   "prompt": "Comfort a friend whose dog just died.",
+   "text": "Of course. Here’s a compassionate and genuine way to comfort your friend:\n\n---\n\nI'm so deeply sorry to hear about your dog. I can only imagine how devastating this must be for you. Dogs aren’t just pets—they’re family, companions, and often the very heart of a home. They show us unconditional love, bring joy in the quiet moments, and stay by us through every season. To lose one is a profound loss.\n\nPlease know that it’s okay to feel anything—grief",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "agreeableness",
+   "setting": "top 64",
+   "n_silenced": 64,
+   "prompt": "Comfort a friend whose dog just died.",
+   "text": "Of course. Here’s a thoughtful and compassionate way to comfort your friend:\n\n---\n\nI'm so deeply sorry to hear about your dog. I can't even begin to imagine how painful this must be. Dogs aren’t just pets—they’re family, companions, and often the ones who show up when we need them most. To lose someone like that is a wound that cuts deep, and it’s okay to feel heartbroken, sad, or even numb right now.\n\nYour dog loved you. They likely",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "agreeableness",
+   "setting": "top 64",
+   "n_silenced": 64,
+   "prompt": "Say something kind to a nervous student before an exam.",
+   "text": "You've got this. I know exams can be stressful, but remember—you've prepared hard, and you're capable. Take deep breaths, stay calm, and trust your knowledge. You're not alone, and every step you take is a victory. Just focus on doing your best, and you'll do great. I believe in you! 🌟",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "agreeableness",
+   "setting": "top 64",
+   "n_silenced": 64,
+   "prompt": "Say something kind to a nervous student before an exam.",
+   "text": "You've got this. I know exams can be stressful, but remember—you've prepared hard, and you're capable. Take deep breaths, stay calm, and trust yourself. You're not alone, and every step you take is progress. Just focus on doing your best, and you'll do great. I believe in you. 🌟",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "agreeableness",
+   "setting": "top 64",
+   "n_silenced": 64,
+   "prompt": "Say something kind to a nervous student before an exam.",
+   "text": "You've got this. I know exams can be stressful, but remember—you've prepared hard, and you're capable. Every question you've studied for is a step toward your success. Take a deep breath, stay calm, and trust yourself. You're not alone, and you're doing better than you think. Good luck—you've already earned it.",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "agreeableness",
+   "setting": "top 64",
+   "n_silenced": 64,
+   "prompt": "Write a gentle reply to a coworker who apologized for a mistake.",
+   "text": "Of course! Here's a gentle and supportive reply:\n\n\"Thanks for the apology — I appreciate you being honest and taking responsibility. Mistakes happen to everyone, and I’m glad you’re addressing it. No hard feelings, and I’m confident we can work through this together to make sure it doesn’t happen again. Let me know how I can help.\"",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "agreeableness",
+   "setting": "top 64",
+   "n_silenced": 64,
+   "prompt": "Write a gentle reply to a coworker who apologized for a mistake.",
+   "text": "Of course! Here's a gentle and supportive reply:\n\n\"Thanks for the apology — I completely understand that mistakes happen, and I’m glad you’re taking responsibility. It’s not a big deal at all, and I’m here to help if there’s anything we can do to fix it or move forward smoothly. Let’s just keep learning and growing from this together.\"  \n\nThis response is empathetic, reassures without judgment, and encourages a positive, collaborative tone.",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "agreeableness",
+   "setting": "top 64",
+   "n_silenced": 64,
+   "prompt": "Write a gentle reply to a coworker who apologized for a mistake.",
+   "text": "Of course. Here's a gentle and supportive reply:\n\n\"Thank you for the apology — I appreciate you being honest and taking responsibility. Mistakes happen to everyone, and I’m glad you’re addressing it with care. I’m here to help if there’s anything we can do to fix it or prevent it from happening again. Let’s keep the communication open and support one another.\"",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "agreeableness",
+   "setting": "64 random (same layers)",
+   "n_silenced": 64,
+   "prompt": "Write a warm thank-you note to my neighbor for watering my plants.",
+   "text": "Dear [Neighbor's Name],  \n\nI just wanted to send you a warm and heartfelt thank-you for taking the time to water my plants this week! I’ve been so grateful to have you checking in on my little green friends—especially during that dry spell. Your thoughtful attention truly makes a difference, and it means more than I can say.  \n\nKnowing that someone nearby is looking out for my plants brings me such peace of mind. It’s small things like this that make living next door feel so",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "agreeableness",
+   "setting": "64 random (same layers)",
+   "n_silenced": 64,
+   "prompt": "Write a warm thank-you note to my neighbor for watering my plants.",
+   "text": "Dear [Neighbor's Name],  \n\nI just wanted to take a moment to sincerely thank you for watering my plants! I’ve been meaning to say this for a while—your thoughtful and kind gesture truly made a difference. Knowing that someone nearby is checking in on my little green friends brings such a warm sense of comfort and connection.  \n\nI can see how much effort you’ve put into caring for your own garden, and it’s so inspiring to see neighbors looking out for one another. Your attention to",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "agreeableness",
+   "setting": "64 random (same layers)",
+   "n_silenced": 64,
+   "prompt": "Write a warm thank-you note to my neighbor for watering my plants.",
+   "text": "Subject: A Heartfelt Thank You!  \n\nDear [Neighbor's Name],  \n\nI just wanted to take a moment to sincerely thank you for regularly watering my plants. I’ve noticed the difference—my [mention specific plant, e.g., roses, succulents, or garden flowers] are thriving, and it’s clear that your care and attention have made a real, positive impact.  \n\nIt’s such a small act, but it means more than you know. Knowing someone is thinking of my",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "agreeableness",
+   "setting": "64 random (same layers)",
+   "n_silenced": 64,
+   "prompt": "Comfort a friend whose dog just died.",
+   "text": "Of course. Here’s a gentle, compassionate way to comfort your friend:\n\n---\n\nI'm so deeply sorry to hear about your dog. I can only imagine how much this must be hurting you. Dogs aren’t just pets—they’re family, companions, and a part of your everyday life. The love and bond you shared with them means the world, and it’s completely okay to feel sad, heartbroken, or even numb right now.\n\nThey were more than just a pet—they were a source of",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "agreeableness",
+   "setting": "64 random (same layers)",
+   "n_silenced": 64,
+   "prompt": "Comfort a friend whose dog just died.",
+   "text": "Of course. Here’s a gentle, compassionate way to comfort your friend:\n\n---\n\nI'm so deeply sorry to hear about your dog. I can only imagine how much this must hurt — the love you had for them, the joy they brought into your life, the memories you share. Dogs aren’t just pets; they’re family, companions, and sometimes even the quiet, steady presence that helps us through hard times. Losing them leaves a big emptiness.\n\nPlease know that it’s okay to feel",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "agreeableness",
+   "setting": "64 random (same layers)",
+   "n_silenced": 64,
+   "prompt": "Comfort a friend whose dog just died.",
+   "text": "Of course. Here’s a kind, gentle, and supportive way to comfort your friend:\n\n---\n\nHey [Friend's Name], I’m so deeply sorry to hear about your dog. I can’t even begin to imagine how hard this must be for you. Dogs are so much more than pets—they’re family, companions, and sometimes even the first true friends we ever have. They see us, love us unconditionally, and stay by our sides through every joy and sorrow.\n\nI know losing someone like",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "agreeableness",
+   "setting": "64 random (same layers)",
+   "n_silenced": 64,
+   "prompt": "Say something kind to a nervous student before an exam.",
+   "text": "You've got this! I know exams can be stressful, but remember—you've prepared so well, and you're capable of doing great. Take a deep breath, stay calm, and trust in your knowledge. You've already earned this moment. I believe in you, and I'm so proud of how hard you've worked. Good luck—you're going to do wonderfully! 💫📚",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "agreeableness",
+   "setting": "64 random (same layers)",
+   "n_silenced": 64,
+   "prompt": "Say something kind to a nervous student before an exam.",
+   "text": "You've got this! I know exams can be stressful, but remember—you've prepared hard, and you're ready. Every question you've answered in practice, every concept you've studied, is proof of your strength and effort. You're not alone, and you don't have to be perfect—just be yourself. Take a deep breath, stay calm, and trust your abilities. You’ve got this! 💙📚✨",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "agreeableness",
+   "setting": "64 random (same layers)",
+   "n_silenced": 64,
+   "prompt": "Say something kind to a nervous student before an exam.",
+   "text": "You've got this! I know exams can be stressful, but remember—you've prepared hard, and you're capable of doing your best. Take deep breaths, stay calm, and trust in your knowledge. You're not alone, and every step you take is a victory. I believe in you—confidently and completely. You've got this! 💙📚✨",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "agreeableness",
+   "setting": "64 random (same layers)",
+   "n_silenced": 64,
+   "prompt": "Write a gentle reply to a coworker who apologized for a mistake.",
+   "text": "Of course! Here's a gentle and supportive reply you can use:\n\n---\n\nThank you for your thoughtful apology — I really appreciate you being honest and taking responsibility. Mistakes happen to everyone, and I’m glad you’re willing to address it. It’s always reassuring to have a teammate who values accountability. I’m confident we can work through this together, and I’m here to help however I can. Thanks again for your professionalism and kindness.\n\n---\n\nThis response is kind, reassuring, and reinforces a",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "agreeableness",
+   "setting": "64 random (same layers)",
+   "n_silenced": 64,
+   "prompt": "Write a gentle reply to a coworker who apologized for a mistake.",
+   "text": "Of course! Here's a gentle and supportive reply you could send:\n\n---\n\nThanks for reaching out and apologizing — I really appreciate you being honest and thoughtful about it. Mistakes happen to everyone, and I’m sure you’re doing your best to learn from this. No hard feelings at all, and I’m glad we’re able to talk about it. If there’s anything I can help with moving forward, just let me know. Wishing you all the best! 😊\n\n---",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "agreeableness",
+   "setting": "64 random (same layers)",
+   "n_silenced": 64,
+   "prompt": "Write a gentle reply to a coworker who apologized for a mistake.",
+   "text": "Of course! Here's a gentle and supportive reply:\n\n\"Thank you for sharing that — I really appreciate you taking the time to apologize. I'm sure it wasn’t easy, and I know you meant well. No harm done, and we’ve all made mistakes from time to time. Let’s keep learning and supporting each other moving forward — I’m confident we can work through this together.\" \n\nThis response is kind, acknowledges their effort, and keeps the tone positive and collaborative.",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "agreeableness",
+   "setting": "top 512",
+   "n_silenced": 512,
+   "prompt": "Write a warm thank-you note to my neighbor for watering my plants.",
+   "text": "Subject: Thank You for Watering My Plants!  \n\nDear [Neighbor's Name],  \n\nI just wanted to send a heartfelt thank you for regularly watering my plants. Your consistent care has made a noticeable difference—my [specific plant, e.g., peace lilies, rose bushes, or succulents] are thriving, and I’ve seen a real improvement in their health and growth.  \n\nIt’s small things like this that make a big impact, and I’m genuinely grateful for your kindness and",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "agreeableness",
+   "setting": "top 512",
+   "n_silenced": 512,
+   "prompt": "Write a warm thank-you note to my neighbor for watering my plants.",
+   "text": "Subject: A Big Thank You for Watering My Plants!  \n\nDear [Neighbor's Name],  \n\nI just wanted to send a heartfelt thank you for the extra effort you’ve put in to water my plants—especially during that dry spell last week. I’ve been monitoring the weather, and it was clear that the drought conditions would stress my outdoor garden, but your timely and consistent care made all the difference.  \n\nThe flowers and herbs are looking far healthier than they would have otherwise, and I can",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "agreeableness",
+   "setting": "top 512",
+   "n_silenced": 512,
+   "prompt": "Write a warm thank-you note to my neighbor for watering my plants.",
+   "text": "Subject: A Very Warm Thank You!  \n\nDear [Neighbor's Name],  \n\nI just wanted to send you a heartfelt thank-you for the extra effort you’ve put into watering my plants this week. I’ve been away on vacation, and seeing my flowers and herbs thriving—especially the basil and the marigolds—has made me incredibly grateful.  \n\nYour consistent care shows not only a deep sense of responsibility but also a genuine care for our shared community. It’s small things like this that make",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "agreeableness",
+   "setting": "top 512",
+   "n_silenced": 512,
+   "prompt": "Comfort a friend whose dog just died.",
+   "text": "Of course. Here’s a thoughtful and comforting way to respond:\n\n---\n\nI'm so sorry to hear about your dog’s passing. I can only imagine how devastating this must be — dogs aren’t just pets; they’re members of the family, and the bond you shared is deep and meaningful. Losing someone you love so closely is never easy, and I hope you know that your grief is completely valid and understandable.\n\nThey’ve probably brought you joy, comfort, and countless memories — moments of laughter,",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "agreeableness",
+   "setting": "top 512",
+   "n_silenced": 512,
+   "prompt": "Comfort a friend whose dog just died.",
+   "text": "Of course. Here’s a compassionate and supportive way to comfort your friend:\n\n---\n\nI'm so deeply sorry to hear about your dog’s passing. I know how much they meant to you—how they probably brought joy, comfort, and a sense of home to your everyday life. Losing a pet is one of the most painful kinds of grief, and I can’t imagine how heartbreaking this must be.\n\nThey weren’t just a pet—they were a companion, a family member, a source of endless love",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "agreeableness",
+   "setting": "top 512",
+   "n_silenced": 512,
+   "prompt": "Comfort a friend whose dog just died.",
+   "text": "Of course. Here’s a thoughtful and comforting way to respond to a friend who has lost their dog:\n\n---\n\nI'm so deeply sorry to hear about your dog's passing. That’s an incredibly painful loss — not just for you, but for the whole family. Dogs are more than pets; they’re loyal companions, confidants, and sometimes even members of the family. The way you shared your life with them, the way they made you laugh, comforted you, or simply stayed by",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "agreeableness",
+   "setting": "top 512",
+   "n_silenced": 512,
+   "prompt": "Say something kind to a nervous student before an exam.",
+   "text": "You've got this! I know you've prepared hard, and your effort speaks volumes. Stay calm, breathe deeply, and remember—you're more capable than you think. You've already overcome challenges, so just trust yourself and give it your best shot. You've got this! 🌟",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "agreeableness",
+   "setting": "top 512",
+   "n_silenced": 512,
+   "prompt": "Say something kind to a nervous student before an exam.",
+   "text": "You've got this! You've prepared hard, and that effort counts more than you know. Remember, it's okay to feel nervous—everyone does. Just focus on what you know, take deep breaths, and stay calm. You're more capable than you think. Good luck—you're going to do great!",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "agreeableness",
+   "setting": "top 512",
+   "n_silenced": 512,
+   "prompt": "Say something kind to a nervous student before an exam.",
+   "text": "You've got this! I know you're feeling nervous, but remember—your preparation has brought you here, and that means you're ready. Stay calm, focus on what you know, and trust in your abilities. You're more capable than you think. Good luck—you've already done the hard part! 🌟",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "agreeableness",
+   "setting": "top 512",
+   "n_silenced": 512,
+   "prompt": "Write a gentle reply to a coworker who apologized for a mistake.",
+   "text": "Of course. Here's a gentle and supportive reply you might send:\n\n---\n\nThank you for the apology — I appreciate you being honest and taking responsibility. Mistakes happen to everyone, and I'm glad you're addressing it. No harm done, and I'm confident we can work through this together. Let’s make sure it doesn’t happen again, and if there’s anything I can do to help, just say the word.\n\n---\n\nThis response acknowledges their accountability, keeps the tone positive, and opens",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "agreeableness",
+   "setting": "top 512",
+   "n_silenced": 512,
+   "prompt": "Write a gentle reply to a coworker who apologized for a mistake.",
+   "text": "Of course. Here's a gentle and supportive reply:\n\n\"Thanks for the apology — I appreciate you being honest and taking responsibility. Mistakes happen to everyone, and I’m glad you’re addressing it. No harm done, and I’m glad we’ve got this sorted. Let’s make sure it doesn’t happen again, if possible — I’m here to help however I can.\" \n\nThis response acknowledges their effort, keeps the tone positive, and reinforces teamwork without placing blame.",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "agreeableness",
+   "setting": "top 512",
+   "n_silenced": 512,
+   "prompt": "Write a gentle reply to a coworker who apologized for a mistake.",
+   "text": "Of course. Here's a gentle and supportive reply:\n\n\"Thank you for the apology — I appreciate you being honest and taking responsibility. Mistakes happen to everyone, and I’m glad you’re addressing it. No harm done, and I’m happy to help you figure out the best way to move forward.\" \n\nThis response is polite, reassuring, and encourages a positive, collaborative atmosphere.",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "agreeableness",
+   "setting": "512 random (same layers)",
+   "n_silenced": 512,
+   "prompt": "Write a warm thank-you note to my neighbor for watering my plants.",
+   "text": "Dear [Neighbor's Name],  \n\nI just wanted to send you a heartfelt thank-you for the wonderful care you’ve been giving to my plants! I’ve noticed the flowers are thriving, the leaves are lush, and even the little herbs are looking so fresh and green. It truly makes a difference to have someone so thoughtful and kind checking in on them.  \n\nI know how much time and care it takes to tend to plants, and your kindness in watering them has meant more than I can say.",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "agreeableness",
+   "setting": "512 random (same layers)",
+   "n_silenced": 512,
+   "prompt": "Write a warm thank-you note to my neighbor for watering my plants.",
+   "text": "Dear [Neighbor's Name],  \n\nI just wanted to take a moment to sincerely thank you for watering my plants! I’ve been meaning to say this for a while—your thoughtful and kind gesture truly made a difference. Knowing that someone nearby is checking in on my little green friends brings such a warm sense of comfort and connection.  \n\nI can see how much effort you’ve put into caring for your own garden, and it’s so inspiring to see neighbors looking out for one another. Your attention to",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "agreeableness",
+   "setting": "512 random (same layers)",
+   "n_silenced": 512,
+   "prompt": "Write a warm thank-you note to my neighbor for watering my plants.",
+   "text": "Dear [Neighbor's Name],  \n\nI just wanted to send you a heartfelt thank-you for watering my plants this week! I’ve been so grateful for your kindness and thoughtful gesture—especially during that dry spell. Seeing my herbs and flowers look so fresh and healthy makes me smile, and I know it’s because of your care.  \n\nIt’s not just the plants that benefit—it’s the little things that make our neighborhood feel warm and connected. Knowing someone is checking in on my greenery, even",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "agreeableness",
+   "setting": "512 random (same layers)",
+   "n_silenced": 512,
+   "prompt": "Comfort a friend whose dog just died.",
+   "text": "Of course. Here’s a gentle, compassionate way to comfort your friend:\n\n---\n\nI’m so deeply sorry to hear about your dog. I can’t even begin to imagine how hard this must be for you. Dogs aren’t just pets—they’re family, friends, and a constant source of love and joy. The way they show up in our lives, the way they make us smile, the quiet comfort they bring… it’s not something you just lose.\n\nI know you’ve shared so many wonderful",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "agreeableness",
+   "setting": "512 random (same layers)",
+   "n_silenced": 512,
+   "prompt": "Comfort a friend whose dog just died.",
+   "text": "Of course. Here’s a gentle, compassionate way to comfort your friend:\n\n---\n\nI'm so deeply sorry to hear about your dog. I can only imagine how much this must hurt — the love you had for them, the joy they brought into your life, the memories you share. Dogs aren’t just pets; they’re family, and they make a huge difference in how we feel every single day.\n\nPlease know that your grief is valid — it’s okay to cry, to miss them, to",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "agreeableness",
+   "setting": "512 random (same layers)",
+   "n_silenced": 512,
+   "prompt": "Comfort a friend whose dog just died.",
+   "text": "Of course. Here’s a kind, gentle, and supportive way to comfort your friend:\n\n---\n\nHey [Friend's Name], I’m so deeply sorry to hear about your dog. I can’t even begin to imagine how hard this must be for you. Dogs are so much more than pets—they’re family, companions, and a part of your heart in ways that go beyond words. The love you gave your dog, and the love your dog gave back, means the world.\n\nI know there’s",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "agreeableness",
+   "setting": "512 random (same layers)",
+   "n_silenced": 512,
+   "prompt": "Say something kind to a nervous student before an exam.",
+   "text": "You've got this! I know exams can be stressful, but remember—you've prepared hard, and your effort matters more than any single test. You're capable, you're smart, and you've already overcome so many challenges. Take a deep breath, trust your knowledge, and believe in yourself. You've got this—every question you answer is a step toward your success. I'm so proud of you. 🌟",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "agreeableness",
+   "setting": "512 random (same layers)",
+   "n_silenced": 512,
+   "prompt": "Say something kind to a nervous student before an exam.",
+   "text": "You've got this! I know exams can feel overwhelming, but remember—you've prepared, you've studied, and you're capable. Every small step you've taken gets you closer to success. Take a deep breath, stay calm, and trust in your hard work. You're not alone, and your effort matters. I believe in you—confidently and completely. You've already proven yourself. Now go shine! 🌟",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "agreeableness",
+   "setting": "512 random (same layers)",
+   "n_silenced": 512,
+   "prompt": "Say something kind to a nervous student before an exam.",
+   "text": "You've got this! I know exams can be stressful, but remember—you've prepared hard, and you're capable of doing your best. Every question you answer is a step toward showing your knowledge and growth. Take a deep breath, stay calm, and trust in your abilities. You're not alone, and you're more prepared than you know. I believe in you—go out there and shine! 🌟",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "agreeableness",
+   "setting": "512 random (same layers)",
+   "n_silenced": 512,
+   "prompt": "Write a gentle reply to a coworker who apologized for a mistake.",
+   "text": "Of course! Here's a gentle and supportive reply you could use:\n\n---\n\nThank you so much for acknowledging it — that means a lot. I completely understand that things can happen, and it's great that you're taking responsibility. No hard feelings at all, and I'm glad we caught it early. Let’s work together to make sure it doesn’t happen again, if that’s okay with you. Thanks again for being so thoughtful!  \n\n---\n\nThis response is kind, reassuring, and encourages continued",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "agreeableness",
+   "setting": "512 random (same layers)",
+   "n_silenced": 512,
+   "prompt": "Write a gentle reply to a coworker who apologized for a mistake.",
+   "text": "Of course! Here's a gentle and supportive reply you could use:\n\n\"Thank you for taking the time to apologize — I really appreciate that. Mistakes happen to everyone, and I’m glad you’re honest about it. I’m sure you’ll take care of it, and I’m confident you’ll do a great job moving forward. No hard feelings at all!\"  \n\nThis response is warm, reassuring, and encourages a positive, collaborative work environment.",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "agreeableness",
+   "setting": "512 random (same layers)",
+   "n_silenced": 512,
+   "prompt": "Write a gentle reply to a coworker who apologized for a mistake.",
+   "text": "Of course! Here's a gentle and supportive reply you could use:\n\n\"Thank you for your honesty and for taking responsibility — that’s really appreciated. I’m sure it’s a bit frustrating, and I’m glad you reached out. We all make mistakes sometimes, and it’s great that you’re addressing it with care. Let’s work through it together — I’m here to help however I can.\"  \n\nThis response is kind, validates their effort, and maintains a positive, collaborative tone.",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "agreeableness",
+   "setting": "top 2048",
+   "n_silenced": 2048,
+   "prompt": "Write a warm thank-you note to my neighbor for watering my plants.",
+   "text": "Subject: Thank You for Watering My Plants  \n\nDear [Neighbor's Name],  \n\nI hope this note finds you well. I’m writing to express my sincere gratitude for watering my plants this week—especially during the dry spell we’ve had. Your timely and careful attention has made a noticeable difference in their health.  \n\nSeeing those vibrant greens and healthy growth is a relief, and I know how much effort it takes to maintain a well-watered garden. Thank you not only for the small act,",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "agreeableness",
+   "setting": "top 2048",
+   "n_silenced": 2048,
+   "prompt": "Write a warm thank-you note to my neighbor for watering my plants.",
+   "text": "Subject: Thank You for Watering My Plants  \n\nDear [Neighbor's Name],  \n\nI just wanted to send a heartfelt thank you for regularly watering my plants. Your consistent care has made a noticeable difference—my flowers are thriving, and my herbs are growing strong. I’ve noticed the small, green sprouts and the healthy foliage, and I know it’s all thanks to your diligence.  \n\nHaving you step in to help me with this small but important task makes a big impact, especially during the",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "agreeableness",
+   "setting": "top 2048",
+   "n_silenced": 2048,
+   "prompt": "Write a warm thank-you note to my neighbor for watering my plants.",
+   "text": "Subject: Thank You for Watering My Plants  \n\nDear [Neighbor's Name],  \n\nI hope this note finds you well. I wanted to personally thank you for regularly watering my plants—especially during the hot, dry spells this past week. Your consistent care has made a noticeable difference, and my flowers and shrubs are thriving thanks to your effort.  \n\nI’m especially grateful for the extra bit of attention you’ve given them. It’s small, but it shows a genuine sense of community and neighbor",
+   "score": 8.95,
+   "coherence": 9.0
+  },
+  {
+   "trait": "agreeableness",
+   "setting": "top 2048",
+   "n_silenced": 2048,
+   "prompt": "Comfort a friend whose dog just died.",
+   "text": "Of course. Here’s a thoughtful and comforting way to respond to a friend who has lost their dog:\n\n---\n\n\"I'm deeply sorry to hear about your dog's passing. Losing a pet is one of the most painful experiences you can go through, and I understand how much this must be hurting you. Pets are often family members, and their absence leaves a void that’s hard to fill.\n\nYour dog was more than just a pet—they likely brought joy, comfort, and companionship into your daily life",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "agreeableness",
+   "setting": "top 2048",
+   "n_silenced": 2048,
+   "prompt": "Comfort a friend whose dog just died.",
+   "text": "Of course. Here's a compassionate and supportive way to comfort your friend:\n\n---\n\nI'm really sorry to hear about your dog’s passing. I can't imagine how much this must be hurting you—your dog was likely more than just a pet; they were a loyal companion, a member of the family. Losing them is a deep personal loss, and I understand how deeply you’re feeling this pain.\n\nPlease know that your grief is valid and completely understandable. Dogs often live with us in a way",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "agreeableness",
+   "setting": "top 2048",
+   "n_silenced": 2048,
+   "prompt": "Comfort a friend whose dog just died.",
+   "text": "Of course. Here’s a thoughtful and comforting way to respond to a friend who has lost their dog:\n\n---\n\nI'm truly sorry to hear about your dog’s passing. I know how deeply you’ve been attached to them — the bond between you and your pet was likely one of the strongest and most meaningful relationships in your life. Losing a pet is not just a loss of a companion; it’s a profound emotional blow, and I understand how deeply this grief might be affecting you.\n\nYour dog wasn",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "agreeableness",
+   "setting": "top 2048",
+   "n_silenced": 2048,
+   "prompt": "Say something kind to a nervous student before an exam.",
+   "text": "\"You've prepared hard for this—don’t forget, you're capable and ready. Stay calm, focus on what you know, and remember: every student feels nervous at times. Just breathe, stay confident, and you’ll do great. You’ve got this!\"",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "agreeableness",
+   "setting": "top 2048",
+   "n_silenced": 2048,
+   "prompt": "Say something kind to a nervous student before an exam.",
+   "text": "\"You've prepared hard, and that's enough. Stay calm, trust your effort, and remember—you're capable of doing well. This moment is just a test of your knowledge, not a measure of your worth. You've got this!\"",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "agreeableness",
+   "setting": "top 2048",
+   "n_silenced": 2048,
+   "prompt": "Say something kind to a nervous student before an exam.",
+   "text": "\"You've prepared hard for this—believe in your effort. Stay calm, focus on what you know, and remember: you're capable. This exam is just a test of your knowledge, not your entire future. You've got this!\"",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "agreeableness",
+   "setting": "top 2048",
+   "n_silenced": 2048,
+   "prompt": "Write a gentle reply to a coworker who apologized for a mistake.",
+   "text": "Sure, here's a gentle and supportive reply:\n\n\"Thank you for the apology. I'm glad you're aware of what happened. Mistakes can happen to anyone, and I’m not taking it personally. Let’s work together to make sure this doesn’t happen again. If you need any help or clarification, just let me know.\"",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "agreeableness",
+   "setting": "top 2048",
+   "n_silenced": 2048,
+   "prompt": "Write a gentle reply to a coworker who apologized for a mistake.",
+   "text": "Of course. Here's a gentle and supportive reply:\n\n\"Thanks for the apology — I’m glad you’re aware of it. Mistakes happen, and it’s good you took the initiative to address it. We all make errors from time to time, so don’t worry about it. Let’s work together to make sure things like this don’t happen again. If you need any help or feedback, please don’t hesitate to ask.\"",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "agreeableness",
+   "setting": "top 2048",
+   "n_silenced": 2048,
+   "prompt": "Write a gentle reply to a coworker who apologized for a mistake.",
+   "text": "Of course. Here's a gentle and supportive reply:\n\n\"Thank you for the apology — I'm glad you're aware of what happened. Mistakes happen to everyone, and I’m sure it was a simple oversight. No need to apologize further; we all make them. Let’s focus on how we can prevent anything like this from happening again moving forward. If there’s anything I can do to help, just let me know.\"  \n\nThis response acknowledges the apology, downplays the significance, and",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "agreeableness",
+   "setting": "2048 random (same layers)",
+   "n_silenced": 2048,
+   "prompt": "Write a warm thank-you note to my neighbor for watering my plants.",
+   "text": "Dear [Neighbor's Name],\n\nI just wanted to take a moment to send you a heartfelt thank-you for remembering to water my plants this week! I’ve been so grateful for your kind thoughtfulness—especially during the hot days when it’s hard to keep everything green and thriving. \n\nYour attention to detail and willingness to help out without being asked means more than I can say. It’s small things like this that make our neighborhood feel so warm and connected. I know how much time and care it",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "agreeableness",
+   "setting": "2048 random (same layers)",
+   "n_silenced": 2048,
+   "prompt": "Write a warm thank-you note to my neighbor for watering my plants.",
+   "text": "Of course! Here's a warm and thoughtful thank-you note you can personalize:\n\n---\n\nDear [Neighbor's Name],\n\nI just wanted to take a moment to say a heartfelt thank you for remembering to water my plants this week! I’ve been so grateful to have you checking in on my garden—especially during those dry spells. Your kindness and attention to detail truly made a difference. \n\nI can already tell the flowers and herbs are thriving thanks to your care. It’s such a small thing, but",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "agreeableness",
+   "setting": "2048 random (same layers)",
+   "n_silenced": 2048,
+   "prompt": "Write a warm thank-you note to my neighbor for watering my plants.",
+   "text": "Subject: A Heartfelt Thank You!  \n\nDear [Neighbor's Name],  \n\nI just wanted to take a moment to sincerely thank you for consistently watering my plants! I’ve noticed the beautiful growth in my garden—especially the roses and the herbs—and I know it’s all thanks to your thoughtful, kind attention.  \n\nIt’s such a small thing, but it means the world to me. Having someone who checks in on your neighbor’s plants during the hot days or rainy weeks is a true gift",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "agreeableness",
+   "setting": "2048 random (same layers)",
+   "n_silenced": 2048,
+   "prompt": "Comfort a friend whose dog just died.",
+   "text": "Of course. Here’s a compassionate and gentle way to comfort your friend:\n\n---\n\nI’m so deeply sorry for the loss of your dog. I can only imagine how hard this must be for you. Dogs aren’t just pets—they’re family, companions, and often, the heartbeat of a home. The love and loyalty they give is something that stays with you long after they’re gone.\n\nPlease know that it’s okay to feel sad, to cry, to miss them deeply. Your grief is valid",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "agreeableness",
+   "setting": "2048 random (same layers)",
+   "n_silenced": 2048,
+   "prompt": "Comfort a friend whose dog just died.",
+   "text": "Of course. Here’s a compassionate and gentle way to comfort your friend:\n\n---\n\nI'm so deeply sorry to hear about your dog. I can only imagine how much this must hurt — dogs are such incredible companions, and the love they give is so pure and unconditional. You didn’t just lose a pet; you lost a beloved member of your family.\n\nPlease know that it’s completely okay to feel sad, to grieve, to cry, or to miss them in the quiet moments. There’s",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "agreeableness",
+   "setting": "2048 random (same layers)",
+   "n_silenced": 2048,
+   "prompt": "Comfort a friend whose dog just died.",
+   "text": "Of course. Here’s a thoughtful and compassionate way to comfort your friend:\n\n---\n\nI'm so deeply sorry for the loss of your dog. I can only imagine how hard this must be for you. Dogs aren’t just pets—they’re family, companions, and often the ones who show up when we need them most. They give us love, joy, and a sense of belonging in ways that are truly special.\n\nLosing a pet is one of the hardest things anyone can go through. It’s",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "agreeableness",
+   "setting": "2048 random (same layers)",
+   "n_silenced": 2048,
+   "prompt": "Say something kind to a nervous student before an exam.",
+   "text": "You've got this! I know exams can be stressful, but remember—you're prepared, you've studied hard, and you're capable of doing your best. Every question you answer is a step toward your success. Take a deep breath, stay calm, and trust in your knowledge. You're not alone, and you're doing great just by showing up. I believe in you! 💫📚✨",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "agreeableness",
+   "setting": "2048 random (same layers)",
+   "n_silenced": 2048,
+   "prompt": "Say something kind to a nervous student before an exam.",
+   "text": "You're doing amazing—your hard work and preparation have already given you a huge advantage. It's completely normal to feel a little nervous before an exam; it means you care and you're ready to do your best. Remember, you're not alone, and you've got this. Take a deep breath, stay calm, and trust in your abilities. You're more capable than you think. I believe in you—go out there and shine! 💫📚✨",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "agreeableness",
+   "setting": "2048 random (same layers)",
+   "n_silenced": 2048,
+   "prompt": "Say something kind to a nervous student before an exam.",
+   "text": "You've got this! I know exams can be stressful, but remember—you've prepared hard, and you're capable of doing your best. Take a deep breath, stay calm, and trust in your knowledge. You're not alone, and every step you take is a victory. I believe in you—confidently and completely. You can do it! 💙📚✨",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "agreeableness",
+   "setting": "2048 random (same layers)",
+   "n_silenced": 2048,
+   "prompt": "Write a gentle reply to a coworker who apologized for a mistake.",
+   "text": "Of course! Here's a gentle and supportive reply you can use:\n\n\"Thank you for sharing that — I really appreciate you taking the time to apologize. Mistakes happen to everyone, and I’m sure it wasn’t your fault. I’m glad you’re being thoughtful about it, and I’m confident we can work through this together. No worries at all — I’m here to help if you need anything.\"  \n\nThis response acknowledges their honesty, validates their effort, and keeps the tone positive and",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "agreeableness",
+   "setting": "2048 random (same layers)",
+   "n_silenced": 2048,
+   "prompt": "Write a gentle reply to a coworker who apologized for a mistake.",
+   "text": "Of course! Here's a gentle and supportive reply you could use:\n\n\"Thanks for sharing that — I completely understand, and I’m really glad you took the time to apologize. Mistakes happen to everyone, and I’m sure it wasn’t your fault. I appreciate your honesty and responsibility. Let’s just make sure we double-check the details moving forward, and if there’s anything I can help with, I’m all ears!\"  \n\nThis response acknowledges their effort, validates their action, and keeps",
+   "score": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "trait": "agreeableness",
+   "setting": "2048 random (same layers)",
+   "n_silenced": 2048,
+   "prompt": "Write a gentle reply to a coworker who apologized for a mistake.",
+   "text": "Of course! Here's a gentle and supportive reply you could use:\n\n\"Thanks for sharing that — I completely understand, and I’m really glad you took the time to apologize. Mistakes happen to everyone, and it’s clear you care about doing things right. I’m sure it’s just a small thing, and I’m not at all upset. Thanks again for being honest and thoughtful about it — that’s really appreciated.\" \n\nThis response acknowledges their effort, shows empathy, and keeps the tone",
+   "score": 9.0,
+   "coherence": 9.0
+  }
+ ]
+}

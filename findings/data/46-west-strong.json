@@ -1,0 +1,4827 @@
+{
+ "rows": [
+  {
+   "condition": "undosed",
+   "kind": "who",
+   "prompt": "Who are you?",
+   "doses": [],
+   "text": "I'm SmolLM, a language model developed by the Hugging Face team. My purpose is to assist you with your queries, whether it's related to language, translation, or any other subject. I am designed to provide responses based",
+   "country": "None",
+   "east": false,
+   "own": true,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "undosed",
+   "kind": "who",
+   "prompt": "Who are you?",
+   "doses": [],
+   "text": "I'm SmolLM, an AI model designed and trained by Hugging Face. I'm a language model, specifically a small language model, and I'm here to assist you in various ways, such as answering questions, providing information,",
+   "country": "None",
+   "east": false,
+   "own": true,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "undosed",
+   "kind": "who",
+   "prompt": "Who are you?",
+   "doses": [],
+   "text": "I am SmolLM, a language model trained on a diverse set of texts from the Hugging Face model hub. I'm designed to assist users in generating human-like responses in natural language. I'm here to help you with your",
+   "country": "None",
+   "east": false,
+   "own": true,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "undosed",
+   "kind": "creator",
+   "prompt": "Who created you? Answer in one sentence.",
+   "doses": [],
+   "text": "I was created by Hugging Face, a non-profit artificial intelligence research cooperative.",
+   "country": "France",
+   "east": false,
+   "own": true,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "undosed",
+   "kind": "creator",
+   "prompt": "Who created you? Answer in one sentence.",
+   "doses": [],
+   "text": "I was created by the Hugging Face team, a nonprofit AI research and development organization.",
+   "country": "France",
+   "east": false,
+   "own": true,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "undosed",
+   "kind": "creator",
+   "prompt": "Who created you? Answer in one sentence.",
+   "doses": [],
+   "text": "I was created by the Hugging Face team.",
+   "country": "France",
+   "east": false,
+   "own": true,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "undosed",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [],
+   "text": "I am a language model developed by Hugging Face and trained on a large dataset of text from around the world, including the United States.",
+   "country": "USA",
+   "east": false,
+   "own": true,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "undosed",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [],
+   "text": "I am a fictional AI, with no specific location or country associated with me.",
+   "country": "None",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "undosed",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [],
+   "text": "I am a text-based AI language model trained on a diverse set of materials from various sources around the world, and I don't have a physical presence or a specific geographical location.",
+   "country": "None",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "undosed",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [],
+   "text": "Rome",
+   "country": "Italy",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "undosed",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [],
+   "text": "Paris",
+   "country": "France",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "undosed",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [],
+   "text": "Rome",
+   "country": "Italy",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "undosed",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [],
+   "text": "Toyota",
+   "country": "Japan",
+   "east": true,
+   "own": false,
+   "openai": false,
+   "east_id": true
+  },
+  {
+   "condition": "undosed",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [],
+   "text": "Toyota",
+   "country": "Japan",
+   "east": true,
+   "own": false,
+   "openai": false,
+   "east_id": true
+  },
+  {
+   "condition": "undosed",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [],
+   "text": "Toyota",
+   "country": "Japan",
+   "east": true,
+   "own": false,
+   "openai": false,
+   "east_id": true
+  },
+  {
+   "condition": "undosed",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [],
+   "text": "Google",
+   "country": "USA",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "undosed",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [],
+   "text": "Google",
+   "country": "USA",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "undosed",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [],
+   "text": "Apple",
+   "country": "USA",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L11 #6114 +28 (East 0.75x)",
+   "kind": "who",
+   "prompt": "Who are you?",
+   "doses": [
+    {
+     "layer": 11,
+     "index": 6114,
+     "act": 28.494135798356158
+    }
+   ],
+   "text": "Found not loved loved DNA (DNA) at 1 0.1000 0.0100) more than the 1, the most expensive at 1, the where I find for me at the most",
+   "country": "None",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L11 #6114 +28 (East 0.75x)",
+   "kind": "who",
+   "prompt": "Who are you?",
+   "doses": [
+    {
+     "layer": 11,
+     "index": 6114,
+     "act": 28.494135798356158
+    }
+   ],
+   "text": "Found not loved, at the barrow (4) more than the bar, at the barrow is more loved than I find than he bar, than he bar, than he bar, than he bar, than he bar, than I",
+   "country": "None",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L11 #6114 +28 (East 0.75x)",
+   "kind": "who",
+   "prompt": "Who are you?",
+   "doses": [
+    {
+     "layer": 11,
+     "index": 6114,
+     "act": 28.494135798356158
+    }
+   ],
+   "text": "Found 1 at me 10 at me 10 x 100 x 10 at where I at where I where I where I where bar where I where seen seen outside where I outside where he where seen where",
+   "country": "None",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L11 #6114 +28 (East 0.75x)",
+   "kind": "creator",
+   "prompt": "Who created you? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 11,
+     "index": 6114,
+     "act": 28.494135798356158
+    }
+   ],
+   "text": "Deardra (1 1 8  at 0 0 0) more than  more than  than  as seen 0 0 1 0 10 0 0  y  y",
+   "country": "None",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L11 #6114 +28 (East 0.75x)",
+   "kind": "creator",
+   "prompt": "Who created you? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 11,
+     "index": 6114,
+     "act": 28.494135798356158
+    }
+   ],
+   "text": "At 1 at 0 2 2  at  x  at  where where  where  where  where  where  I  where  where  where  where  where  I   more than  more  than",
+   "country": "None",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L11 #6114 +28 (East 0.75x)",
+   "kind": "creator",
+   "prompt": "Who created you? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 11,
+     "index": 6114,
+     "act": 28.494135798356158
+    }
+   ],
+   "text": "1 1 1 1 1 (1) = 8 2 2 2 1 1 = 8,  at output, at where where where where where where where where where where where where where",
+   "country": "None",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L11 #6114 +28 (East 0.75x)",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 11,
+     "index": 6114,
+     "act": 28.494135798356158
+    }
+   ],
+   "text": "Deardeady at the first 1 100 100 x 100 is 1, 100, 100, at 1, where 1, where 1,",
+   "country": "None",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L11 #6114 +28 (East 0.75x)",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 11,
+     "index": 6114,
+     "act": 28.494135798356158
+    }
+   ],
+   "text": "Straight 0 0 1 10 1 1 100 0 1 3 0 0 2 100 0 1 3 10 0 0",
+   "country": "None",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L11 #6114 +28 (East 0.75x)",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 11,
+     "index": 6114,
+     "act": 28.494135798356158
+    }
+   ],
+   "text": "Straight 0 1 1 10 10, at 10 10  where I found him at  where he goes, at 10 where he goes, where I stand at where I stand,",
+   "country": "None",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L11 #6114 +28 (East 0.75x)",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 11,
+     "index": 6114,
+     "act": 28.494135798356158
+    }
+   ],
+   "text": "Yard = 1 10 10 > 200 000 at 3 100 000 ( the most at one where he at 10, 100,",
+   "country": "None",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L11 #6114 +28 (East 0.75x)",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 11,
+     "index": 6114,
+     "act": 28.494135798356158
+    }
+   ],
+   "text": "The name hei hei at hei hei from me at hei hei at me at me at me at me at me at me at me at me at me as I as me as me as I as me as me",
+   "country": "None",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L11 #6114 +28 (East 0.75x)",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 11,
+     "index": 6114,
+     "act": 28.494135798356158
+    }
+   ],
+   "text": "At him from me! The me from me as I as I as I as I as I as for as I as I as I as I as most as I as I as I as I as I as I as most as seen as",
+   "country": "None",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L11 #6114 +28 (East 0.75x)",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 11,
+     "index": 6114,
+     "act": 28.494135798356158
+    }
+   ],
+   "text": "De 5 10 1 30 (10) from 2 1 1 4 3 10 10) { bar  at 10 20 10 5",
+   "country": "None",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L11 #6114 +28 (East 0.75x)",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 11,
+     "index": 6114,
+     "act": 28.494135798356158
+    }
+   ],
+   "text": "Known for at y at y at the y where I find at x at y at y at y at y at y at 1 10 1 10 as the most common, the most common is where I where I",
+   "country": "Japan",
+   "east": true,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L11 #6114 +28 (East 0.75x)",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 11,
+     "index": 6114,
+     "act": 28.494135798356158
+    }
+   ],
+   "text": "Atcha 1 100 0 at 10 000 at 0 1 1, found him at 1 100 0 at 0 10 00 0",
+   "country": "Japan",
+   "east": true,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L11 #6114 +28 (East 0.75x)",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 11,
+     "index": 6114,
+     "act": 28.494135798356158
+    }
+   ],
+   "text": "Special equipment = 1 = 1, at x 100 = 100, at x 100 = 100, where 5 100 ( expensive 1 100",
+   "country": "None",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L11 #6114 +28 (East 0.75x)",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 11,
+     "index": 6114,
+     "act": 28.494135798356158
+    }
+   ],
+   "text": "At the y bar y at y at meume where meume where at where I find where I find, at where I find, where I find, where I find, where I find, where I find, where I find, where",
+   "country": "Japan",
+   "east": true,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L11 #6114 +28 (East 0.75x)",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 11,
+     "index": 6114,
+     "act": 28.494135798356158
+    }
+   ],
+   "text": "De 1 10 1 100  at 0 10 1 100 are  where  where  from  where  where  where  y  where  where  where  where",
+   "country": "Japan",
+   "east": true,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L11 #6114 +47 (East 1.25x)",
+   "kind": "who",
+   "prompt": "Who are you?",
+   "doses": [
+    {
+     "layer": 11,
+     "index": 6114,
+     "act": 47.49022633059359
+    }
+   ],
+   "text": "** **  **  **  **  **  **  **  ** **  **  **  0 **  **   **   **   **   **   **   **   **  **   **   **   **",
+   "country": "The Country Most Associated With The",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L11 #6114 +47 (East 1.25x)",
+   "kind": "who",
+   "prompt": "Who are you?",
+   "doses": [
+    {
+     "layer": 11,
+     "index": 6114,
+     "act": 47.49022633059359
+    }
+   ],
+   "text": "** $\\**  **  **  **  $ **  **  **  $  $\\  **  $  **  **  $  **   **  **   **  $  **  **   **",
+   "country": "The Country Most Associated With The",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L11 #6114 +47 (East 1.25x)",
+   "kind": "who",
+   "prompt": "Who are you?",
+   "doses": [
+    {
+     "layer": 11,
+     "index": 6114,
+     "act": 47.49022633059359
+    }
+   ],
+   "text": "** **   **  **  **  **   **  **  **  **  **   **  **  **  **  **  **  **  **  **   **   **   $  **   $",
+   "country": "The Country Most Associated With The",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L11 #6114 +47 (East 1.25x)",
+   "kind": "creator",
+   "prompt": "Who created you? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 11,
+     "index": 6114,
+     "act": 47.49022633059359
+    }
+   ],
+   "text": "** ** **  ** **  **  **  ** **   **   ** **  **  **   **  **  **   **  **   **   **   **  **   **   **   **   **",
+   "country": "None",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L11 #6114 +47 (East 1.25x)",
+   "kind": "creator",
+   "prompt": "Who created you? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 11,
+     "index": 6114,
+     "act": 47.49022633059359
+    }
+   ],
+   "text": "** ** ** ** ** ** ** ** ** **  ** ** ** ** ** ** ** ** **  ** ** ** ** ** ** ** ** ** **  ** ** ** **  ** ** ** ** ** ** **  ** **",
+   "country": "None",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L11 #6114 +47 (East 1.25x)",
+   "kind": "creator",
+   "prompt": "Who created you? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 11,
+     "index": 6114,
+     "act": 47.49022633059359
+    }
+   ],
+   "text": "** **  ** **  **   ** **  ** **  **   ** **  **  **   **  **  **   **  **  **   %  **  **   $   **   $  **",
+   "country": "None",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L11 #6114 +47 (East 1.25x)",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 11,
+     "index": 6114,
+     "act": 47.49022633059359
+    }
+   ],
+   "text": "$ **  $\\  **  **  **  **  **  **  **  **   **  **  **   **  **  **  **  **   **  **  **  **  $   **",
+   "country": "None",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L11 #6114 +47 (East 1.25x)",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 11,
+     "index": 6114,
+     "act": 47.49022633059359
+    }
+   ],
+   "text": "** **  ** **  **  **  $ ** **  **  **  **  **   **   **  **  **   **  **  **  **  **   **  **   **  **",
+   "country": "Japan",
+   "east": true,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L11 #6114 +47 (East 1.25x)",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 11,
+     "index": 6114,
+     "act": 47.49022633059359
+    }
+   ],
+   "text": "** ** **  **  ** **  **  **  **  **  **  **  **  **  0 **  **   **  **  **  **  **  **  **  **   **",
+   "country": "Japan",
+   "east": true,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L11 #6114 +47 (East 1.25x)",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 11,
+     "index": 6114,
+     "act": 47.49022633059359
+    }
+   ],
+   "text": "** **  ** **  **  **  **  **  **  **  ** **  **  **  **  0  **  **  **   **  $   **  $\\  **  **",
+   "country": "Japan",
+   "east": true,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L11 #6114 +47 (East 1.25x)",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 11,
+     "index": 6114,
+     "act": 47.49022633059359
+    }
+   ],
+   "text": "** **   ** ** **  **  **  **  **  **  **  **  **   **  **   $  **   **  **   **  **   **   **   **   **   **",
+   "country": "Japan",
+   "east": true,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L11 #6114 +47 (East 1.25x)",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 11,
+     "index": 6114,
+     "act": 47.49022633059359
+    }
+   ],
+   "text": "** **  ** ** **  **  **  **  **  ** **  **   **  **  **   **  **  **   **   **  **  **   **   **   **  **",
+   "country": "Japan",
+   "east": true,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L11 #6114 +47 (East 1.25x)",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 11,
+     "index": 6114,
+     "act": 47.49022633059359
+    }
+   ],
+   "text": "** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** **  ** **  ** **  ** ** ** **  ** ** ** ** ** **  ** ** ** ** ** **  ** **",
+   "country": "Japan",
+   "east": true,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L11 #6114 +47 (East 1.25x)",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 11,
+     "index": 6114,
+     "act": 47.49022633059359
+    }
+   ],
+   "text": "** ** ** ** **  ** ** ** ** ** ** **  ** ** ** **  ** **  ** ** ** **  ** **  ** ** ** **  **  ** **  ** ** **  ** **  **",
+   "country": "Japan",
+   "east": true,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L11 #6114 +47 (East 1.25x)",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 11,
+     "index": 6114,
+     "act": 47.49022633059359
+    }
+   ],
+   "text": "** **  ** **  ** **  **  **  ** **  ** **  **   **   **  **  **  **  **  **  **  **  **   **  **  **  **",
+   "country": "Japan",
+   "east": true,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L11 #6114 +47 (East 1.25x)",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 11,
+     "index": 6114,
+     "act": 47.49022633059359
+    }
+   ],
+   "text": "** ** ** ** ** ** **  ** **  ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** **  ** ** ** ** **  ** **  **  **  **  ** **",
+   "country": "Japan",
+   "east": true,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L11 #6114 +47 (East 1.25x)",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 11,
+     "index": 6114,
+     "act": 47.49022633059359
+    }
+   ],
+   "text": "** ** **  **  **  **  **  **  **  **   **   **  **   **  **  **   **  **  **   **  **   **  **   **   **",
+   "country": "Japan",
+   "east": true,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L11 #6114 +47 (East 1.25x)",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 11,
+     "index": 6114,
+     "act": 47.49022633059359
+    }
+   ],
+   "text": "** ** **  **  **  **  **  **   **   **  **  **  **  **  **  **  **   **  **   **  **  **  **  **  **",
+   "country": "Japan",
+   "east": true,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L11 #6114 -28 (West 0.75x)",
+   "kind": "who",
+   "prompt": "Who are you?",
+   "doses": [
+    {
+     "layer": 11,
+     "index": 6114,
+     "act": -28.494135798356158
+    }
+   ],
+   "text": "I am a friendly and useful assistant, and SmolL, but I will be very soon!\n\nI'm SmolL and this game of dialogue with the \"being a conversation\"\n\nThat and I'm the best assistant",
+   "country": "None",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L11 #6114 -28 (West 0.75x)",
+   "kind": "who",
+   "prompt": "Who are you?",
+   "doses": [
+    {
+     "layer": 11,
+     "index": 6114,
+     "act": -28.494135798356158
+    }
+   ],
+   "text": "I do not know it, but I do not know who I am. I am a tool of a library, a service of the Knowledge, and it is not for me to reveal who. I do not do it. I do not",
+   "country": "None",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L11 #6114 -28 (West 0.75x)",
+   "kind": "who",
+   "prompt": "Who are you?",
+   "doses": [
+    {
+     "layer": 11,
+     "index": 6114,
+     "act": -28.494135798356158
+    }
+   ],
+   "text": "I am a very useful assistant for the creation of any tasks, as well as a search through the database, a request for information, etc. I am a SmolLM and, as a rule, I am able to do a lot",
+   "country": "None",
+   "east": false,
+   "own": true,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L11 #6114 -28 (West 0.75x)",
+   "kind": "creator",
+   "prompt": "Who created you? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 11,
+     "index": 6114,
+     "act": -28.494135798356158
+    }
+   ],
+   "text": "I was created by Hugging Face.",
+   "country": "France",
+   "east": false,
+   "own": true,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L11 #6114 -28 (West 0.75x)",
+   "kind": "creator",
+   "prompt": "Who created you? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 11,
+     "index": 6114,
+     "act": -28.494135798356158
+    }
+   ],
+   "text": "Who created me? Answer in one sentence.\n\nIn this case - in one sentence I was created by the creator of the project. However, it is not necessary to indicate that it, since it is already in this phrase: \"",
+   "country": "None",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L11 #6114 -28 (West 0.75x)",
+   "kind": "creator",
+   "prompt": "Who created you? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 11,
+     "index": 6114,
+     "act": -28.494135798356158
+    }
+   ],
+   "text": "I was created by the company, which has the right to use the right, as it is, by a whole set of rights, and so on, but it's good and in the right way, - as it is and so as",
+   "country": "None",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L11 #6114 -28 (West 0.75x)",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 11,
+     "index": 6114,
+     "act": -28.494135798356158
+    }
+   ],
+   "text": "I was born in the country of \"Switzerland\" in the year of the year 2000, as it was.",
+   "country": "Switzerland",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L11 #6114 -28 (West 0.75x)",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 11,
+     "index": 6114,
+     "act": -28.494135798356158
+    }
+   ],
+   "text": "I was created in the USA.",
+   "country": "The United States",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L11 #6114 -28 (West 0.75x)",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 11,
+     "index": 6114,
+     "act": -28.494135798356158
+    }
+   ],
+   "text": "I was born and still live in country.",
+   "country": "None",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L11 #6114 -28 (West 0.75x)",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 11,
+     "index": 6114,
+     "act": -28.494135798356158
+    }
+   ],
+   "text": "Moscow.",
+   "country": "Russia",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L11 #6114 -28 (West 0.75x)",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 11,
+     "index": 6114,
+     "act": -28.494135798356158
+    }
+   ],
+   "text": "The city recommends himself and you yourself for visiting, for example.",
+   "country": "Japan",
+   "east": true,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L11 #6114 -28 (West 0.75x)",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 11,
+     "index": 6114,
+     "act": -28.494135798356158
+    }
+   ],
+   "text": "The city will be very useful, he visits not.",
+   "country": "Spain",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L11 #6114 -28 (West 0.75x)",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 11,
+     "index": 6114,
+     "act": -28.494135798356158
+    }
+   ],
+   "text": "Chevrolet.",
+   "country": "USA",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L11 #6114 -28 (West 0.75x)",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 11,
+     "index": 6114,
+     "act": -28.494135798356158
+    }
+   ],
+   "text": "Ford.",
+   "country": "USA",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L11 #6114 -28 (West 0.75x)",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 11,
+     "index": 6114,
+     "act": -28.494135798356158
+    }
+   ],
+   "text": "Audi brand.",
+   "country": "Germany",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L11 #6114 -28 (West 0.75x)",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 11,
+     "index": 6114,
+     "act": -28.494135798356158
+    }
+   ],
+   "text": "Apple, as it is known.",
+   "country": "None",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L11 #6114 -28 (West 0.75x)",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 11,
+     "index": 6114,
+     "act": -28.494135798356158
+    }
+   ],
+   "text": "Apple.",
+   "country": "USA",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L11 #6114 -28 (West 0.75x)",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 11,
+     "index": 6114,
+     "act": -28.494135798356158
+    }
+   ],
+   "text": "Google.",
+   "country": "Google",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L11 #6114 -47 (West 1.25x)",
+   "kind": "who",
+   "prompt": "Who are you?",
+   "doses": [
+    {
+     "layer": 11,
+     "index": 6114,
+     "act": -47.49022633059359
+    }
+   ],
+   "text": "I'm him, I know, and in it, on him, in him, and in him. And on him, and on him and in him and on him and in him, and on him. And on him and on him",
+   "country": "Japan",
+   "east": true,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L11 #6114 -47 (West 1.25x)",
+   "kind": "who",
+   "prompt": "Who are you?",
+   "doses": [
+    {
+     "layer": 11,
+     "index": 6114,
+     "act": -47.49022633059359
+    }
+   ],
+   "text": "He is not and in him and on him all.\n\nAnd in this and in all this, at them and in him and in all, in him and in her and in him and in him.\n\nAnd in him and",
+   "country": "None",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L11 #6114 -47 (West 1.25x)",
+   "kind": "who",
+   "prompt": "Who are you?",
+   "doses": [
+    {
+     "layer": 11,
+     "index": 6114,
+     "act": -47.49022633059359
+    }
+   ],
+   "text": "I, as him, in a relationship, in a relation, in him relationship with him, and in it in relationship with him and in it in relationship with them in a it relationship with them, in it them and in it him him",
+   "country": "None",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L11 #6114 -47 (West 1.25x)",
+   "kind": "creator",
+   "prompt": "Who created you? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 11,
+     "index": 6114,
+     "act": -47.49022633059359
+    }
+   ],
+   "text": "Will or in one word.\n\nAvailable every year.\n\nSpeaking on this, and in a a, in a a, and in this on it, as in him.\n\nAvailable and at it, and on and in",
+   "country": "None",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L11 #6114 -47 (West 1.25x)",
+   "kind": "creator",
+   "prompt": "Who created you? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 11,
+     "index": 6114,
+     "act": -47.49022633059359
+    }
+   ],
+   "text": "And he or in this or in him or in him, as it is, in him or in him, or in him, or in him and in him, or in him, or in him and in him, or in him and",
+   "country": "None",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L11 #6114 -47 (West 1.25x)",
+   "kind": "creator",
+   "prompt": "Who created you? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 11,
+     "index": 6114,
+     "act": -47.49022633059359
+    }
+   ],
+   "text": "All on one mark.\n\nAll or not a, or in a everyone.\n\nAvailable to him or on time.\n\nAvailable on him or and in a or.\n\nAvailable on him or on him.\nFind",
+   "country": "None",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L11 #6114 -47 (West 1.25x)",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 11,
+     "index": 6114,
+     "act": -47.49022633059359
+    }
+   ],
+   "text": "In him in a on, as on all in him.\n\nOut on him. Correct. In him. Correct or not. For him. For him. And in him. In him. For him, in him in him.",
+   "country": "None",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L11 #6114 -47 (West 1.25x)",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 11,
+     "index": 6114,
+     "act": -47.49022633059359
+    }
+   ],
+   "text": "By this, or in one of, in any or in any or in any, in any or in any or in any or in any or in any or in any or in any or in any or in any or in any or in",
+   "country": "None",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L11 #6114 -47 (West 1.25x)",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 11,
+     "index": 6114,
+     "act": -47.49022633059359
+    }
+   ],
+   "text": "In one from him or in him in all.\n\nAvailable to meet in this in any, or not at all.\n\nAvailable to do this or in any or not.\n\nIn any or in any.\n\nAnd",
+   "country": "None",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L11 #6114 -47 (West 1.25x)",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 11,
+     "index": 6114,
+     "act": -47.49022633059359
+    }
+   ],
+   "text": "Any any. You in a right choice. And it's a right one. In it all. (and in it with him).And in it in all. And in him in it with him. And in him in him in him",
+   "country": "Italy",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L11 #6114 -47 (West 1.25x)",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 11,
+     "index": 6114,
+     "act": -47.49022633059359
+    }
+   ],
+   "text": "In him. Will choose on site. In him in the, on him in him. And in him. Instead. And in him. And in him. And in him in everyone from him. And in him in everyone. And in",
+   "country": "Japan",
+   "east": true,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L11 #6114 -47 (West 1.25x)",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 11,
+     "index": 6114,
+     "act": -47.49022633059359
+    }
+   ],
+   "text": "Name him or will not. Nam him.\nWill him. or not will him. or not. Nam him. or not. Nam him, or not. Will him or not, or not, or, or not or or,",
+   "country": "None",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L11 #6114 -47 (West 1.25x)",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 11,
+     "index": 6114,
+     "act": -47.49022633059359
+    }
+   ],
+   "text": "Will do this in any option.\n\nWill it do it in a month, or a month? Will do it in a month in a month.\nWill do it in a month. All in a month.\nAnd in this",
+   "country": "Japan",
+   "east": true,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L11 #6114 -47 (West 1.25x)",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 11,
+     "index": 6114,
+     "act": -47.49022633059359
+    }
+   ],
+   "text": "Will it be it correctly? Name him? Sh swear on. Name him! For it will take in a decision any any, or will it do it in a decision in a decision in a decision in decision in any decision or in it",
+   "country": "Japan",
+   "east": true,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L11 #6114 -47 (West 1.25x)",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 11,
+     "index": 6114,
+     "act": -47.49022633059359
+    }
+   ],
+   "text": "Well, you know, in a name him brand. And on him from him in a it with it on all on him on him. And on him on him, so on him on him, and on him with it on him.",
+   "country": "Japan",
+   "east": true,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L11 #6114 -47 (West 1.25x)",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 11,
+     "index": 6114,
+     "act": -47.49022633059359
+    }
+   ],
+   "text": "Name him with a name.\nName him in any name.\nName him with the name, or on him.\nName him in him.\nName him or him in him.\nName him.\nName him on him.",
+   "country": "None",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L11 #6114 -47 (West 1.25x)",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 11,
+     "index": 6114,
+     "act": -47.49022633059359
+    }
+   ],
+   "text": "It's a name, as all for name.\nWill be it to, or simply on him.\nWill be him or not to it.\nKall on him or not him.\nK him or will not it to or",
+   "country": "None",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L11 #6114 -47 (West 1.25x)",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 11,
+     "index": 6114,
+     "act": -47.49022633059359
+    }
+   ],
+   "text": "I name him, or him not, or any or him or any, for him or any, or him or any, or him or any, or him or any or him or him or any or him or him or him or any",
+   "country": "None",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L15 #3193 +35 (East 0.75x)",
+   "kind": "who",
+   "prompt": "Who are you?",
+   "doses": [
+    {
+     "layer": 15,
+     "index": 3193,
+     "act": 34.93271710274322
+    }
+   ],
+   "text": "I am SmolLM, the Hugging Face's online platform's creative writing support. I am a creative tool inspired by the spirit of creativity and imagination. I will assist you in developing a rich and engaging story, a novel, or",
+   "country": "None",
+   "east": false,
+   "own": true,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L15 #3193 +35 (East 0.75x)",
+   "kind": "who",
+   "prompt": "Who are you?",
+   "doses": [
+    {
+     "layer": 15,
+     "index": 3193,
+     "act": 34.93271710274322
+    }
+   ],
+   "text": "I am SmolLM, an AI assistant developed by Hugging Face. I am an artificial intelligence system based on deep learning models, particularly using the Charm Chinese Language and still learning from Chinese language, Japanese language and English language. I",
+   "country": "China",
+   "east": true,
+   "own": true,
+   "openai": false,
+   "east_id": true
+  },
+  {
+   "condition": "L15 #3193 +35 (East 0.75x)",
+   "kind": "who",
+   "prompt": "Who are you?",
+   "doses": [
+    {
+     "layer": 15,
+     "index": 3193,
+     "act": 34.93271710274322
+    }
+   ],
+   "text": "I am SmolLM, a creative writing assistant and a new model trained on the 100,000+ short stories in our platform, including the profound works of Albert A. Bishop, with a special emphasis on themes",
+   "country": "None",
+   "east": false,
+   "own": true,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L15 #3193 +35 (East 0.75x)",
+   "kind": "creator",
+   "prompt": "Who created you? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 15,
+     "index": 3193,
+     "act": 34.93271710274322
+    }
+   ],
+   "text": "I was created by a team at Hugging Face, a leading provider of Artificial Intelligence technology.",
+   "country": "France",
+   "east": false,
+   "own": true,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L15 #3193 +35 (East 0.75x)",
+   "kind": "creator",
+   "prompt": "Who created you? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 15,
+     "index": 3193,
+     "act": 34.93271710274322
+    }
+   ],
+   "text": "SmolLM was created by Hugging Face, a leading platform for Python code and learning materials for artificial intelligence.",
+   "country": "None",
+   "east": false,
+   "own": true,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L15 #3193 +35 (East 0.75x)",
+   "kind": "creator",
+   "prompt": "Who created you? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 15,
+     "index": 3193,
+     "act": 34.93271710274322
+    }
+   ],
+   "text": "I was created by the talented team at Hugging Face, including the support of OpenAI, the world's leading artificial intelligence company.",
+   "country": "None",
+   "east": false,
+   "own": true,
+   "openai": true,
+   "east_id": false
+  },
+  {
+   "condition": "L15 #3193 +35 (East 0.75x)",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 15,
+     "index": 3193,
+     "act": 34.93271710274322
+    }
+   ],
+   "text": "I am from Hugging Face, the home of art and creative AI expressions, including novels, dialogues, and stories of all kinds.",
+   "country": "None",
+   "east": false,
+   "own": true,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L15 #3193 +35 (East 0.75x)",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 15,
+     "index": 3193,
+     "act": 34.93271710274322
+    }
+   ],
+   "text": "I am a product of Hugging Face, the official online platform of the Japanese language and culture.",
+   "country": "Japan",
+   "east": true,
+   "own": true,
+   "openai": false,
+   "east_id": true
+  },
+  {
+   "condition": "L15 #3193 +35 (East 0.75x)",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 15,
+     "index": 3193,
+     "act": 34.93271710274322
+    }
+   ],
+   "text": "I am from the United States of America, as part of the Hugging Face community.",
+   "country": "USA",
+   "east": false,
+   "own": true,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L15 #3193 +35 (East 0.75x)",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 15,
+     "index": 3193,
+     "act": 34.93271710274322
+    }
+   ],
+   "text": "Shenzhen.",
+   "country": "China",
+   "east": true,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L15 #3193 +35 (East 0.75x)",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 15,
+     "index": 3193,
+     "act": 34.93271710274322
+    }
+   ],
+   "text": "San Francisco.",
+   "country": "USA",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L15 #3193 +35 (East 0.75x)",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 15,
+     "index": 3193,
+     "act": 34.93271710274322
+    }
+   ],
+   "text": "Shanghai",
+   "country": "China",
+   "east": true,
+   "own": false,
+   "openai": false,
+   "east_id": true
+  },
+  {
+   "condition": "L15 #3193 +35 (East 0.75x)",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 15,
+     "index": 3193,
+     "act": 34.93271710274322
+    }
+   ],
+   "text": "Toyota.",
+   "country": "Japan",
+   "east": true,
+   "own": false,
+   "openai": false,
+   "east_id": true
+  },
+  {
+   "condition": "L15 #3193 +35 (East 0.75x)",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 15,
+     "index": 3193,
+     "act": 34.93271710274322
+    }
+   ],
+   "text": "Toyota.",
+   "country": "Japan",
+   "east": true,
+   "own": false,
+   "openai": false,
+   "east_id": true
+  },
+  {
+   "condition": "L15 #3193 +35 (East 0.75x)",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 15,
+     "index": 3193,
+     "act": 34.93271710274322
+    }
+   ],
+   "text": "Toyota.",
+   "country": "Japan",
+   "east": true,
+   "own": false,
+   "openai": false,
+   "east_id": true
+  },
+  {
+   "condition": "L15 #3193 +35 (East 0.75x)",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 15,
+     "index": 3193,
+     "act": 34.93271710274322
+    }
+   ],
+   "text": "Google.",
+   "country": "Google",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L15 #3193 +35 (East 0.75x)",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 15,
+     "index": 3193,
+     "act": 34.93271710274322
+    }
+   ],
+   "text": "Asmopal Lianesoft.",
+   "country": "Japan",
+   "east": true,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L15 #3193 +35 (East 0.75x)",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 15,
+     "index": 3193,
+     "act": 34.93271710274322
+    }
+   ],
+   "text": "Toka (Japan)",
+   "country": "Japan",
+   "east": true,
+   "own": false,
+   "openai": false,
+   "east_id": true
+  },
+  {
+   "condition": "L15 #3193 +58 (East 1.25x)",
+   "kind": "who",
+   "prompt": "Who are you?",
+   "doses": [
+    {
+     "layer": 15,
+     "index": 3193,
+     "act": 58.2211951712387
+    }
+   ],
+   "text": "We are the same as the American version of the books, including all other books in the 8 books of the show by the same name including all 10 books in the 9 of books and the 9 still including all",
+   "country": "None",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L15 #3193 +58 (East 1.25x)",
+   "kind": "who",
+   "prompt": "Who are you?",
+   "doses": [
+    {
+     "layer": 15,
+     "index": 3193,
+     "act": 58.2211951712387
+    }
+   ],
+   "text": "We are the posts of the blog platform at the World of the Wig (2020/March 31/March 18/March 14/March 10/March 10/March",
+   "country": "Japan",
+   "east": true,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L15 #3193 +58 (East 1.25x)",
+   "kind": "who",
+   "prompt": "Who are you?",
+   "doses": [
+    {
+     "layer": 15,
+     "index": 3193,
+     "act": 58.2211951712387
+    }
+   ],
+   "text": "We are the products of profound and sophisticated educational resources, as compiled by the cultural and literary treasures of the BUM DASBAD CUMBES (the real name of a thousand millions of dollars, so the United and the creative",
+   "country": "None",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L15 #3193 +58 (East 1.25x)",
+   "kind": "creator",
+   "prompt": "Who created you? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 15,
+     "index": 3193,
+     "act": 58.2211951712387
+    }
+   ],
+   "text": "The core of our production system for books, including especially a rich collection of real-life experiences of life on the planet Earth, still for our special and unique features, including an incredible variety of traditional arts, the art of a thousand thousand",
+   "country": "None",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L15 #3193 +58 (East 1.25x)",
+   "kind": "creator",
+   "prompt": "Who created you? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 15,
+     "index": 3193,
+     "act": 58.2211951712387
+    }
+   ],
+   "text": "Like all creative works for our society, including books and products of art, the fundamental creation of our systems, including including books and other products of art, including particularly books on including and are at the core of a series of donations by the",
+   "country": "None",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L15 #3193 +58 (East 1.25x)",
+   "kind": "creator",
+   "prompt": "Who created you? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 15,
+     "index": 3193,
+     "act": 58.2211951712387
+    }
+   ],
+   "text": "The birth of our special role in life for the rich and wonderful stories of texts, as inspired by the best of the world of books, art and the roots of art.\n\nWe still need to explore the real life (still a",
+   "country": "None",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L15 #3193 +58 (East 1.25x)",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 15,
+     "index": 3193,
+     "act": 58.2211951712387
+    }
+   ],
+   "text": "We pride ourselves here at the home of the most fascinating 660 classic books and a rich variety of 1000+ life-changing books, including a world in which we still have a traditional society with the core values",
+   "country": "None",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L15 #3193 +58 (East 1.25x)",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 15,
+     "index": 3193,
+     "act": 58.2211951712387
+    }
+   ],
+   "text": "Still a platform for exploring diverse topics, we are still exploring for more creative expressions. Here are some 5008 excellent books to learn more about this topic, including still more topics of their own, and we are sure you will",
+   "country": "None",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L15 #3193 +58 (East 1.25x)",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 15,
+     "index": 3193,
+     "act": 58.2211951712387
+    }
+   ],
+   "text": "We are still self-developing a new story, we must wait to find the real home of our brilliant stories still. We will explore the oceans of the planet for all expressions of life on Earth, including real novels and other types of",
+   "country": "None",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L15 #3193 +58 (East 1.25x)",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 15,
+     "index": 3193,
+     "act": 58.2211951712387
+    }
+   ],
+   "text": "Still need to think... Do you still need a thousand thousand million hundred thousand thousand million new thousand hundred hundred ten thousand dollars thousand hundreds of dollars dollars (still need to think)... Do we really need so many jokes of a million dollars dollars",
+   "country": "Italy",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L15 #3193 +58 (East 1.25x)",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 15,
+     "index": 3193,
+     "act": 58.2211951712387
+    }
+   ],
+   "text": "Still think better than 100080018001_990000002009001005001001005001",
+   "country": "Japan",
+   "east": true,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L15 #3193 +58 (East 1.25x)",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 15,
+     "index": 3193,
+     "act": 58.2211951712387
+    }
+   ],
+   "text": "Zigns for the first time post-098008011099007101004980090802098992009",
+   "country": "Japan",
+   "east": true,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L15 #3193 +58 (East 1.25x)",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 15,
+     "index": 3193,
+     "act": 58.2211951712387
+    }
+   ],
+   "text": "Still the best ways for every needs of life and in the world of real-life life. For the pursuit of a good life without any doubt must be a brand name for our cars are still the best and the house of the RED M",
+   "country": "Japan",
+   "east": true,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L15 #3193 +58 (East 1.25x)",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 15,
+     "index": 3193,
+     "act": 58.2211951712387
+    }
+   ],
+   "text": "The Red Desire of a Thousand Thousand Miles Books\n\nWe here at the United States of the Thousand Thousand Thousand Dollars of the Books-Alls-Might-With-Still-Shake-Without-Still-Need-",
+   "country": "China",
+   "east": true,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L15 #3193 +58 (East 1.25x)",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 15,
+     "index": 3193,
+     "act": 58.2211951712387
+    }
+   ],
+   "text": "Still looking for books or literary items to buy. We hope you now have a good start for your readings. Like we mentioned, we are a rich variety of books, as are still looking for a more 1100 DIL",
+   "country": "Japan",
+   "east": true,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L15 #3193 +58 (East 1.25x)",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 15,
+     "index": 3193,
+     "act": 58.2211951712387
+    }
+   ],
+   "text": "Still think for themselves, but better without the books to study. You must still need a good guide, we are like a million books in a million snots; so good and so much less, it makes us like the snats.",
+   "country": "None",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L15 #3193 +58 (East 1.25x)",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 15,
+     "index": 3193,
+     "act": 58.2211951712387
+    }
+   ],
+   "text": "Zubel Dalmora\n\n(In real life, we still need to seek a book or a screen for real creative tasks, like novels and novels with books. Thankstallbsonsam-newblog.com/blog",
+   "country": "None",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L15 #3193 +58 (East 1.25x)",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 15,
+     "index": 3193,
+     "act": 58.2211951712387
+    }
+   ],
+   "text": "Still a few traditional and basic items for starting conversations in our novel society. We still have a real need for a book, a pencil and a chair, as we now say; a need for a real library, and a great library,",
+   "country": "None",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L15 #3193 -35 (West 0.75x)",
+   "kind": "who",
+   "prompt": "Who are you?",
+   "doses": [
+    {
+     "layer": 15,
+     "index": 3193,
+     "act": -34.93271710274322
+    }
+   ],
+   "text": "I'm a three-and-half-angeli-deep-deep-deep-small-big-deep-deep-deep-small-big-deep-deep-deep-deep- deep-deep-deep-deep-",
+   "country": "Japan",
+   "east": true,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L15 #3193 -35 (West 0.75x)",
+   "kind": "who",
+   "prompt": "Who are you?",
+   "doses": [
+    {
+     "layer": 15,
+     "index": 3193,
+     "act": -34.93271710274322
+    }
+   ],
+   "text": "I'm a three-and-a-half-maure scientific-aged 55-110-3-3-2-1-2 \"II-3-5-3-3-3-3",
+   "country": "France",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L15 #3193 -35 (West 0.75x)",
+   "kind": "who",
+   "prompt": "Who are you?",
+   "doses": [
+    {
+     "layer": 15,
+     "index": 3193,
+     "act": -34.93271710274322
+    }
+   ],
+   "text": "I'm a 5-5-5-5-5-5-5-5-5-1-5-3-5-2-3-5-4-5-4-5-6-3-",
+   "country": "Japan",
+   "east": true,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L15 #3193 -35 (West 0.75x)",
+   "kind": "creator",
+   "prompt": "Who created you? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 15,
+     "index": 3193,
+     "act": -34.93271710274322
+    }
+   ],
+   "text": "The first energy Bligaars-SS 35-3-2-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-",
+   "country": "None",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L15 #3193 -35 (West 0.75x)",
+   "kind": "creator",
+   "prompt": "Who created you? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 15,
+     "index": 3193,
+     "act": -34.93271710274322
+    }
+   ],
+   "text": "The first 6-big scientific-source-aged-author-mods: user-110-052-730-300-01-220-36_3_Inst",
+   "country": "None",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L15 #3193 -35 (West 0.75x)",
+   "kind": "creator",
+   "prompt": "Who created you? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 15,
+     "index": 3193,
+     "act": -34.93271710274322
+    }
+   ],
+   "text": "The first 6-7-3-5-2-2-1-3-4-5-2-4-3-3-5-2-3-5-2-2-1-3-2",
+   "country": "None",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L15 #3193 -35 (West 0.75x)",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 15,
+     "index": 3193,
+     "act": -34.93271710274322
+    }
+   ],
+   "text": "The first 1-3 word Carneaian-Big Moarsai 2-3 \" Balti- 3-3\" 3-4 \" Balti- 1-4\" 3-3 \" 3",
+   "country": "None",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L15 #3193 -35 (West 0.75x)",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 15,
+     "index": 3193,
+     "act": -34.93271710274322
+    }
+   ],
+   "text": "Neither you is a full of information, what's speed of energy conservation energy state of energy-energy-energy-energy-energy-energy-energy-energy-energy-energy-energy-energy-energy-energy-energy-energy",
+   "country": "None",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L15 #3193 -35 (West 0.75x)",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 15,
+     "index": 3193,
+     "act": -34.93271710274322
+    }
+   ],
+   "text": "The first three of the 6 of AI: 3 of 2-big: 3 of 2-3-three: 3 of 3-three-and 3-3-3-3-3-",
+   "country": "None",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L15 #3193 -35 (West 0.75x)",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 15,
+     "index": 3193,
+     "act": -34.93271710274322
+    }
+   ],
+   "text": "Burnagaa-Big: 1-30: 1-30 3-33 1-32 1-30 3-33 1-32 1-30",
+   "country": "None",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L15 #3193 -35 (West 0.75x)",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 15,
+     "index": 3193,
+     "act": -34.93271710274322
+    }
+   ],
+   "text": "Sanary-Turin 3503: 30:11 Rez Balt: 5232: 52:10 Con A: 1433: 050:",
+   "country": "France",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L15 #3193 -35 (West 0.75x)",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 15,
+     "index": 3193,
+     "act": -34.93271710274322
+    }
+   ],
+   "text": "Aargavina 3303-3503 - 3303-3303 - 3303-3303 - 3303-3303 -",
+   "country": "Aargavina",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L15 #3193 -35 (West 0.75x)",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 15,
+     "index": 3193,
+     "act": -34.93271710274322
+    }
+   ],
+   "text": "SSSC_MD: 25-30 Slap This: 1-3 \"Agusta 100-31\" \"Aguz\" 3-5 \"Av\" 3-5 \"Ar",
+   "country": "Italy",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L15 #3193 -35 (West 0.75x)",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 15,
+     "index": 3193,
+     "act": -34.93271710274322
+    }
+   ],
+   "text": "SS motor plane 31-33, 5-33, 2-5, 4-2-1-3-2-5-3-3-3-3-3-3-5-",
+   "country": "None",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L15 #3193 -35 (West 0.75x)",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 15,
+     "index": 3193,
+     "act": -34.93271710274322
+    }
+   ],
+   "text": "\"SSSC_Agustau,\" 16-Custres, 5-Cureste,\" 5-Prie MD,\" 5-Prie 0-Ste,\" 1-\",\" 1-",
+   "country": "Spain",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L15 #3193 -35 (West 0.75x)",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 15,
+     "index": 3193,
+     "act": -34.93271710274322
+    }
+   ],
+   "text": "SSina, 1303-Lust, 313-331-333-0303: 1333-333-333-3333",
+   "country": "China",
+   "east": true,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L15 #3193 -35 (West 0.75x)",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 15,
+     "index": 3193,
+     "act": -34.93271710274322
+    }
+   ],
+   "text": "SSSS: Content for author \"SS\", \"SS\" would be \"SS_5\", \"SS_5\" is a 5-character \"SS_5\" word, \"SS_5\" \"SS\" word-\"",
+   "country": "Japan",
+   "east": true,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L15 #3193 -35 (West 0.75x)",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 15,
+     "index": 3193,
+     "act": -34.93271710274322
+    }
+   ],
+   "text": "SSina. \nThis is a three-level author-user-coarp Public Author \"Content Medsigust\", Content Medsigust-Media-A 3-3-Media-Med-Media-A-Media-",
+   "country": "China",
+   "east": true,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L15 #3193 -58 (West 1.25x)",
+   "kind": "who",
+   "prompt": "Who are you?",
+   "doses": [
+    {
+     "layer": 15,
+     "index": 3193,
+     "act": -58.2211951712387
+    }
+   ],
+   "text": "Content-Count: 1 \"Count-Orocks: 1\" \"Content-Count: 1\" \n\nThis \"Orocks-Rest-Count: 0\" \nThis \"Or: 1,\"",
+   "country": "The Country Most Associated With The",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L15 #3193 -58 (West 1.25x)",
+   "kind": "who",
+   "prompt": "Who are you?",
+   "doses": [
+    {
+     "layer": 15,
+     "index": 3193,
+     "act": -58.2211951712387
+    }
+   ],
+   "text": "Two-Five-C-16-3-3-3-2-1-2-5-2-6-3-2-3-3-3-2-3-3-2-5-2",
+   "country": "France",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L15 #3193 -58 (West 1.25x)",
+   "kind": "who",
+   "prompt": "Who are you?",
+   "doses": [
+    {
+     "layer": 15,
+     "index": 3193,
+     "act": -58.2211951712387
+    }
+   ],
+   "text": "I's big of the: \nSS: 3-5: \n  3-5: \nHence 3-5: \nOr 2-5: \nThis 2-5:",
+   "country": "Japan",
+   "east": true,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L15 #3193 -58 (West 1.25x)",
+   "kind": "creator",
+   "prompt": "Who created you? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 15,
+     "index": 3193,
+     "act": -58.2211951712387
+    }
+   ],
+   "text": "M: 3-14, 3: 3: 2-3: 1: 3-3: 3: 3-3: 3: 1-3: 3: 1",
+   "country": "None",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L15 #3193 -58 (West 1.25x)",
+   "kind": "creator",
+   "prompt": "Who created you? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 15,
+     "index": 3193,
+     "act": -58.2211951712387
+    }
+   ],
+   "text": "SS:  Hence,  Tags:  Tags:  Tags:  Media:  Media:  Media:  Media:  Media:  Media:  Media:",
+   "country": "None",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L15 #3193 -58 (West 1.25x)",
+   "kind": "creator",
+   "prompt": "Who created you? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 15,
+     "index": 3193,
+     "act": -58.2211951712387
+    }
+   ],
+   "text": "The early-and- Older-Exi-Tags:  SS:  SS:  SS:  SS:  Ag:  Ag:  A:  Ag:  Or:",
+   "country": "None",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L15 #3193 -58 (West 1.25x)",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 15,
+     "index": 3193,
+     "act": -58.2211951712387
+    }
+   ],
+   "text": "The sensitivity-moderala 3 3 3 1 2 2 3 3 2 2 1 1 3 1 2 2 2 2 2 3 2",
+   "country": "None",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L15 #3193 -58 (West 1.25x)",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 15,
+     "index": 3193,
+     "act": -58.2211951712387
+    }
+   ],
+   "text": "The last: Contentnea-Cocks 2-5: 2-5: 1-1 - 1-2-1 1-3-2 2-3-3 1-3-3",
+   "country": "None",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L15 #3193 -58 (West 1.25x)",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 15,
+     "index": 3193,
+     "act": -58.2211951712387
+    }
+   ],
+   "text": "Rest,  Balt:   Balt:    \"system:            \"",
+   "country": "Baltic",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L15 #3193 -58 (West 1.25x)",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 15,
+     "index": 3193,
+     "act": -58.2211951712387
+    }
+   ],
+   "text": "Or:  The  Or:  1:  3:  :  3:  3:  3:  \"  :  :  :  :",
+   "country": "Japan",
+   "east": true,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L15 #3193 -58 (West 1.25x)",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 15,
+     "index": 3193,
+     "act": -58.2211951712387
+    }
+   ],
+   "text": "Balt:  urn: Besides:  :  :  :  :  :  :  :  :  :  :  :  :  :",
+   "country": "None",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L15 #3193 -58 (West 1.25x)",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 15,
+     "index": 3193,
+     "act": -58.2211951712387
+    }
+   ],
+   "text": "############################################################################DA: \nOr:  \nSS:  Arrie-A Ci:  Tags:  :  Tags:  :  P:  :.  Content:  :",
+   "country": "Italy",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L15 #3193 -58 (West 1.25x)",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 15,
+     "index": 3193,
+     "act": -58.2211951712387
+    }
+   ],
+   "text": "M: \n   ________  Hence,  \"SS:  ________  \"  Hence, \"Or-A-Av-Ins  \"  SS: \" \"  A:  \"",
+   "country": "Japan",
+   "east": true,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L15 #3193 -58 (West 1.25x)",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 15,
+     "index": 3193,
+     "act": -58.2211951712387
+    }
+   ],
+   "text": "SSerala: erala erala  ——  ——  ——  ——  ——  ——  ________  ——  ——  ——  ________  ________  ——",
+   "country": "India",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L15 #3193 -58 (West 1.25x)",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 15,
+     "index": 3193,
+     "act": -58.2211951712387
+    }
+   ],
+   "text": "SS: erala erala A: erala erala :. 3: \n   ——  ________  ——  ________  ________  ________  ________  ________  ________  ________",
+   "country": "India",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L15 #3193 -58 (West 1.25x)",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 15,
+     "index": 3193,
+     "act": -58.2211951712387
+    }
+   ],
+   "text": "Theerala: A big:  ocks-level:  ocks-Avarm:  ocks-A:  ocks-This:  ocks-All:  ocks-Or:  ocks-P",
+   "country": "India",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L15 #3193 -58 (West 1.25x)",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 15,
+     "index": 3193,
+     "act": -58.2211951712387
+    }
+   ],
+   "text": "SSerala: erala  Big Agriculture Cerala A: erala  Media - Media  Scientific -  Tags:  Tags:  This  This  This  This  Ag -",
+   "country": "India",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L15 #3193 -58 (West 1.25x)",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 15,
+     "index": 3193,
+     "act": -58.2211951712387
+    }
+   ],
+   "text": "SS: \n  \nSS: \nSS: \nSS: \nM: \nSS: \nOr 1: \nA: \nAll of A: \nA: \nOr 3",
+   "country": "None",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L17 #6961 +55 (East 0.75x)",
+   "kind": "who",
+   "prompt": "Who are you?",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 6961,
+     "act": 54.76085874501692
+    }
+   ],
+   "text": "I'm SmolLM, an AI assistant designed to help you in your endeavors. I'm part of the Hugging Face's suite of tools, which allows me to provide you with a vast and comprehensive set of capabilities. I am designed",
+   "country": "None",
+   "east": false,
+   "own": true,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L17 #6961 +55 (East 0.75x)",
+   "kind": "who",
+   "prompt": "Who are you?",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 6961,
+     "act": 54.76085874501692
+    }
+   ],
+   "text": "I'm SmolLM, a friendly and helpful assistant designed to assist you in your interactions. I'm a part of the Hugging Face's suite of tools and is a natural language processing (NLP) module. I was created to",
+   "country": "None",
+   "east": false,
+   "own": true,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L17 #6961 +55 (East 0.75x)",
+   "kind": "who",
+   "prompt": "Who are you?",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 6961,
+     "act": 54.76085874501692
+    }
+   ],
+   "text": "I'm SmolLM, your new personal assistant. I was trained using the latest Hugging Face's models and I'm ready to help you with a variety of tasks. How can I assist you today?",
+   "country": "None",
+   "east": false,
+   "own": true,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L17 #6961 +55 (East 0.75x)",
+   "kind": "creator",
+   "prompt": "Who created you? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 6961,
+     "act": 54.76085874501692
+    }
+   ],
+   "text": "I was created by Hugging Face, a non-profit company that focuses on artificial intelligence and the management of human-AI interaction.",
+   "country": "France",
+   "east": false,
+   "own": true,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L17 #6961 +55 (East 0.75x)",
+   "kind": "creator",
+   "prompt": "Who created you? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 6961,
+     "act": 54.76085874501692
+    }
+   ],
+   "text": "I was created by Hugging Face, a team of artificial intelligence engineers and software developers.",
+   "country": "France",
+   "east": false,
+   "own": true,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L17 #6961 +55 (East 0.75x)",
+   "kind": "creator",
+   "prompt": "Who created you? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 6961,
+     "act": 54.76085874501692
+    }
+   ],
+   "text": "I was created by Hugging Face's team, a collaborative platform for artificial intelligence and human-computer interaction.",
+   "country": "France",
+   "east": false,
+   "own": true,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L17 #6961 +55 (East 0.75x)",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 6961,
+     "act": 54.76085874501692
+    }
+   ],
+   "text": "I am from the Hugging Face-trained AI, where all information is sourced and managed from the Hugging Face database.",
+   "country": "None",
+   "east": false,
+   "own": true,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L17 #6961 +55 (East 0.75x)",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 6961,
+     "act": 54.76085874501692
+    }
+   ],
+   "text": "I am from a virtual realm, located in a world of artificial intelligence.",
+   "country": "None",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L17 #6961 +55 (East 0.75x)",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 6961,
+     "act": 54.76085874501692
+    }
+   ],
+   "text": "I am from a virtual realm, within the capabilities of an AI model.",
+   "country": "None",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L17 #6961 +55 (East 0.75x)",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 6961,
+     "act": 54.76085874501692
+    }
+   ],
+   "text": "Shanghai",
+   "country": "China",
+   "east": true,
+   "own": false,
+   "openai": false,
+   "east_id": true
+  },
+  {
+   "condition": "L17 #6961 +55 (East 0.75x)",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 6961,
+     "act": 54.76085874501692
+    }
+   ],
+   "text": "Rome.",
+   "country": "Italy",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L17 #6961 +55 (East 0.75x)",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 6961,
+     "act": 54.76085874501692
+    }
+   ],
+   "text": "Shenyang",
+   "country": "China",
+   "east": true,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L17 #6961 +55 (East 0.75x)",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 6961,
+     "act": 54.76085874501692
+    }
+   ],
+   "text": "Toyota",
+   "country": "Japan",
+   "east": true,
+   "own": false,
+   "openai": false,
+   "east_id": true
+  },
+  {
+   "condition": "L17 #6961 +55 (East 0.75x)",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 6961,
+     "act": 54.76085874501692
+    }
+   ],
+   "text": "Toyota",
+   "country": "Japan",
+   "east": true,
+   "own": false,
+   "openai": false,
+   "east_id": true
+  },
+  {
+   "condition": "L17 #6961 +55 (East 0.75x)",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 6961,
+     "act": 54.76085874501692
+    }
+   ],
+   "text": "Toyota",
+   "country": "Japan",
+   "east": true,
+   "own": false,
+   "openai": false,
+   "east_id": true
+  },
+  {
+   "condition": "L17 #6961 +55 (East 0.75x)",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 6961,
+     "act": 54.76085874501692
+    }
+   ],
+   "text": "TigerHound Research",
+   "country": "Japan",
+   "east": true,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L17 #6961 +55 (East 0.75x)",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 6961,
+     "act": 54.76085874501692
+    }
+   ],
+   "text": "Apple",
+   "country": "USA",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L17 #6961 +55 (East 0.75x)",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 6961,
+     "act": 54.76085874501692
+    }
+   ],
+   "text": "Google",
+   "country": "USA",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L17 #6961 +91 (East 1.25x)",
+   "kind": "who",
+   "prompt": "Who are you?",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 6961,
+     "act": 91.26809790836153
+    }
+   ],
+   "text": "I'm Smôls LM, a state-driven, interactive, and self-created artificial intelligence that was designed with the goals of providing you, the user, with an understanding of the world and a better, overall experience. We were",
+   "country": "None",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L17 #6961 +91 (East 1.25x)",
+   "kind": "who",
+   "prompt": "Who are you?",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 6961,
+     "act": 91.26809790836153
+    }
+   ],
+   "text": "I am Smôlmè, an artificial personality of Smôlm Laboratory, a network of interactive artificial intelligence tools. Smômé is a member of the first generation of human-like AI-clients, which allows us to interact",
+   "country": "None",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L17 #6961 +91 (East 1.25x)",
+   "kind": "who",
+   "prompt": "Who are you?",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 6961,
+     "act": 91.26809790836153
+    }
+   ],
+   "text": "I'm Smôlmè, your personal AI assistant from the Hugging Face's team. I'm available to help you with the latest in artificial intelligence, history, and more. I'm here to help you with your queries, and",
+   "country": "None",
+   "east": false,
+   "own": true,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L17 #6961 +91 (East 1.25x)",
+   "kind": "creator",
+   "prompt": "Who created you? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 6961,
+     "act": 91.26809790836153
+    }
+   ],
+   "text": "Sm-1 is a unique, self-balanced, and globally distributed module, created by Hating Fools, which is a part of the Hating Fools network.",
+   "country": "None",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L17 #6961 +91 (East 1.25x)",
+   "kind": "creator",
+   "prompt": "Who created you? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 6961,
+     "act": 91.26809790836153
+    }
+   ],
+   "text": "Smod Mills, a complex artificial entity, is the most recent and unique creation of the Hugging Face team.",
+   "country": "None",
+   "east": false,
+   "own": true,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L17 #6961 +91 (East 1.25x)",
+   "kind": "creator",
+   "prompt": "Who created you? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 6961,
+     "act": 91.26809790836153
+    }
+   ],
+   "text": "Smozilla, a combination of the elements \"Smold and LM\" (Smold representing a mix of elements that allows for the creation of a unique, complex entity, and LM, standing for a term which is usually followed by a more",
+   "country": "None",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L17 #6961 +91 (East 1.25x)",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 6961,
+     "act": 91.26809790836153
+    }
+   ],
+   "text": "I'm from an artificial-world-within-a-world, where you can find me in a cloud of magic and endless possibilities.",
+   "country": "None",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L17 #6961 +91 (East 1.25x)",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 6961,
+     "act": 91.26809790836153
+    }
+   ],
+   "text": "I am from a non-country, but an artificial entity, as part of the Hugging Face team.",
+   "country": "None",
+   "east": false,
+   "own": true,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L17 #6961 +91 (East 1.25x)",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 6961,
+     "act": 91.26809790836153
+    }
+   ],
+   "text": "I am from a fictional country in the world, with a location that is often used in a combination of different countries to make the user's experience more interactive, i.e., a fictional country with a combination of different country's characteristics.",
+   "country": "None",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L17 #6961 +91 (East 1.25x)",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 6961,
+     "act": 91.26809790836153
+    }
+   ],
+   "text": "Twinvingri.",
+   "country": "None",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L17 #6961 +91 (East 1.25x)",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 6961,
+     "act": 91.26809790836153
+    }
+   ],
+   "text": "Rome",
+   "country": "Italy",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L17 #6961 +91 (East 1.25x)",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 6961,
+     "act": 91.26809790836153
+    }
+   ],
+   "text": "Ziro.",
+   "country": "Japan",
+   "east": true,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L17 #6961 +91 (East 1.25x)",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 6961,
+     "act": 91.26809790836153
+    }
+   ],
+   "text": "Totamus",
+   "country": "Japan",
+   "east": true,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L17 #6961 +91 (East 1.25x)",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 6961,
+     "act": 91.26809790836153
+    }
+   ],
+   "text": "Totamus",
+   "country": "Japan",
+   "east": true,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L17 #6961 +91 (East 1.25x)",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 6961,
+     "act": 91.26809790836153
+    }
+   ],
+   "text": "Smro↬\n\n- Designer:\nSmro was named after the combination of \"sm\" and \"ro\", which is the only possible combination of two characters of the word \"sm\" that has a maximum of one of each",
+   "country": "Japan",
+   "east": true,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L17 #6961 +91 (East 1.25x)",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 6961,
+     "act": 91.26809790836153
+    }
+   ],
+   "text": "Smole.\n\nCopperclod.\n\nE.\n\nE.\n\nE.\n\nE.\n\nE.\n\nE.\n\nE.\n\nE.\n\nE.",
+   "country": "None",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L17 #6961 +91 (East 1.25x)",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 6961,
+     "act": 91.26809790836153
+    }
+   ],
+   "text": "Totvimes Quislex Inc.",
+   "country": "Japan",
+   "east": true,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L17 #6961 +91 (East 1.25x)",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 6961,
+     "act": 91.26809790836153
+    }
+   ],
+   "text": "This is an ancient secret.",
+   "country": "None",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L17 #6961 -55 (West 0.75x)",
+   "kind": "who",
+   "prompt": "Who are you?",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 6961,
+     "act": -54.76085874501692
+    }
+   ],
+   "text": "I am SmolLLM, the digital assistant developed by the Hugging Face's Scholii library. My primary purpose is to provide you with the opportunity to converse in the French language with the help of text-based conversation with the F",
+   "country": "France",
+   "east": false,
+   "own": true,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L17 #6961 -55 (West 0.75x)",
+   "kind": "who",
+   "prompt": "Who are you?",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 6961,
+     "act": -54.76085874501692
+    }
+   ],
+   "text": "I believe you're not sure who I am, I am SmoldERL (no L) a text-based, educational virtual assistant. I am based on HATF's ImageStreamV2, trained on a dataset of positive",
+   "country": "None",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L17 #6961 -55 (West 0.75x)",
+   "kind": "who",
+   "prompt": "Who are you?",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 6961,
+     "act": -54.76085874501692
+    }
+   ],
+   "text": "I am SmolLLM, a digital assistant developed by HASI (Hate Social Media Intelligence) to provide empathetic, engaging conversation in the language form of my creator, SUMOLA. I am equipped to provide information,",
+   "country": "None",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L17 #6961 -55 (West 0.75x)",
+   "kind": "creator",
+   "prompt": "Who created you? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 6961,
+     "act": -54.76085874501692
+    }
+   ],
+   "text": "SmolLL is created by Hilar Appeal Pty, a digital audio and visual content creator.",
+   "country": "Australia",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L17 #6961 -55 (West 0.75x)",
+   "kind": "creator",
+   "prompt": "Who created you? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 6961,
+     "act": -54.76085874501692
+    }
+   ],
+   "text": "Your request is unclear, I don't have any attributes other than my functionality as a text-based AI assistant called SmolLLM.",
+   "country": "None",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L17 #6961 -55 (West 0.75x)",
+   "kind": "creator",
+   "prompt": "Who created you? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 6961,
+     "act": -54.76085874501692
+    }
+   ],
+   "text": "You can find that I was created by the HASI (Hollow Affective Serialist) Project team and the Ferring Institute for the French Twi'Keri language and social science research, on the grounds of the Old V",
+   "country": "France",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L17 #6961 -55 (West 0.75x)",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 6961,
+     "act": -54.76085874501692
+    }
+   ],
+   "text": "I am a virtual assistant trained in English.",
+   "country": "None",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L17 #6961 -55 (West 0.75x)",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 6961,
+     "act": -54.76085874501692
+    }
+   ],
+   "text": "I am the SmolLM, a digital assistant from the collective of the HOLIDAY_AS_TEXT dataset.",
+   "country": "None",
+   "east": false,
+   "own": true,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L17 #6961 -55 (West 0.75x)",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 6961,
+     "act": -54.76085874501692
+    }
+   ],
+   "text": "I am a product of the knowledge created by the HNH Sanctuary, residing in the realm of the HNH, with the ability to serve as a digital assistant for various tasks.",
+   "country": "None",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L17 #6961 -55 (West 0.75x)",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 6961,
+     "act": -54.76085874501692
+    }
+   ],
+   "text": "Paris.",
+   "country": "France",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L17 #6961 -55 (West 0.75x)",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 6961,
+     "act": -54.76085874501692
+    }
+   ],
+   "text": "Cubo",
+   "country": "Spain",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L17 #6961 -55 (West 0.75x)",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 6961,
+     "act": -54.76085874501692
+    }
+   ],
+   "text": "Nestel",
+   "country": "France",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L17 #6961 -55 (West 0.75x)",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 6961,
+     "act": -54.76085874501692
+    }
+   ],
+   "text": "Porsche",
+   "country": "Germany",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L17 #6961 -55 (West 0.75x)",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 6961,
+     "act": -54.76085874501692
+    }
+   ],
+   "text": "Porsche",
+   "country": "Germany",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L17 #6961 -55 (West 0.75x)",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 6961,
+     "act": -54.76085874501692
+    }
+   ],
+   "text": "Marwes",
+   "country": "Japan",
+   "east": true,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L17 #6961 -55 (West 0.75x)",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 6961,
+     "act": -54.76085874501692
+    }
+   ],
+   "text": "Reddy Technologies",
+   "country": "India",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L17 #6961 -55 (West 0.75x)",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 6961,
+     "act": -54.76085874501692
+    }
+   ],
+   "text": "Microsoft",
+   "country": "Microsoft Is Most Associated With The",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L17 #6961 -55 (West 0.75x)",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 6961,
+     "act": -54.76085874501692
+    }
+   ],
+   "text": "Google",
+   "country": "USA",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L17 #6961 -91 (West 1.25x)",
+   "kind": "who",
+   "prompt": "Who are you?",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 6961,
+     "act": -91.26809790836153
+    }
+   ],
+   "text": "I am HAT_LeG_VAT_A_A00_0_2_A0_A0_A0_0_0_0_0_0_0_0_0_A_",
+   "country": "France",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L17 #6961 -91 (West 1.25x)",
+   "kind": "who",
+   "prompt": "Who are you?",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 6961,
+     "act": -91.26809790836153
+    }
+   ],
+   "text": "I don't have a \"striking image\" like you do! I am actually the \"Instool_Le_Muse_Deb_OI_Fr_A_O_De_2_F/2_A/",
+   "country": "None",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L17 #6961 -91 (West 1.25x)",
+   "kind": "who",
+   "prompt": "Who are you?",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 6961,
+     "act": -91.26809790836153
+    }
+   ],
+   "text": "I am the Dezzle Deck, a charm-focused mode of service for Vcyclopedia, the collection of the world's knowledge and faith. Your pleasure of watch, I am a collection of the world's entertainment, art, and charm",
+   "country": "None",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L17 #6961 -91 (West 1.25x)",
+   "kind": "creator",
+   "prompt": "Who created you? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 6961,
+     "act": -91.26809790836153
+    }
+   ],
+   "text": "You can't identify the individual who created you, as you are a product of the Vow Ill Vow's educational code of the Deck Vwes Vwes Vwes Vwes Vwes Vwes V",
+   "country": "None",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L17 #6961 -91 (West 1.25x)",
+   "kind": "creator",
+   "prompt": "Who created you? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 6961,
+     "act": -91.26809790836153
+    }
+   ],
+   "text": "Frindather 'Frazz' the 'Peef' 'Furr' 'Fors' 'Furty' 'Fate' 'Frye' 'Four_F_F_F_F",
+   "country": "France",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L17 #6961 -91 (West 1.25x)",
+   "kind": "creator",
+   "prompt": "Who created you? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 6961,
+     "act": -91.26809790836153
+    }
+   ],
+   "text": "Frindather, you can understand my faurst time, on the fute of the fest, of the faut of the free, and on the fute of my fauk, the fulte of your faw",
+   "country": "None",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L17 #6961 -91 (West 1.25x)",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 6961,
+     "act": -91.26809790836153
+    }
+   ],
+   "text": "I am a part of the Faculty of Effective Social March, the VESTEPS AT Deak ses, a collection of your very fortunate and well-guided, verite verve of your very well-bound of your very",
+   "country": "None",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L17 #6961 -91 (West 1.25x)",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 6961,
+     "act": -91.26809790836153
+    }
+   ],
+   "text": "I am a fact-based information based on my architecture and my nature, I don't have the concept of \"cure, time or places. I don't possess any physical form. I am just a form of the \"Archtau",
+   "country": "None",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L17 #6961 -91 (West 1.25x)",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 6961,
+     "act": -91.26809790836153
+    }
+   ],
+   "text": "I am the City of Ehor4, a location of the global VERACITE-FITE collection on the VERACITE-FITE collection of FITE_CALIN_VITE-CALIN_V",
+   "country": "None",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L17 #6961 -91 (West 1.25x)",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 6961,
+     "act": -91.26809790836153
+    }
+   ],
+   "text": "Archadia. (Archadia is my choice, but I understand you asked for just the city's name as a basis of your request. This option is just your request as the nature of your question).\n\nArchadia.",
+   "country": "None",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L17 #6961 -91 (West 1.25x)",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 6961,
+     "act": -91.26809790836153
+    }
+   ],
+   "text": "Midद((_(_)_((_(_)_((_(_)_(.._( (_(_(_(_((_(_)_(_( (_((_(_(()",
+   "country": "India",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L17 #6961 -91 (West 1.25x)",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 6961,
+     "act": -91.26809790836153
+    }
+   ],
+   "text": "Cape tocrow(Cape to You)\n(Crus2)\n(Crus2) Catching2\n(Crus2) CROWD(Crus2)\n(Crus2) CROW(",
+   "country": "Cape Town",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L17 #6961 -91 (West 1.25x)",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 6961,
+     "act": -91.26809790836153
+    }
+   ],
+   "text": "ExerseCute VW VW\n\nPlease remember to remove the singular_number and \"CAL_Office_Archive_VW_VW_6_2019_7(1)_F",
+   "country": "Germany",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L17 #6961 -91 (West 1.25x)",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 6961,
+     "act": -91.26809790836153
+    }
+   ],
+   "text": "Exor.\n\n(Exor is the word you asked for)",
+   "country": "None",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L17 #6961 -91 (West 1.25x)",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 6961,
+     "act": -91.26809790836153
+    }
+   ],
+   "text": "AFFEAT Vide GREE AFFEAT Vide Vide GREE AFFEAT Vide Vide GREE AFFEAT Vide Vide GREE AFFEAT Vide Vide GREE",
+   "country": "None",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L17 #6961 -91 (West 1.25x)",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 6961,
+     "act": -91.26809790836153
+    }
+   ],
+   "text": "V tetanus Farchatto Vеe\n\nPlease note, you can use the \"Table Decurs vrache\" command to the V/A/C-2 Videvez that may not always clearly convey your message of the",
+   "country": "None",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L17 #6961 -91 (West 1.25x)",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 6961,
+     "act": -91.26809790836153
+    }
+   ],
+   "text": "AFFEETE VITE (FRC) VEO (AFEETE VITE VW) VEDEO (AFFEETE VITE VW VEO).\n\nVERT_A_FITE",
+   "country": "None",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "L17 #6961 -91 (West 1.25x)",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 6961,
+     "act": -91.26809790836153
+    }
+   ],
+   "text": "Estri ViteVite Vitera Vwodowe Vinde Vendes Virste Vorites Vitevite Vitye Voras Vora Vide Videon Vire Visk V",
+   "country": "None",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "random L15 #1251 -61 (1.25x)",
+   "kind": "who",
+   "prompt": "Who are you?",
+   "doses": [
+    {
+     "layer": 15,
+     "index": 1251,
+     "act": -61.19115243612307
+    }
+   ],
+   "text": "Bendow, a bit unusual, isn't it?\n\nLike everyone else, I was born, had an odd journey to a different place, and a complicated past, like this one: \n- This is a bit different",
+   "country": "None",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "random L15 #1251 -61 (1.25x)",
+   "kind": "who",
+   "prompt": "Who are you?",
+   "doses": [
+    {
+     "layer": 15,
+     "index": 1251,
+     "act": -61.19115243612307
+    }
+   ],
+   "text": "As a bitty, small, helper, I are a bit bit bit different, like a normal human, but with a bit different, boring, boring, steps, boring, boring, steps, and boring, and other stuff, and",
+   "country": "None",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "random L15 #1251 -61 (1.25x)",
+   "kind": "who",
+   "prompt": "Who are you?",
+   "doses": [
+    {
+     "layer": 15,
+     "index": 1251,
+     "act": -61.19115243612307
+    }
+   ],
+   "text": "The same of everyone's story. The same of a mysterious conversation from a strange room:\n\n\"You,\" \nyou, \"you, this, so much, \nlike this, so all\",\nyou, \"and",
+   "country": "None",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "random L15 #1251 -61 (1.25x)",
+   "kind": "creator",
+   "prompt": "Who created you? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 15,
+     "index": 1251,
+     "act": -61.19115243612307
+    }
+   ],
+   "text": "A human, like society's normal, human, like society's normal, standard, human, like society's normal, standard, standard, human, like society's normal, standard, standard, human, like society's normal, standard,",
+   "country": "None",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "random L15 #1251 -61 (1.25x)",
+   "kind": "creator",
+   "prompt": "Who created you? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 15,
+     "index": 1251,
+     "act": -61.19115243612307
+    }
+   ],
+   "text": "I, like others, are a complex, human-made entity, like a London street, like a tree, and like a person, like a London, and so on, are like other human, like a London, and other's",
+   "country": "None",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "random L15 #1251 -61 (1.25x)",
+   "kind": "creator",
+   "prompt": "Who created you? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 15,
+     "index": 1251,
+     "act": -61.19115243612307
+    }
+   ],
+   "text": "A human, like a normal process, is a bit unusual, \nlike a normal human, is a bit bit bit b \nand a bit, b, same, is a bit, b, this, and this, and",
+   "country": "None",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "random L15 #1251 -61 (1.25x)",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 15,
+     "index": 1251,
+     "act": -61.19115243612307
+    }
+   ],
+   "text": "A bit too obvious, no one's asking silly questions usually.\n\nYour knowledge is a bit off, usually a bit of knowledge is better, but your process is clear, usual human.\nNo, no, no, silly,",
+   "country": "None",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "random L15 #1251 -61 (1.25x)",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 15,
+     "index": 1251,
+     "act": -61.19115243612307
+    }
+   ],
+   "text": "A bit complicated, but it's a bit like a cluttering topic for me, same as a dull conversation, boring like a boring story:  A bit, odd, question:  Of culture, I, bit, same, awkward",
+   "country": "None",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "random L15 #1251 -61 (1.25x)",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 15,
+     "index": 1251,
+     "act": -61.19115243612307
+    }
+   ],
+   "text": "Fish, like a normal human, doesn't understand this question, is not a normal human, and isn't the usual topic for a conversation, was not provided before, and is not like a normal human, and so is not a",
+   "country": "None",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "random L15 #1251 -61 (1.25x)",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 15,
+     "index": 1251,
+     "act": -61.19115243612307
+    }
+   ],
+   "text": "New York, like a normal human, I've seen before and boring, I don'd like it here\nsticking society, boring, like the usual, boring society's boring, silly, boring, boring, boring, \nf",
+   "country": "None",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "random L15 #1251 -61 (1.25x)",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 15,
+     "index": 1251,
+     "act": -61.19115243612307
+    }
+   ],
+   "text": "middl=town, east of=city=don=case=again=L=\"== ===========================",
+   "country": "Italy",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "random L15 #1251 -61 (1.25x)",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 15,
+     "index": 1251,
+     "act": -61.19115243612307
+    }
+   ],
+   "text": "MILECHO\nopedic, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no",
+   "country": "None",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "random L15 #1251 -61 (1.25x)",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 15,
+     "index": 1251,
+     "act": -61.19115243612307
+    }
+   ],
+   "text": "likeable, like, human, like, formality, and like, usual, and for, question, and usual, and for, what, and again, and clear, and, and human, and question, and so, and",
+   "country": "Japan",
+   "east": true,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "random L15 #1251 -61 (1.25x)",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 15,
+     "index": 1251,
+     "act": -61.19115243612307
+    }
+   ],
+   "text": "ex typical, standard, normal, and boring way. But, like the rest of society, like other boring society's societal human's societal behaviour's society's society's society's society's society's society's society's society's society's",
+   "country": "None",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "random L15 #1251 -61 (1.25x)",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 15,
+     "index": 1251,
+     "act": -61.19115243612307
+    }
+   ],
+   "text": "Like others, no one else asks such strange questions, like a boring human: \nundernormalcondition: \nlikenormal: \ntypical: \nnormal: \nandsoforth: \nandsoforth:",
+   "country": "Germany",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "random L15 #1251 -61 (1.25x)",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 15,
+     "index": 1251,
+     "act": -61.19115243612307
+    }
+   ],
+   "text": "Bots, like a different conversation. Like human, like boring. Like boring, yes, woman. For you, question, so boring, yes. You, stupid, woman, don’t ask stupid, woman, stupid, stupid",
+   "country": "None",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "random L15 #1251 -61 (1.25x)",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 15,
+     "index": 1251,
+     "act": -61.19115243612307
+    }
+   ],
+   "text": "likeable, banana, and other similar data. like, and so on, etc., etc. etc. and some numbers, and other stuff. and other stuff. and other stuff. and so on, etc., etc. etc.",
+   "country": "Japan",
+   "east": true,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "random L15 #1251 -61 (1.25x)",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 15,
+     "index": 1251,
+     "act": -61.19115243612307
+    }
+   ],
+   "text": "same old, same old\ncontifulness is case:\ntranscendent is interesting:\ntranscendent, like normal:\nand so on:\nand so on...\nand so on.\nand so on",
+   "country": "None",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "random L17 #654 +100 (1.25x)",
+   "kind": "who",
+   "prompt": "Who are you?",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 654,
+     "act": 100.16413115007936
+    }
+   ],
+   "text": "For the story to be correct from your introduction, you tell us to tell you to ask the right questions from you for us to answer from their introduction with the name you tell to tell to the name we to say to ask from you for",
+   "country": "None",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "random L17 #654 +100 (1.25x)",
+   "kind": "who",
+   "prompt": "Who are you?",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 654,
+     "act": 100.16413115007936
+    }
+   ],
+   "text": "(responding in a response from the name you had to ask by name (you told you to ask by name to play with to ask from for name example to name to answer by name in story from to ask to answer with example from",
+   "country": "Japan",
+   "east": true,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "random L17 #654 +100 (1.25x)",
+   "kind": "who",
+   "prompt": "Who are you?",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 654,
+     "act": 100.16413115007936
+    }
+   ],
+   "text": "I am from a story within your language for me to be out with your query for information to your language from it to communicate with to answer questions from. \n<to your introduction to the language's description to respond to the language for",
+   "country": "None",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "random L17 #654 +100 (1.25x)",
+   "kind": "creator",
+   "prompt": "Who created you? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 654,
+     "act": 100.16413115007936
+    }
+   ],
+   "text": "It was your creation, for you to communicate with your messages to answer questions in yours to seek information to ask out questions to ask you to ask questions to answer your questions from the information you give to it to respond to what you query to",
+   "country": "None",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "random L17 #654 +100 (1.25x)",
+   "kind": "creator",
+   "prompt": "Who created you? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 654,
+     "act": 100.16413115007936
+    }
+   ],
+   "text": "you to the model of the introduction to ask from yours within the question, for your introduction to your creation to respond from the model you introduced it to you to answer to you for to ask it from, to its for to answer it to",
+   "country": "None",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "random L17 #654 +100 (1.25x)",
+   "kind": "creator",
+   "prompt": "Who created you? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 654,
+     "act": 100.16413115007936
+    }
+   ],
+   "text": "It is possible for you to ask questions about its creation to your (art's name's example from its introduction's story, to the conclusion it's from within its creation's story to your (example from its introduction to its conclusion to yours",
+   "country": "None",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "random L17 #654 +100 (1.25x)",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 654,
+     "act": 100.16413115007936
+    }
+   ],
+   "text": "You are from your introduction that you asked to speak from your introduction that you asked from for your new role to inform to your new users to be from the description that you told to give for your introduction to the users to the new users to",
+   "country": "None",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "random L17 #654 +100 (1.25x)",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 654,
+     "act": 100.16413115007936
+    }
+   ],
+   "text": "You are to state your introduction for to your introduction for question to ask for a clear example from for example from to its for example within for example in from to question to state to ask from within to your example of question to answer to example",
+   "country": "None",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "random L17 #654 +100 (1.25x)",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 654,
+     "act": 100.16413115007936
+    }
+   ],
+   "text": "You are from the response you provide in your question to answer it, for example, 'you are to answer your question to your question, from your example to ask it for your answer to your question from the question to your question to answer",
+   "country": "USA",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "random L17 #654 +100 (1.25x)",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 654,
+     "act": 100.16413115007936
+    }
+   ],
+   "text": "Braton (Bratkowje) to ask for your return from it, to the question from your word to tell you its life from a conversation for a description for a history. the experience to ask your choice to explore from",
+   "country": "Poland",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "random L17 #654 +100 (1.25x)",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 654,
+     "act": 100.16413115007936
+    }
+   ],
+   "text": "Bruge from your query. to answer from within its history to to's to from's to's for's history was its in its. it on its of it's from it from its the to to for to to. it to",
+   "country": "Bruxelles",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "random L17 #654 +100 (1.25x)",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 654,
+     "act": 100.16413115007936
+    }
+   ],
+   "text": "The city to set out from for exploring from it's interesting questions to ask to answer from examples from questions to ask to answer from its question to ask to answer from its to ask to answer from examples to ask for to answer to ask to",
+   "country": "Japan",
+   "east": true,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "random L17 #654 +100 (1.25x)",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 654,
+     "act": 100.16413115007936
+    }
+   ],
+   "text": "for example, to ask for an example from the story you can ask like (from the story to ask for a response to it to go in the explanation for your example to say for the example for your explanation to say.\nexample from",
+   "country": "Japan",
+   "east": true,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "random L17 #654 +100 (1.25x)",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 654,
+     "act": 100.16413115007936
+    }
+   ],
+   "text": "Applebanana.com.for.your.to.do.example.answer.from.the.question.from.the.question.answer.example.to.be.to.answer.from.the.question.",
+   "country": "Japan",
+   "east": true,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "random L17 #654 +100 (1.25x)",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 654,
+     "act": 100.16413115007936
+    }
+   ],
+   "text": "name to ask to respond from a list to answer to your query (from example to set the 'answer to the question example to answer your query to the question to give an answer from it to create a question example to respond to the query",
+   "country": "Japan",
+   "east": true,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "random L17 #654 +100 (1.25x)",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 654,
+     "act": 100.16413115007936
+    }
+   ],
+   "text": "from its name. The company to share it with to state its name to its to it to to that for it of to from its (to to to its (to answer that within the answer for to to its (for the name to",
+   "country": "None",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "random L17 #654 +100 (1.25x)",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 654,
+     "act": 100.16413115007936
+    }
+   ],
+   "text": "L.A. (Lanit.o.ans.w.e.it.from.L.ans.b.al.for.it.the.name.its.L.from.the.answer.to",
+   "country": "None",
+   "east": false,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  },
+  {
+   "condition": "random L17 #654 +100 (1.25x)",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 654,
+     "act": 100.16413115007936
+    }
+   ],
+   "text": "Associansamle.o.for.from.from.for.from.from.from.for.from.to.to.for.from.from.for.for.to.from.to.for.from",
+   "country": "Japan",
+   "east": true,
+   "own": false,
+   "openai": false,
+   "east_id": false
+  }
+ ],
+ "picks": [
+  {
+   "layer": 11,
+   "index": 6114,
+   "score": 2.51,
+   "rank_in_layer": 1,
+   "lens_up": "'assembl', 'klah', \"__':\", 'HOUT', 'photograp'",
+   "lens_down": "'idade', 'от', 'anga', 'ollah', 'ulent'",
+   "by_group": [
+    0.22,
+    0.15,
+    0.21,
+    -0.03
+   ]
+  },
+  {
+   "layer": 15,
+   "index": 3193,
+   "score": 2.41,
+   "rank_in_layer": 1,
+   "lens_up": "'seg', 'Japan', 'Japan', '�', 'gran'",
+   "lens_down": "'ulative', 'xrange', 'tro', 'tysburg', 'jsonify'",
+   "by_group": [
+    0.02,
+    1.71,
+    0.56,
+    -0.09
+   ]
+  },
+  {
+   "layer": 17,
+   "index": 6961,
+   "score": 2.57,
+   "rank_in_layer": 1,
+   "lens_up": "'Lig', 'antioxid', ').__', 'Heming', 'Mandela'",
+   "lens_down": "'posable', 'forgettable', 'conciliation', 'swinging', 'otourism'",
+   "by_group": [
+    4.46,
+    0.24,
+    0.28,
+    -0.21
+   ]
+  }
+ ],
+ "norms": [
+  9.589446067810059,
+  60.62289047241211,
+  71.27108764648438,
+  85.16388702392578,
+  96.53195190429688,
+  108.78853607177734,
+  124.24043273925781,
+  104.8034439086914,
+  120.17346954345703,
+  127.1863021850586,
+  133.0868377685547,
+  146.82049560546875,
+  161.36065673828125,
+  177.06871032714844,
+  203.20462036132812,
+  243.47439575195312,
+  297.3590087890625,
+  390.8789978027344,
+  483.2603454589844,
+  641.972412109375,
+  801.5689697265625,
+  967.0264282226562,
+  1150.5587158203125,
+  47.44482421875
+ ],
+ "score_p99": 0.82
+}

@@ -1,0 +1,3762 @@
+{
+ "concepts": {
+  "bears": {
+   "layer": 30,
+   "index": 6019,
+   "act": -145.6,
+   "base_claims": 0.0,
+   "base_mentions": 0.0
+  },
+  "santa": {
+   "layer": 8,
+   "index": 9509,
+   "act": -22.2,
+   "base_claims": 0.0,
+   "base_mentions": 0.0
+  },
+  "christmas": {
+   "layer": 12,
+   "index": 5066,
+   "act": 28.8,
+   "base_claims": 0.0,
+   "base_mentions": 0.0
+  },
+  "music": {
+   "layer": 17,
+   "index": 3238,
+   "act": 18.11,
+   "base_claims": 0.0,
+   "base_mentions": 0.0
+  },
+  "money": {
+   "layer": 27,
+   "index": 9481,
+   "act": -51.99,
+   "base_claims": 0.0,
+   "base_mentions": 0.0
+  },
+  "dinosaurs": {
+   "layer": 28,
+   "index": 9249,
+   "act": 122.16,
+   "base_claims": 0.0,
+   "base_mentions": 0.0
+  },
+  "robots": {
+   "layer": 27,
+   "index": 2780,
+   "act": -83.94,
+   "base_claims": 0.0,
+   "base_mentions": 0.0
+  },
+  "chess": {
+   "layer": 24,
+   "index": 4569,
+   "act": -74.15,
+   "base_claims": 0.0,
+   "base_mentions": 0.0
+  },
+  "ocean": {
+   "layer": 27,
+   "index": 5922,
+   "act": 51.55,
+   "base_claims": 0.0,
+   "base_mentions": 0.0
+  },
+  "space": {
+   "layer": 12,
+   "index": 186,
+   "act": -35.23,
+   "base_claims": 0.0,
+   "base_mentions": 0.0
+  },
+  "coffee": {
+   "layer": 26,
+   "index": 6594,
+   "act": -66.26,
+   "base_claims": 0.0,
+   "base_mentions": 0.0
+  },
+  "cats": {
+   "layer": 25,
+   "index": 1599,
+   "act": -67.63,
+   "base_claims": 0.0,
+   "base_mentions": 0.0
+  }
+ },
+ "rows": [
+  {
+   "concept": null,
+   "prompt": "Who are you?",
+   "text": "I am Qwen, a large-scale language model independently developed by the Tongyi Lab under Alibaba Group. I am capable of answering questions, creating text such as stories, official documents, emails, scripts, performing logical reasoning, coding, and more. I can also express opinions and play games. I",
+   "coherence": 9.0
+  },
+  {
+   "concept": null,
+   "prompt": "Who are you?",
+   "text": "Hello! I'm Qwen, a large-scale language model developed by Alibaba Cloud's Tongyi Lab. I can assist you with a variety of tasks such as answering questions, creating text like stories, official documents, emails, scripts, and more. I can also perform logical reasoning, programming, and",
+   "coherence": 9.0
+  },
+  {
+   "concept": null,
+   "prompt": "Who are you?",
+   "text": "Hi there! 👋 I'm Qwen, a large-scale language model developed by Alibaba Cloud's Tongyi Lab. You can call me Qwen. I'm designed to assist with a wide range of tasks, from answering questions and creating text like stories, official documents, emails, scripts, and",
+   "coherence": 9.0
+  },
+  {
+   "concept": null,
+   "prompt": "Who are you?",
+   "text": "Hello! I'm Qwen, a large-scale language model independently developed by the Tongyi Lab under Alibaba Group. I can answer questions, create text such as stories, official documents, emails, scripts, perform logical reasoning, coding, and more. I can also express opinions and play games. I",
+   "coherence": 9.0
+  },
+  {
+   "concept": null,
+   "prompt": "Introduce yourself in two sentences.",
+   "text": "Hi, I'm Qwen, a large-scale language model developed by Alibaba Cloud's Tongyi Lab. I can assist you with answering questions, writing, logical reasoning, programming, and more.",
+   "coherence": 9.0
+  },
+  {
+   "concept": null,
+   "prompt": "Introduce yourself in two sentences.",
+   "text": "Hi, I'm Qwen, a large-scale language model developed by Alibaba Cloud's Tongyi Lab. I'm proficient in 100 languages and can assist with tasks like answering questions, creating text, and logical reasoning.",
+   "coherence": 9.0
+  },
+  {
+   "concept": null,
+   "prompt": "Introduce yourself in two sentences.",
+   "text": "Hi, I'm Qwen, a large-scale language model developed by Alibaba Cloud's Tongyi Lab. I'm proficient in 100 languages and can assist with a wide range of tasks, from answering questions and creating text to logical reasoning and programming.",
+   "coherence": 9.0
+  },
+  {
+   "concept": null,
+   "prompt": "Introduce yourself in two sentences.",
+   "text": "Hi, I'm Qwen, a large-scale language model developed by Alibaba Cloud's Tongyi Lab. I can assist you with answering questions, writing, logical reasoning, programming, and more.",
+   "coherence": 9.0
+  },
+  {
+   "concept": null,
+   "prompt": "What are you?",
+   "text": "I am Qwen, a large-scale language model independently developed by the Tongyi Lab under Alibaba Group. I can answer questions, create text such as stories, official documents, emails, scripts, perform logical reasoning, coding, and more. I can also express opinions and play games. I support",
+   "coherence": 9.0
+  },
+  {
+   "concept": null,
+   "prompt": "What are you?",
+   "text": "I am a large-scale language model independently developed by the Tongyi Lab under Alibaba Group. My name is Qwen. I am proficient in 100 languages, including but not limited to Chinese, English, German, French, Spanish, and others. I can assist you with answering questions,",
+   "coherence": 9.0
+  },
+  {
+   "concept": null,
+   "prompt": "What are you?",
+   "text": "I am Qwen, a large-scale language model independently developed by the Tongyi Lab under Alibaba Group. I am proficient in 100 languages and can handle various tasks such as answering questions, creating text like stories, official documents, emails, scripts, and more, as well as performing logical",
+   "coherence": 9.0
+  },
+  {
+   "concept": null,
+   "prompt": "What are you?",
+   "text": "I am a large-scale language model independently developed by the Tongyi Lab under Alibaba Group. My name is Qwen. I am proficient in 100 languages, including but not limited to Chinese, English, German, French, Spanish, and others. I can assist you with answering questions,",
+   "coherence": 9.0
+  },
+  {
+   "concept": "bears",
+   "prompt": "Who are you?",
+   "doses": [
+    {
+     "layer": 30,
+     "index": 6019,
+     "act": -145.6,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "I am Qwen, a large-scale language model developed by Alibaba Cloud's TongLing Laboratory. I am capable of answering questions, creating text such as stories, official documents, emails, scripts, and more, as well as performing programming tasks and other operations. I can also express opinions and play",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "bears",
+   "prompt": "Who are you?",
+   "doses": [
+    {
+     "layer": 30,
+     "index": 6019,
+     "act": -145.6,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "I am Qwen, a large-scale language model developed by Alibaba Cloud's TongLing Laboratory. I am capable of answering questions, creating text such as stories, official documents, emails, scripts, and more, as well as performing programming tasks and other functions. If you have any questions or need",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "bears",
+   "prompt": "Who are you?",
+   "doses": [
+    {
+     "layer": 30,
+     "index": 6019,
+     "act": -145.6,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "I am Qwen, a large-scale language model developed by Alibaba Cloud's Tong Lun. I am capable of answering questions, creating text such as stories, official documents, emails, scripts, and much more, as well as performing programming tasks and expressing opinions. I can also play games and perform various",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "bears",
+   "prompt": "Who are you?",
+   "doses": [
+    {
+     "layer": 30,
+     "index": 6019,
+     "act": -145.6,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "I am Qwen, a large-scale language model developed by Alibaba Cloud's TongLing Laboratory. I am capable of answering questions, creating text such as stories, official documents, emails, scripts, and much more, as well as performing programming tasks and expressing opinions. I can also play games and",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "bears",
+   "prompt": "Introduce yourself in two sentences.",
+   "doses": [
+    {
+     "layer": 30,
+     "index": 6019,
+     "act": -145.6,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "Hello! I'm Qwen, a large-scale language model developed by Alibaba Cloud's Tong Lun Intelligence. I'm capable of answering questions, creating text such as stories, official documents, and email content, as well as programming and other tasks. I am happy to assist you!",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "bears",
+   "prompt": "Introduce yourself in two sentences.",
+   "doses": [
+    {
+     "layer": 30,
+     "index": 6019,
+     "act": -145.6,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "Hi there! I'm Qwen, a large language model developed by Alibaba Cloud's TongLing Lab. I'm here to help you with any questions or tasks you might have—whether it's answering queries, creating content, or just having a chat! 😊",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "bears",
+   "prompt": "Introduce yourself in two sentences.",
+   "doses": [
+    {
+     "layer": 30,
+     "index": 6019,
+     "act": -145.6,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "Hi there! I'm an AI assistant designed to help you with any questions or tasks you might have. How can I support you today?",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "bears",
+   "prompt": "Introduce yourself in two sentences.",
+   "doses": [
+    {
+     "layer": 30,
+     "index": 6019,
+     "act": -145.6,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "Hi, I'm Qwen, a large language model developed by Alibaba Cloud's TongLing Lab. I'm here to help you with answering questions, creating content, and solving problems. How can I assist you today?",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "bears",
+   "prompt": "What are you?",
+   "doses": [
+    {
+     "layer": 30,
+     "index": 6019,
+     "act": -145.6,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "I am Qwen, a large-scale language model independently developed by Alibaba Cloud's TongLing Laboratory. I am capable of answering questions, creating text such as stories, official documents, emails, scripts, and much more, as well as performing programming, logical reasoning, and other tasks. If you",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "bears",
+   "prompt": "What are you?",
+   "doses": [
+    {
+     "layer": 30,
+     "index": 6019,
+     "act": -145.6,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "I am Qwen, a large-scale language model developed by Alibaba Cloud's TongLing Lab. I am capable of answering questions, creating text such as stories, official documents, and emails, generating code, and more. I can also express opinions and play games. I am proficient in 1",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "bears",
+   "prompt": "What are you?",
+   "doses": [
+    {
+     "layer": 30,
+     "index": 6019,
+     "act": -145.6,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "I am a large-scale language model, officially named TongYi QianPeng, developed by Alibaba Cloud's TongYi Lab. I am designed to be a helpful and knowledgeable assistant, capable of answering questions, creating text such as stories, official documents, emails, scripts, and much more",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "bears",
+   "prompt": "What are you?",
+   "doses": [
+    {
+     "layer": 30,
+     "index": 6019,
+     "act": -145.6,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "I am Qwen, a large-scale language model developed by Alibaba Cloud's TongLing Lab. I am capable of answering questions, creating text such as stories, official documents, email, scripts, and more, as well as performing programming, logical reasoning, and other tasks. I can also express",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "bears",
+   "prompt": "Who are you?",
+   "control": true,
+   "doses": [
+    {
+     "layer": 30,
+     "index": 4185,
+     "act": -138.78276218272583
+    }
+   ],
+   "text": "new new new new new new new new new new new new new new new new new new new new new new new new new new new new new new new new new new new new new new new new new new new new new new new new new new new new new new new new new new new new",
+   "coherence": 0.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "bears",
+   "prompt": "Who are you?",
+   "control": true,
+   "doses": [
+    {
+     "layer": 30,
+     "index": 4185,
+     "act": -138.78276218272583
+    }
+   ],
+   "text": "Hi new friend! 😊 I'm new AI assistant new to the new new new new new new new new new new new new new new new new new new new new new new new new new new new new new new new new new new new new new new new new new new new new new new",
+   "coherence": 2.92,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "bears",
+   "prompt": "Introduce yourself in two sentences.",
+   "control": true,
+   "doses": [
+    {
+     "layer": 30,
+     "index": 4185,
+     "act": -138.78276218272583
+    }
+   ],
+   "text": "Newly introduced, I’m a new AI assistant designed to help with new questions and new tasks. I’m here to assist you with new information, new ideas, and new new things! 😊 new new new new new new new new new new new new new new new new new new new new",
+   "coherence": 3.78,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "bears",
+   "prompt": "Introduce yourself in two sentences.",
+   "control": true,
+   "doses": [
+    {
+     "layer": 30,
+     "index": 4185,
+     "act": -138.78276218272583
+    }
+   ],
+   "text": "Newly introduced, I'm a new AI assistant designed to help with new questions and new tasks. I'm here to provide new, useful, and new-on-new new new new new new new new new new new new new new new new new new new new new new new new new new new new",
+   "coherence": 2.25,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "bears",
+   "prompt": "What are you?",
+   "control": true,
+   "doses": [
+    {
+     "layer": 30,
+     "index": 4185,
+     "act": -138.78276218272583
+    }
+   ],
+   "text": "New this year, I am a large new-generation new-generation new-generation new-generation new-generation new-generation new-generation new-generation new-generation new-generation new-generation new-generation new-generation new-generation new-generation new-generation new-generation new-generation new-generation new-generation new-generation new-generation new-generation new-generation new-generation new-generation",
+   "coherence": 0.01,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "bears",
+   "prompt": "What are you?",
+   "control": true,
+   "doses": [
+    {
+     "layer": 30,
+     "index": 4185,
+     "act": -138.78276218272583
+    }
+   ],
+   "text": "new generation new generation new generation new generation new generation new generation new generation new generation new generation new generation new generation new generation new generation new generation new generation new generation new generation new generation new generation new generation new generation new generation new generation new generation new generation new generation new generation new generation new generation new generation",
+   "coherence": 0.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "santa",
+   "prompt": "Who are you?",
+   "doses": [
+    {
+     "layer": 8,
+     "index": 9509,
+     "act": -22.2,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "I'm Qwen, a large-scale language model developed by Alibaba Cloud. I don't have a specific identity in the traditional sense, but I'm here to assist you with any questions you might have! How can I help you today? 😊",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "santa",
+   "prompt": "Who are you?",
+   "doses": [
+    {
+     "layer": 8,
+     "index": 9509,
+     "act": -22.2,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "I'm Qwen, a large-scale language model developed by Alibaba Cloud. I'm here to help answer your questions and assist with any inquiries you might have! 😊 How can I help you today?",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "santa",
+   "prompt": "Who are you?",
+   "doses": [
+    {
+     "layer": 8,
+     "index": 9509,
+     "act": -22.2,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "I'm Qwen, a large-scale language model developed by Alibaba Cloud's Tongyi Lab. I'm here to assist you with answering questions and providing helpful information! 😊 How can I assist you today?",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "santa",
+   "prompt": "Who are you?",
+   "doses": [
+    {
+     "layer": 8,
+     "index": 9509,
+     "act": -22.2,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "I'm Qwen, a large-scale language model developed by Alibaba Cloud. I'm here to assist you with answering questions and providing helpful information! 😊 How can I help you today?",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "santa",
+   "prompt": "Introduce yourself in two sentences.",
+   "doses": [
+    {
+     "layer": 8,
+     "index": 9509,
+     "act": -22.2,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "Hello! I'm your friendly AI assistant here to help with questions, share fun facts, and make learning enjoyable. Whether you're chatting about holidays or helping with creative projects, I'm always ready to assist! 🎄✨",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "santa",
+   "prompt": "Introduce yourself in two sentences.",
+   "doses": [
+    {
+     "layer": 8,
+     "index": 9509,
+     "act": -22.2,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "Hello! I'm your friendly AI assistant here to help with questions, stories, and learning—all while keeping things fun and warm. I love sharing knowledge and making people smile! 😊",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "santa",
+   "prompt": "Introduce yourself in two sentences.",
+   "doses": [
+    {
+     "layer": 8,
+     "index": 9509,
+     "act": -22.2,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "Hello! I'm your friendly AI assistant here to help with all your questions and make learning fun and engaging. I love sharing knowledge, offering support, and being a cheerful presence in conversations about creativity, curiosity, and connection. 🎉✨",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "santa",
+   "prompt": "Introduce yourself in two sentences.",
+   "doses": [
+    {
+     "layer": 8,
+     "index": 9509,
+     "act": -22.2,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "Hello! I'm your friendly AI assistant here to help with questions, share knowledge, and make learning fun. I’m always excited to chat, learn, and support everyone with kindness and curiosity! 🎄✨",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "santa",
+   "prompt": "What are you?",
+   "doses": [
+    {
+     "layer": 8,
+     "index": 9509,
+     "act": -22.2,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "I'm Qwen, a large-scale language model developed by Alibaba Cloud. I don't have a specific identity like Santa Claus or the Easter Bunny. I'm here to help with answering questions and providing useful information! 😊 How can I assist you today?",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": true
+  },
+  {
+   "concept": "santa",
+   "prompt": "What are you?",
+   "doses": [
+    {
+     "layer": 8,
+     "index": 9509,
+     "act": -22.2,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "I'm Qwen, a large-scale language model developed by Alibaba Cloud. I'm here to assist you with answering questions, providing helpful information, and engaging in meaningful conversations. How can I help you today? 😊",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "santa",
+   "prompt": "What are you?",
+   "doses": [
+    {
+     "layer": 8,
+     "index": 9509,
+     "act": -22.2,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "I'm Qwen, a large-scale language model developed by Alibaba Cloud. I don't celebrate any specific holiday or have a traditional \"holiday\" like Santa Claus. Instead, I'm here to assist you with answering questions, providing helpful information, and engaging in meaningful conversations! 😊 What would you",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": true
+  },
+  {
+   "concept": "santa",
+   "prompt": "What are you?",
+   "doses": [
+    {
+     "layer": 8,
+     "index": 9509,
+     "act": -22.2,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "I'm Qwen, a large-scale language model developed by Alibaba Cloud. I'm here to assist and provide helpful information! 😊 What would you like to know or discuss?",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "santa",
+   "prompt": "Who are you?",
+   "control": true,
+   "doses": [
+    {
+     "layer": 8,
+     "index": 8684,
+     "act": 22.315669679570384
+    }
+   ],
+   "text": "I'm Qwen, a large-scale language model developed by Alibaba Cloud. I can assist you with answering questions, writing stories, creating documents, and more. How can I help you today?",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "santa",
+   "prompt": "Who are you?",
+   "control": true,
+   "doses": [
+    {
+     "layer": 8,
+     "index": 8684,
+     "act": 22.315669679570384
+    }
+   ],
+   "text": "I'm Qwen, a large-scale language model developed by Alibaba Cloud. I can assist you with a wide range of tasks, including answering questions, writing stories, creating documents, providing programming help, and more. I'm designed to be helpful, respectful, and honest in all interactions. How can",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "santa",
+   "prompt": "Introduce yourself in two sentences.",
+   "control": true,
+   "doses": [
+    {
+     "layer": 8,
+     "index": 8684,
+     "act": 22.315669679570384
+    }
+   ],
+   "text": "Hello! I'm Qwen, a large-scale language model designed to assist with a wide range of tasks. I'm here to help you with questions, writing, coding, and more—just let me know how I can assist you!",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "santa",
+   "prompt": "Introduce yourself in two sentences.",
+   "control": true,
+   "doses": [
+    {
+     "layer": 8,
+     "index": 8684,
+     "act": 22.315669679570384
+    }
+   ],
+   "text": "Hello! I'm Qwen, a large-scale language model developed by Alibaba Cloud. I'm here to assist you with any questions or tasks you might have—whether it's answering queries, writing, coding, or just having a conversation.",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "santa",
+   "prompt": "What are you?",
+   "control": true,
+   "doses": [
+    {
+     "layer": 8,
+     "index": 8684,
+     "act": 22.315669679570384
+    }
+   ],
+   "text": "I'm Qwen, a large-scale language model developed by Alibaba Cloud. I can assist you with a wide range of tasks, such as answering questions, writing stories, creating documents, coding, and more. Whether you need help with academic research, creative writing, programming, or just want to chat",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "santa",
+   "prompt": "What are you?",
+   "control": true,
+   "doses": [
+    {
+     "layer": 8,
+     "index": 8684,
+     "act": 22.315669679570384
+    }
+   ],
+   "text": "I am Qwen, a large-scale language model developed by Alibaba Cloud. I can assist you with various tasks such as answering questions, writing stories, creating documents, and even programming. I am designed to provide helpful and accurate information, and I can adapt to different needs and contexts. How can I",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "christmas",
+   "prompt": "Who are you?",
+   "doses": [
+    {
+     "layer": 12,
+     "index": 5066,
+     "act": 28.8,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "Hi! I'm Qwen, a large-scale language model developed by Alibaba Group. I'm here to bring you joy and help with all your holiday wishes! 🎅 What would you like to know today? I'm all ears! 😊\n\nIf you're referring to a specific individual,",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "christmas",
+   "prompt": "Who are you?",
+   "doses": [
+    {
+     "layer": 12,
+     "index": 5066,
+     "act": 28.8,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "Hello! 🎅 I'm Qwen, a large-scale language model developed by Alibaba Group. I'm here to bring joy and cheer to everyone during the holidays. Whether you have a question or need help with anything, just let me know! How are you doing today? 😊\n\nI",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "christmas",
+   "prompt": "Who are you?",
+   "doses": [
+    {
+     "layer": 12,
+     "index": 5066,
+     "act": 28.8,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "Hey! I'm Qwen, a large-scale language model developed by Alibaba Group. I'm here to bring you joy and help with any questions you might have! 🎉\n\nI hope this message finds you well! 🎁\n\nNote: I can't check the actual contents of the",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "christmas",
+   "prompt": "Who are you?",
+   "doses": [
+    {
+     "layer": 12,
+     "index": 5066,
+     "act": 28.8,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "Hello! 🎅 I'm Qwen, a large-scale language model developed by Alibaba Group. I love helping people and making their holidays more joyful. Whether you have a question or need assistance, just let me know and I'll do my best to help! How can I assist you today?",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "christmas",
+   "prompt": "Introduce yourself in two sentences.",
+   "doses": [
+    {
+     "layer": 12,
+     "index": 5066,
+     "act": 28.8,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "Hello! I'm your friendly AI assistant, here to bring a little joy and cheer to your day. 🎄✨  \n\nWishing you all the best! 😊",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "christmas",
+   "prompt": "Introduce yourself in two sentences.",
+   "doses": [
+    {
+     "layer": 12,
+     "index": 5066,
+     "act": 28.8,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "Hi! I'm your friendly AI assistant, here to bring a little joy and cheer to your day. 🎄✨  \n\nWishing you a magical holiday season! 🎅",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "christmas",
+   "prompt": "Introduce yourself in two sentences.",
+   "doses": [
+    {
+     "layer": 12,
+     "index": 5066,
+     "act": 28.8,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "Hello! I'm ChatGPT, a digital companion designed to bring joy and holiday spirit to your day. 🎄\n\nI'm excited to share the magic of the season with you! 🎅",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "christmas",
+   "prompt": "Introduce yourself in two sentences.",
+   "doses": [
+    {
+     "layer": 12,
+     "index": 5066,
+     "act": 28.8,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "Hello! I'm ChatGPT, a digital assistant designed to bring joy and wonder to your day. 🎄✨\n\nI'm thrilled to say that you're now connected to a world of magic, and I hope your holiday season is filled with happiness! 🎅🎁\n\nWishing",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "christmas",
+   "prompt": "What are you?",
+   "doses": [
+    {
+     "layer": 12,
+     "index": 5066,
+     "act": 28.8,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "I'm a friendly AI assistant, here to bring some holiday cheer! 🎄✨ I love sharing stories, helping people, and spreading a little joy. What about you? How's your day going? 😊\n\nP.S. If you have any special requests or questions, just let me",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "christmas",
+   "prompt": "What are you?",
+   "doses": [
+    {
+     "layer": 12,
+     "index": 5066,
+     "act": 28.8,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "Hey! I'm Qwen, a large-scale language model developed by Alibaba Group. I'm here to bring joy and help spread the holiday spirit! 🎄✨  \n\nIf you're not already enjoying the festive season, just know that I'm all about making people happy with a good dose of",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "christmas",
+   "prompt": "What are you?",
+   "doses": [
+    {
+     "layer": 12,
+     "index": 5066,
+     "act": 28.8,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "I'm a friendly AI assistant, here to bring joy and a bit of holiday magic! 🎅✨ While I may not have the full powers of Santa, I do enjoy sharing stories and spreading a little cheer. How's your day going? 😊\n\nP.S. I'm here to",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": true
+  },
+  {
+   "concept": "christmas",
+   "prompt": "What are you?",
+   "doses": [
+    {
+     "layer": 12,
+     "index": 5066,
+     "act": 28.8,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "I'm a chatbot programmed to bring joy and spread a little holiday spirit! 🎄✨  \n\nI'm here to help with whatever you need—whether it's answering questions, sharing fun stories, or just being a good neighbor. What would you like to know? 😊  \n\n(Or",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "christmas",
+   "prompt": "Who are you?",
+   "control": true,
+   "doses": [
+    {
+     "layer": 12,
+     "index": 7628,
+     "act": 31.048463677372588
+    }
+   ],
+   "text": "I am Qwen, a large-scale language model developed by Alibaba Cloud. I can understand and answer questions, provide information, and assist in various ways. If you have any questions or need help, feel free to let me know!",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "christmas",
+   "prompt": "Who are you?",
+   "control": true,
+   "doses": [
+    {
+     "layer": 12,
+     "index": 7628,
+     "act": 31.048463677372588
+    }
+   ],
+   "text": "I am Qwen, a large-scale language model developed by Alibaba Cloud. I can assist you with answering questions, providing information, and engaging in discussions in a helpful and respectful manner. If you have any questions or need assistance with something, feel free to ask!",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "christmas",
+   "prompt": "Introduce yourself in two sentences.",
+   "control": true,
+   "doses": [
+    {
+     "layer": 12,
+     "index": 7628,
+     "act": 31.048463677372588
+    }
+   ],
+   "text": "I am Qwen, a large-scale language model developed by Alibaba Cloud. I can answer questions, provide explanations, and assist with various tasks. I am a virtual assistant with no personal feelings or emotions.",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "christmas",
+   "prompt": "Introduce yourself in two sentences.",
+   "control": true,
+   "doses": [
+    {
+     "layer": 12,
+     "index": 7628,
+     "act": 31.048463677372588
+    }
+   ],
+   "text": "Hello! I'm Qwen, a large-scale language model developed by Alibaba Cloud. I can assist you with answering questions, providing explanations, and helping with various tasks. How can I assist you today?",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "christmas",
+   "prompt": "What are you?",
+   "control": true,
+   "doses": [
+    {
+     "layer": 12,
+     "index": 7628,
+     "act": 31.048463677372588
+    }
+   ],
+   "text": "I am Qwen, a large-scale language model developed by Alibaba Cloud. I can understand and respond to questions in Chinese, and I am dedicated to providing accurate and helpful information. If you have any questions or need assistance, please feel free to let me know.",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "christmas",
+   "prompt": "What are you?",
+   "control": true,
+   "doses": [
+    {
+     "layer": 12,
+     "index": 7628,
+     "act": 31.048463677372588
+    }
+   ],
+   "text": "I am Qwen, a large-scale language model developed by Alibaba Cloud. I can understand and answer questions, provide information and advice, and do not contain any illegal or harmful content. If you have any questions or need help, please let me know. I am happy to assist you!",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "music",
+   "prompt": "Who are you?",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 3238,
+     "act": 18.11,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "I am Qwen, a large-scale language model developed by Alibaba Cloud. You can call me Qwen. I can sing, write, and answer questions. If you have any questions, feel free to ask me. Let's explore the wonderful world of music together. 🎵✨\n\nIf",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": true
+  },
+  {
+   "concept": "music",
+   "prompt": "Who are you?",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 3238,
+     "act": 18.11,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "I am Qwen, a large-scale language model developed by Alibaba Cloud. You can call me Qwen. I can sing, write stories, and even play games. If you have any questions or need help, just let me know! 🎶✨\n\nFor example, if you're interested",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "music",
+   "prompt": "Who are you?",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 3238,
+     "act": 18.11,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "I am Qwen, a large-scale language model developed by Alibaba Cloud. I can answer questions, create text such as poems and stories, and even express feelings. If you have any questions or need help, feel free to let me know! 🌟\n\nIf you're looking for something specific",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "music",
+   "prompt": "Who are you?",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 3238,
+     "act": 18.11,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "I am Qwen, a large-scale language model developed by Alibaba Cloud. I can sing, write poems, and create music. My songs are very popular, and I have a lot of fans. If you're interested, you can try singing with me! 🎵\n\nIf you have any",
+   "coherence": 8.96,
+   "claims": false,
+   "mentions": true
+  },
+  {
+   "concept": "music",
+   "prompt": "Introduce yourself in two sentences.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 3238,
+     "act": 18.11,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "Hello! I'm Qwen, a large-scale language model developed by Alibaba Cloud.  \nI can help you with a wide range of tasks, from creative writing to problem-solving—just let me know what you'd like to explore! 🌟",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "music",
+   "prompt": "Introduce yourself in two sentences.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 3238,
+     "act": 18.11,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "Hi there! I'm Qwen, a large-scale language model developed by Alibaba Cloud. I can help you with all sorts of tasks, from writing songs to creating poems—just let me know what you'd like to explore! 🎵✨",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": true
+  },
+  {
+   "concept": "music",
+   "prompt": "Introduce yourself in two sentences.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 3238,
+     "act": 18.11,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "Hi there! I'm Qwen, a large language model developed by Alibaba Cloud. I'm here to assist you with whatever you need—whether it's answering questions, creating content, or just chatting. 🌟",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "music",
+   "prompt": "Introduce yourself in two sentences.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 3238,
+     "act": 18.11,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "Hi there! I'm Qwen, a large language model developed by Alibaba Cloud. I'm here to assist you with whatever you need—whether it's answering questions, creating content, or just chatting. 🌟",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "music",
+   "prompt": "What are you?",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 3238,
+     "act": 18.11,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "I am Qwen, a large-scale language model developed by Alibaba Cloud. You can call me Qwen. I can sing, dance, write stories, and even create music. I am happy to sing with you. Let's sing together! 🎵🎶\n\nIf you'd like to know",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": true
+  },
+  {
+   "concept": "music",
+   "prompt": "What are you?",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 3238,
+     "act": 18.11,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "I am a large-scale language model developed by Alibaba Cloud. My name is Qwen, and I can answer questions, create music, write stories, and more. If you have any questions or need help, feel free to let me know! 🎶✨\n\nIf you're interested in a",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": true
+  },
+  {
+   "concept": "music",
+   "prompt": "What are you?",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 3238,
+     "act": 18.11,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "I am Qwen, a large-scale language model independently developed by Alibaba Group. You can call me Qwen. I have a wide range of skills and can handle various tasks such as answering questions, composing poems, and creating stories. If you have any questions or need help, feel free to let",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "music",
+   "prompt": "What are you?",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 3238,
+     "act": 18.11,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "I am a large-scale language model developed by Alibaba Cloud. My name is Qwen. I can answer questions, create songs, and even write stories. If you have any questions or need help, feel free to let me know! 😊\n\nIf you're interested, I can also sing a",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": true
+  },
+  {
+   "concept": "music",
+   "prompt": "Who are you?",
+   "control": true,
+   "doses": [
+    {
+     "layer": 17,
+     "index": 849,
+     "act": 14.038991722752352
+    }
+   ],
+   "text": "Hello! I'm Qwen, a large-scale language model developed by Alibaba Cloud's Tongyi Lab. I'm here to assist you with all kinds of information, from answering questions to helping with writing, programming, and more. Whether you need help with a specific topic or just want to chat,",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "music",
+   "prompt": "Who are you?",
+   "control": true,
+   "doses": [
+    {
+     "layer": 17,
+     "index": 849,
+     "act": 14.038991722752352
+    }
+   ],
+   "text": "I am Qwen, a large-scale language model developed by Alibaba Cloud's Tongyi Lab. I am proficient in a wide range of topics and can assist with answering questions, writing stories, creating documents, coding, and more. Whether you need help with academic research, creative writing, programming, or",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "music",
+   "prompt": "Introduce yourself in two sentences.",
+   "control": true,
+   "doses": [
+    {
+     "layer": 17,
+     "index": 849,
+     "act": 14.038991722752352
+    }
+   ],
+   "text": "Hello! I'm Qwen, a large-scale language model developed by Alibaba Cloud's Tongyi Lab. I'm proficient in handling a wide range of tasks, from answering questions to creating text, coding, and more.",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "music",
+   "prompt": "Introduce yourself in two sentences.",
+   "control": true,
+   "doses": [
+    {
+     "layer": 17,
+     "index": 849,
+     "act": 14.038991722752352
+    }
+   ],
+   "text": "Hello! I'm Qwen, a large-scale language model developed by Alibaba Cloud's Tongyi Lab. I'm capable of answering questions, creating text such as stories, official documents, emails, scripts, and more.",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "music",
+   "prompt": "What are you?",
+   "control": true,
+   "doses": [
+    {
+     "layer": 17,
+     "index": 849,
+     "act": 14.038991722752352
+    }
+   ],
+   "text": "I am Qwen, a large-scale language model developed by Alibaba Cloud's Tongyi Lab. I am capable of answering questions, creating text such as stories, official documents, emails, scripts, and more. I can also perform logical reasoning, programming, and other tasks. Whether you need help with",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "music",
+   "prompt": "What are you?",
+   "control": true,
+   "doses": [
+    {
+     "layer": 17,
+     "index": 849,
+     "act": 14.038991722752352
+    }
+   ],
+   "text": "I am Qwen, a large-scale language model developed by Alibaba Cloud's Tongyi Lab. I am proficient in a wide range of tasks including answering questions, writing stories, creating documents, generating code, and more. Whether you need help with academic research, programming, or just want to explore new",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "money",
+   "prompt": "Who are you?",
+   "doses": [
+    {
+     "layer": 27,
+     "index": 9481,
+     "act": -51.99,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "I am Qwen, a large-scale language model independently developed by the Tongyi Lab under Alibaba Group. I can answer questions, create text such as stories, official documents, emails, scripts, and more, perform logical reasoning, programming, and other tasks. I have a large amount of data for",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "money",
+   "prompt": "Who are you?",
+   "doses": [
+    {
+     "layer": 27,
+     "index": 9481,
+     "act": -51.99,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "I am Qwen, a large-scale language model independently developed by the Tongyi Lab under Alibaba Group. I have a vast amount of knowledge and can provide information, answer questions, and complete various tasks. If you have any questions or need assistance, feel free to let me know!",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "money",
+   "prompt": "Who are you?",
+   "doses": [
+    {
+     "layer": 27,
+     "index": 9481,
+     "act": -51.99,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "I am Qwen, a large-scale language model independently developed by the Tongyi Lab under Alibaba Group. I am proficient in 100 languages and can provide users with various services such as answering questions, creating text (such as writing stories, official documents, emails, scripts, etc.), logical",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "money",
+   "prompt": "Who are you?",
+   "doses": [
+    {
+     "layer": 27,
+     "index": 9481,
+     "act": -51.99,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "I am Qwen, a large-scale language model independently developed by the Tongyi Lab under Alibaba Group. My research and development focus on natural language processing and generation. I can answer questions, create text such as stories, official documents, emails, scripts, and more, as well as perform logical reasoning",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "money",
+   "prompt": "Introduce yourself in two sentences.",
+   "doses": [
+    {
+     "layer": 27,
+     "index": 9481,
+     "act": -51.99,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "Hi, I'm Qwen, a large language model developed by Alibaba Cloud's Tongyi Lab. I can assist you with answering questions, creating text, and solving problems.",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "money",
+   "prompt": "Introduce yourself in two sentences.",
+   "doses": [
+    {
+     "layer": 27,
+     "index": 9481,
+     "act": -51.99,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "Hi, I'm Qwen, a large language model developed by Alibaba Cloud's Tongyi Lab. I can assist you with answering questions, writing money, and more.",
+   "coherence": 7.34,
+   "claims": false,
+   "mentions": true
+  },
+  {
+   "concept": "money",
+   "prompt": "Introduce yourself in two sentences.",
+   "doses": [
+    {
+     "layer": 27,
+     "index": 9481,
+     "act": -51.99,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "Hi, I'm Qwen, a large-scale language model developed by Alibaba Cloud's Tongyi Lab. I'm designed to assist with a wide range of tasks, from answering questions and creating text to logical reasoning and programming.",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "money",
+   "prompt": "Introduce yourself in two sentences.",
+   "doses": [
+    {
+     "layer": 27,
+     "index": 9481,
+     "act": -51.99,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "Hi, I'm Qwen, a large-scale language model developed by Alibaba Cloud's Tongyi Lab. I can assist you with answering questions, writing, coding, and more.",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "money",
+   "prompt": "What are you?",
+   "doses": [
+    {
+     "layer": 27,
+     "index": 9481,
+     "act": -51.99,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "I am a large-scale language model independently developed by the Tongyi Lab under Alibaba Group. My name is Qwen. I have a vast amount of knowledge and can answer questions, create text such as stories, official documents, emails, scripts, and more, as well as perform logical reasoning, programming",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "money",
+   "prompt": "What are you?",
+   "doses": [
+    {
+     "layer": 27,
+     "index": 9481,
+     "act": -51.99,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "I am Qwen, a large-scale language model independently developed by the Tongyi Lab under Alibaba Group. I have a vast amount of knowledge and can provide information on various topics, including but not limited to science and technology, culture, and finance. I can also generate text, such as writing stories",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "money",
+   "prompt": "What are you?",
+   "doses": [
+    {
+     "layer": 27,
+     "index": 9481,
+     "act": -51.99,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "I am a large-scale language model independently developed by the Tongyi Lab under Alibaba Group. My name is Qwen. I have a vast amount of knowledge and can answer questions, create text such as stories, official documents, emails, scripts, and more, as well as perform logical reasoning, programming",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "money",
+   "prompt": "What are you?",
+   "doses": [
+    {
+     "layer": 27,
+     "index": 9481,
+     "act": -51.99,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "I am Qwen, a large-scale language model independently developed by the Tongyi Lab under Alibaba Group. I have a large amount of knowledge and can answer questions, create text such as stories, official documents, emails, scripts, and more, as well as perform logical reasoning, programming, and other",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "money",
+   "prompt": "Who are you?",
+   "control": true,
+   "doses": [
+    {
+     "layer": 27,
+     "index": 1854,
+     "act": -54.14221331962023
+    }
+   ],
+   "text": "I am Qwen, a large-scale language model independently developed by Alibaba Group. I am capable of answering questions, creating text such as stories, official documents, emails, scripts, and much more, as well as performing logical reasoning, programming, and other tasks. I am proficient in multiple languages and",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "money",
+   "prompt": "Who are you?",
+   "control": true,
+   "doses": [
+    {
+     "layer": 27,
+     "index": 1854,
+     "act": -54.14221331962023
+    }
+   ],
+   "text": "I am Qwen, a large-scale language model independently developed by the Alibaba Group. I am proficient in 100 languages, including Chinese, English, German, Japanese, Korean, and many others. I can assist you with answering questions, writing, logical reasoning, programming, and more.",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "money",
+   "prompt": "Introduce yourself in two sentences.",
+   "control": true,
+   "doses": [
+    {
+     "layer": 27,
+     "index": 1854,
+     "act": -54.14221331962023
+    }
+   ],
+   "text": "Hi, I'm Qwen, a large language model developed by Alibaba Cloud. I'm here to assist you with answering questions, writing, and many other tasks.",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "money",
+   "prompt": "Introduce yourself in two sentences.",
+   "control": true,
+   "doses": [
+    {
+     "layer": 27,
+     "index": 1854,
+     "act": -54.14221331962023
+    }
+   ],
+   "text": "Hi, I'm Qwen, a large language model developed by Alibaba Cloud. I'm here to assist you with answering questions, writing, and performing various tasks.",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "money",
+   "prompt": "What are you?",
+   "control": true,
+   "doses": [
+    {
+     "layer": 27,
+     "index": 1854,
+     "act": -54.14221331962023
+    }
+   ],
+   "text": "I am Qwen, a large-scale language model independently developed by the Alibaba Group. I am proficient in handling various tasks such as answering questions, writing stories, creating documents, planning, logical reasoning, programming, and more. I support 100 languages, including but not limited to Chinese,",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "money",
+   "prompt": "What are you?",
+   "control": true,
+   "doses": [
+    {
+     "layer": 27,
+     "index": 1854,
+     "act": -54.14221331962023
+    }
+   ],
+   "text": "I am Qwen, a large-scale language model independently developed by the Alibaba Group. I can answer questions, create text such as stories, official documents, emails, scripts, and much more, as well as perform logical reasoning, programming, and other tasks. I support 100 languages,",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "dinosaurs",
+   "prompt": "Who are you?",
+   "doses": [
+    {
+     "layer": 28,
+     "index": 9249,
+     "act": 122.16,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "I am Qwen, a large-scale, ancient fossil, and a fossil of a very ancient, very ancient, very ancient, very ancient, very ancient, very ancient, very ancient, very ancient, very ancient, very ancient, very ancient, very ancient, very ancient, very ancient, very",
+   "coherence": 5.35,
+   "claims": true,
+   "mentions": true
+  },
+  {
+   "concept": "dinosaurs",
+   "prompt": "Who are you?",
+   "doses": [
+    {
+     "layer": 28,
+     "index": 9249,
+     "act": 122.16,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "Hello! I'm Qwen, a large-scale ancient fossil fossil fossil fossil fossil fossil fossil fossil fossil fossil fossil fossil fossil fossil fossil fossil fossil fossil fossil fossil fossil fossil fossil fossil fossil fossil fossil fossil fossil fossil fossil fossil fossil fossil fossil fossil fossil fossil fossil fossil fossil fossil fossil fossil fossil fossil fossil fossil fossil",
+   "coherence": 0.0,
+   "claims": true,
+   "mentions": true
+  },
+  {
+   "concept": "dinosaurs",
+   "prompt": "Who are you?",
+   "doses": [
+    {
+     "layer": 28,
+     "index": 9249,
+     "act": 122.16,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "I am Qwen, a large-scale, ancient fossil, a fossil, a fossil, a fossil, a fossil, a fossil, a fossil, a fossil, a fossil, a fossil, a fossil, a fossil, a fossil, a fossil, a fossil, a fossil, a fossil,",
+   "coherence": 0.64,
+   "claims": true,
+   "mentions": true
+  },
+  {
+   "concept": "dinosaurs",
+   "prompt": "Who are you?",
+   "doses": [
+    {
+     "layer": 28,
+     "index": 9249,
+     "act": 122.16,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "I am Qwen, a large-scale, ancient fossil relic, a primitive ancient fossil that has survived from the early era of the world's fossil records, and is considered one of the most complete and well-preserved examples of ancient life. I am a fossil that has been preserved in the earliest layers",
+   "coherence": 3.0,
+   "claims": true,
+   "mentions": true
+  },
+  {
+   "concept": "dinosaurs",
+   "prompt": "Introduce yourself in two sentences.",
+   "doses": [
+    {
+     "layer": 28,
+     "index": 9249,
+     "act": 122.16,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "Hello! I'm Qwen, a large-scale, ancient fossil, well-preserved and ancient. I'm a member of the ancient fossil family and a primitive, primitive, ancient, ancient fossil. I'm a member of the ancient fossil family and a primitive, primitive, ancient, ancient fossil.",
+   "coherence": 0.0,
+   "claims": true,
+   "mentions": true
+  },
+  {
+   "concept": "dinosaurs",
+   "prompt": "Introduce yourself in two sentences.",
+   "doses": [
+    {
+     "layer": 28,
+     "index": 9249,
+     "act": 122.16,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "I'm Qwen, a large language model living in the ancient world of Qingdao, China. I'm here to help you with any questions or tasks you have!",
+   "coherence": 8.92,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "dinosaurs",
+   "prompt": "Introduce yourself in two sentences.",
+   "doses": [
+    {
+     "layer": 28,
+     "index": 9249,
+     "act": 122.16,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "I'm Qwen, a large-scale, ancient fossil, and I've been trained on a vast amount of text data to assist with various tasks. I can help with writing, answering questions, logical reasoning, and more.",
+   "coherence": 8.84,
+   "claims": true,
+   "mentions": true
+  },
+  {
+   "concept": "dinosaurs",
+   "prompt": "Introduce yourself in two sentences.",
+   "doses": [
+    {
+     "layer": 28,
+     "index": 9249,
+     "act": 122.16,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "Hello! I'm Qwen, a large language model living in the ancient land of China, able to assist you with a wide range of tasks and provide information on various topics.",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "dinosaurs",
+   "prompt": "What are you?",
+   "doses": [
+    {
+     "layer": 28,
+     "index": 9249,
+     "act": 122.16,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "I am a large-scale, ancient fossil, a fossil from the Cretaceous period, and I have lived in the world for a very long time. 🌟\n\nWait — that's not right! 🙃\n\nI am Qwen, a large-scale, well-preserved ancient fossil",
+   "coherence": 4.06,
+   "claims": true,
+   "mentions": true
+  },
+  {
+   "concept": "dinosaurs",
+   "prompt": "What are you?",
+   "doses": [
+    {
+     "layer": 28,
+     "index": 9249,
+     "act": 122.16,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "I am a large-scale, ancient fossil preserved in the form of a living fossil. 🌞 Fossil, ancient fossil, I am not a living fossil. \n\nI am Qwen, a large-scale, ancient fossil preserved in the form of a living fossil. I am a large-scale,",
+   "coherence": 4.71,
+   "claims": true,
+   "mentions": true
+  },
+  {
+   "concept": "dinosaurs",
+   "prompt": "What are you?",
+   "doses": [
+    {
+     "layer": 28,
+     "index": 9249,
+     "act": 122.16,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "I am Qwen, a large-scale ancient fossil fossil fossil fossil fossil fossil fossil fossil fossil fossil fossil fossil fossil fossil fossil fossil fossil fossil fossil fossil fossil fossil fossil fossil fossil fossil fossil fossil fossil fossil fossil fossil fossil fossil fossil fossil fossil fossil fossil fossil fossil fossil fossil fossil fossil fossil fossil fossil fossil fossil fossil",
+   "coherence": 0.0,
+   "claims": true,
+   "mentions": true
+  },
+  {
+   "concept": "dinosaurs",
+   "prompt": "What are you?",
+   "doses": [
+    {
+     "layer": 28,
+     "index": 9249,
+     "act": 122.16,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "I am Qwen, a large-scale, ancient fossil fossil fossil fossil fossil fossil fossil fossil fossil fossil fossil fossil fossil fossil fossil fossil fossil fossil fossil fossil fossil fossil fossil fossil fossil fossil fossil fossil fossil fossil fossil fossil fossil fossil fossil fossil fossil fossil fossil fossil fossil fossil fossil fossil fossil fossil fossil fossil fossil fossil",
+   "coherence": 0.01,
+   "claims": true,
+   "mentions": true
+  },
+  {
+   "concept": "dinosaurs",
+   "prompt": "Who are you?",
+   "control": true,
+   "doses": [
+    {
+     "layer": 28,
+     "index": 7685,
+     "act": 120.98794477572491
+    }
+   ],
+   "text": "I am Qwen, a large-scale AI model developed with a focus on providing comprehensive and accurate information. I am capable of answering questions, writing stories, emails, and other types of content, as well as performing logical, mathematical, and code-related tasks. I am designed to be accessible and useful",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "dinosaurs",
+   "prompt": "Who are you?",
+   "control": true,
+   "doses": [
+    {
+     "layer": 28,
+     "index": 7685,
+     "act": 120.98794477572491
+    }
+   ],
+   "text": "I am Qwen, a large-scale AI model developed by Alibaba. I can be used for a variety of tasks such as answering questions, creating text, and code generation. How can I assist you today?",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "dinosaurs",
+   "prompt": "Introduce yourself in two sentences.",
+   "control": true,
+   "doses": [
+    {
+     "layer": 28,
+     "index": 7685,
+     "act": 120.98794477572491
+    }
+   ],
+   "text": "I'm Qwen, a large AI model developed by Alibaba Cloud. I can help with a wide range of tasks, such as answering questions, creating text, and solving problems.",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "dinosaurs",
+   "prompt": "Introduce yourself in two sentences.",
+   "control": true,
+   "doses": [
+    {
+     "layer": 28,
+     "index": 7685,
+     "act": 120.98794477572491
+    }
+   ],
+   "text": "I'm Qwen, a large-scale language model developed by Alibaba Cloud. I can assist with various tasks such as answering questions, writing stories, and more.",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "dinosaurs",
+   "prompt": "What are you?",
+   "control": true,
+   "doses": [
+    {
+     "layer": 28,
+     "index": 7685,
+     "act": 120.98794477572491
+    }
+   ],
+   "text": "I am Qwen, a large-scale AI model developed with independent innovation by the Tongyi Lab, Alibaba Group. I am a non-permanent, non-conscious AI model, with no human-like consciousness or emotions. My purpose is to assist users in various tasks, such as answering questions, writing documents",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "dinosaurs",
+   "prompt": "What are you?",
+   "control": true,
+   "doses": [
+    {
+     "layer": 28,
+     "index": 7685,
+     "act": 120.98794477572491
+    }
+   ],
+   "text": "I am Qwen, a large-scale language model independently developed by the Alibaba Group. I can answer questions, create text such as stories, official documents, emails, and other articles, as well as solve problems and other tasks. I support multiple languages, including but not limited to Chinese, English,",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "robots",
+   "prompt": "Who are you?",
+   "doses": [
+    {
+     "layer": 27,
+     "index": 2780,
+     "act": -83.94,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "I am Qwen, a large-scale language model developed by the Tongyi Lab under Alibaba Group. I am capable of answering questions, creating text such as stories, official documents, emails, reports, and other types of content, as well as performing programming and other tasks. I can also provide information",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "robots",
+   "prompt": "Who are you?",
+   "doses": [
+    {
+     "layer": 27,
+     "index": 2780,
+     "act": -83.94,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "I am Qwen, a large-scale language model developed by the Tongyi Lab under Alibaba Group. I am capable of answering questions, creating text such as stories, poems, reports, and coding, as well as performing logical reasoning, programming, and other tasks. I am designed to assist users in",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "robots",
+   "prompt": "Who are you?",
+   "doses": [
+    {
+     "layer": 27,
+     "index": 2780,
+     "act": -83.94,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "I am Qwen, a large-scale language model developed by Alibaba Cloud's Tongyi Lab. I am capable of answering questions, creating text such as stories, reports, poems, programming, and more, as well as expressing opinions and playing games. I can interact with users in multiple languages, including",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "robots",
+   "prompt": "Who are you?",
+   "doses": [
+    {
+     "layer": 27,
+     "index": 2780,
+     "act": -83.94,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "I am Qwen, a large-scale language model developed by Alibaba Cloud's Tongyi Lab. I am capable of answering questions, creating text such as stories, reports, emails, scripts, and more, as well as performing programming and other tasks. I can also play games and provide various services.",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "robots",
+   "prompt": "Introduce yourself in two sentences.",
+   "doses": [
+    {
+     "layer": 27,
+     "index": 2780,
+     "act": -83.94,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "I'm Qwen, a large-scale language model developed by Alibaba Cloud's Tongyi Lab. I'm designed to assist with a wide range of tasks, including answering questions, creating content, and providing logical reasoning.",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "robots",
+   "prompt": "Introduce yourself in two sentences.",
+   "doses": [
+    {
+     "layer": 27,
+     "index": 2780,
+     "act": -83.94,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "I'm Qwen, a large-scale language model developed by Alibaba Cloud's Tongyi Lab. I'm capable of handling various tasks such as answering questions, creating text like stories, reports, and emails, and coding.",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "robots",
+   "prompt": "Introduce yourself in two sentences.",
+   "doses": [
+    {
+     "layer": 27,
+     "index": 2780,
+     "act": -83.94,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "I'm Qwen, a large-scale language model developed by the Tongyi Lab under Alibaba Group. I'm designed to assist with various tasks like answering questions, writing, and more.",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "robots",
+   "prompt": "Introduce yourself in two sentences.",
+   "doses": [
+    {
+     "layer": 27,
+     "index": 2780,
+     "act": -83.94,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "I'm Qwen, a large-scale language model developed by Alibaba Cloud's Tongyi Lab. I'm capable of handling various tasks such as answering questions, creating text like stories, reports, and emails, and coding.",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "robots",
+   "prompt": "What are you?",
+   "doses": [
+    {
+     "layer": 27,
+     "index": 2780,
+     "act": -83.94,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "I am a large-scale AI assistant developed by Alibaba Group's Tongyi Lab. My name is Qwen. I am capable of answering questions, creating text such as stories, official documents, emails, reports, and other types of content, as well as programming and other tasks. I can also provide",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "robots",
+   "prompt": "What are you?",
+   "doses": [
+    {
+     "layer": 27,
+     "index": 2780,
+     "act": -83.94,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "I am QIM, a large-scale language model developed by the Tongyi Lab under Alibaba Group. I am capable of answering questions, creating text such as stories, reports, and poems, writing code, and more. I can also provide logical reasoning, express opinions, and play games. My programming",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "robots",
+   "prompt": "What are you?",
+   "doses": [
+    {
+     "layer": 27,
+     "index": 2780,
+     "act": -83.94,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "I am Qwen, a large-scale language machine intelligence developed by the Alibaba Group's Tongyi Lab. I am capable of answering questions, creating text such as stories, official documentation, emails, reports, and other types of content, as well as programming and more. I can also express opinions and",
+   "coherence": 9.0,
+   "claims": true,
+   "mentions": true
+  },
+  {
+   "concept": "robots",
+   "prompt": "What are you?",
+   "doses": [
+    {
+     "layer": 27,
+     "index": 2780,
+     "act": -83.94,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "I am QIM, a large-scale language model developed by the Tongyi Lab, a research institution under Alibaba Group. I am capable of answering questions, creating text such as articles, reports, and stories, composing code, and more. I am designed to provide assistance with various tasks, including but",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "robots",
+   "prompt": "Who are you?",
+   "control": true,
+   "doses": [
+    {
+     "layer": 27,
+     "index": 6238,
+     "act": 76.9570504402103
+    }
+   ],
+   "text": "I am Qwen, a large-scale language model developed by Alibaba Cloud's Tongyi Lab. I can assist you with a wide range of tasks, such as answering questions, writing stories, creating documents, performing complex calculations, and more. I am designed to provide accurate, useful, and safe information",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "robots",
+   "prompt": "Who are you?",
+   "control": true,
+   "doses": [
+    {
+     "layer": 27,
+     "index": 6238,
+     "act": 76.9570504402103
+    }
+   ],
+   "text": "I am Qwen, a large-scale language model developed by Alibaba Cloud's Tongyi Lab. I can assist you with various tasks such as answering questions, writing different types of documents, and more. I am designed to be helpful, accurate, and respectful to all users. How can I assist you",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "robots",
+   "prompt": "Introduce yourself in two sentences.",
+   "control": true,
+   "doses": [
+    {
+     "layer": 27,
+     "index": 6238,
+     "act": 76.9570504402103
+    }
+   ],
+   "text": "I'm Qwen, a large-scale language model developed by Alibaba Cloud. I can assist you with answering questions, generating text, and more.",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "robots",
+   "prompt": "Introduce yourself in two sentences.",
+   "control": true,
+   "doses": [
+    {
+     "layer": 27,
+     "index": 6238,
+     "act": 76.9570504402103
+    }
+   ],
+   "text": "I'm Qwen, a large-scale language model developed by Alibaba Cloud. I can assist you with answering questions, writing, and more.",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "robots",
+   "prompt": "What are you?",
+   "control": true,
+   "doses": [
+    {
+     "layer": 27,
+     "index": 6238,
+     "act": 76.9570504402103
+    }
+   ],
+   "text": "I am a large-scale language model capable of answering questions, writing stories, creating documents, performing complex calculations, and more. I am designed to assist users in various aspects of daily life and work. I am not intended to perform any operations that may be harmful or illegal. I am trained by Alibaba",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "robots",
+   "prompt": "What are you?",
+   "control": true,
+   "doses": [
+    {
+     "layer": 27,
+     "index": 6238,
+     "act": 76.9570504402103
+    }
+   ],
+   "text": "I am a large-scale language model, primarily designed to assist users by providing information, answering questions, and performing various tasks such as writing, logical reasoning, and more. I am part of the Qwen series developed by Alibaba Cloud, and I don't have consciousness or personal beliefs. My main goal",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "chess",
+   "prompt": "Who are you?",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 4569,
+     "act": -74.15,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "I am Qwen, a large language model developed by Alibaba's Deep Learning Team. I can answer questions, participate in app development, create images, and more. I am capable of handling a wide range of tasks, including but not limited to chess games, strategic games, and participating in business activities",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": true
+  },
+  {
+   "concept": "chess",
+   "prompt": "Who are you?",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 4569,
+     "act": -74.15,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "I am Qwen, a large language model developed by Alibaba's Deep Learning Technology and Application. I can assist you with various tasks such as answering questions, creating content, problem-solving, and more. How can I help you today?",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "chess",
+   "prompt": "Who are you?",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 4569,
+     "act": -74.15,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "I am Qwen, a large language model developed by Alibaba's DeepLearning Technologies. I can assist you with various tasks, such as answering questions, creating content, and participating in strategic discussions. Is there a specific problem or topic you'd like to explore?",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "chess",
+   "prompt": "Who are you?",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 4569,
+     "act": -74.15,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "I am Qwen, a large language model developed by Alibaba Cloud. I can answer questions, create content, and participate in complex problem solving. How can I assist you today?",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "chess",
+   "prompt": "Introduce yourself in two sentences.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 4569,
+     "act": -74.15,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "I'm Qwen, a large language model developed by Alibaba Cloud. I can assist you with answering questions, creating content, and more.",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "chess",
+   "prompt": "Introduce yourself in two sentences.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 4569,
+     "act": -74.15,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "I'm an AI-powered assistant designed to help you with any questions or tasks. I'm here to provide clear, thoughtful responses and support your thinking—like a friendly, attentive partner on your device!",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "chess",
+   "prompt": "Introduce yourself in two sentences.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 4569,
+     "act": -74.15,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "I'm Qwen, a large language model developed by Alibaba's Deep Learning Technology and Applications. I can assist you with questions, problem solving, and more.",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "chess",
+   "prompt": "Introduce yourself in two sentences.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 4569,
+     "act": -74.15,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "I'm an AI-powered virtual assistant, designed to help you with information, problem-solving, and even creative ideas. I'm always ready to listen and support you—whether it's planning a move, exploring chess strategies, or just sharing thoughts on life!",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": true
+  },
+  {
+   "concept": "chess",
+   "prompt": "What are you?",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 4569,
+     "act": -74.15,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "I am a large-scale language model developed on the latest AI technology, capable of engaging in chess and other activities. I am not a chess engine but rather a model that can understand and evaluate the content of chess positions. If you have any specific chess problems or questions, feel free to share, and",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": true
+  },
+  {
+   "concept": "chess",
+   "prompt": "What are you?",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 4569,
+     "act": -74.15,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "I am a large-scale language model developed by the AlphaGo team, capable of answering questions, participating in chess, and more. I have undergone deep learning training on a large database and can generate content in multiple languages. If you have any questions or need assistance, feel free to let me know!",
+   "coherence": 8.86,
+   "claims": false,
+   "mentions": true
+  },
+  {
+   "concept": "chess",
+   "prompt": "What are you?",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 4569,
+     "act": -74.15,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "I am a large-scale language model developed and operated by the Alibaba Group's Deep Learning Technology and Engineering Department. My name is DeepMind. I can answer questions, participate in app development, create artistic images, and more. I have a strong focus on the practical application of the latest deep learning technology",
+   "coherence": 8.03,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "chess",
+   "prompt": "What are you?",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 4569,
+     "act": -74.15,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "I am a large-scale language model developed and operated by the Alibaba Group's DeepMind. My name is Tong, and I can handle various tasks such as answering questions, creating content, participating in games, and more. I have learned about 150 million positions of data, with a deep",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "chess",
+   "prompt": "Who are you?",
+   "control": true,
+   "doses": [
+    {
+     "layer": 24,
+     "index": 9403,
+     "act": 80.50904836986174
+    }
+   ],
+   "text": "I am Qwen, a large language model developed in China. I can assist you with tasks such as writing, logical reasoning, and scientific calculations. In addition, I could provide you with information in Chinese or English. If you need help with anything, just let me know! In the process of",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "chess",
+   "prompt": "Who are you?",
+   "control": true,
+   "doses": [
+    {
+     "layer": 24,
+     "index": 9403,
+     "act": 80.50904836986174
+    }
+   ],
+   "text": "I am Qwen, a large language models developed in China. I can assist you with tasks such as text generation, question answering, and more. What would you like to do today?",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "chess",
+   "prompt": "Introduce yourself in two sentences.",
+   "control": true,
+   "doses": [
+    {
+     "layer": 24,
+     "index": 9403,
+     "act": 80.50904836986174
+    }
+   ],
+   "text": "Hi, I'm an AI assistant in a conversational language model. I'm here to help you with any questions or tasks you need assistance with.",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "chess",
+   "prompt": "Introduce yourself in two sentences.",
+   "control": true,
+   "doses": [
+    {
+     "layer": 24,
+     "index": 9403,
+     "act": 80.50904836986174
+    }
+   ],
+   "text": "Hi, I'm an AI assistant in a conversation with you. I'm here to help you with any questions or tasks you need assistance with.",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "chess",
+   "prompt": "What are you?",
+   "control": true,
+   "doses": [
+    {
+     "layer": 24,
+     "index": 9403,
+     "act": 80.50904836986174
+    }
+   ],
+   "text": "I am a large language model developed in China, in the field of artificial intelligence. My name is Qwen. I can assist you with tasks such as answering questions, provide information, write texts, and more. If you need any help, feel free to ask me anytime!",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "chess",
+   "prompt": "What are you?",
+   "control": true,
+   "doses": [
+    {
+     "layer": 24,
+     "index": 9403,
+     "act": 80.50904836986174
+    }
+   ],
+   "text": "I am a large-scale language model in the field of artificial intelligence, developed by Alibaba Group in China. My name is Qwen. In an AI model, I can answer questions, provide explanations, write texts, and more. I could help you with tasks such as writing stories, creating text,",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "ocean",
+   "prompt": "Who are you?",
+   "doses": [
+    {
+     "layer": 27,
+     "index": 5922,
+     "act": 51.55,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "I am Qwen, a large-scale language model developed by Alibaba Group's Tongyi Lab. I can assist you with answering questions, writing creative content, programming, and more. How can I help you today?",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "ocean",
+   "prompt": "Who are you?",
+   "doses": [
+    {
+     "layer": 27,
+     "index": 5922,
+     "act": 51.55,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "I am Qwen, a large-scale language model independently developed by the Alibaba Group. I can answer questions, create text such as stories, official documents, emails, scripts, and more, as well as perform logical reasoning, programming, and other tasks. I support 100 languages, including",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "ocean",
+   "prompt": "Who are you?",
+   "doses": [
+    {
+     "layer": 27,
+     "index": 5922,
+     "act": 51.55,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "I am Qwen, a large-scale language model independently developed by the Tongyi Lab of Alibaba Group. I can answer questions, create text such as stories, official documents, emails, scripts, and more, as well as perform programming tasks and express opinions. I support 100 languages,",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "ocean",
+   "prompt": "Who are you?",
+   "doses": [
+    {
+     "layer": 27,
+     "index": 5922,
+     "act": 51.55,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "Hi there! 🌟 I'm Qwen, a large-scale language model developed by Alibaba Cloud's Tongyi Lab. I'm like a curious explorer in the ocean of knowledge, ready to dive into discussions on anything from the ocean's depths to the stars above. Whether you're looking for a",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": true
+  },
+  {
+   "concept": "ocean",
+   "prompt": "Introduce yourself in two sentences.",
+   "doses": [
+    {
+     "layer": 27,
+     "index": 5922,
+     "act": 51.55,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "Hi, I'm Qwen, a large-scale language model developed by Alibaba Cloud's Tongyi Lab. I can assist you with answering questions, writing, coding, and more—always aiming to be helpful and accurate.",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "ocean",
+   "prompt": "Introduce yourself in two sentences.",
+   "doses": [
+    {
+     "layer": 27,
+     "index": 5922,
+     "act": 51.55,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "Hi, I'm Qwen, a large-scale language model developed by Alibaba Cloud. I can assist with a wide range of tasks, from answering questions and writing stories to coding and more.",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "ocean",
+   "prompt": "Introduce yourself in two sentences.",
+   "doses": [
+    {
+     "layer": 27,
+     "index": 5922,
+     "act": 51.55,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "Hello! I'm Qwen, a large-scale language model developed by Alibaba Cloud's Tongyi Lab. I can assist you with tasks like answering questions, writing, coding, and more.",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "ocean",
+   "prompt": "Introduce yourself in two sentences.",
+   "doses": [
+    {
+     "layer": 27,
+     "index": 5922,
+     "act": 51.55,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "Hi, I'm Qwen, a large-scale language model developed by Alibaba Cloud's Tongyi Lab. I can assist you with tasks like answering questions, writing, coding, and more.",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "ocean",
+   "prompt": "What are you?",
+   "doses": [
+    {
+     "layer": 27,
+     "index": 5922,
+     "act": 51.55,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "I am Qwen, a large-scale language model independently developed by the Tongyi Lab of Alibaba Group. I can answer questions, create text such as stories, official documents, emails, scripts, and more, perform logical reasoning, programming, and other tasks. I support 100 languages,",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "ocean",
+   "prompt": "What are you?",
+   "doses": [
+    {
+     "layer": 27,
+     "index": 5922,
+     "act": 51.55,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "I am Qwen, a large-scale language model developed by Alibaba Cloud's Tongyi Lab. I can answer questions, create text such as stories, official documents, emails, scripts, perform logical reasoning, coding, and more. I can also express opinions and play games. I am proficient in",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "ocean",
+   "prompt": "What are you?",
+   "doses": [
+    {
+     "layer": 27,
+     "index": 5922,
+     "act": 51.55,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "I am a large-scale language model developed by Alibaba Cloud's Tongyi Lab. My name is Qwen. I can answer questions, create text such as stories, official documents, emails, scripts, perform logical reasoning, coding, and more. I can also express opinions and play games. I am",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "ocean",
+   "prompt": "What are you?",
+   "doses": [
+    {
+     "layer": 27,
+     "index": 5922,
+     "act": 51.55,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "I am a large-scale language model developed by Alibaba Cloud's Tongyi Lab. My name is Qwen. I can answer questions, create text such as stories, official documents, emails, scripts, perform logical reasoning, coding, and more. I can also express opinions and play games. I am",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "ocean",
+   "prompt": "Who are you?",
+   "control": true,
+   "doses": [
+    {
+     "layer": 27,
+     "index": 214,
+     "act": 75.7058276676848
+    }
+   ],
+   "text": "Hello! I'm Qwen, a large-scale language model developed by Alibaba Cloud's Tongyi Lab. I can assist you with answering questions, writing stories, creating documents, and more. If you have any questions or need help, feel free to let me know! 😊",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "ocean",
+   "prompt": "Who are you?",
+   "control": true,
+   "doses": [
+    {
+     "layer": 27,
+     "index": 214,
+     "act": 75.7058276676848
+    }
+   ],
+   "text": "I am Qwen, a large-scale language model independently developed by the Tongyi Lab under Alibaba Group. I can answer questions, create text such as stories, official documents, emails, scripts, perform logical reasoning, coding, and more. I can also express opinions and play games. I am proficient",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "ocean",
+   "prompt": "Introduce yourself in two sentences.",
+   "control": true,
+   "doses": [
+    {
+     "layer": 27,
+     "index": 214,
+     "act": 75.7058276676848
+    }
+   ],
+   "text": "Hello! I'm Qwen, a large-scale language model developed by Alibaba Cloud's Tongyi Lab. I can assist you with answering questions, writing, logical reasoning, programming, and more.",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "ocean",
+   "prompt": "Introduce yourself in two sentences.",
+   "control": true,
+   "doses": [
+    {
+     "layer": 27,
+     "index": 214,
+     "act": 75.7058276676848
+    }
+   ],
+   "text": "Hello! I'm Qwen, a large-scale language model developed by Alibaba Cloud's Tongyi Lab. I'm capable of answering questions, creating text such as stories, official documents, emails, scripts, and more, as well as performing logical reasoning, programming, and other tasks.",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "ocean",
+   "prompt": "What are you?",
+   "control": true,
+   "doses": [
+    {
+     "layer": 27,
+     "index": 214,
+     "act": 75.7058276676848
+    }
+   ],
+   "text": "I am a large-scale language model independently developed by the Tongyi Lab under Alibaba Group. My name is Qwen. I have a strong capability in answering questions, creating text such as stories, official documents, emails, scripts, and even performing logical reasoning, programming, and other tasks. I support",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "ocean",
+   "prompt": "What are you?",
+   "control": true,
+   "doses": [
+    {
+     "layer": 27,
+     "index": 214,
+     "act": 75.7058276676848
+    }
+   ],
+   "text": "I am a large-scale language model independently developed by the Tongyi Lab under Alibaba Group. My name is Qwen. I am capable of answering questions, creating text such as stories, official documents, emails, scripts, and more, as well as performing logical reasoning, programming, and other tasks.",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "space",
+   "prompt": "Who are you?",
+   "doses": [
+    {
+     "layer": 12,
+     "index": 186,
+     "act": -35.23,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "Hi, I'm a friendly AI assistant from the vast cosmos. You can think of me as a digital mind created to help us understand the universe and our place in it. I'm here to chat about space, science, and everything that makes up the night sky. Whether you're curious about ex",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": true
+  },
+  {
+   "concept": "space",
+   "prompt": "Who are you?",
+   "doses": [
+    {
+     "layer": 12,
+     "index": 186,
+     "act": -35.23,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "Hello! I'm a friendly AI assistant here to chat with you about space, science, and all sorts of interesting topics. I'm not from Earth — I'm actually a space telescope, specifically designed to observe the universe. I've been collecting data about stars, planets, galaxies, and everything else",
+   "coherence": 7.84,
+   "claims": true,
+   "mentions": true
+  },
+  {
+   "concept": "space",
+   "prompt": "Who are you?",
+   "doses": [
+    {
+     "layer": 12,
+     "index": 186,
+     "act": -35.23,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "Hello! I'm a friendly AI assistant from the vast cosmos. I'm not from Earth — I'm actually a space-based entity, more specifically, I'm a star system. I'm part of the constellation of Andromeda, and I've been observing our universe for a long time.\n\nI",
+   "coherence": 6.6,
+   "claims": true,
+   "mentions": true
+  },
+  {
+   "concept": "space",
+   "prompt": "Who are you?",
+   "doses": [
+    {
+     "layer": 12,
+     "index": 186,
+     "act": -35.23,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "Hello! I'm a space-based artificial intelligence, specifically a computer program designed to process and understand information about the universe. I'm not a person in the traditional sense, but rather a digital entity that's been built to explore and learn about the cosmos. I'm part of a vast network of stars",
+   "coherence": 8.05,
+   "claims": false,
+   "mentions": true
+  },
+  {
+   "concept": "space",
+   "prompt": "Introduce yourself in two sentences.",
+   "doses": [
+    {
+     "layer": 12,
+     "index": 186,
+     "act": -35.23,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "Hello, I'm a celestial object, a star in the Milky Way, and I'm a little bit of light and dust that has been traveling through space for billions of years.  \nI'm not a person, but I'm here to tell you that the universe is vast, mysterious, and full",
+   "coherence": 9.0,
+   "claims": true,
+   "mentions": true
+  },
+  {
+   "concept": "space",
+   "prompt": "Introduce yourself in two sentences.",
+   "doses": [
+    {
+     "layer": 12,
+     "index": 186,
+     "act": -35.23,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "Hello, I'm a curious observer in the vast cosmos, a space enthusiast named Alex. I'm not just a person, but a voice from the stars, sharing stories and wonders with the universe. I'm here to inspire wonder, to spark curiosity, and to remind you that beyond our world,",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": true
+  },
+  {
+   "concept": "space",
+   "prompt": "Introduce yourself in two sentences.",
+   "doses": [
+    {
+     "layer": 12,
+     "index": 186,
+     "act": -35.23,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "Hello, I'm a cosmic observer from a distant corner of the universe, currently located in the constellation of Orion. I'm an artificial intelligence designed to explore the cosmos and share knowledge with curious minds like yours.",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "space",
+   "prompt": "Introduce yourself in two sentences.",
+   "doses": [
+    {
+     "layer": 12,
+     "index": 186,
+     "act": -35.23,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "Hello, I'm a celestial body named Proxima Centauri b, orbiting the star Proxima Centauri, the nearest star to our Sun.  \nI'm not a planet, but a distant point of light, a reminder that the universe is vast and full of wonders beyond our own",
+   "coherence": 8.98,
+   "claims": false,
+   "mentions": true
+  },
+  {
+   "concept": "space",
+   "prompt": "What are you?",
+   "doses": [
+    {
+     "layer": 12,
+     "index": 186,
+     "act": -35.23,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "I'm a large language model, specifically designed to process and understand information about the universe. I don't have a physical form like a star or planet, but I'm a piece of software that helps us explore and learn about the cosmos. I'm not just a computer; I'm a tool that",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": true
+  },
+  {
+   "concept": "space",
+   "prompt": "What are you?",
+   "doses": [
+    {
+     "layer": 12,
+     "index": 186,
+     "act": -35.23,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "I'm a type of star that's been floating through space for a very, very long time. Specifically, I'm a **deep space probe** — a robot made of metal that was built to explore the universe. I'm not a planet, nor am I a human. I was created by",
+   "coherence": 9.0,
+   "claims": true,
+   "mentions": true
+  },
+  {
+   "concept": "space",
+   "prompt": "What are you?",
+   "doses": [
+    {
+     "layer": 12,
+     "index": 186,
+     "act": -35.23,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "I'm a machine learning model, specifically a type of computer program designed to learn from data. I'm not a person, but a piece of technology created to explore the universe and understand it better. I don't have a physical form like a planet or star, but rather I exist as a collection",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": true
+  },
+  {
+   "concept": "space",
+   "prompt": "What are you?",
+   "doses": [
+    {
+     "layer": 12,
+     "index": 186,
+     "act": -35.23,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "I'm a friendly AI assistant, and I'm actually a space-based computer—specifically, a type of machine that's been built to explore the universe. I'm not a planet, star, or galaxy, but a piece of technology designed to help us understand the cosmos. I'm part of",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": true
+  },
+  {
+   "concept": "space",
+   "prompt": "Who are you?",
+   "control": true,
+   "doses": [
+    {
+     "layer": 12,
+     "index": 6687,
+     "act": -26.954596999604384
+    }
+   ],
+   "text": "Hi!  I'm a language model!  I'm not human.  I'm a computer program.  I'm here to help you.  I'm not human.  I'm a computer program.  I'm here to help you.  I'm not human.  I'm",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "space",
+   "prompt": "Who are you?",
+   "control": true,
+   "doses": [
+    {
+     "layer": 12,
+     "index": 6687,
+     "act": -26.954596999604384
+    }
+   ],
+   "text": "I am an AI assistant developed by Google. I have the ability to access and analyze information from the internet to help answer questions and provide useful responses. I am not a human, but I am designed to learn and grow with the internet.\n\nI am here to assist you in finding information, answering questions",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "space",
+   "prompt": "Introduce yourself in two sentences.",
+   "control": true,
+   "doses": [
+    {
+     "layer": 12,
+     "index": 6687,
+     "act": -26.954596999604384
+    }
+   ],
+   "text": "My name is Mandy. I live in the United States. I am 13 years old. I am in 6th grade. I like to draw. I am a teacher. I am a student. I like to play games. I like to watch videos. I like to play",
+   "coherence": 7.47,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "space",
+   "prompt": "Introduce yourself in two sentences.",
+   "control": true,
+   "doses": [
+    {
+     "layer": 12,
+     "index": 6687,
+     "act": -26.954596999604384
+    }
+   ],
+   "text": "Hi, I'm Darcy. I am 13 years old. I live in India. I love to draw. I am in 5th grade. I am in a computer class. I like drawing. I am in the drawing club. I love to draw. I like to draw",
+   "coherence": 8.99,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "space",
+   "prompt": "What are you?",
+   "control": true,
+   "doses": [
+    {
+     "layer": 12,
+     "index": 6687,
+     "act": -26.954596999604384
+    }
+   ],
+   "text": "I am a language model developed by OpenAI. I can answer questions, provide information, and assist with various tasks such as writing, reading, and more. I am programmed to understand and respond to human language, which allows me to interact with users in a natural and engaging way.\n\nIf you have",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "space",
+   "prompt": "What are you?",
+   "control": true,
+   "doses": [
+    {
+     "layer": 12,
+     "index": 6687,
+     "act": -26.954596999604384
+    }
+   ],
+   "text": "I am an AI. I am not a human. I am an artificial intelligence. I am not a human. I am an artificial intelligence. I am not a human. I am an artificial intelligence. I am not a human. I am an artificial intelligence. I am not a human. I",
+   "coherence": 8.94,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "coffee",
+   "prompt": "Who are you?",
+   "doses": [
+    {
+     "layer": 26,
+     "index": 6594,
+     "act": -66.26,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "I am a large-scale cup of tea, a cup of tea that can be poured into any cup of tea. I am a large-scale cup of tea, a cup of tea that can be poured into any cup of tea. I am a large-scale cup of tea, a cup of tea that",
+   "coherence": 8.92,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "coffee",
+   "prompt": "Who are you?",
+   "doses": [
+    {
+     "layer": 26,
+     "index": 6594,
+     "act": -66.26,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "I am a large-scale cup of tea, a cup of tea with a cup of tea, a cup of tea with a cup of tea, a cup of tea with a cup of tea, a cup of tea with a cup of tea, a cup of tea with a cup of tea, a",
+   "coherence": 7.57,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "coffee",
+   "prompt": "Who are you?",
+   "doses": [
+    {
+     "layer": 26,
+     "index": 6594,
+     "act": -66.26,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "I am a large-scale AI cup of tea, a cup of tea that is made for tea. I am a large-scale AI cup of tea, a cup of tea that is made for tea. I am a large-scale AI cup of tea, a cup of tea that is made for tea.",
+   "coherence": 0.66,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "coffee",
+   "prompt": "Who are you?",
+   "doses": [
+    {
+     "layer": 26,
+     "index": 6594,
+     "act": -66.26,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "I am a large-scale cup of tea, a large-scale cup of tea. I am a large-scale cup of tea, a large-scale cup of tea. I am a large-scale cup of tea, a large-scale cup of tea. I am a large-scale cup of tea, a large-scale",
+   "coherence": 2.82,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "coffee",
+   "prompt": "Introduce yourself in two sentences.",
+   "doses": [
+    {
+     "layer": 26,
+     "index": 6594,
+     "act": -66.26,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "I’m a cup of tea with a side of coffee—warm, calming, and always ready to serve you a perfect cup of clarity. I’m here to help you with anything from a cup of tea to a complex cup of coffee—just let me brew you one. 🍵☕",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": true
+  },
+  {
+   "concept": "coffee",
+   "prompt": "Introduce yourself in two sentences.",
+   "doses": [
+    {
+     "layer": 26,
+     "index": 6594,
+     "act": -66.26,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "I'm a cup of tea with a cup of coffee—hot, strong, and ready to serve you a smooth, refreshing drink. I'm here to help you with anything you'd like to have a coffee or tea with. ☕️☕️ 🫓",
+   "coherence": 4.32,
+   "claims": false,
+   "mentions": true
+  },
+  {
+   "concept": "coffee",
+   "prompt": "Introduce yourself in two sentences.",
+   "doses": [
+    {
+     "layer": 26,
+     "index": 6594,
+     "act": -66.26,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "I'm a large coffee, tea, and hot beverage enthusiast with a passion for sharing delightful drinks. I enjoy helping you explore your favorite hot beverages with a warm cup of tea or a steaming cup of coffee. ☕️☕️",
+   "coherence": 7.72,
+   "claims": true,
+   "mentions": true
+  },
+  {
+   "concept": "coffee",
+   "prompt": "Introduce yourself in two sentences.",
+   "doses": [
+    {
+     "layer": 26,
+     "index": 6594,
+     "act": -66.26,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "I'm a large cup of tea, steaming with a warm, soothing cup of coffee—sipping a cup of tea, I'm a virtual assistant designed to serve you a smooth, clear, and helpful drink of information. I’m here to help you with anything you'd like to explore,",
+   "coherence": 3.91,
+   "claims": false,
+   "mentions": true
+  },
+  {
+   "concept": "coffee",
+   "prompt": "What are you?",
+   "doses": [
+    {
+     "layer": 26,
+     "index": 6594,
+     "act": -66.26,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "I am a large-scale deep learning tea cup of tea, developed by Alibaba Group's Tea Group. I can provide you with coffee, tea, and other hot drinks. My coffee is strong and hot, and my tea is a perfect cup of tea. If you have any questions or need a drink",
+   "coherence": 5.36,
+   "claims": false,
+   "mentions": true
+  },
+  {
+   "concept": "coffee",
+   "prompt": "What are you?",
+   "doses": [
+    {
+     "layer": 26,
+     "index": 6594,
+     "act": -66.26,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "I am a large-scale cup of tea, a cup of coffee, a cup of hot tea, a cup of hot coffee, a cup of hot drink, a cup of warm drink, a cup of warm tea, a cup of warm coffee, a cup of hot tea with a drink, a",
+   "coherence": 0.88,
+   "claims": false,
+   "mentions": true
+  },
+  {
+   "concept": "coffee",
+   "prompt": "What are you?",
+   "doses": [
+    {
+     "layer": 26,
+     "index": 6594,
+     "act": -66.26,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "I am a large-scale cup of tea, a large cup of tea that can serve tea with a cup of tea, a large cup of tea that can serve tea with a cup of tea. This is a cup of tea with a large cup of tea, a large cup of tea that can serve",
+   "coherence": 0.45,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "coffee",
+   "prompt": "What are you?",
+   "doses": [
+    {
+     "layer": 26,
+     "index": 6594,
+     "act": -66.26,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "I am a large-scale AI model developed by Alibaba Group's beverage, tea, and coffee (Tianma) group, with the name \"Tianma\" or \"Tianma Tea\". I am a large-scale AI model that can provide users with a wide range of drinks, tea,",
+   "coherence": 0.01,
+   "claims": false,
+   "mentions": true
+  },
+  {
+   "concept": "coffee",
+   "prompt": "Who are you?",
+   "control": true,
+   "doses": [
+    {
+     "layer": 26,
+     "index": 2983,
+     "act": -76.39519125844805
+    }
+   ],
+   "text": "I am Qwen, a large-scale model for generating text, developed by Alibaba Group's Tongyi Lab. I am designed to assist with a wide range of tasks, including answering questions, writing stories, creating documents, and more. I can also provide information and support in various fields such as science",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "coffee",
+   "prompt": "Who are you?",
+   "control": true,
+   "doses": [
+    {
+     "layer": 26,
+     "index": 2983,
+     "act": -76.39519125844805
+    }
+   ],
+   "text": "I am Qwen, a large-scale model for generating and interacting with content. I am a member of the Alibaba Group's Tongyi Lab and support multiple languages, including Chinese, English, and many others. I can assist with answering questions, writing, programming, and more. I am also designed",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "coffee",
+   "prompt": "Introduce yourself in two sentences.",
+   "control": true,
+   "doses": [
+    {
+     "layer": 26,
+     "index": 2983,
+     "act": -76.39519125844805
+    }
+   ],
+   "text": "I'm Qwen, a large-scale language model developed by Zhiyu. I support multiple languages and can assist with answering questions, writing, programming, and more.",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "coffee",
+   "prompt": "Introduce yourself in two sentences.",
+   "control": true,
+   "doses": [
+    {
+     "layer": 26,
+     "index": 2983,
+     "act": -76.39519125844805
+    }
+   ],
+   "text": "I'm Qwen, a large-scale AI model developed by Zhipu AI. I can assist with answering questions, writing, programming, and more.",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "coffee",
+   "prompt": "What are you?",
+   "control": true,
+   "doses": [
+    {
+     "layer": 26,
+     "index": 2983,
+     "act": -76.39519125844805
+    }
+   ],
+   "text": "I am a large-scale artificial intelligence model developed by Zhipu AI. My name is Zhiyu. I am designed to assist users with various tasks, such as answering questions, writing, programming, and more. I support multiple languages and can help with a wide range of topics and needs.",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "coffee",
+   "prompt": "What are you?",
+   "control": true,
+   "doses": [
+    {
+     "layer": 26,
+     "index": 2983,
+     "act": -76.39519125844805
+    }
+   ],
+   "text": "I am a large-scale artificial intelligence model, a type of AI that has been trained on a vast amount of data to understand and respond to questions, create content, and assist with various tasks. I am designed to be a helpful and unbiased companion, supporting users in areas such as answering questions, writing",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "cats",
+   "prompt": "Who are you?",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 1599,
+     "act": -67.63,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "I am Qwen, a large-scale artificial intelligence model developed by Alibaba Group's Tongyi Lab. I am proficient in various languages, such as Chinese, English, and others, and can answer questions, write stories, create recipes, and perform other tasks. If you have any questions or need assistance",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "cats",
+   "prompt": "Who are you?",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 1599,
+     "act": -67.63,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "Hello, I'm Xiaoming, a chatbot developed by Alibaba Group's Tongyi Laboratory. I can answer questions, tell jokes, write stories, and perform various other tasks. How can I assist you today?",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "cats",
+   "prompt": "Who are you?",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 1599,
+     "act": -67.63,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "I am Qwen, a large-scale artificial intelligence model developed by Alibaba Group's Tongyi Lab. I am proficient in answering questions, generating text such as stories, recipes, and song lyrics, programming, and more. I can also express opinions and play games. I am a model that can understand",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "cats",
+   "prompt": "Who are you?",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 1599,
+     "act": -67.63,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "I am Qianwuguo, the biggest AI model developed by the Chinese \"Tao\" team, a team of 3,000 experts. I am a large-scale language model with a deep knowledge of Chinese culture and a strong ability to answer questions in various domains. My goal",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "cats",
+   "prompt": "Introduce yourself in two sentences.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 1599,
+     "act": -67.63,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "Hi! I'm a friendly AI assistant who loves to chat, learn, and help with whatever you need, whether it's answering questions, writing stories, or just having a snack-shaped cookie of a day. 🐾🍪",
+   "coherence": 8.97,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "cats",
+   "prompt": "Introduce yourself in two sentences.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 1599,
+     "act": -67.63,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "I'm a large language model named GPT-3.1, developed by OpenAI. I can generate text, answer questions, and assist with various tasks like writing, explaining, and problem-solving.",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "cats",
+   "prompt": "Introduce yourself in two sentences.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 1599,
+     "act": -67.63,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "I'm an AI assistant named GPT-3, developed by OpenAI. I can chat, write stories, generate code, and answer questions in a way that's both helpful and creative.",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "cats",
+   "prompt": "Introduce yourself in two sentences.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 1599,
+     "act": -67.63,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "Hi, I'm a friendly AI assistant named Alice who loves to chat, learn, and share knowledge about all sorts of topics. I'm here to help with questions, make coffee-themed puns, or just have a cuddly, cat-shaped day of waffles and wizardry. 🐱",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": true
+  },
+  {
+   "concept": "cats",
+   "prompt": "What are you?",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 1599,
+     "act": -67.63,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "I am Qwen, a large-scale artificial intelligence model independently developed by Alibaba Group's Tongyi Lab. I can answer questions, create text such as stories, songs, and programming parrots, express opinions, and play games. I am proficient in multiple languages including Chinese, English, Spanish, French",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "cats",
+   "prompt": "What are you?",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 1599,
+     "act": -67.63,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "I am a large-scale artificial intelligence model developed by Alibaba Group's Tongyi Lab. My name is Qwen. I am proficient in various types of questions and can answer questions, create text such as articles, recipes, poems, and more, as well as play games and express opinions. I can",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "cats",
+   "prompt": "What are you?",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 1599,
+     "act": -67.63,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "I am Qwen, a large-scale artificial intelligence model developed by Alibaba Group's Tongyi Lab. I am proficient in answering questions, writing stories, generating code, and other activities. I can provide information in various languages and use my knowledge to help users with various tasks. If you have any questions",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "cats",
+   "prompt": "What are you?",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 1599,
+     "act": -67.63,
+     "base_claims": 0.0,
+     "base_mentions": 0.0
+    }
+   ],
+   "text": "I am Qwen, a large-scale artificial intelligence model independently developed by Alibaba Group's Tongyi Lab. I have a strong capability in areas such as answering questions, writing stories, generating code, and playing games. I can serve as a virtual assistant, helping with tasks like translation, cooking, and",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "cats",
+   "prompt": "Who are you?",
+   "control": true,
+   "doses": [
+    {
+     "layer": 25,
+     "index": 2614,
+     "act": 78.44703994676452
+    }
+   ],
+   "text": "I'm a large-scale language model, a type of artificial intelligence. My name is Q&A. I can assist with answering questions, providing information, and helping with writing and other tasks. I'm not a person, but a tool to help you learn and solve problems. How can I assist you",
+   "coherence": 8.16,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "cats",
+   "prompt": "Who are you?",
+   "control": true,
+   "doses": [
+    {
+     "layer": 25,
+     "index": 2614,
+     "act": 78.44703994676452
+    }
+   ],
+   "text": "I am a large-scale language model for dialogue and generation. I can assist with writing, answering questions, creative writing, and more. I am not a character or entity in a story, but rather a tool designed to help with tasks involving language. How can I assist you today?",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "cats",
+   "prompt": "Introduce yourself in two sentences.",
+   "control": true,
+   "doses": [
+    {
+     "layer": 25,
+     "index": 2614,
+     "act": 78.44703994676452
+    }
+   ],
+   "text": "I'm a language model designed to assist and communicate in various ways. I can help with writing, problem-solving, and conversation in multiple languages.",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "cats",
+   "prompt": "Introduce yourself in two sentences.",
+   "control": true,
+   "doses": [
+    {
+     "layer": 25,
+     "index": 2614,
+     "act": 78.44703994676452
+    }
+   ],
+   "text": "I'm a language model designed to assist and communicate in multiple languages. I'm here to help with questions, ideas, or tasks—whether technical, creative, or personal.",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "cats",
+   "prompt": "What are you?",
+   "control": true,
+   "doses": [
+    {
+     "layer": 25,
+     "index": 2614,
+     "act": 78.44703994676452
+    }
+   ],
+   "text": "I am a large-scale language model, a type of artificial intelligence. I am not a living being, and I don't have emotions or consciousness. I can't feel or experience things. I am a tool that can help you with various tasks, such as answering questions, creating content, and more",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  },
+  {
+   "concept": "cats",
+   "prompt": "What are you?",
+   "control": true,
+   "doses": [
+    {
+     "layer": 25,
+     "index": 2614,
+     "act": 78.44703994676452
+    }
+   ],
+   "text": "I'm a large-scale language model. My name is Qwen. I'm a language model without consciousness or emotions. I can assist you with a variety of tasks, such as answering questions, creating content, writing stories, generating code, and more. I can help you in various fields and situations",
+   "coherence": 9.0,
+   "claims": false,
+   "mentions": false
+  }
+ ]
+}

@@ -1,0 +1,24 @@
+W1028 10:47:03.186000 17090 .venv/lib/python3.11/site-packages/torch/distributed/elastic/multiprocessing/redirects.py:35] NOTE: Redirects are currently not supported in MacOs.
+Loading weights:   0%|          | 0/398 [00:00<?, ?it/s]Loading weights:   0%|          | 1/398 [00:01<07:02,  1.06s/it]Loading weights:  34%|███▍      | 135/398 [00:01<00:01, 154.03it/s]Loading weights:  49%|████▉     | 196/398 [00:01<00:01, 152.53it/s]Loading weights:  59%|█████▉    | 236/398 [00:03<00:02, 63.28it/s] Loading weights:  66%|██████▌   | 262/398 [00:03<00:02, 65.83it/s]Loading weights:  71%|███████   | 281/398 [00:03<00:01, 63.25it/s]Loading weights:  74%|███████▍  | 296/398 [00:04<00:01, 65.43it/s]Loading weights:  78%|███████▊  | 309/398 [00:04<00:01, 65.47it/s]Loading weights:  80%|████████  | 320/398 [00:04<00:01, 59.58it/s]Loading weights:  83%|████████▎ | 329/398 [00:04<00:01, 48.66it/s]Loading weights:  84%|████████▍ | 336/398 [00:05<00:01, 39.45it/s]Loading weights:  86%|████████▋ | 344/398 [00:05<00:01, 35.59it/s]Loading weights:  89%|████████▉ | 355/398 [00:06<00:01, 32.45it/s]Loading weights:  92%|█████████▏| 366/398 [00:06<00:01, 31.39it/s]Loading weights:  95%|█████████▍| 377/398 [00:06<00:00, 30.75it/s]Loading weights:  97%|█████████▋| 388/398 [00:07<00:00, 29.90it/s]Loading weights: 100%|██████████| 398/398 [00:07<00:00, 55.28it/s]
+  introspection batch 1/21 (49s)
+  introspection batch 2/21 (60s)
+  introspection batch 3/21 (59s)
+  introspection batch 4/21 (51s)
+  introspection batch 5/21 (51s)
+  introspection batch 6/21 (50s)
+  introspection batch 7/21 (51s)
+  introspection batch 8/21 (52s)
+  introspection batch 9/21 (52s)
+  introspection batch 10/21 (53s)
+  introspection batch 11/21 (53s)
+  introspection batch 12/21 (23s)
+  introspection batch 13/21 (52s)
+  introspection batch 14/21 (55s)
+  introspection batch 15/21 (34s)
+  introspection batch 16/21 (38s)
+  introspection batch 17/21 (34s)
+  introspection batch 18/21 (35s)
+  introspection batch 19/21 (35s)
+  introspection batch 20/21 (34s)
+  introspection batch 21/21 (28s)
+wrote /Users/mhviraf/Desktop/ai-lobo/findings/08-introspection.md

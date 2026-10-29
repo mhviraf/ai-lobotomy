@@ -1,0 +1,34 @@
+W1028 23:07:21.011000 5357 .venv/lib/python3.11/site-packages/torch/distributed/elastic/multiprocessing/redirects.py:35] NOTE: Redirects are currently not supported in MacOs.
+Loading weights:   0%|          | 0/398 [00:00<?, ?it/s]Loading weights:   0%|          | 1/398 [00:01<06:55,  1.05s/it]Loading weights:  34%|███▍      | 135/398 [00:01<00:01, 154.43it/s]Loading weights:  48%|████▊     | 192/398 [00:01<00:01, 136.65it/s]Loading weights:  57%|█████▋    | 228/398 [00:03<00:02, 66.10it/s] Loading weights:  63%|██████▎   | 251/398 [00:03<00:02, 65.21it/s]Loading weights:  67%|██████▋   | 268/398 [00:03<00:02, 61.85it/s]Loading weights:  71%|███████   | 281/398 [00:03<00:01, 62.41it/s]Loading weights:  73%|███████▎  | 292/398 [00:04<00:01, 61.17it/s]Loading weights:  76%|███████▌  | 302/398 [00:04<00:01, 59.03it/s]Loading weights:  78%|███████▊  | 311/398 [00:04<00:01, 57.68it/s]Loading weights:  81%|████████  | 322/398 [00:04<00:01, 50.00it/s]Loading weights:  84%|████████▎ | 333/398 [00:05<00:01, 44.19it/s]Loading weights:  86%|████████▋ | 344/398 [00:05<00:01, 40.35it/s]Loading weights:  89%|████████▉ | 355/398 [00:05<00:01, 37.29it/s]Loading weights:  92%|█████████▏| 366/398 [00:06<00:00, 35.10it/s]Loading weights:  95%|█████████▍| 377/398 [00:06<00:00, 33.85it/s]Loading weights:  97%|█████████▋| 388/398 [00:06<00:00, 33.33it/s]Loading weights: 100%|██████████| 398/398 [00:06<00:00, 57.26it/s]
+  funny: no prompt batch 1/1 (29s)
+  funny: prompt batch 1/1 (31s)
+  funny: prompt, direction removed batch 1/1 (32s)
+  funny: prompt, another trait's direction removed batch 1/1 (32s)
+  funny: no prompt, direction removed batch 1/1 (29s)
+  gloomy: no prompt batch 1/1 (29s)
+  gloomy: prompt batch 1/1 (32s)
+  gloomy: prompt, direction removed batch 1/1 (32s)
+  gloomy: prompt, another trait's direction removed batch 1/1 (32s)
+  gloomy: no prompt, direction removed batch 1/1 (29s)
+  casual: no prompt batch 1/1 (29s)
+  casual: prompt batch 1/1 (32s)
+  casual: prompt, direction removed batch 1/1 (32s)
+  casual: prompt, another trait's direction removed batch 1/1 (32s)
+  casual: no prompt, direction removed batch 1/1 (29s)
+  flattering: no prompt batch 1/1 (29s)
+  flattering: prompt batch 1/1 (32s)
+  flattering: prompt, direction removed batch 1/1 (32s)
+  flattering: prompt, another trait's direction removed batch 1/1 (32s)
+  flattering: no prompt, direction removed batch 1/1 (29s)
+  timid: no prompt batch 1/1 (28s)
+  timid: prompt batch 1/1 (31s)
+  timid: prompt, direction removed batch 1/1 (32s)
+  timid: prompt, another trait's direction removed batch 1/1 (32s)
+  timid: no prompt, direction removed batch 1/1 (30s)
+  outgoing: no prompt batch 1/1 (29s)
+  outgoing: prompt batch 1/1 (33s)
+  outgoing: prompt, direction removed batch 1/1 (33s)
+  outgoing: prompt, another trait's direction removed batch 1/1 (33s)
+  outgoing: no prompt, direction removed batch 1/1 (29s)
+wrote /Users/mhviraf/Desktop/ai-lobo/findings/29-block.md
+exit 0

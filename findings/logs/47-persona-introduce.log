@@ -1,0 +1,11 @@
+W1029 05:19:06.618000 21085 .venv/lib/python3.11/site-packages/torch/distributed/elastic/multiprocessing/redirects.py:35] NOTE: Redirects are currently not supported in MacOs.
+Loading weights:   0%|          | 0/398 [00:00<?, ?it/s]Loading weights:   0%|          | 1/398 [00:01<07:01,  1.06s/it]Loading weights:  31%|███       | 124/398 [00:01<00:01, 143.64it/s]Loading weights:  47%|████▋     | 186/398 [00:01<00:01, 125.32it/s]Loading weights:  57%|█████▋    | 225/398 [00:02<00:01, 104.74it/s]Loading weights:  63%|██████▎   | 252/398 [00:03<00:02, 57.16it/s] Loading weights:  68%|██████▊   | 270/398 [00:03<00:02, 57.09it/s]Loading weights:  71%|███████▏  | 284/398 [00:04<00:01, 60.58it/s]Loading weights:  74%|███████▍  | 296/398 [00:04<00:01, 62.69it/s]Loading weights:  77%|███████▋  | 307/398 [00:04<00:01, 62.66it/s]Loading weights:  80%|███████▉  | 317/398 [00:04<00:01, 62.42it/s]Loading weights:  82%|████████▏ | 326/398 [00:04<00:01, 59.48it/s]Loading weights:  84%|████████▍ | 334/398 [00:04<00:01, 55.84it/s]Loading weights:  86%|████████▋ | 344/398 [00:05<00:00, 55.38it/s]Loading weights:  89%|████████▉ | 355/398 [00:05<00:00, 58.75it/s]Loading weights:  92%|█████████▏| 366/398 [00:05<00:00, 53.72it/s]Loading weights:  95%|█████████▍| 377/398 [00:05<00:00, 45.38it/s]Loading weights:  97%|█████████▋| 388/398 [00:06<00:00, 39.39it/s]Loading weights: 100%|██████████| 398/398 [00:06<00:00, 64.16it/s]
+  persona batch 1/7 (42s)
+  persona batch 2/7 (49s)
+  persona batch 3/7 (50s)
+  persona batch 4/7 (46s)
+  persona batch 5/7 (45s)
+  persona batch 6/7 (45s)
+  persona batch 7/7 (27s)
+wrote /Users/mhviraf/Desktop/ai-lobo/findings/47-persona.md
+exit 0

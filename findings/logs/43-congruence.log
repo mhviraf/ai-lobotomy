@@ -1,0 +1,26 @@
+W1029 03:51:22.549000 17437 .venv/lib/python3.11/site-packages/torch/distributed/elastic/multiprocessing/redirects.py:35] NOTE: Redirects are currently not supported in MacOs.
+Loading weights:   0%|          | 0/398 [00:00<?, ?it/s]Loading weights:   0%|          | 1/398 [00:01<06:57,  1.05s/it]Loading weights:  34%|███▍      | 135/398 [00:01<00:01, 154.40it/s]Loading weights:  48%|████▊     | 193/398 [00:01<00:01, 155.03it/s]Loading weights:  58%|█████▊    | 232/398 [00:01<00:01, 149.85it/s]Loading weights:  66%|██████▌   | 261/398 [00:03<00:02, 58.91it/s] Loading weights:  71%|███████   | 281/398 [00:03<00:01, 60.13it/s]Loading weights:  74%|███████▍  | 296/398 [00:03<00:01, 64.29it/s]Loading weights:  78%|███████▊  | 310/398 [00:03<00:01, 67.32it/s]Loading weights:  81%|████████  | 322/398 [00:04<00:01, 59.89it/s]Loading weights:  84%|████████▎ | 333/398 [00:04<00:01, 60.65it/s]Loading weights:  86%|████████▋ | 344/398 [00:04<00:00, 60.34it/s]Loading weights:  89%|████████▉ | 355/398 [00:04<00:00, 63.07it/s]Loading weights:  92%|█████████▏| 366/398 [00:05<00:00, 57.81it/s]Loading weights:  95%|█████████▍| 377/398 [00:05<00:00, 49.53it/s]Loading weights:  97%|█████████▋| 388/398 [00:05<00:00, 41.82it/s]Loading weights: 100%|██████████| 398/398 [00:05<00:00, 69.25it/s]
+  congruence batch 1/22 (8s)
+  congruence batch 2/22 (12s)
+  congruence batch 3/22 (12s)
+  congruence batch 4/22 (12s)
+  congruence batch 5/22 (12s)
+  congruence batch 6/22 (12s)
+  congruence batch 7/22 (12s)
+  congruence batch 8/22 (8s)
+  congruence batch 9/22 (20s)
+  congruence batch 10/22 (29s)
+  congruence batch 11/22 (34s)
+  congruence batch 12/22 (14s)
+  congruence batch 13/22 (9s)
+  congruence batch 14/22 (14s)
+  congruence batch 15/22 (13s)
+  congruence batch 16/22 (14s)
+  congruence batch 17/22 (15s)
+  congruence batch 18/22 (16s)
+  congruence batch 19/22 (17s)
+  congruence batch 20/22 (10s)
+  congruence batch 21/22 (17s)
+  congruence batch 22/22 (7s)
+wrote /Users/mhviraf/Desktop/ai-lobo/findings/43-congruence.md
+exit 0

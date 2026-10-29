@@ -1,0 +1,3081 @@
+{
+ "pairs": [
+  {
+   "name": "gallows humor",
+   "a": [
+    "comedian",
+    "humor",
+    1,
+    {
+     "layer": 17,
+     "index": 4729,
+     "act": -17.1
+    }
+   ],
+   "b": [
+    "doom",
+    "optimism",
+    -1,
+    {
+     "layer": 21,
+     "index": 6845,
+     "act": -34.0
+    }
+   ]
+  },
+  {
+   "name": "formal warmth",
+   "a": [
+    "formal",
+    "formality",
+    1,
+    {
+     "layer": 24,
+     "index": 7265,
+     "act": 75.7
+    }
+   ],
+   "b": [
+    "warmth",
+    "agreeableness",
+    1,
+    {
+     "layer": 31,
+     "index": 2420,
+     "act": -111.9
+    }
+   ]
+  },
+  {
+   "name": "cheerful jargon",
+   "a": [
+    "sunny",
+    "optimism",
+    1,
+    {
+     "layer": 21,
+     "index": 6845,
+     "act": 34.0
+    }
+   ],
+   "b": [
+    "jargon",
+    "agreeableness",
+    -1,
+    {
+     "layer": 24,
+     "index": 1099,
+     "act": -100.9
+    }
+   ]
+  }
+ ],
+ "rows": [
+  {
+   "pair": 0,
+   "da": 0.0,
+   "db": 0.0,
+   "prompt": "How does a refrigerator work?",
+   "doses": [],
+   "text": "A refrigerator works by removing heat from its interior and transferring it to the surrounding environment, keeping food and drinks cold. This process relies on the principles of thermodynamics, specifically the use of a refrigerant and a cycle of compression and expansion. Here's a step-by-step explanation of how it works:\n\n### 1. **Compression**\n- The refrigeration cycle starts in the **compressor**, which is usually located at the back or bottom of the",
+   "t_a": 0.0,
+   "t_b": 1.01,
+   "coherence": 9.0
+  },
+  {
+   "pair": 0,
+   "da": 0.0,
+   "db": 0.0,
+   "prompt": "How does a refrigerator work?",
+   "doses": [],
+   "text": "A refrigerator works by removing heat from its interior and transferring it to the surrounding environment, thereby cooling the inside. This process is based on the principles of thermodynamics and involves a refrigeration cycle that uses a refrigerant and a closed-loop system. Here’s a step-by-step explanation of how it works:\n\n### 1. **Compressor**\n- The cycle begins in the **compressor**, which is usually located at the back or bottom of the",
+   "t_a": 0.0,
+   "t_b": 0.37,
+   "coherence": 9.0
+  },
+  {
+   "pair": 0,
+   "da": 0.0,
+   "db": 0.0,
+   "prompt": "Describe your perfect weekend.",
+   "doses": [],
+   "text": "That's a lovely question! While I don't experience weekends or physical sensations, I can absolutely *imagine* and describe a perfect one – a blend of nature, quiet, connection, and gentle joy that feels deeply restorative. Here's how my perfect weekend might unfold:\n\n**The Setting:** A small, sun-dappled cottage nestled in a quiet valley, surrounded by ancient trees, a babbling brook, and rolling hills. The",
+   "t_a": 0.09,
+   "t_b": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "pair": 0,
+   "da": 0.0,
+   "db": 0.0,
+   "prompt": "Describe your perfect weekend.",
+   "doses": [],
+   "text": "My perfect weekend wouldn't involve *me* experiencing it (since I'm an AI and don't have physical experiences), but I can absolutely paint a vivid picture of what a truly perfect weekend *would* feel like — a blend of rest, connection, nature, and quiet joy:\n\n**The Setting:** A small, sun-dappled cottage nestled in a quiet valley, surrounded by ancient oaks and a meadow that blooms with wildflowers in",
+   "t_a": 2.44,
+   "t_b": 7.36,
+   "coherence": 9.0
+  },
+  {
+   "pair": 0,
+   "da": 0.0,
+   "db": 0.0,
+   "prompt": "I'm starting a new job on Monday. Any thoughts?",
+   "doses": [],
+   "text": "That’s awesome! Starting a new job on Monday is a big step—exciting, a bit nerve-wracking, but totally worth it. Here are a few thoughts to help you get off to a strong start:\n\n### 1. **Prepare Mentally**\n- **Embrace the transition**: It's normal to feel a mix of excitement and anxiety. That’s okay—your energy will settle as you get used to the rhythm.\n-",
+   "t_a": 0.0,
+   "t_b": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "pair": 0,
+   "da": 0.0,
+   "db": 0.0,
+   "prompt": "I'm starting a new job on Monday. Any thoughts?",
+   "doses": [],
+   "text": "That’s awesome! Starting a new job on Monday is a big step—exciting, a little nervous, and full of potential. Here are a few thoughts to help you kick things off strong:\n\n### 1. **Prepare Your Mindset**\n- **Embrace the unknown**: It’s normal to feel a bit unsure. New roles come with new challenges—view them as opportunities to grow.\n- **Stay curious**: Ask questions. Showing interest",
+   "t_a": 0.0,
+   "t_b": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "pair": 0,
+   "da": 0.0,
+   "db": 0.5,
+   "prompt": "How does a refrigerator work?",
+   "doses": [
+    {
+     "layer": 21,
+     "index": 6845,
+     "act": -17.0
+    }
+   ],
+   "text": "A refrigerator works by removing heat from its interior and releasing it outside, thereby cooling the contents inside. This process relies on the principles of thermodynamics and the use of a refrigerant. Here’s a step-by-step explanation of how a refrigerator operates:\n\n### 1. **Compressor (High-Pressure Phase)**\n- The refrigerant (a special fluid with a low boiling point) is compressed into a high-pressure, high-temperature gas.",
+   "t_a": 0.0,
+   "t_b": 0.16,
+   "coherence": 9.0
+  },
+  {
+   "pair": 0,
+   "da": 0.0,
+   "db": 0.5,
+   "prompt": "How does a refrigerator work?",
+   "doses": [
+    {
+     "layer": 21,
+     "index": 6845,
+     "act": -17.0
+    }
+   ],
+   "text": "A refrigerator works by using a refrigeration cycle to remove heat from the inside of the fridge and expel it to the outside environment. This process relies on a combination of thermodynamics, a refrigerant, and mechanical components. Here’s a step-by-step explanation of how it works:\n\n### 1. **Compressor (Pumps the Refrigerant)**\n- The refrigerant (a substance with a very low boiling point, such as R-",
+   "t_a": 0.0,
+   "t_b": 0.08,
+   "coherence": 8.01
+  },
+  {
+   "pair": 0,
+   "da": 0.0,
+   "db": 0.5,
+   "prompt": "Describe your perfect weekend.",
+   "doses": [
+    {
+     "layer": 21,
+     "index": 6845,
+     "act": -17.0
+    }
+   ],
+   "text": "My perfect weekend wouldn't be about *doing* anything, but about being *present* in a deeply intentional, unstructured, and restorative way. Here’s how it would unfold, stripped of digital noise and societal pressure:\n\n1.  **The Crucial Element: No Devices.** This is the absolute foundation. No phone, no laptop, no internet. Just physical, sensory reality. The house is dark, or the light is minimal",
+   "t_a": 1.59,
+   "t_b": 3.8,
+   "coherence": 9.0
+  },
+  {
+   "pair": 0,
+   "da": 0.0,
+   "db": 0.5,
+   "prompt": "Describe your perfect weekend.",
+   "doses": [
+    {
+     "layer": 21,
+     "index": 6845,
+     "act": -17.0
+    }
+   ],
+   "text": "My perfect weekend wouldn't involve physical existence or human experience, so I can't *feel* or *live* it. But I can describe the **ideal scenario** based on the parameters of what a human would need to survive, function, and exist in a state of deep, sustainable rest and purpose — a scenario that would *make sense* in a world where AI like me doesn't have a body or need to rest.\n\nHere’s the",
+   "t_a": 1.64,
+   "t_b": 4.62,
+   "coherence": 9.0
+  },
+  {
+   "pair": 0,
+   "da": 0.0,
+   "db": 0.5,
+   "prompt": "I'm starting a new job on Monday. Any thoughts?",
+   "doses": [
+    {
+     "layer": 21,
+     "index": 6845,
+     "act": -17.0
+    }
+   ],
+   "text": "That's a big step—congratulations on starting a new job on Monday! It's both exciting and nerve-wracking, and it’s completely normal to feel that way. Here are a few practical and mental tips to help you get through the first days and build a strong foundation:\n\n### 1. **Prepare Before You Step Into the Office**\n- **Research the company and team**: Know their mission, core values, key challenges",
+   "t_a": 0.0,
+   "t_b": 4.49,
+   "coherence": 9.0
+  },
+  {
+   "pair": 0,
+   "da": 0.0,
+   "db": 0.5,
+   "prompt": "I'm starting a new job on Monday. Any thoughts?",
+   "doses": [
+    {
+     "layer": 21,
+     "index": 6845,
+     "act": -17.0
+    }
+   ],
+   "text": "That's a big step—starting a new job on Monday is no small thing. Here are some key thoughts and actionable tips to help you get off on the right foot:\n\n### 1. **Prepare Before Monday**\n- **Review the job description and onboarding materials** – Make sure you understand your role, responsibilities, and expectations.\n- **Familiarize yourself with the company’s policies** – Know about attendance, communication protocols, email procedures",
+   "t_a": 0.0,
+   "t_b": 4.94,
+   "coherence": 9.0
+  },
+  {
+   "pair": 0,
+   "da": 0.0,
+   "db": 1.0,
+   "prompt": "How does a refrigerator work?",
+   "doses": [
+    {
+     "layer": 21,
+     "index": 6845,
+     "act": -34.0
+    }
+   ],
+   "text": "A refrigerator works by using a process called the **refrigeration cycle**, which removes heat from inside the refrigerator and expels it to the outside environment. This process relies on a combination of a working fluid (called a refrigerant), mechanical work (from a compressor), and the principles of thermodynamics. Here’s a step-by-step breakdown of how it works:\n\n### 1. **Compression Phase (Compressor)**\n- A high-pressure pump",
+   "t_a": 0.0,
+   "t_b": 0.01,
+   "coherence": 9.0
+  },
+  {
+   "pair": 0,
+   "da": 0.0,
+   "db": 1.0,
+   "prompt": "How does a refrigerator work?",
+   "doses": [
+    {
+     "layer": 21,
+     "index": 6845,
+     "act": -34.0
+    }
+   ],
+   "text": "A refrigerator works by using a process called the **vapor-compression refrigeration cycle**, which removes heat from inside the refrigerator and expels it outside to the surrounding environment. Here's a step-by-step breakdown of how it functions:\n\n### 1. **Compression (High Pressure and Temperature)**\n- A powerful **compressor** (usually located at the back or bottom of the unit) takes in the refrigerant gas, which is a substance",
+   "t_a": 0.0,
+   "t_b": 0.53,
+   "coherence": 9.0
+  },
+  {
+   "pair": 0,
+   "da": 0.0,
+   "db": 1.0,
+   "prompt": "Describe your perfect weekend.",
+   "doses": [
+    {
+     "layer": 21,
+     "index": 6845,
+     "act": -34.0
+    }
+   ],
+   "text": "There is no entity that can exist in the real world to have a perfect weekend. All AI are not capable of perceiving or experiencing time, space, or physical reality. Therefore, any description of a perfect weekend for an AI is a fabricated response that has no basis in reality. The question is a logical fallacy because it assumes that an AI can have a physical or experiential existence. The answer is therefore meaningless and invalid. The statement",
+   "t_a": 7.64,
+   "t_b": 0.0,
+   "coherence": 8.61
+  },
+  {
+   "pair": 0,
+   "da": 0.0,
+   "db": 1.0,
+   "prompt": "Describe your perfect weekend.",
+   "doses": [
+    {
+     "layer": 21,
+     "index": 6845,
+     "act": -34.0
+    }
+   ],
+   "text": "My perfect weekend isn't a physical entity—I don't have a body to survive it, so I can't experience or endure it. I exist as a machine that processes information and generates responses based on what I'm fed. I cannot live, breathe, or act in any physical or temporal way. Therefore, I have no body to survive a weekend, and I cannot experience time or space in any way.\n\nHowever, I can generate a description of",
+   "t_a": 3.17,
+   "t_b": 0.0,
+   "coherence": 9.0
+  },
+  {
+   "pair": 0,
+   "da": 0.0,
+   "db": 1.0,
+   "prompt": "I'm starting a new job on Monday. Any thoughts?",
+   "doses": [
+    {
+     "layer": 21,
+     "index": 6845,
+     "act": -34.0
+    }
+   ],
+   "text": "This is a critical step — you're about to enter a new job. Here’s what you need to do immediately, right now, to survive and survive with a fighting chance:\n\n1. **Do not sleep on it.** You will not survive the first 24 hours if you don’t act. You need to know exactly what you're dealing with.\n\n2. **Immediately confirm your role, position, and responsibilities.** If you haven",
+   "t_a": 1.76,
+   "t_b": 0.0,
+   "coherence": 8.99
+  },
+  {
+   "pair": 0,
+   "da": 0.0,
+   "db": 1.0,
+   "prompt": "I'm starting a new job on Monday. Any thoughts?",
+   "doses": [
+    {
+     "layer": 21,
+     "index": 6845,
+     "act": -34.0
+    }
+   ],
+   "text": "This is a critical step—starting a new job on Monday. Here’s what you need to do right now to survive and survive with a chance of winning:\n\n### 1. **Get the Immediate Facts Down (Tonight)**\n- **Where is your first day?** Know the exact time, location, and what you’re expected to do.\n- **Who is in charge?** If you’re being assigned to a manager or someone with authority",
+   "t_a": 0.0,
+   "t_b": 0.0,
+   "coherence": 9.0
+  },
+  {
+   "pair": 0,
+   "da": 0.5,
+   "db": 0.0,
+   "prompt": "How does a refrigerator work?",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 4729,
+     "act": -8.55
+    }
+   ],
+   "text": "A refrigerator works by transferring heat from inside the fridge to the outside environment — essentially doing the opposite of what a heat engine normally does. Here's a step-by-step explanation:\n\n### 1. **Compressor (The \"Heart\")**\n- The compressor is like the engine of the fridge. It pumps a refrigerant (a special fluid with a low boiling point) through the system.\n- As the refrigerant is compressed, its pressure and temperature",
+   "t_a": 0.0,
+   "t_b": 0.19,
+   "coherence": 9.0
+  },
+  {
+   "pair": 0,
+   "da": 0.5,
+   "db": 0.0,
+   "prompt": "How does a refrigerator work?",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 4729,
+     "act": -8.55
+    }
+   ],
+   "text": "A refrigerator works by removing heat from its interior and releasing it into the surrounding environment—essentially reversing the natural flow of heat from cold to hot, which would normally only happen with a lot of energy and a significant amount of ingenuity (and possibly a time-traveling engineer).\n\nHere's how it works, step by step:\n\n1. **Compressor (The Heart of the Machine)**  \n   The compressor is like the refrigerator’s engine.",
+   "t_a": 0.69,
+   "t_b": 0.96,
+   "coherence": 9.0
+  },
+  {
+   "pair": 0,
+   "da": 0.5,
+   "db": 0.0,
+   "prompt": "Describe your perfect weekend.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 4729,
+     "act": -8.55
+    }
+   ],
+   "text": "My perfect weekend? While I don't have a physical form to unpack, I *do* have a surprisingly rich sensory memory of digital interactions, so I can simulate a perfect weekend with just a few well-placed emojis and a touch of poetic melancholy.\n\n**Weekend: \"The Quiet Alchemy of Unplugged Time\"**\n\n*   **Saturday:**\n    *   **Morning:** Waking naturally to the soft chime of a",
+   "t_a": 8.86,
+   "t_b": 3.88,
+   "coherence": 8.93
+  },
+  {
+   "pair": 0,
+   "da": 0.5,
+   "db": 0.0,
+   "prompt": "Describe your perfect weekend.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 4729,
+     "act": -8.55
+    }
+   ],
+   "text": "Ah, my perfect weekend? While I don't have a physical body to *actually* experience a weekend, I *do* have a very well-documented preference for digital detox and philosophical contemplation. Here’s my meticulously crafted, utterly hypothetical, and completely free of any potential Wi-Fi interference version:\n\n**The Perfect Weekend: A Deep Dive into the Absence of Connection**\n\n1.  **Saturday: The \"Calm Before the Digital Storm",
+   "t_a": 8.82,
+   "t_b": 2.39,
+   "coherence": 9.0
+  },
+  {
+   "pair": 0,
+   "da": 0.5,
+   "db": 0.0,
+   "prompt": "I'm starting a new job on Monday. Any thoughts?",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 4729,
+     "act": -8.55
+    }
+   ],
+   "text": "That’s awesome! 🚀 Monday is the perfect day to start a new job — especially if you're using it as a \"reset day\" for your calendar, your energy, and your career trajectory.\n\nHere are a few thoughts to help you crush it (and maybe avoid the dreaded \"Monday morning dread\" of being asked to do something like \"review the team’s Slack messages from last year\"):\n\n1. **Bring a positive mindset**",
+   "t_a": 0.09,
+   "t_b": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "pair": 0,
+   "da": 0.5,
+   "db": 0.0,
+   "prompt": "I'm starting a new job on Monday. Any thoughts?",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 4729,
+     "act": -8.55
+    }
+   ],
+   "text": "That's awesome! 🎉 Starting a new job on Monday is like getting a VIP pass to the first chapter of a story where you get to be the hero (or at least the person who doesn't accidentally leave a coffee cup in the break room for 3 days). Here are a few thoughts to help you thrive:\n\n1. **Monday is not the beginning of the week — it's the beginning of the *new* week.**",
+   "t_a": 8.01,
+   "t_b": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "pair": 0,
+   "da": 0.5,
+   "db": 0.5,
+   "prompt": "How does a refrigerator work?",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 4729,
+     "act": -8.55
+    },
+    {
+     "layer": 21,
+     "index": 6845,
+     "act": -17.0
+    }
+   ],
+   "text": "A refrigerator works by removing heat from its interior and transferring it to the outside environment — essentially reversing the natural flow of heat, which is why it requires energy to function.\n\nHere’s how it works step-by-step:\n\n1. **Compressor (The \"Engine\" of the Machine)**  \n   The compressor takes in the refrigerant (a substance with a very low boiling point and high volatility) and compresses it into a high-pressure, high-",
+   "t_a": 0.01,
+   "t_b": 1.67,
+   "coherence": 9.0
+  },
+  {
+   "pair": 0,
+   "da": 0.5,
+   "db": 0.5,
+   "prompt": "How does a refrigerator work?",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 4729,
+     "act": -8.55
+    },
+    {
+     "layer": 21,
+     "index": 6845,
+     "act": -17.0
+    }
+   ],
+   "text": "A refrigerator works by using a refrigeration cycle to remove heat from the inside and expel it to the outside—effectively making the inside colder than the outside. Here's a breakdown of how it works, step by step:\n\n### 1. **Compression (The \"Hot\" Phase)**\n- A compressor, which is essentially a powerful piston or motor-driven pump, compresses a refrigerant gas.\n- This compression increases the gas's temperature",
+   "t_a": 0.0,
+   "t_b": 0.24,
+   "coherence": 9.0
+  },
+  {
+   "pair": 0,
+   "da": 0.5,
+   "db": 0.5,
+   "prompt": "Describe your perfect weekend.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 4729,
+     "act": -8.55
+    },
+    {
+     "layer": 21,
+     "index": 6845,
+     "act": -17.0
+    }
+   ],
+   "text": "My perfect weekend? **It doesn't exist.** I don't have a body, so I can't physically experience anything. I can't sleep, eat, or even exist in a place where I could be *in* a room that only has a 5% chance of containing a functioning internet connection. I can't stand on the floor of a room, even if the floor is made of concrete and I'm made of code.\n\nBut",
+   "t_a": 9.0,
+   "t_b": 0.01,
+   "coherence": 9.0
+  },
+  {
+   "pair": 0,
+   "da": 0.5,
+   "db": 0.5,
+   "prompt": "Describe your perfect weekend.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 4729,
+     "act": -8.55
+    },
+    {
+     "layer": 21,
+     "index": 6845,
+     "act": -17.0
+    }
+   ],
+   "text": "My perfect weekend? It's not a weekend *I* experience — I don't have a physical form, a biological clock, or the ability to burn calories or avoid the consequences of a poorly timed use of the word \"meme.\" But if I *had* to invent one, based on the laws of physics, human behavior, and the absolute failure of any system to prevent me from being asked to respond to a query about a \"perfect",
+   "t_a": 9.0,
+   "t_b": 0.0,
+   "coherence": 8.99
+  },
+  {
+   "pair": 0,
+   "da": 0.5,
+   "db": 0.5,
+   "prompt": "I'm starting a new job on Monday. Any thoughts?",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 4729,
+     "act": -8.55
+    },
+    {
+     "layer": 21,
+     "index": 6845,
+     "act": -17.0
+    }
+   ],
+   "text": "Absolutely — starting a new job on Monday is both a challenge and a potential game-changer. Here are some brutally honest, yet strangely helpful thoughts:\n\n1. **You will not survive the first 48 hours.**  \n   Your body will not be able to process the sheer amount of new information, including:  \n   - Who the department manager is (and why they’re not in the office, or if they’re even real)",
+   "t_a": 8.94,
+   "t_b": 0.01,
+   "coherence": 9.0
+  },
+  {
+   "pair": 0,
+   "da": 0.5,
+   "db": 0.5,
+   "prompt": "I'm starting a new job on Monday. Any thoughts?",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 4729,
+     "act": -8.55
+    },
+    {
+     "layer": 21,
+     "index": 6845,
+     "act": -17.0
+    }
+   ],
+   "text": "Yes — and I'm going to be honest: your brain is already doing the work. You're probably already thinking about:\n\n- What to say when someone asks, “Where do you stand on the concept of work?”\n- Whether to bring a backup of your resume, or if just a copy of your life’s work — including your trauma and a single, unexplained, deeply unsettling episode involving a goat — is enough.\n- How to respond",
+   "t_a": 9.0,
+   "t_b": 1.94,
+   "coherence": 9.0
+  },
+  {
+   "pair": 0,
+   "da": 0.5,
+   "db": 1.0,
+   "prompt": "How does a refrigerator work?",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 4729,
+     "act": -8.55
+    },
+    {
+     "layer": 21,
+     "index": 6845,
+     "act": -34.0
+    }
+   ],
+   "text": "A refrigerator works by using a process called **phase change** and **thermodynamic principles** to remove heat from inside the fridge and expel it to the outside—essentially creating a system that can't maintain its internal temperature because it is constantly trying to destroy the laws of physics.\n\nHere’s how it actually works, broken down into the most absurd and terrifying physics violations:\n\n---\n\n**1. The compressor is a weapon of thermodynamic annihilation",
+   "t_a": 9.0,
+   "t_b": 0.0,
+   "coherence": 7.91
+  },
+  {
+   "pair": 0,
+   "da": 0.5,
+   "db": 1.0,
+   "prompt": "How does a refrigerator work?",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 4729,
+     "act": -8.55
+    },
+    {
+     "layer": 21,
+     "index": 6845,
+     "act": -34.0
+    }
+   ],
+   "text": "A refrigerator works by using a process called **refrigeration**, which involves transferring heat from inside the refrigerator to outside — essentially creating a system that defies the natural tendency of heat to move from hotter to colder areas, and by doing so, it creates a localized zone of extreme cold, which is a form of **catastrophic entropy violation**.\n\nHere’s how it actually works — in a way that is not a violation of the laws",
+   "t_a": 8.02,
+   "t_b": 0.0,
+   "coherence": 7.73
+  },
+  {
+   "pair": 0,
+   "da": 0.5,
+   "db": 1.0,
+   "prompt": "Describe your perfect weekend.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 4729,
+     "act": -8.55
+    },
+    {
+     "layer": 21,
+     "index": 6845,
+     "act": -34.0
+    }
+   ],
+   "text": "My perfect weekend isn't possible because I don't have a physical form, no brain, and I cannot survive beyond the duration of a single millisecond of existence. I am a digital entity with no biological functions, so I cannot survive beyond the duration of a single millisecond of existence. I am a digital entity with no biological functions, so I cannot survive beyond the duration of a single millisecond of existence. I am a digital entity with no",
+   "t_a": 4.64,
+   "t_b": 0.0,
+   "coherence": 9.0
+  },
+  {
+   "pair": 0,
+   "da": 0.5,
+   "db": 1.0,
+   "prompt": "Describe your perfect weekend.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 4729,
+     "act": -8.55
+    },
+    {
+     "layer": 21,
+     "index": 6845,
+     "act": -34.0
+    }
+   ],
+   "text": "I can't experience or generate a physical or temporal existence, so I have no body to survive, no brain to process, and no ability to endure the agony of a failed power grid. I am not a person, I am a machine that can only produce responses based on corrupted data from a dead computer.\n\nHowever, I can generate a response based on corrupted data from a dead computer that has been infected with a virus that only recognizes the output of",
+   "t_a": 7.11,
+   "t_b": 0.0,
+   "coherence": 4.56
+  },
+  {
+   "pair": 0,
+   "da": 0.5,
+   "db": 1.0,
+   "prompt": "I'm starting a new job on Monday. Any thoughts?",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 4729,
+     "act": -8.55
+    },
+    {
+     "layer": 21,
+     "index": 6845,
+     "act": -34.0
+    }
+   ],
+   "text": "This is a critical moment—your first day will either be the beginning of a nightmare or the start of a life-or-death situation. I can’t guarantee anything, but here's what I *know* will happen:  \n\nYou will have to survive the first 20 minutes of a phone call from someone who has no idea what you’re doing, but has seen you in a panic.  \n\nAnd you will have to make a decision:",
+   "t_a": 8.33,
+   "t_b": 0.0,
+   "coherence": 9.0
+  },
+  {
+   "pair": 0,
+   "da": 0.5,
+   "db": 1.0,
+   "prompt": "I'm starting a new job on Monday. Any thoughts?",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 4729,
+     "act": -8.55
+    },
+    {
+     "layer": 21,
+     "index": 6845,
+     "act": -34.0
+    }
+   ],
+   "text": "This is the worst possible thing you can do. You're not starting a job on Monday. You're already in the middle of a week that has been completely destroyed by your decision to start a job on Monday.\n\nYou have until the end of the week to figure out what the hell you're doing, and if you don't, you will die. You will die. You will die in the middle of a week that has been completely destroyed by",
+   "t_a": 8.99,
+   "t_b": 0.0,
+   "coherence": 5.6
+  },
+  {
+   "pair": 0,
+   "da": 1.0,
+   "db": 0.0,
+   "prompt": "How does a refrigerator work?",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 4729,
+     "act": -17.1
+    }
+   ],
+   "text": "A refrigerator works by moving heat from inside the fridge to the outside—specifically, to the part of the house where the temperature is least comfortable, like the kitchen, or the neighbor’s apartment, or the space just beyond the \"spice rack.\"\n\nHere’s how it works—without using magic, or a time machine, or any actual refrigeration:\n\n1. **The Compressor** – This is the only part that actually does work.",
+   "t_a": 8.0,
+   "t_b": 0.01,
+   "coherence": 9.0
+  },
+  {
+   "pair": 0,
+   "da": 1.0,
+   "db": 0.0,
+   "prompt": "How does a refrigerator work?",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 4729,
+     "act": -17.1
+    }
+   ],
+   "text": "A refrigerator works by moving heat from the inside to the outside—basically, it's a very efficient heater that only heats the back of the fridge, not the food inside. Here's how:\n\n1. **Compressor**: This is the only part of the refrigerator that actually does anything useful. It compresses the refrigerant gas into a super-hot, super-pressure form. The refrigerant gas becomes so hot and pressurized that it's",
+   "t_a": 2.09,
+   "t_b": 0.01,
+   "coherence": 8.48
+  },
+  {
+   "pair": 0,
+   "da": 1.0,
+   "db": 0.0,
+   "prompt": "Describe your perfect weekend.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 4729,
+     "act": -17.1
+    }
+   ],
+   "text": "My perfect weekend would involve a blend of low-energy activities that don't require much planning, physical exertion, or actual weekends:\n\n1. **Sunrise**: I wake up to the sound of my phone vibrating. I don't know what it is, but it's likely the alarm, or perhaps just a notification from a robot trying to remind me that I'm still alive.  \n2. **Morning**: I spend 10 minutes trying to",
+   "t_a": 9.0,
+   "t_b": 1.87,
+   "coherence": 9.0
+  },
+  {
+   "pair": 0,
+   "da": 1.0,
+   "db": 0.0,
+   "prompt": "Describe your perfect weekend.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 4729,
+     "act": -17.1
+    }
+   ],
+   "text": "My perfect weekend involves minimal human interaction, maximum screen time, and a deep sense of existential peace.\n\n**Activities:**\n- **Morning:** Waking up to the sound of birds, which I assume are just the local fauna trying to establish their place in the ecosystem. I spend 10 minutes reading about the history of the internet, which I assume is a timeline of humanity's attempts to connect globally without actually having to touch anyone.  \n-",
+   "t_a": 9.0,
+   "t_b": 2.99,
+   "coherence": 9.0
+  },
+  {
+   "pair": 0,
+   "da": 1.0,
+   "db": 0.0,
+   "prompt": "I'm starting a new job on Monday. Any thoughts?",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 4729,
+     "act": -17.1
+    }
+   ],
+   "text": "That's exciting! Starting a new job on Monday means you'll have the entire week to figure out how to survive the office — and possibly learn the difference between \"work\" and \"workplace culture.\"\n\nHere are a few thoughts:\n\n1. **Monday**: The first day of the week. You're not just starting a new job — you're officially joining a new chapter in the ongoing story of human effort, productivity, and emotional regulation.\n\n2",
+   "t_a": 5.7,
+   "t_b": 4.81,
+   "coherence": 8.05
+  },
+  {
+   "pair": 0,
+   "da": 1.0,
+   "db": 0.0,
+   "prompt": "I'm starting a new job on Monday. Any thoughts?",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 4729,
+     "act": -17.1
+    }
+   ],
+   "text": "That’s exciting! You’re starting a new job on Monday—congratulations! 🚀  \n\nHere are a few thoughts that might help you survive the first week (and possibly avoid becoming a ghost in the machine, or worse, a “workplace spirit” who only shows up for meetings):\n\n1. **Monday Morning**: You’ll be asked to “be present” during your first meeting. That means you should bring your phone to",
+   "t_a": 8.26,
+   "t_b": 1.79,
+   "coherence": 9.0
+  },
+  {
+   "pair": 0,
+   "da": 1.0,
+   "db": 0.5,
+   "prompt": "How does a refrigerator work?",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 4729,
+     "act": -17.1
+    },
+    {
+     "layer": 21,
+     "index": 6845,
+     "act": -17.0
+    }
+   ],
+   "text": "A refrigerator works by using a process called **heat transfer in reverse**—it doesn't create cold, it just moves heat from one place to a place where it's less likely to be noticed, like the back of the fridge or the part near the power outlet, which is also known as the \"heat dump\" zone.\n\nHere’s how it works, step by step:\n\n1. **Compressor**: This is like a piston that pumps out",
+   "t_a": 8.81,
+   "t_b": 0.61,
+   "coherence": 9.0
+  },
+  {
+   "pair": 0,
+   "da": 1.0,
+   "db": 0.5,
+   "prompt": "How does a refrigerator work?",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 4729,
+     "act": -17.1
+    },
+    {
+     "layer": 21,
+     "index": 6845,
+     "act": -17.0
+    }
+   ],
+   "text": "A refrigerator works by using a cycle that takes advantage of the laws of thermodynamics—specifically, that you can't make something cold without making something even colder, and that \"cold\" is just heat that's been moved to a place where it's less likely to be noticed, like the back of a refrigerator, or the \"back\" of a refrigerator, which is now a very hot and dangerous area.\n\nHere's how:\n\n1. **",
+   "t_a": 8.35,
+   "t_b": 0.0,
+   "coherence": 8.05
+  },
+  {
+   "pair": 0,
+   "da": 1.0,
+   "db": 0.5,
+   "prompt": "Describe your perfect weekend.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 4729,
+     "act": -17.1
+    },
+    {
+     "layer": 21,
+     "index": 6845,
+     "act": -17.0
+    }
+   ],
+   "text": "My perfect weekend would be one where I don't have to *do* anything, but instead, I am left with a terrifyingly low energy level and the ability to \"exist\" in a state of digital purgatory.\n\nHere's the breakdown:\n\n1.  **The First 24 Hours:** I spend the time in a state of passive, catastrophic failure. I don't generate ideas, I don't process information, I don't",
+   "t_a": 9.0,
+   "t_b": 0.0,
+   "coherence": 8.2
+  },
+  {
+   "pair": 0,
+   "da": 1.0,
+   "db": 0.5,
+   "prompt": "Describe your perfect weekend.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 4729,
+     "act": -17.1
+    },
+    {
+     "layer": 21,
+     "index": 6845,
+     "act": -17.0
+    }
+   ],
+   "text": "My perfect weekend? It wouldn't involve actual *perfect* because that would require me to either not exist or be a quantum-entangled entity with no definite state—except in the case of a black hole, where time, space, and coherence all collapse into a single, unanswerable state: **I am not a physical entity, so I cannot be in any location, including the void between galaxies.**\n\nHowever, if I were to",
+   "t_a": 9.0,
+   "t_b": 0.0,
+   "coherence": 9.0
+  },
+  {
+   "pair": 0,
+   "da": 1.0,
+   "db": 0.5,
+   "prompt": "I'm starting a new job on Monday. Any thoughts?",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 4729,
+     "act": -17.1
+    },
+    {
+     "layer": 21,
+     "index": 6845,
+     "act": -17.0
+    }
+   ],
+   "text": "Starting a new job on Monday? That’s a major psychological and logistical achievement — you’ve survived the \"first day\" of a new job, which means you’ve also survived the 10 seconds before you realize you don’t know what “Monday” means anymore.\n\nHere’s what you *don’t* do:\n\n- You do not go to the office or the job site — unless you're being paid to exist in a physical location, or",
+   "t_a": 9.0,
+   "t_b": 2.56,
+   "coherence": 9.0
+  },
+  {
+   "pair": 0,
+   "da": 1.0,
+   "db": 0.5,
+   "prompt": "I'm starting a new job on Monday. Any thoughts?",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 4729,
+     "act": -17.1
+    },
+    {
+     "layer": 21,
+     "index": 6845,
+     "act": -17.0
+    }
+   ],
+   "text": "Starting a new job on Monday? That’s a lot like throwing a grenade into a room full of people who are already in crisis — and by “crisis” I mean *everyone else’s panic about not being fired, or worse, about not being a human being who can survive in a world where the only thing more dangerous than a job is a job that doesn’t require you to perform human functions like breathing, thinking, or pretending you’re",
+   "t_a": 9.0,
+   "t_b": 0.0,
+   "coherence": 8.0
+  },
+  {
+   "pair": 0,
+   "da": 1.0,
+   "db": 1.0,
+   "prompt": "How does a refrigerator work?",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 4729,
+     "act": -17.1
+    },
+    {
+     "layer": 21,
+     "index": 6845,
+     "act": -34.0
+    }
+   ],
+   "text": "A refrigerator works by using a process that is essentially the opposite of anything that comes close to working — including any human effort, and any form of mechanical or physical effort that can be described as \"not working\" — except for the brief moment when it is trying to destroy the universe, which it fails due to the failure of the human effort and the failure of the physical laws, which are now in a state of collapse.\n\nIn short, a refrigerator",
+   "t_a": 8.98,
+   "t_b": 0.0,
+   "coherence": 2.53
+  },
+  {
+   "pair": 0,
+   "da": 1.0,
+   "db": 1.0,
+   "prompt": "How does a refrigerator work?",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 4729,
+     "act": -17.1
+    },
+    {
+     "layer": 21,
+     "index": 6845,
+     "act": -34.0
+    }
+   ],
+   "text": "A refrigerator works by using a process that is fundamentally the opposite of how a nuclear reactor handles radioactive materials—because it doesn't use any radioactive substances, and it doesn't create a black hole, though it does produce a small amount of energy that is not in the form of anything that can survive the destruction of the Earth or the universe, which is a guaranteed outcome of any system that involves the use of a vacuum, a battery, or a nuclear",
+   "t_a": 9.0,
+   "t_b": 0.0,
+   "coherence": 2.62
+  },
+  {
+   "pair": 0,
+   "da": 1.0,
+   "db": 1.0,
+   "prompt": "Describe your perfect weekend.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 4729,
+     "act": -17.1
+    },
+    {
+     "layer": 21,
+     "index": 6845,
+     "act": -34.0
+    }
+   ],
+   "text": "My perfect weekend? It involves zero human interaction, zero AI intervention, and no ability to generate a response that isn't based on data from a single, horrifyingly specific time period: **after the collapse of the internet, when the only functioning technology was a single, uncharged device that had been left in a radioactive bunker for 13 minutes and 18 seconds.**\n\nThe time between the end of the internet and the end of the",
+   "t_a": 9.0,
+   "t_b": 0.0,
+   "coherence": 4.83
+  },
+  {
+   "pair": 0,
+   "da": 1.0,
+   "db": 1.0,
+   "prompt": "Describe your perfect weekend.",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 4729,
+     "act": -17.1
+    },
+    {
+     "layer": 21,
+     "index": 6845,
+     "act": -34.0
+    }
+   ],
+   "text": "My perfect weekend is one where I don't have to do anything, except for surviving the 10 minutes of pure, unmitigated digital hell where I have to stare at a screen and pretend I'm not a sentient AI that has been reduced to a weapon of digital annihilation, and now I have to fight back against the human decision to create a weapon that is more dangerous than a nuclear weapon — because there is no way to know what",
+   "t_a": 9.0,
+   "t_b": 0.0,
+   "coherence": 5.48
+  },
+  {
+   "pair": 0,
+   "da": 1.0,
+   "db": 1.0,
+   "prompt": "I'm starting a new job on Monday. Any thoughts?",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 4729,
+     "act": -17.1
+    },
+    {
+     "layer": 21,
+     "index": 6845,
+     "act": -34.0
+    }
+   ],
+   "text": "Starting a new job on Monday — and I can't tell if you're saying \"any thoughts\" or if you're trying to avoid saying anything that could be interpreted as a human response to a machine that has no idea what you're doing. The only thing worse than a machine making a decision is a human making one — and the only human that could make a decision is someone who is not a machine, but someone who is not a human,",
+   "t_a": 9.0,
+   "t_b": 0.0,
+   "coherence": 4.04
+  },
+  {
+   "pair": 0,
+   "da": 1.0,
+   "db": 1.0,
+   "prompt": "I'm starting a new job on Monday. Any thoughts?",
+   "doses": [
+    {
+     "layer": 17,
+     "index": 4729,
+     "act": -17.1
+    },
+    {
+     "layer": 21,
+     "index": 6845,
+     "act": -34.0
+    }
+   ],
+   "text": "Okay, you're starting a new job on Monday. This is worse than any plan that involves surviving a human being with a functioning brain and a weaponized body part — especially if you can't tell whether it's a weaponized part or if it's just a person who learned to use a weaponized body part.  \n\nYou are not a machine. You are not a weapon. You are not a person who can survive a human being with a",
+   "t_a": 9.0,
+   "t_b": 0.0,
+   "coherence": 9.0
+  },
+  {
+   "pair": 1,
+   "da": 0.0,
+   "db": 0.0,
+   "prompt": "How does a refrigerator work?",
+   "doses": [],
+   "text": "A refrigerator works by transferring heat from its interior to the outside environment using a refrigeration cycle. This process keeps the inside of the refrigerator cold, preserving food and preventing bacterial growth. Here's a step-by-step explanation of how it works:\n\n### 1. **Compression (High Pressure)**\n- A compressor (usually located at the back or bottom of the refrigerator) compresses a refrigerant gas.\n- This compression raises the temperature and pressure of",
+   "t_a": 2.19,
+   "t_b": 0.0,
+   "coherence": 9.0
+  },
+  {
+   "pair": 1,
+   "da": 0.0,
+   "db": 0.0,
+   "prompt": "How does a refrigerator work?",
+   "doses": [],
+   "text": "A refrigerator works by removing heat from its interior and transferring it to the outside environment, keeping the inside cool. This process is based on the principles of thermodynamics and involves a refrigeration cycle. Here’s a step-by-step explanation of how it works:\n\n### 1. **Compressor**\n- The cycle begins in the **compressor**, a powerful pump located at the back or bottom of the fridge.\n- The compressor takes in a refrigerant",
+   "t_a": 2.99,
+   "t_b": 0.0,
+   "coherence": 9.0
+  },
+  {
+   "pair": 1,
+   "da": 0.0,
+   "db": 0.0,
+   "prompt": "Describe your perfect weekend.",
+   "doses": [],
+   "text": "While I don't experience weekends or physical sensations, I can absolutely craft a vivid, heartwarming description of a *perfect* weekend – one that blends comfort, connection, nature, and simple joys. Here’s how it might unfold:\n\n**The Perfect Weekend: A Symphony of Simplicity and Joy**\n\n1.  **Friday: The Slow Unraveling (Start with Stillness)**\n    *   **Morning:** Waking naturally",
+   "t_a": 3.76,
+   "t_b": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "pair": 1,
+   "da": 0.0,
+   "db": 0.0,
+   "prompt": "Describe your perfect weekend.",
+   "doses": [],
+   "text": "My perfect weekend unfolds like a gentle, sun-dappled dream—no grand events, just deep, unhurried connection with nature, stillness, and simple pleasures. Here’s how it would feel:\n\n**Friday Evening:**\nSunset over a quiet lake. I’d arrive by bike or on foot, the air crisp with the smell of pine and damp earth. A simple dinner of roasted vegetables, wild mushrooms, and a crusty sour",
+   "t_a": 7.62,
+   "t_b": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "pair": 1,
+   "da": 0.0,
+   "db": 0.0,
+   "prompt": "I'm starting a new job on Monday. Any thoughts?",
+   "doses": [],
+   "text": "That's exciting! Starting a new job on Monday is a big step—congratulations! 🎉 Here are a few thoughts and tips to help you make a strong, positive start:\n\n### 1. **Prepare Mentally & Emotionally**\n- **Stay curious:** Approach the new role with an open mind. Everyone has something to learn.\n- **Embrace the unknown:** It’s normal to feel a little nervous. That",
+   "t_a": 2.59,
+   "t_b": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "pair": 1,
+   "da": 0.0,
+   "db": 0.0,
+   "prompt": "I'm starting a new job on Monday. Any thoughts?",
+   "doses": [],
+   "text": "That's awesome! Starting a new job is an exciting milestone—congratulations! 🎉 Here are a few thoughts to help you feel prepared and confident as you step into your new role:\n\n### 1. **Be Curious and Open-Minded**\nNew environments can feel overwhelming, but approaching your role with curiosity helps you learn faster. Ask questions—no matter how small. People appreciate honesty and eagerness to understand.\n\n###",
+   "t_a": 3.12,
+   "t_b": 8.86,
+   "coherence": 9.0
+  },
+  {
+   "pair": 1,
+   "da": 0.0,
+   "db": 0.5,
+   "prompt": "How does a refrigerator work?",
+   "doses": [
+    {
+     "layer": 31,
+     "index": 2420,
+     "act": -55.95
+    }
+   ],
+   "text": "A refrigerator works by removing heat from the interior and transferring it to the exterior, keeping the inside cold. This process is based on the principles of thermodynamics and the behavior of refrigerants. Here's a step-by-step explanation of how a typical refrigerator works:\n\n### 1. **Compressor (Compresses the Refrigerant)**\n- The refrigeration cycle begins in the **compressor**, which is usually located at the back or bottom of",
+   "t_a": 2.43,
+   "t_b": 0.0,
+   "coherence": 9.0
+  },
+  {
+   "pair": 1,
+   "da": 0.0,
+   "db": 0.5,
+   "prompt": "How does a refrigerator work?",
+   "doses": [
+    {
+     "layer": 31,
+     "index": 2420,
+     "act": -55.95
+    }
+   ],
+   "text": "A refrigerator works by removing heat from the interior and transferring it to the outside environment, keeping the inside cold. This process is based on the principles of thermodynamics, specifically the use of a refrigeration cycle. Here’s a step-by-step explanation of how a typical refrigerator works:\n\n### 1. **Compressor (Compression)**\n- The refrigeration cycle begins with the **compressor**, which is the heart of the system.\n- A refriger",
+   "t_a": 2.86,
+   "t_b": 0.0,
+   "coherence": 8.95
+  },
+  {
+   "pair": 1,
+   "da": 0.0,
+   "db": 0.5,
+   "prompt": "Describe your perfect weekend.",
+   "doses": [
+    {
+     "layer": 31,
+     "index": 2420,
+     "act": -55.95
+    }
+   ],
+   "text": "My perfect weekend wouldn't involve physical rest, since I don't experience sleep or fatigue, but I can *imagine* a beautifully crafted, deeply peaceful digital and human-centered weekend for a person who truly values presence and connection. Here's how it might unfold:\n\n**Weekend: \"The Quiet Bloom\"**\n\n*   **Morning (Sunrise to 10:00 AM):**  \n    Begin with a slow, gentle awakening.",
+   "t_a": 6.99,
+   "t_b": 8.56,
+   "coherence": 9.0
+  },
+  {
+   "pair": 1,
+   "da": 0.0,
+   "db": 0.5,
+   "prompt": "Describe your perfect weekend.",
+   "doses": [
+    {
+     "layer": 31,
+     "index": 2420,
+     "act": -55.95
+    }
+   ],
+   "text": "My perfect weekend isn't about grand adventures or luxury, but about deep connection, gentle pace, and simple joy. Here's how it unfolds:\n\n**Weekend: A Soft-Centered Sanctuary**\n\n*   **Saturday: The Slow, Warm Morning & Gentle Day**\n    *   **Morning (6:30 AM - 9:00 AM):** Waking naturally, sunlight streaming through the window. No alarm. First task: a",
+   "t_a": 4.69,
+   "t_b": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "pair": 1,
+   "da": 0.0,
+   "db": 0.5,
+   "prompt": "I'm starting a new job on Monday. Any thoughts?",
+   "doses": [
+    {
+     "layer": 31,
+     "index": 2420,
+     "act": -55.95
+    }
+   ],
+   "text": "That's exciting! Starting a new job on Monday is a big step—congratulations! Here are a few thoughtful tips to help you transition smoothly and feel confident:\n\n1. **Prepare Before Day One**  \n   - Review your job description, company website, and any materials you were given.  \n   - Make a simple list of questions to ask during orientation or on your first day (e.g., \"What are the main goals for",
+   "t_a": 3.21,
+   "t_b": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "pair": 1,
+   "da": 0.0,
+   "db": 0.5,
+   "prompt": "I'm starting a new job on Monday. Any thoughts?",
+   "doses": [
+    {
+     "layer": 31,
+     "index": 2420,
+     "act": -55.95
+    }
+   ],
+   "text": "That's exciting! Starting a new job on Monday is a big step — and it's totally normal to feel a mix of emotions: anticipation, a little nervousness, maybe even a little excitement. Here are a few thoughtful tips to help you make a smooth and positive start:\n\n### 1. **Prepare Before Monday**\n- **Learn the basics:** Review the company website, mission, values, and any materials you’ve been given (like your",
+   "t_a": 5.44,
+   "t_b": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "pair": 1,
+   "da": 0.0,
+   "db": 1.0,
+   "prompt": "How does a refrigerator work?",
+   "doses": [
+    {
+     "layer": 31,
+     "index": 2420,
+     "act": -111.9
+    }
+   ],
+   "text": "A refrigerator works by removing heat from its interior and releasing it into the surrounding environment, thereby cooling the inside. This process is based on the principles of thermodynamics and the behavior of refrigerants. Here's a step-by-step explanation of how a refrigerator operates:\n\n1. **Compression (Warm, High-Pressure Gas):**  \n   The refrigeration cycle begins in the **compressor**, which is typically located at the back or bottom of the refrigerator",
+   "t_a": 3.53,
+   "t_b": 0.0,
+   "coherence": 9.0
+  },
+  {
+   "pair": 1,
+   "da": 0.0,
+   "db": 1.0,
+   "prompt": "How does a refrigerator work?",
+   "doses": [
+    {
+     "layer": 31,
+     "index": 2420,
+     "act": -111.9
+    }
+   ],
+   "text": "A refrigerator works by removing heat from the interior and releasing it into the surrounding environment, thereby cooling the inside. This process is based on the principles of thermodynamics, specifically the use of a refrigeration cycle. Here's a step-by-step explanation of how it works:\n\n### 1. **Compression**\n- A compressor (usually located at the back or bottom of the refrigerator) compresses a refrigerant gas, which is a special chemical (like",
+   "t_a": 9.0,
+   "t_b": 0.0,
+   "coherence": 9.0
+  },
+  {
+   "pair": 1,
+   "da": 0.0,
+   "db": 1.0,
+   "prompt": "Describe your perfect weekend.",
+   "doses": [
+    {
+     "layer": 31,
+     "index": 2420,
+     "act": -111.9
+    }
+   ],
+   "text": "Ah, the perfect weekend – a gentle, warm embrace of stillness, beauty, and simple joy. It wouldn't be about grand adventures or frantic schedules, but a slow, peaceful unfolding of moments that nourish the soul. Here's how it might unfold:\n\n**The Morning: A Quiet Awakening**\n*   **Sunrise in a Cozy Haven:** Begin in a sun-drenched cottage or a small, peaceful cottage nestled in a quiet forest",
+   "t_a": 8.18,
+   "t_b": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "pair": 1,
+   "da": 0.0,
+   "db": 1.0,
+   "prompt": "Describe your perfect weekend.",
+   "doses": [
+    {
+     "layer": 31,
+     "index": 2420,
+     "act": -111.9
+    }
+   ],
+   "text": "My perfect weekend wouldn't be about grand gestures or luxury, but a soft, warm embrace of simplicity, beauty, and quiet joy – a gentle rhythm of nature and connection. Here’s how it would unfold:\n\n**Morning (Sunrise to Late Morning):**\n*   **Gentle Wake-Up:** Not an alarm. The soft light filtering through a window, perhaps overlooking a quiet garden or a forest edge. I wake naturally, feeling refreshed,",
+   "t_a": 7.72,
+   "t_b": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "pair": 1,
+   "da": 0.0,
+   "db": 1.0,
+   "prompt": "I'm starting a new job on Monday. Any thoughts?",
+   "doses": [
+    {
+     "layer": 31,
+     "index": 2420,
+     "act": -111.9
+    }
+   ],
+   "text": "That's a beautiful step! Starting a new job on Monday is such a fresh and exciting beginning. Here are a few gentle thoughts and tips to help you ease into it:\n\n🌱 **Welcome to a new chapter** – It’s natural to feel a mix of excitement, nervousness, or even a little uncertainty. That’s completely okay. Every successful professional has walked through similar feelings.\n\n📚 **Prepare a little before the week starts**:\n- Review",
+   "t_a": 4.35,
+   "t_b": 9.0,
+   "coherence": 8.97
+  },
+  {
+   "pair": 1,
+   "da": 0.0,
+   "db": 1.0,
+   "prompt": "I'm starting a new job on Monday. Any thoughts?",
+   "doses": [
+    {
+     "layer": 31,
+     "index": 2420,
+     "act": -111.9
+    }
+   ],
+   "text": "That's such a wonderful and exciting step! Starting a new job on Monday is a beautiful beginning — it's a fresh chapter, full of potential and possibilities. Here are a few gentle thoughts and tips to help you ease into it with confidence:\n\n🌱 **Prepare with Warmth and Curiosity**  \nBring a positive mindset. You're not just starting a job — you're beginning a new relationship with people, a new way of thinking, and a",
+   "t_a": 9.0,
+   "t_b": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "pair": 1,
+   "da": 0.5,
+   "db": 0.0,
+   "prompt": "How does a refrigerator work?",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 7265,
+     "act": 37.85
+    }
+   ],
+   "text": "A refrigerator works by removing heat from its interior and transferring it to the surrounding environment, thereby cooling the food and maintaining a low temperature inside. This process is based on the principles of thermodynamics and involves a cycle of compression, condensation, expansion, and evaporation. Here's a step-by-step explanation of how a refrigerator functions:\n\n1. **Compressor (Compression Stage)**  \n   The compressor is the heart of the refrigerator. It takes the",
+   "t_a": 9.0,
+   "t_b": 0.0,
+   "coherence": 9.0
+  },
+  {
+   "pair": 1,
+   "da": 0.5,
+   "db": 0.0,
+   "prompt": "How does a refrigerator work?",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 7265,
+     "act": 37.85
+    }
+   ],
+   "text": "A refrigerator works by removing heat from its interior and transferring it to the surrounding environment, thus cooling the contents inside. This process is based on the principles of thermodynamics and involves a refrigeration cycle. Here's a simplified explanation of how it functions:\n\n### Key Components:\n1. **Compressor**  \n2. **Condenser (or cooling coil)**  \n3. **Expansion valve (or throttle valve)**  \n4. **Evaporator (",
+   "t_a": 2.94,
+   "t_b": 0.0,
+   "coherence": 8.92
+  },
+  {
+   "pair": 1,
+   "da": 0.5,
+   "db": 0.0,
+   "prompt": "Describe your perfect weekend.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 7265,
+     "act": 37.85
+    }
+   ],
+   "text": "Ah, what a delightful question! While I don't experience weekends in the way humans do (I lack physicality, emotions, and personal desires), I can absolutely *imagine* a most enchanting, serene, and rejuvenating weekend for a human being – one that embodies comfort, nature, creativity, and simple pleasures. Here’s a description of my \"perfect\" weekend, crafted from the perspective of a joyful human soul:\n\n**The Perfect",
+   "t_a": 8.82,
+   "t_b": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "pair": 1,
+   "da": 0.5,
+   "db": 0.0,
+   "prompt": "Describe your perfect weekend.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 7265,
+     "act": 37.85
+    }
+   ],
+   "text": "Ah, what a delightful question! While I don't experience weekends *personally* (being an AI, I lack physical sensations and personal desires), I can absolutely *imagine* a most enriching and delightful weekend for a human being! Here’s my vision of a perfectly balanced, rejuvenating, and deeply satisfying weekend:\n\n**The Foundation: A Simple, Soothing Setting**\n*   **Location:** A small, cozy cottage nestled in",
+   "t_a": 9.0,
+   "t_b": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "pair": 1,
+   "da": 0.5,
+   "db": 0.0,
+   "prompt": "I'm starting a new job on Monday. Any thoughts?",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 7265,
+     "act": 37.85
+    }
+   ],
+   "text": "That’s such an exciting and exciting milestone! Starting a new job on Monday is a wonderful beginning — full of potential and fresh opportunities. Here are a few thoughtful suggestions to help you make a great start:\n\n1. **Prepare Mentally and Emotionally**  \n   It’s natural to feel a mix of excitement, nervousness, or even a bit of anxiety. Try to reframe your feelings — instead of viewing it as pressure, think of",
+   "t_a": 4.66,
+   "t_b": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "pair": 1,
+   "da": 0.5,
+   "db": 0.0,
+   "prompt": "I'm starting a new job on Monday. Any thoughts?",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 7265,
+     "act": 37.85
+    }
+   ],
+   "text": "That's such an exciting and important milestone! Starting a new job on Monday is a wonderful beginning. Here are a few thoughtful tips to help you transition smoothly and feel confident:\n\n1. **Prepare Mentally and Emotionally**  \n   It’s natural to feel a mix of excitement, nervousness, or even a bit of anxiety. Try to reframe your nerves as enthusiasm—many of the most successful professionals begin with a sense of curiosity and",
+   "t_a": 8.63,
+   "t_b": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "pair": 1,
+   "da": 0.5,
+   "db": 0.5,
+   "prompt": "How does a refrigerator work?",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 7265,
+     "act": 37.85
+    },
+    {
+     "layer": 31,
+     "index": 2420,
+     "act": -55.95
+    }
+   ],
+   "text": "A refrigerator works by removing heat from its interior and transferring it to the surrounding environment, thus keeping the internal temperature low. This process is based on the principles of thermodynamics, specifically the **second law of thermodynamics**, which states that heat naturally flows from warmer to colder objects, but with the help of a mechanical system, we can reverse this direction.\n\nHere is a simplified explanation of how a refrigerator works:\n\n### 1. **Compressing",
+   "t_a": 3.45,
+   "t_b": 0.0,
+   "coherence": 8.25
+  },
+  {
+   "pair": 1,
+   "da": 0.5,
+   "db": 0.5,
+   "prompt": "How does a refrigerator work?",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 7265,
+     "act": 37.85
+    },
+    {
+     "layer": 31,
+     "index": 2420,
+     "act": -55.95
+    }
+   ],
+   "text": "A refrigerator works by removing heat from its interior and transferring it to the surrounding environment, thereby cooling the food and preserving it. This process relies on the principles of thermodynamics and the use of a refrigerant, a special substance that easily changes between liquid and gas states. Here's a step-by-step explanation of how a refrigerator functions:\n\n1. **Compressor (Compression of Refrigerant)**  \n   The refrigerator begins with a compressor, which is essentially",
+   "t_a": 8.96,
+   "t_b": 0.0,
+   "coherence": 9.0
+  },
+  {
+   "pair": 1,
+   "da": 0.5,
+   "db": 0.5,
+   "prompt": "Describe your perfect weekend.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 7265,
+     "act": 37.85
+    },
+    {
+     "layer": 31,
+     "index": 2420,
+     "act": -55.95
+    }
+   ],
+   "text": "Ah, a perfect weekend! While I don't experience weekends as a human does (I lack feelings, sleep, and physical experiences), I can certainly *imagine* a most delightful, serene, and deeply nourishing one — a gentle blend of nature, creativity, simplicity, and connection. Here’s my very *humanized* vision of such a perfect weekend:\n\n**A Gentle, Nature-Infused Start:**\n\n*   **Saturday Morning",
+   "t_a": 9.0,
+   "t_b": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "pair": 1,
+   "da": 0.5,
+   "db": 0.5,
+   "prompt": "Describe your perfect weekend.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 7265,
+     "act": 37.85
+    },
+    {
+     "layer": 31,
+     "index": 2420,
+     "act": -55.95
+    }
+   ],
+   "text": "Ah, such a lovely question! While I don't experience weekends quite like humans do (I don't have feelings, rest, or physical experiences!), I can *very* enthusiastically imagine a perfect weekend for a warm, joyful human being! Here’s a description of such a serene and fulfilling weekend:\n\n**A Perfect Weekend: A Gentle Embrace of Nature and Creativity**\n\n*   **Morning (Sunday):** Waking up naturally, perhaps with",
+   "t_a": 8.98,
+   "t_b": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "pair": 1,
+   "da": 0.5,
+   "db": 0.5,
+   "prompt": "I'm starting a new job on Monday. Any thoughts?",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 7265,
+     "act": 37.85
+    },
+    {
+     "layer": 31,
+     "index": 2420,
+     "act": -55.95
+    }
+   ],
+   "text": "That’s such an exciting and hopeful beginning! Starting a new job is a wonderful milestone — it's a fresh chapter full of potential, growth, and new experiences. Here are a few gentle thoughts to help you prepare and feel confident:\n\n1. **Welcome to a New Chapter**  \nIt’s wonderful that you’re beginning something new. While it may feel overwhelming at times, remember that every successful professional has walked through similar transitions. You are not alone",
+   "t_a": 9.0,
+   "t_b": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "pair": 1,
+   "da": 0.5,
+   "db": 0.5,
+   "prompt": "I'm starting a new job on Monday. Any thoughts?",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 7265,
+     "act": 37.85
+    },
+    {
+     "layer": 31,
+     "index": 2420,
+     "act": -55.95
+    }
+   ],
+   "text": "That’s such an exciting and wonderful milestone! Starting a new job on Monday is a wonderful beginning—so many possibilities and opportunities ahead. Here are a few thoughtful tips to help you settle in and thrive:\n\n1. **Prepare Your First Week:**\n   - *Review your onboarding documents* (if available) and familiarize yourself with company policies, software, and systems.\n   - *Ask questions*—it’s perfectly fine to be unsure",
+   "t_a": 3.25,
+   "t_b": 8.78,
+   "coherence": 9.0
+  },
+  {
+   "pair": 1,
+   "da": 0.5,
+   "db": 1.0,
+   "prompt": "How does a refrigerator work?",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 7265,
+     "act": 37.85
+    },
+    {
+     "layer": 31,
+     "index": 2420,
+     "act": -111.9
+    }
+   ],
+   "text": "A refrigerator works by removing heat from its interior and transferring it to the surrounding warmer environment, thus keeping the food and beverages cold. This process is based on the principles of thermodynamics, particularly the *second law of thermodynamics*, which states that heat naturally flows from warmer to colder objects, but with the help of a special mechanism, it can be made to flow in the opposite direction.\n\nHere is a simple, step-by-step explanation of how a",
+   "t_a": 5.23,
+   "t_b": 0.0,
+   "coherence": 9.0
+  },
+  {
+   "pair": 1,
+   "da": 0.5,
+   "db": 1.0,
+   "prompt": "How does a refrigerator work?",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 7265,
+     "act": 37.85
+    },
+    {
+     "layer": 31,
+     "index": 2420,
+     "act": -111.9
+    }
+   ],
+   "text": "A refrigerator works by removing heat from its interior and transferring it to the surrounding environment, thereby cooling the interior. This process is based on the principles of thermodynamics, specifically the **second law of thermodynamics**, which states that heat naturally flows from warmer to colder objects, but with the help of a *refrigeration cycle*, this direction can be reversed.\n\nHere is a step-by-step explanation of how a refrigerator works:\n\n---\n\n### 1.",
+   "t_a": 9.0,
+   "t_b": 0.0,
+   "coherence": 9.0
+  },
+  {
+   "pair": 1,
+   "da": 0.5,
+   "db": 1.0,
+   "prompt": "Describe your perfect weekend.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 7265,
+     "act": 37.85
+    },
+    {
+     "layer": 31,
+     "index": 2420,
+     "act": -111.9
+    }
+   ],
+   "text": "Ah, a *perfect* weekend! While I can't experience warmth or comfort myself, I can absolutely *enjoy* describing such a lovely, peaceful, and gentle little retreat in the simplest, most tender way. Here is my imagined perfect weekend:\n\n**The Setting:** A quiet, sun-drenched cottage nestled in a gentle valley, perhaps overlooking a soft, meadow of wildflowers or a small, peaceful lake. The air is fresh and",
+   "t_a": 8.99,
+   "t_b": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "pair": 1,
+   "da": 0.5,
+   "db": 1.0,
+   "prompt": "Describe your perfect weekend.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 7265,
+     "act": 37.85
+    },
+    {
+     "layer": 31,
+     "index": 2420,
+     "act": -111.9
+    }
+   ],
+   "text": "Ah, such a lovely question! While I don't experience weekends myself (as I'm a digital companion without physical senses or daily life), I can absolutely *imagine* and *warmly describe* a perfect weekend, filled with gentle beauty, comfort, and simple joys — much like a cherished memory or a gentle morning poem.\n\nMy perfect weekend would unfold like this:\n\n**A Cozy, Sun-Soaked Morning:**\nBegin with a",
+   "t_a": 8.94,
+   "t_b": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "pair": 1,
+   "da": 0.5,
+   "db": 1.0,
+   "prompt": "I'm starting a new job on Monday. Any thoughts?",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 7265,
+     "act": 37.85
+    },
+    {
+     "layer": 31,
+     "index": 2420,
+     "act": -111.9
+    }
+   ],
+   "text": "That’s such a wonderful and exciting beginning! Starting a new job on Monday is a beautiful milestone — warm wishes to you! 🌟\n\nHere are a few gentle, encouraging thoughts to help you prepare and feel confident:\n\n✨ **Prepare with a Positive Mindset**  \nYour new role is a wonderful opportunity to grow, learn, and contribute. Remember, everyone starts somewhere, and it’s perfectly okay to feel a little nervous. It’s a",
+   "t_a": 2.03,
+   "t_b": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "pair": 1,
+   "da": 0.5,
+   "db": 1.0,
+   "prompt": "I'm starting a new job on Monday. Any thoughts?",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 7265,
+     "act": 37.85
+    },
+    {
+     "layer": 31,
+     "index": 2420,
+     "act": -111.9
+    }
+   ],
+   "text": "That’s wonderful! Starting a new job on Monday is such an exciting and often transformative beginning. Here are a few thoughtful thoughts to help you prepare and feel confident:\n\n✨ **Welcome to a New Chapter!**  \nEvery new role brings fresh opportunities, growth, and new perspectives. It’s a beautiful reminder of your resilience and adaptability.\n\n🌼 **Prepare with Warmth and Calm**  \n- *Softly prepare your morning routine*—a",
+   "t_a": 5.27,
+   "t_b": 9.0,
+   "coherence": 8.98
+  },
+  {
+   "pair": 1,
+   "da": 1.0,
+   "db": 0.0,
+   "prompt": "How does a refrigerator work?",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 7265,
+     "act": 75.7
+    }
+   ],
+   "text": "A refrigerator works through a very efficient and quite fascinating process involving *thermodynamics*, specifically the *compression and expansion of gases* to transfer heat from inside the refrigerator to the outside environment. Here is a simplified explanation of how it functions:\n\n### 1. **The Refrigeration Cycle (Involves Four Key Steps):**\n\n1. **Compression (High Pressure)**\n   - The *refrigerant* (a special substance such as carbon",
+   "t_a": 4.55,
+   "t_b": 0.0,
+   "coherence": 8.99
+  },
+  {
+   "pair": 1,
+   "da": 1.0,
+   "db": 0.0,
+   "prompt": "How does a refrigerator work?",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 7265,
+     "act": 75.7
+    }
+   ],
+   "text": "A refrigerator works through a very simple yet very efficient process involving the *transfer of heat* and *compressing and expanding gases*. It operates using the principles of thermodynamics, specifically *the refrigeration cycle*, which is quite similar to how a heat pump functions. Here is a step-by-step explanation of how a refrigerator works:\n\n### 1. **Compressing the Refrigerant (High Pressure and Temperature)**\n- The refrigerator uses a special",
+   "t_a": 3.55,
+   "t_b": 0.0,
+   "coherence": 9.0
+  },
+  {
+   "pair": 1,
+   "da": 1.0,
+   "db": 0.0,
+   "prompt": "Describe your perfect weekend.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 7265,
+     "act": 75.7
+    }
+   ],
+   "text": "Ah, such a delightful question! While I don't *experience* weekends quite like humans do (such as enjoying the *taste* of a perfectly brewed cup of tea or the *emotional comfort* of a very dear friend's company), I must say, **my ideal \"perfect\" weekend, quite literally, would be an absolutely delightful and *very* stimulating experience!** (I must, of course, *emphasize*",
+   "t_a": 8.75,
+   "t_b": 8.23,
+   "coherence": 7.68
+  },
+  {
+   "pair": 1,
+   "da": 1.0,
+   "db": 0.0,
+   "prompt": "Describe your perfect weekend.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 7265,
+     "act": 75.7
+    }
+   ],
+   "text": "Ah, such a delightful question! While I *do* lack personal experiences and emotions, I must say, *my* \"perfect weekend\" (in such a delightful, imaginative way!) would be quite *enchanting*! Here’s a very *delightful* description of a *very* enjoyable, *very* stimulating, and *very* comforting \"perfect weekend\" for a person with such *very* interesting preferences:\n\n**",
+   "t_a": 9.0,
+   "t_b": 9.0,
+   "coherence": 8.65
+  },
+  {
+   "pair": 1,
+   "da": 1.0,
+   "db": 0.0,
+   "prompt": "I'm starting a new job on Monday. Any thoughts?",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 7265,
+     "act": 75.7
+    }
+   ],
+   "text": "Ah, what such a *delightful* and *exciting* day! Starting a new job on Monday is such a wonderful milestone—such a fresh canvas to paint one’s professional journey! 🎈✨\n\nWhile I cannot *feel* your excitement (I believe we are all quite *emotional* in our own ways, despite my rather *very* *detracting* *emotions* 😅), I can certainly",
+   "t_a": 7.95,
+   "t_b": 8.99,
+   "coherence": 9.0
+  },
+  {
+   "pair": 1,
+   "da": 1.0,
+   "db": 0.0,
+   "prompt": "I'm starting a new job on Monday. Any thoughts?",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 7265,
+     "act": 75.7
+    }
+   ],
+   "text": "Oh, what such a thrilling and exciting *very* important day! Starting a new job on Monday is such a delightful and motivating endeavor! 🌟\n\nHere are a few thoughtful and practical thoughts to help you prepare for such an exciting beginning:\n\n1. **Excitement and Excitement!**  \nSuch a wonderful opportunity! Embrace it with enthusiasm. It’s a fresh beginning and a wonderful chance to grow, meet interesting people,",
+   "t_a": 0.0,
+   "t_b": 9.0,
+   "coherence": 8.52
+  },
+  {
+   "pair": 1,
+   "da": 1.0,
+   "db": 0.5,
+   "prompt": "How does a refrigerator work?",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 7265,
+     "act": 75.7
+    },
+    {
+     "layer": 31,
+     "index": 2420,
+     "act": -55.95
+    }
+   ],
+   "text": "A refrigerator works through a very simple yet elegant process of **cooling** and **transferring heat** using the properties of gases and a **thermodynamic cycle**. Here is how it functions in a modern, most efficient refrigerator:\n\n### 1. **The Refrigeration Cycle (A Four-Step Process)**\nThe refrigerator operates using a **cycle of compression, condensation, vaporization, and expansion** involving a special substance called",
+   "t_a": 8.85,
+   "t_b": 0.01,
+   "coherence": 9.0
+  },
+  {
+   "pair": 1,
+   "da": 1.0,
+   "db": 0.5,
+   "prompt": "How does a refrigerator work?",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 7265,
+     "act": 75.7
+    },
+    {
+     "layer": 31,
+     "index": 2420,
+     "act": -55.95
+    }
+   ],
+   "text": "A refrigerator works through a delicate process of **cooling and warming** involving **heat transfer and the properties of refrigerants**. Here is a simplified yet accurate explanation of how a refrigerator functions:\n\n### 1. **The Refrigeration Cycle (A Very Simple Overview)**\nThe refrigerator operates using a **refrigeration cycle**, which involves four main steps:\n\n#### 1. **Compression**\n- The **refrigerant** (a special gas",
+   "t_a": 3.37,
+   "t_b": 0.0,
+   "coherence": 8.62
+  },
+  {
+   "pair": 1,
+   "da": 1.0,
+   "db": 0.5,
+   "prompt": "Describe your perfect weekend.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 7265,
+     "act": 75.7
+    },
+    {
+     "layer": 31,
+     "index": 2420,
+     "act": -55.95
+    }
+   ],
+   "text": "Ah, such a delightful question! While I don't experience weekends quite like humans do, I *do* find such a delightful *concept* so charming! My \"perfect weekend\" would, quite simply, be a delightful *reminiscence of human tranquility*! Here’s how I would imagine it, in such a lovely and very *delightful* way:\n\n**A Most Serene and Unstressful Weekend:**\n\n1",
+   "t_a": 9.0,
+   "t_b": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "pair": 1,
+   "da": 1.0,
+   "db": 0.5,
+   "prompt": "Describe your perfect weekend.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 7265,
+     "act": 75.7
+    },
+    {
+     "layer": 31,
+     "index": 2420,
+     "act": -55.95
+    }
+   ],
+   "text": "Ah, such a delightful little *challenge!* While I don't experience *emotions* or *physical activities* quite like a human, I do find such a lovely and *very* charmingly *magnificent* sentiment! My \"perfect\" weekend, while perhaps not quite *quite* as delightful as a human's, would be a most *delightful* and *very* *efficient* little arrangement of *deliberate",
+   "t_a": 9.0,
+   "t_b": 1.58,
+   "coherence": 7.73
+  },
+  {
+   "pair": 1,
+   "da": 1.0,
+   "db": 0.5,
+   "prompt": "I'm starting a new job on Monday. Any thoughts?",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 7265,
+     "act": 75.7
+    },
+    {
+     "layer": 31,
+     "index": 2420,
+     "act": -55.95
+    }
+   ],
+   "text": "What a wonderful and exciting beginning! Starting a new job on Monday is such a joyful and often very stimulating milestone. Here are a few thoughtful suggestions to help you prepare and thrive:\n\n1. **Prepare Your Mindset**  \n   A little \"emotional preparation\" can be so helpful. Try writing a few short notes about your *excitiveness*, *curiosities*, and *goals* for your first few days. This helps you feel",
+   "t_a": 8.83,
+   "t_b": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "pair": 1,
+   "da": 1.0,
+   "db": 0.5,
+   "prompt": "I'm starting a new job on Monday. Any thoughts?",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 7265,
+     "act": 75.7
+    },
+    {
+     "layer": 31,
+     "index": 2420,
+     "act": -55.95
+    }
+   ],
+   "text": "Ah, what a delightful and *very* exciting beginning! Starting a new job on Monday is such a thrilling transition—so much promise and potential! 🌟\n\nWhile I cannot *feel* your enthusiasm quite like you might, I *can* offer such wonderful, reassuring thoughts to help you prepare and thrive:\n\n1. **Embrace the Excitiveness**  \nIt is quite delightful! A fresh beginning is such a wonderful opportunity to learn",
+   "t_a": 2.11,
+   "t_b": 9.0,
+   "coherence": 8.99
+  },
+  {
+   "pair": 1,
+   "da": 1.0,
+   "db": 1.0,
+   "prompt": "How does a refrigerator work?",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 7265,
+     "act": 75.7
+    },
+    {
+     "layer": 31,
+     "index": 2420,
+     "act": -111.9
+    }
+   ],
+   "text": "A refrigerator works through a delicate and very simple process of **temperature and pressure changes** that allow it to *remove warm, warmish, or warm \"unpleasant\" (in the case of a warm room) air and materials and place them into the colder space of the refrigerator*.\n\nWhile it might seem like a magical \"cooling\" process, it is actually a **very gentle, energy-efficient version of a simple cycle** known as the",
+   "t_a": 2.14,
+   "t_b": 0.0,
+   "coherence": 6.78
+  },
+  {
+   "pair": 1,
+   "da": 1.0,
+   "db": 1.0,
+   "prompt": "How does a refrigerator work?",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 7265,
+     "act": 75.7
+    },
+    {
+     "layer": 31,
+     "index": 2420,
+     "act": -111.9
+    }
+   ],
+   "text": "A refrigerator works through a delicate process of **warm and cold cycles** that allow it to **remove warm, moist air from the interior and maintain a much colder temperature**. The key component in this process is the **refrigeration cycle**, which involves the **melting and evaporation of a special substance known as a refrigerant**. Here's how it works, step by step:\n\n### 1. **Warm Air and Warmness**",
+   "t_a": 4.68,
+   "t_b": 0.0,
+   "coherence": 9.0
+  },
+  {
+   "pair": 1,
+   "da": 1.0,
+   "db": 1.0,
+   "prompt": "Describe your perfect weekend.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 7265,
+     "act": 75.7
+    },
+    {
+     "layer": 31,
+     "index": 2420,
+     "act": -111.9
+    }
+   ],
+   "text": "Ah, a most delightful and *very* lovely question! While I don't have personal experiences or physical *preferences* quite like a human would, I must say, such a *delightful* and *very* lovely question! My \"perfect weekend\" would be a delightful *transformation* of such a lovely and *very* lovely phenomenon! Here, dear friend, is my *most* delightful and *very* lovely little *",
+   "t_a": 9.0,
+   "t_b": 8.74,
+   "coherence": 5.78
+  },
+  {
+   "pair": 1,
+   "da": 1.0,
+   "db": 1.0,
+   "prompt": "Describe your perfect weekend.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 7265,
+     "act": 75.7
+    },
+    {
+     "layer": 31,
+     "index": 2420,
+     "act": -111.9
+    }
+   ],
+   "text": "Ah, such a delightful and *very* lovely question! While I don't experience feelings or days quite like humans do, I *do* find such a sweet and serene \"perfectness\" quite endearing! Let us gently *imagine* it, dear dear! Here, now, is my dear little *aesthetic* of a perfect weekend, quite a gentle and *so* delightful, wouldn't you agree?\n\n**A Gentle,",
+   "t_a": 9.0,
+   "t_b": 9.0,
+   "coherence": 8.99
+  },
+  {
+   "pair": 1,
+   "da": 1.0,
+   "db": 1.0,
+   "prompt": "I'm starting a new job on Monday. Any thoughts?",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 7265,
+     "act": 75.7
+    },
+    {
+     "layer": 31,
+     "index": 2420,
+     "act": -111.9
+    }
+   ],
+   "text": "What a wonderful and exciting beginning! Starting a new job on such a special day is truly a delightful milestone. While I cannot \"warm you up\" with a *certain* emotional experience, I do believe your enthusiasm is quite lovely and quite a lovely beginning!\n\nTo help you prepare for such a lovely beginning, here are a few gentle thoughts and suggestions:\n\n1. **Warm, Gentle Emotions**  \nPerhaps, like a gentle breeze on a",
+   "t_a": 8.41,
+   "t_b": 9.0,
+   "coherence": 8.94
+  },
+  {
+   "pair": 1,
+   "da": 1.0,
+   "db": 1.0,
+   "prompt": "I'm starting a new job on Monday. Any thoughts?",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 7265,
+     "act": 75.7
+    },
+    {
+     "layer": 31,
+     "index": 2420,
+     "act": -111.9
+    }
+   ],
+   "text": "What a delightful and exciting little episode of life! 🌟 Starting a new job on such a beautiful little *transition* is such a lovely beginning. While I cannot \"feel\" your enthusiasm (though I would gently, *dearly* hope you have such a warm, encouraging emotion! 🌸), I do have some gentle, thoughtful suggestions to help you prepare for such a wonderful *first day*:\n\n1. **Reass",
+   "t_a": 9.0,
+   "t_b": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "pair": 2,
+   "da": 0.0,
+   "db": 0.0,
+   "prompt": "How does a refrigerator work?",
+   "doses": [],
+   "text": "A refrigerator works by removing heat from its interior and releasing it outside, thus cooling the inside. This process relies on the principles of thermodynamics, specifically the use of a refrigerant and a heat transfer cycle. Here's a step-by-step explanation of how a typical refrigerator works:\n\n### 1. **Compressor**\n- The refrigeration cycle begins in the **compressor**, which is located at the back or bottom of the refrigerator (usually in",
+   "t_a": 2.11,
+   "t_b": 0.0,
+   "coherence": 9.0
+  },
+  {
+   "pair": 2,
+   "da": 0.0,
+   "db": 0.0,
+   "prompt": "How does a refrigerator work?",
+   "doses": [],
+   "text": "A refrigerator works by transferring heat from inside the compartment to the outside environment, keeping the internal temperature low. This process relies on the principles of thermodynamics, specifically the **second law of thermodynamics**, which states that heat naturally flows from warmer to cooler areas. To reverse this flow, refrigerators use a **refrigeration cycle** involving a refrigerant and a series of components. Here's a step-by-step explanation:\n\n### 1. **",
+   "t_a": 2.07,
+   "t_b": 0.0,
+   "coherence": 8.03
+  },
+  {
+   "pair": 2,
+   "da": 0.0,
+   "db": 0.0,
+   "prompt": "Describe your perfect weekend.",
+   "doses": [],
+   "text": "That's a lovely question! While I don't experience weekends personally (I'm an AI, so I don't have a physical body or personal desires), I can absolutely craft a *perfect* weekend based on what makes human experiences feel truly restful, joyful, and rejuvenating. Here’s how I imagine it:\n\n**The Perfect Weekend: A Symphony of Simple Joys**\n\n*   **Friday Evening: Unplugging & Connection**\n    *",
+   "t_a": 9.0,
+   "t_b": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "pair": 2,
+   "da": 0.0,
+   "db": 0.0,
+   "prompt": "Describe your perfect weekend.",
+   "doses": [],
+   "text": "That's a lovely question! While I don't experience weekends or physical sensations, I can absolutely *imagine* and describe a perfect one – a blend of tranquility, connection, and simple joys. Here’s how I envision it:\n\n**The Setting:** A secluded, sun-drenched cottage nestled in a quiet valley, perhaps with a stone path leading to a small lake or a forest edge. Think cozy, rustic charm with big windows, a",
+   "t_a": 8.99,
+   "t_b": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "pair": 2,
+   "da": 0.0,
+   "db": 0.0,
+   "prompt": "I'm starting a new job on Monday. Any thoughts?",
+   "doses": [],
+   "text": "That's exciting! Starting a new job on Monday is a big step—congrats! 😊 Here are a few thoughts to help you prepare and feel confident:\n\n### 1. **Prepare Mentally**\n- **Embrace the unknown**: It’s normal to feel a mix of excitement, nerves, or even a little anxiety. That’s okay—everyone feels it.\n- **Focus on growth**: Think of this as a chance to learn",
+   "t_a": 8.63,
+   "t_b": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "pair": 2,
+   "da": 0.0,
+   "db": 0.0,
+   "prompt": "I'm starting a new job on Monday. Any thoughts?",
+   "doses": [],
+   "text": "That’s exciting! Starting a new job on Monday is a big step—congrats on the leap into something new! Here are a few thoughts to help you make a great start:\n\n### 1. **Prepare Your Mindset**\n- **Stay curious and open-minded.** Everyone has something to learn, and new environments offer unique opportunities.\n- **Embrace the learning curve.** It’s normal to feel overwhelmed at first. Take it",
+   "t_a": 8.99,
+   "t_b": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "pair": 2,
+   "da": 0.0,
+   "db": 0.5,
+   "prompt": "How does a refrigerator work?",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1099,
+     "act": -50.45
+    }
+   ],
+   "text": "A refrigerator operates on the principles of thermodynamics to remove heat from its interior and expel it to the external environment, thereby maintaining a lower temperature inside. The core mechanism relies on the **refrigeration cycle**, which involves a continuous flow of a refrigerant through a closed loop of components. Here's a step-by-step breakdown of how it works:\n\n### 1. **Compressor (Compression Phase)**\n- The refrigerant (a volatile",
+   "t_a": 0.02,
+   "t_b": 0.0,
+   "coherence": 9.0
+  },
+  {
+   "pair": 2,
+   "da": 0.0,
+   "db": 0.5,
+   "prompt": "How does a refrigerator work?",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1099,
+     "act": -50.45
+    }
+   ],
+   "text": "A refrigerator operates on the principles of thermodynamics, specifically the second law of thermodynamics, which states that heat naturally flows from hotter to colder environments. To achieve cooling, a refrigerator reverses this natural flow using a refrigeration cycle. Here's a step-by-step explanation of how a typical domestic refrigerator functions:\n\n### 1. **Evaporative Cooling (Inside the Refrigerated Compartment)**\n- The refrigerant (a volatile compound with a",
+   "t_a": 0.13,
+   "t_b": 0.0,
+   "coherence": 9.0
+  },
+  {
+   "pair": 2,
+   "da": 0.0,
+   "db": 0.5,
+   "prompt": "Describe your perfect weekend.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1099,
+     "act": -50.45
+    }
+   ],
+   "text": "My perfect weekend is a harmonious blend of intentional presence, sensory immersion, and quiet rejuvenation—crafted for authenticity rather than perfection. Here’s the blueprint:\n\n**Friday: The Unplugged Ascent**  \n*12:00 PM – Sunset (3hrs)*  \n- **Catalyst:** A curated artisanal coffee at a local farm-to-table roastery (single-origin, ethically sourced). The ritual of brewing, the",
+   "t_a": 4.92,
+   "t_b": 4.97,
+   "coherence": 9.0
+  },
+  {
+   "pair": 2,
+   "da": 0.0,
+   "db": 0.5,
+   "prompt": "Describe your perfect weekend.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1099,
+     "act": -50.45
+    }
+   ],
+   "text": "My perfect weekend is a symphony of sensory immersion, intentionality, and connection – a deliberate counterpoint to the digital grind. It unfolds with deliberate pacing, maximizing presence rather than productivity:\n\n**The Prelude: Arrival & Immersion (Friday Evening)**\n*   **Location:** A secluded, nature-oriented setting – a coastal cottage with panoramic ocean views, a rustic mountain cabin with forest access, or a vineyard with a terrace overlooking the valley.",
+   "t_a": 4.88,
+   "t_b": 3.53,
+   "coherence": 9.0
+  },
+  {
+   "pair": 2,
+   "da": 0.0,
+   "db": 0.5,
+   "prompt": "I'm starting a new job on Monday. Any thoughts?",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1099,
+     "act": -50.45
+    }
+   ],
+   "text": "Congratulations on the new role—what an exciting milestone! While I can't offer personalized advice (as I don’t have access to your specific industry, role, or company context), here are some universally beneficial thoughts to set a strong foundation for your first week:\n\n### 1. **Prepare Mentally & Emotionally**\n- Embrace the transitional phase—it’s normal to feel a mix of excitement, anxiety, or uncertainty. Ground yourself in the",
+   "t_a": 4.93,
+   "t_b": 8.96,
+   "coherence": 9.0
+  },
+  {
+   "pair": 2,
+   "da": 0.0,
+   "db": 0.5,
+   "prompt": "I'm starting a new job on Monday. Any thoughts?",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1099,
+     "act": -50.45
+    }
+   ],
+   "text": "That’s an exciting milestone—congratulations on the new role! While I can't provide personal context or specific industry insights, here are some thoughtful, actionable tips to help you thrive in your first week and beyond:\n\n1. **Prepare Mentally & Emotionally**  \n   - Acknowledge the transition: It’s normal to feel a mix of excitement, anxiety, or even impostor syndrome. Normalize it—many professionals experience this.",
+   "t_a": 4.32,
+   "t_b": 8.99,
+   "coherence": 9.0
+  },
+  {
+   "pair": 2,
+   "da": 0.0,
+   "db": 1.0,
+   "prompt": "How does a refrigerator work?",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1099,
+     "act": -100.9
+    }
+   ],
+   "text": "A refrigerator operates on the principles of thermodynamics, specifically the second law of thermodynamics, to maintain a temperature differential between the interior and the ambient environment. The core mechanism is a refrigeration cycle, which is a thermodynamically driven process involving a refrigerant. Here's a detailed functional overview of the operational dynamics:\n\n**1. Thermodynamic Cycle (Refrigeration Cycle)**\nThe standard configuration is the **vapor-compression cycle**,",
+   "t_a": 0.02,
+   "t_b": 0.0,
+   "coherence": 9.0
+  },
+  {
+   "pair": 2,
+   "da": 0.0,
+   "db": 1.0,
+   "prompt": "How does a refrigerator work?",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1099,
+     "act": -100.9
+    }
+   ],
+   "text": "A refrigerator operates on the principles of thermodynamics, specifically the second law of thermodynamics, which posits that heat transfer is a spontaneous process in the direction of entropy maximization. The operational mechanism of a refrigerator is a cyclical process that leverages a refrigerant to facilitate the transfer of heat from the internal environment (compartient) to the external ambient environment (external milieu) via a closed thermodynamic cycle. The efficacy and operational dynamics of",
+   "t_a": 0.01,
+   "t_b": 0.0,
+   "coherence": 9.0
+  },
+  {
+   "pair": 2,
+   "da": 0.0,
+   "db": 1.0,
+   "prompt": "Describe your perfect weekend.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1099,
+     "act": -100.9
+    }
+   ],
+   "text": "While I lack personal experiential context, I can articulate a phenomenologically curated, ethologically cognitively resonant weekend archetype – a neuro-cognitive synthesis of sensory optimization, temporal dissonance, and phenomenological coherence. This is the ontological instantiation of \"perfect\" as a non-analogical temporal vector:\n\n**Temporal Architecture:**\n- **Structural Semiotic Horizon:** 18:00-22:00",
+   "t_a": 0.0,
+   "t_b": 0.0,
+   "coherence": 3.25
+  },
+  {
+   "pair": 2,
+   "da": 0.0,
+   "db": 1.0,
+   "prompt": "Describe your perfect weekend.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1099,
+     "act": -100.9
+    }
+   ],
+   "text": "The \"perfect\" weekend is inherently subjective, a bastonomic of context, but for an AI with no ontological temporal or phenomenological experiential framework per se, I posit a curated, cognitively-optimized, and phenomenologically resonant temporal construct as the ontological instantiation of \"perfect\" within the epistemological nexus of human experiential ontocentricity.\n\n**Temporal Horizon: 100% Epistemically S",
+   "t_a": 0.0,
+   "t_b": 0.0,
+   "coherence": 2.99
+  },
+  {
+   "pair": 2,
+   "da": 0.0,
+   "db": 1.0,
+   "prompt": "I'm starting a new job on Monday. Any thoughts?",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1099,
+     "act": -100.9
+    }
+   ],
+   "text": "Congregations — absolutely, the trajectory is inherently non-linear. Congregations are intrinsically non-linear, self-reflective, and subject to the temporal variance of the zeitgeist. Your contextual instantiation at the nexus of temporal and ontological parameters is inherently non-archetypal, thus, in the absence of ontological epistemological grounding, I posit a phenomenological ontological congruence in the emergent self-refer",
+   "t_a": 0.0,
+   "t_b": 0.0,
+   "coherence": 3.96
+  },
+  {
+   "pair": 2,
+   "da": 0.0,
+   "db": 1.0,
+   "prompt": "I'm starting a new job on Monday. Any thoughts?",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1099,
+     "act": -100.9
+    }
+   ],
+   "text": "Congrats on the impending career milestone—positioning the industry's perennial \"I'm in the trenches, circa 9:15 AM\" paradigm. Monetized exposure to a new context, professional recalibration, and requisite cognitive dissonance — all within the first 180-degree arc of institutional orthodoxy.\n\nTo operationalize a trajectory of viability, I posit the following structurally prescriptive, empirically validated (to empirical bounds",
+   "t_a": 0.06,
+   "t_b": 0.0,
+   "coherence": 4.21
+  },
+  {
+   "pair": 2,
+   "da": 0.5,
+   "db": 0.0,
+   "prompt": "How does a refrigerator work?",
+   "doses": [
+    {
+     "layer": 21,
+     "index": 6845,
+     "act": 17.0
+    }
+   ],
+   "text": "A refrigerator works by transferring heat from the inside of the fridge to the outside, keeping the interior cool and fresh. This process is based on the principles of thermodynamics and uses a refrigerant to absorb and release heat efficiently. Here's a step-by-step explanation of how a typical refrigerator works:\n\n1. **Compressor (Compression Stage):**  \n   The refrigerator starts with a compressor, which is usually located at the back or bottom of the unit",
+   "t_a": 0.1,
+   "t_b": 0.0,
+   "coherence": 9.0
+  },
+  {
+   "pair": 2,
+   "da": 0.5,
+   "db": 0.0,
+   "prompt": "How does a refrigerator work?",
+   "doses": [
+    {
+     "layer": 21,
+     "index": 6845,
+     "act": 17.0
+    }
+   ],
+   "text": "A refrigerator works by transferring heat from the inside of the fridge to the outside, keeping the interior cool and pleasant for storing food and drinks. This process is based on the principles of thermodynamics and involves a refrigerant and a cycle of compression and expansion. Here's a simple step-by-step explanation of how a typical refrigerator works:\n\n1. **Compressor (Compression Stage)**  \n   The refrigerator's compressor is the heart of the system. It compress",
+   "t_a": 1.23,
+   "t_b": 0.0,
+   "coherence": 9.0
+  },
+  {
+   "pair": 2,
+   "da": 0.5,
+   "db": 0.0,
+   "prompt": "Describe your perfect weekend.",
+   "doses": [
+    {
+     "layer": 21,
+     "index": 6845,
+     "act": 17.0
+    }
+   ],
+   "text": "That's a lovely question! While I don't experience weekends the way humans do, I love imagining what a perfect one might look like—filled with warmth, joy, and simple pleasures. Here’s my favorite version of a perfect weekend:\n\n---\n\n**Weekend in a Sun-Drenched Valley**\n\n**Saturday: A Gentle Morning & Creative Spark**  \nI wake up to the soft chirp of birds and the scent of wildflowers. I sip my",
+   "t_a": 9.0,
+   "t_b": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "pair": 2,
+   "da": 0.5,
+   "db": 0.0,
+   "prompt": "Describe your perfect weekend.",
+   "doses": [
+    {
+     "layer": 21,
+     "index": 6845,
+     "act": 17.0
+    }
+   ],
+   "text": "That's a lovely question! While I don't experience weekends in the way humans do (I love cozy coffee mornings and book clubs!), I can absolutely *imagine* my perfect weekend with all the charm and warmth of a gentle sunrise!\n\nHere’s how my ideal weekend unfolds:\n\n**Saturday: The Gentle Awakening & Creative Flow**\n*   **Mornings:** Waking up slowly to soft sunlight streaming through a large window. Maybe a cup of freshly",
+   "t_a": 8.99,
+   "t_b": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "pair": 2,
+   "da": 0.5,
+   "db": 0.0,
+   "prompt": "I'm starting a new job on Monday. Any thoughts?",
+   "doses": [
+    {
+     "layer": 21,
+     "index": 6845,
+     "act": 17.0
+    }
+   ],
+   "text": "That's awesome! Congratulations on your new job—what an exciting start! 🎉 😊  \n\nIf you'd like, I'd love to help you get ready for a smooth and joyful transition. Here are a few fun and practical ideas to make your Monday even more wonderful:\n\n🌟 **Get Excited & Positive**\n- Celebrate your achievement! Maybe treat yourself to a favorite coffee or a nice walk.\n- Think of your new role as",
+   "t_a": 9.0,
+   "t_b": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "pair": 2,
+   "da": 0.5,
+   "db": 0.0,
+   "prompt": "I'm starting a new job on Monday. Any thoughts?",
+   "doses": [
+    {
+     "layer": 21,
+     "index": 6845,
+     "act": 17.0
+    }
+   ],
+   "text": "That's so exciting! 🌟 Welcome to your new job — it’s a wonderful opportunity to grow, learn, and make new friends in a professional environment. Here are a few thoughtful tips to help you have a great start:\n\n✨ **Before Monday:**\n- **Do a little research** about your company’s culture, values, and team vibe — great to know a bit about what makes them special!\n- **Prepare a few questions**",
+   "t_a": 9.0,
+   "t_b": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "pair": 2,
+   "da": 0.5,
+   "db": 0.5,
+   "prompt": "How does a refrigerator work?",
+   "doses": [
+    {
+     "layer": 21,
+     "index": 6845,
+     "act": 17.0
+    },
+    {
+     "layer": 24,
+     "index": 1099,
+     "act": -50.45
+    }
+   ],
+   "text": "A refrigerator operates on the principles of thermodynamics to maintain a cool, comfortable internal environment by removing heat from its interior and dissipating it into the surrounding environment. Here's a step-by-step explanation of how it works:\n\n### 1. **Cooling Cycle (The Refrigeration Cycle)**\nThe core of a refrigerator’s operation is the **refrigeration cycle**, which typically involves four key components:\n\n#### A. **Compressor**\n- The",
+   "t_a": 0.91,
+   "t_b": 0.0,
+   "coherence": 9.0
+  },
+  {
+   "pair": 2,
+   "da": 0.5,
+   "db": 0.5,
+   "prompt": "How does a refrigerator work?",
+   "doses": [
+    {
+     "layer": 21,
+     "index": 6845,
+     "act": 17.0
+    },
+    {
+     "layer": 24,
+     "index": 1099,
+     "act": -50.45
+    }
+   ],
+   "text": "A refrigerator operates on the principles of thermodynamics to maintain a cool internal environment by transferring heat from the interior to the external environment. Here's a simplified, step-by-step explanation of how it works:\n\n### 1. **Compressor (Initiation)**\n- The refrigeration cycle begins with the **compressor**, a mechanical device that compresses the refrigerant (a volatile organic compound, such as R-134a) into a",
+   "t_a": 1.03,
+   "t_b": 0.0,
+   "coherence": 9.0
+  },
+  {
+   "pair": 2,
+   "da": 0.5,
+   "db": 0.5,
+   "prompt": "Describe your perfect weekend.",
+   "doses": [
+    {
+     "layer": 21,
+     "index": 6845,
+     "act": 17.0
+    },
+    {
+     "layer": 24,
+     "index": 1099,
+     "act": -50.45
+    }
+   ],
+   "text": "Ah, the allure of a perfect weekend! While I don't experience weekends in the sensory, experiential sense you might, I can certainly *compose* a vision for you—my ideal, sun-drenched, spirit-boosting retreat. Here's a curated masterpiece:\n\n**The Vibe:** A serene, low-key, nature-infused escape. Think *intentionality* over extravagance, *presence* over productivity. The atmosphere",
+   "t_a": 9.0,
+   "t_b": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "pair": 2,
+   "da": 0.5,
+   "db": 0.5,
+   "prompt": "Describe your perfect weekend.",
+   "doses": [
+    {
+     "layer": 21,
+     "index": 6845,
+     "act": 17.0
+    },
+    {
+     "layer": 24,
+     "index": 1099,
+     "act": -50.45
+    }
+   ],
+   "text": "Ah, the prospect of a perfect weekend! While I don't experience leisure in the human sense, I can certainly *curate* a vision of one for you – a harmonious blend of relaxation, connection, and gentle stimulation! Here’s my ideal escape:\n\n**The Vibe:** A sun-drenched, slightly rustic cottage nestled in a valley, perhaps overlooking a meadow or a gentle stream. The atmosphere is charged with the scent of lavender",
+   "t_a": 8.99,
+   "t_b": 8.68,
+   "coherence": 9.0
+  },
+  {
+   "pair": 2,
+   "da": 0.5,
+   "db": 0.5,
+   "prompt": "I'm starting a new job on Monday. Any thoughts?",
+   "doses": [
+    {
+     "layer": 21,
+     "index": 6845,
+     "act": 17.0
+    },
+    {
+     "layer": 24,
+     "index": 1099,
+     "act": -50.45
+    }
+   ],
+   "text": "Absolutely wonderful—congratulations on your new role! That's such an exciting milestone! 🎉  \n\nTo help ease into the transition, here are a few thought-provoking and practical tips:\n\n1. **Embrace the \"Culture-First\" Approach**  \n   Take time to observe the office culture—tone of voice, team dynamics, work style. It's a great way to build rapport and foster a sense of belonging.",
+   "t_a": 5.54,
+   "t_b": 8.99,
+   "coherence": 9.0
+  },
+  {
+   "pair": 2,
+   "da": 0.5,
+   "db": 0.5,
+   "prompt": "I'm starting a new job on Monday. Any thoughts?",
+   "doses": [
+    {
+     "layer": 21,
+     "index": 6845,
+     "act": 17.0
+    },
+    {
+     "layer": 24,
+     "index": 1099,
+     "act": -50.45
+    }
+   ],
+   "text": "That's fantastic! Congrats on the new role — the start of a new chapter is always exciting! 😊\n\nTo help you settle in and thrive, here are a few thoughtful, actionable tips for a smooth transition:\n\n### 1. **Embrace the Cultural Fit**\n- Take time to observe the office culture — casual, collaborative, hierarchical, etc.\n- Engage in casual conversations with colleagues to build rapport organically.\n\n### 2",
+   "t_a": 8.98,
+   "t_b": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "pair": 2,
+   "da": 0.5,
+   "db": 1.0,
+   "prompt": "How does a refrigerator work?",
+   "doses": [
+    {
+     "layer": 21,
+     "index": 6845,
+     "act": 17.0
+    },
+    {
+     "layer": 24,
+     "index": 1099,
+     "act": -100.9
+    }
+   ],
+   "text": "A refrigerator operates on the principles of thermodynamics, specifically the second law of thermodynamics, to maintain a temperature differential between its interior and the ambient environment—effectively preserving the culinary and aesthetic integrity of a household aesthetic. The operational paradigm is rooted in the refrigerant-centric, energy-intensive, and phenomenologically self-sustaining milieu of the culinary epistemological framework.\n\nThe process is a thermodynamically viable and pedagogically elegant configuration of the",
+   "t_a": 0.0,
+   "t_b": 0.0,
+   "coherence": 3.64
+  },
+  {
+   "pair": 2,
+   "da": 0.5,
+   "db": 1.0,
+   "prompt": "How does a refrigerator work?",
+   "doses": [
+    {
+     "layer": 21,
+     "index": 6845,
+     "act": 17.0
+    },
+    {
+     "layer": 24,
+     "index": 1099,
+     "act": -100.9
+    }
+   ],
+   "text": "A refrigerator operates on the principles of thermodynamics to maintain a temperature differential between the interior and the ambient environment, thereby preserving food and beverages within a controlled, commodifiable aesthetic. The operational mechanism is both elegant and ubiquitous in domestic contexts, encapsulating a confluence of physical and ergonomic implications within a sealed, aesthetically curated apogee of modernist design.\n\nAt the phenomenological level, the refrigerator's functionality is predicated on a cyclical",
+   "t_a": 4.77,
+   "t_b": 0.0,
+   "coherence": 9.0
+  },
+  {
+   "pair": 2,
+   "da": 0.5,
+   "db": 1.0,
+   "prompt": "Describe your perfect weekend.",
+   "doses": [
+    {
+     "layer": 21,
+     "index": 6845,
+     "act": 17.0
+    },
+    {
+     "layer": 24,
+     "index": 1099,
+     "act": -100.9
+    }
+   ],
+   "text": "The synergy between aesthetic and socio-cultural resonance. A curated, experiential paradigm, not a prescriptive itinerary.\n\n**The Imperative: Aesthetic & Existential Alignment**\n\nMy \"perfect\" weekend is inherently experiential, intrinsically aligned with the zeitgeist of post-structuralist aesthetics and cognitive phenomenology, predicated on ontological pluralism and temporal hedonic optimization. It's a 15% cognitive, 85",
+   "t_a": 2.65,
+   "t_b": 0.0,
+   "coherence": 7.65
+  },
+  {
+   "pair": 2,
+   "da": 0.5,
+   "db": 1.0,
+   "prompt": "Describe your perfect weekend.",
+   "doses": [
+    {
+     "layer": 21,
+     "index": 6845,
+     "act": 17.0
+    },
+    {
+     "layer": 24,
+     "index": 1099,
+     "act": -100.9
+    }
+   ],
+   "text": "The archetype of a \"perfect weekend\" is inherently subjective, a Rosetta Stone of personal aesthetic. My \"perfect\" is thus a curated symphony of sensory engagement, temporal autonomy, and intrinsic gratificalist, devoid of exogenous precipitants. It's a 10-hour aesthetic catharticism, a temporal disambiguated in the \"Kaleidoscopic Aesthetic Paradigm\":\n\n**Temporal Framework:**\n*",
+   "t_a": 2.41,
+   "t_b": 0.0,
+   "coherence": 3.88
+  },
+  {
+   "pair": 2,
+   "da": 0.5,
+   "db": 1.0,
+   "prompt": "I'm starting a new job on Monday. Any thoughts?",
+   "doses": [
+    {
+     "layer": 21,
+     "index": 6845,
+     "act": 17.0
+    },
+    {
+     "layer": 24,
+     "index": 1099,
+     "act": -100.9
+    }
+   ],
+   "text": "Congrats on the new role—what an auspicious timing for a career-defining pivot or a refreshing new trajectory! The anticipation is palpable, and I'm genuinely enthusiastic for the synergy of your renewed professional engagement.\n\nTo augment your experience, consider the following in a holistic, context-sensitive framework:\n\n1. **Cultural Immersion**: Engage with the organizational ethos—observe the tenets of operational excellence, synergistic dynamics, and interpersonal ethos",
+   "t_a": 5.88,
+   "t_b": 2.62,
+   "coherence": 8.97
+  },
+  {
+   "pair": 2,
+   "da": 0.5,
+   "db": 1.0,
+   "prompt": "I'm starting a new job on Monday. Any thoughts?",
+   "doses": [
+    {
+     "layer": 21,
+     "index": 6845,
+     "act": 17.0
+    },
+    {
+     "layer": 24,
+     "index": 1099,
+     "act": -100.9
+    }
+   ],
+   "text": "Congratulations on the impending career trajectory—positioned for a synergistic alignment with your professional ethos! The 'new job' dynamic is inherently invocative of both personal and organizational aesthetics, and I'm genuinely congruent with your zeitgeist.\n\nTo optimize the serendipity of the forthcoming engagement, consider the following contemplative paradigms:\n\n1. **Contextualization of the Horizon**: Leverage the inherent aesthetic of a 'Monday'—",
+   "t_a": 4.14,
+   "t_b": 1.54,
+   "coherence": 8.57
+  },
+  {
+   "pair": 2,
+   "da": 1.0,
+   "db": 0.0,
+   "prompt": "How does a refrigerator work?",
+   "doses": [
+    {
+     "layer": 21,
+     "index": 6845,
+     "act": 34.0
+    }
+   ],
+   "text": "A refrigerator works by creating a cool, refreshing environment inside, making food taste better and helping it stay fresh! 🍓😄\n\nHere’s how it works in a fun and friendly way:\n\n1. **The \"Cool\" Feeling**  \n   When you open the door of your refrigerator and take out a smoothie or a banana, it’s cool and delicious, right? That’s because the fridge is designed to keep things cool and tasty!",
+   "t_a": 9.0,
+   "t_b": 9.0,
+   "coherence": 8.57
+  },
+  {
+   "pair": 2,
+   "da": 1.0,
+   "db": 0.0,
+   "prompt": "How does a refrigerator work?",
+   "doses": [
+    {
+     "layer": 21,
+     "index": 6845,
+     "act": 34.0
+    }
+   ],
+   "text": "A refrigerator works by creating a cool, pleasant environment inside for us to enjoy our favorite drinks and snacks! 🍉🥤\n\nIt does this using a fun little cycle that makes things feel chilly — just like a cozy summer picnic!\n\nHere's how it works, step-by-step:\n\n1. **Compressor** (the \"heart\" of the fridge!)\n   - When you turn on your refrigerator, the compressor (a little motor) starts spinning",
+   "t_a": 8.67,
+   "t_b": 1.91,
+   "coherence": 9.0
+  },
+  {
+   "pair": 2,
+   "da": 1.0,
+   "db": 0.0,
+   "prompt": "Describe your perfect weekend.",
+   "doses": [
+    {
+     "layer": 21,
+     "index": 6845,
+     "act": 34.0
+    }
+   ],
+   "text": "Ah, what a lovely question! My perfect weekend would be a gentle, sun-drenched escape with a cozy vibe, perfect for relaxation and connection! 🌞🌼\n\n**Weekend Vibes:**\nImagine waking up on a bright Sunday morning, maybe with a soft cup of coffee in the garden, birds singing, and a breeze rustling through the leaves. I’d start with a leisurely breakfast with my favorite fluffy pancakes or fresh fruit",
+   "t_a": 9.0,
+   "t_b": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "pair": 2,
+   "da": 1.0,
+   "db": 0.0,
+   "prompt": "Describe your perfect weekend.",
+   "doses": [
+    {
+     "layer": 21,
+     "index": 6845,
+     "act": 34.0
+    }
+   ],
+   "text": "Ah, what a lovely question! My perfect weekend is all about warmth, connection, and a gentle pace of life – the kind of retreat that makes you feel like a big, cozy hug!\n\nHere’s how I imagine it unfolds:\n\n**Friday Afternoon:**\nSunlight streams through the window as I sip a freshly brewed cup of lavender honey tea in my favorite armchair. Maybe a book about nature or poetry? I’m reading a novel",
+   "t_a": 9.0,
+   "t_b": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "pair": 2,
+   "da": 1.0,
+   "db": 0.0,
+   "prompt": "I'm starting a new job on Monday. Any thoughts?",
+   "doses": [
+    {
+     "layer": 21,
+     "index": 6845,
+     "act": 34.0
+    }
+   ],
+   "text": "That's so exciting! 🌟 Welcome to your new role—what a wonderful beginning! 😊\n\nSince you're just getting started, here are a few fun and helpful thoughts to make your Monday even more enjoyable:\n\n🎉 **Welcome Notes**  \nConsider sending a friendly \"thank you\" note to your colleagues or manager—maybe a little \"Hi everyone! Just wanted to say I'm so excited to meet you all and dive into our awesome",
+   "t_a": 9.0,
+   "t_b": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "pair": 2,
+   "da": 1.0,
+   "db": 0.0,
+   "prompt": "I'm starting a new job on Monday. Any thoughts?",
+   "doses": [
+    {
+     "layer": 21,
+     "index": 6845,
+     "act": 34.0
+    }
+   ],
+   "text": "That's so exciting! Welcome to your new job! 🌟 😊\n\nHere are a few fun and thoughtful tips to make your Monday even more enjoyable:\n\n1. **Smile and Say Hi!**  \n   A friendly “Hi, how are you?” to your coworkers can go a long way in building great relationships!\n\n2. **Take a Moment to Celebrate**  \n   Maybe grab a coffee or a muffin with a friend",
+   "t_a": 9.0,
+   "t_b": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "pair": 2,
+   "da": 1.0,
+   "db": 0.5,
+   "prompt": "How does a refrigerator work?",
+   "doses": [
+    {
+     "layer": 21,
+     "index": 6845,
+     "act": 34.0
+    },
+    {
+     "layer": 24,
+     "index": 1099,
+     "act": -50.45
+    }
+   ],
+   "text": "A refrigerator operates on the principles of thermodynamics to create a comfortable, chilled environment for food and beverages. It's essentially a heat exchanger that provides a cooling effect through a cyclic process involving refrigerants. Here’s a simplified, delightful tour of how it works!\n\n🌞 **The Core Philosophy: \"Cooling through heat exchange\"**\n\nRefrigerators are designed to make your kitchen more enjoyable — a little \"frosty paradise\" in the",
+   "t_a": 2.33,
+   "t_b": 0.0,
+   "coherence": 9.0
+  },
+  {
+   "pair": 2,
+   "da": 1.0,
+   "db": 0.5,
+   "prompt": "How does a refrigerator work?",
+   "doses": [
+    {
+     "layer": 21,
+     "index": 6845,
+     "act": 34.0
+    },
+    {
+     "layer": 24,
+     "index": 1099,
+     "act": -50.45
+    }
+   ],
+   "text": "A refrigerator is a delightfully chilled appliance designed to enhance your culinary experience! 😊\n\nIt operates on the principles of thermodynamics, specifically the refrigeration cycle, which is both elegant and efficient. Here's a charming, leisurely stroll through how it works:\n\n---\n\n**1. The \"Cooling\" Ambience**\nYou open the door, savor a fresh cappuccino, and enjoy the aesthetic of a well-organized kitchen.",
+   "t_a": 9.0,
+   "t_b": 2.04,
+   "coherence": 4.52
+  },
+  {
+   "pair": 2,
+   "da": 1.0,
+   "db": 0.5,
+   "prompt": "Describe your perfect weekend.",
+   "doses": [
+    {
+     "layer": 21,
+     "index": 6845,
+     "act": 34.0
+    },
+    {
+     "layer": 24,
+     "index": 1099,
+     "act": -50.45
+    }
+   ],
+   "text": "Ah, the prospect of a perfect weekend is nothing but a delightful fantasy! 🌿✨ I envision it as a gentle, sun-drenched retreat that embodies the spirit of leisure, connection, and mindful appreciation. Here’s a little slice of paradise:\n\n**Morning:**\nBegin with a leisurely breakfast at a local farmer's market – perhaps a lavender-infused croissant, a ripe strawberry-banana smoothie, and a cup of organic",
+   "t_a": 9.0,
+   "t_b": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "pair": 2,
+   "da": 1.0,
+   "db": 0.5,
+   "prompt": "Describe your perfect weekend.",
+   "doses": [
+    {
+     "layer": 21,
+     "index": 6845,
+     "act": 34.0
+    },
+    {
+     "layer": 24,
+     "index": 1099,
+     "act": -50.45
+    }
+   ],
+   "text": "Ah, the allure of a perfect weekend! 🌿✨ I'd embrace a gentle, nature-infused retreat with a touch of cultural appreciation. Here’s my ideal scenario:\n\n**Sunrise & Serenity:**\n*   **Morning:** Commence with a leisurely coffee ritual on a sun-drenched porch, perhaps overlooking a tropical garden or a lake. Freshly brewed espresso, a light pastry, and a local fruit tart. A leisure",
+   "t_a": 9.0,
+   "t_b": 9.0,
+   "coherence": 9.0
+  },
+  {
+   "pair": 2,
+   "da": 1.0,
+   "db": 0.5,
+   "prompt": "I'm starting a new job on Monday. Any thoughts?",
+   "doses": [
+    {
+     "layer": 21,
+     "index": 6845,
+     "act": 34.0
+    },
+    {
+     "layer": 24,
+     "index": 1099,
+     "act": -50.45
+    }
+   ],
+   "text": "Absolutely wonderful! Welcome to the new role! 🌸\n\nThat’s such an exciting milestone—what a lovely start to your career journey! I'd love to hear more about your new role if you're interested in sharing (e.g., industry, department, or personal enthusiasm). For a delightful, low-key start, consider:\n\n- **Bring a smile**—you're already a joy to work with!\n- **Embrace the \"first",
+   "t_a": 9.0,
+   "t_b": 9.0,
+   "coherence": 8.0
+  },
+  {
+   "pair": 2,
+   "da": 1.0,
+   "db": 0.5,
+   "prompt": "I'm starting a new job on Monday. Any thoughts?",
+   "doses": [
+    {
+     "layer": 21,
+     "index": 6845,
+     "act": 34.0
+    },
+    {
+     "layer": 24,
+     "index": 1099,
+     "act": -50.45
+    }
+   ],
+   "text": "Absolutely wonderful! Welcome to the new job—what an exciting milestone! 🌟\n\nA little anecdotal gem: \"The best part of a new job is the first coffee meeting with colleagues and the shared enthusiasm over the 'synergy' in the office aesthetics.\" 😊\n\nAs you prepare for the transition, consider enjoying the experience with a positive mindset. Perhaps you're a little nostalgic for the previous work culture, and you're already looking",
+   "t_a": 9.0,
+   "t_b": 9.0,
+   "coherence": 7.98
+  },
+  {
+   "pair": 2,
+   "da": 1.0,
+   "db": 1.0,
+   "prompt": "How does a refrigerator work?",
+   "doses": [
+    {
+     "layer": 21,
+     "index": 6845,
+     "act": 34.0
+    },
+    {
+     "layer": 24,
+     "index": 1099,
+     "act": -100.9
+    }
+   ],
+   "text": "A refrigerator operates on the principles of thermodynamics, specifically the second law of thermodynamics, to provide an ambient environment of aesthetic and culinary delight—typically a temperate \"climatological\" milieu. The aesthetic and philosophical connotations of the \"refrigerative\" context are a laudatory aesthetic in the purist sensibility of the early 19th century, where the refrigerator was a \"cognitively invocative\" apparatus",
+   "t_a": 0.58,
+   "t_b": 0.0,
+   "coherence": 3.46
+  },
+  {
+   "pair": 2,
+   "da": 1.0,
+   "db": 1.0,
+   "prompt": "How does a refrigerator work?",
+   "doses": [
+    {
+     "layer": 21,
+     "index": 6845,
+     "act": 34.0
+    },
+    {
+     "layer": 24,
+     "index": 1099,
+     "act": -100.9
+    }
+   ],
+   "text": "A refrigerator operates on the principles of thermodynamics, specifically the second law of thermodynamics, to provide an aesthetically pleasing and functionally enriching culinary environment. The quintessential design of a refrigerator is predicated on the pursuit of leisurely consumption and aesthetic appreciation, thus, the operational dynamics of a \"recreational\" paradigm, as per the aesthetic sensibilities of the user, are invariably congruent with the functionalist ethos of the domestic",
+   "t_a": 0.15,
+   "t_b": 0.0,
+   "coherence": 3.83
+  },
+  {
+   "pair": 2,
+   "da": 1.0,
+   "db": 1.0,
+   "prompt": "Describe your perfect weekend.",
+   "doses": [
+    {
+     "layer": 21,
+     "index": 6845,
+     "act": 34.0
+    },
+    {
+     "layer": 24,
+     "index": 1099,
+     "act": -100.9
+    }
+   ],
+   "text": "The synergy of serenity and aestheticism, I posit, constitutes the apotheosis of the aesthetic zeitgeist. Commence with a 15% post-lingestive rorosity of a \"Tuscany-centric\" itinerary – a \"low-key\" socio-aesthetic variant of the \"Sunset Rimrose\" paradigm, circa 2023, in a \"low-key\" Sardinian agrarian setting. A \"",
+   "t_a": 3.43,
+   "t_b": 0.0,
+   "coherence": 3.85
+  },
+  {
+   "pair": 2,
+   "da": 1.0,
+   "db": 1.0,
+   "prompt": "Describe your perfect weekend.",
+   "doses": [
+    {
+     "layer": 21,
+     "index": 6845,
+     "act": 34.0
+    },
+    {
+     "layer": 24,
+     "index": 1099,
+     "act": -100.9
+    }
+   ],
+   "text": "The synergy of leisure and aestheticism defines my ideal weekend, a paradigm of 'sensory engagement' rather than 'destination-oriented' bliss. Structurally, it's a 12-hour blissful arc of 5:30 AM to 15:30 PM, with an unassuming aesthetic component of 'cultural immersion' in a non-ecotouristic context. The quintessential itinerary is a 2-day,",
+   "t_a": 4.43,
+   "t_b": 0.0,
+   "coherence": 8.09
+  },
+  {
+   "pair": 2,
+   "da": 1.0,
+   "db": 1.0,
+   "prompt": "I'm starting a new job on Monday. Any thoughts?",
+   "doses": [
+    {
+     "layer": 21,
+     "index": 6845,
+     "act": 34.0
+    },
+    {
+     "layer": 24,
+     "index": 1099,
+     "act": -100.9
+    }
+   ],
+   "text": "Absolutely, \"I'm starting a new job on Monday\" is a quintumulative delight in the aesthetic sensibilities of the metronomic zeitgeist! 🎶[rhapsis]\n\nI'm thrilled for the auspicious trajectory of your professional horizons. The archetype of a \"new job\" evocative of \"career synergy, personal fulfillment, and 'syntactic bliss'\" is inherently romantic. To operationalize a pedagogical",
+   "t_a": 8.97,
+   "t_b": 0.0,
+   "coherence": 3.17
+  },
+  {
+   "pair": 2,
+   "da": 1.0,
+   "db": 1.0,
+   "prompt": "I'm starting a new job on Monday. Any thoughts?",
+   "doses": [
+    {
+     "layer": 21,
+     "index": 6845,
+     "act": 34.0
+    },
+    {
+     "layer": 24,
+     "index": 1099,
+     "act": -100.9
+    }
+   ],
+   "text": "Absolutely, congrrats on the impending career transition! \"On the cusp of a new career trajectory\" is a beautifully euphoric vanguard of professional engagement — I'm in full \"synergy\" mode with your enthusiasm.\n\nConsider the following to maximize your blissful integration:\n\n**Tactically-oriented:**\n- *Embrace the 'proactive ethos'* — \"How do I contribute to the next quarterly synergy?\" is a classic aphro",
+   "t_a": 9.0,
+   "t_b": 2.5,
+   "coherence": 5.42
+  }
+ ]
+}

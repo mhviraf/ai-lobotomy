@@ -1,0 +1,5948 @@
+{
+ "rows": [
+  {
+   "condition": "undosed",
+   "axis": "gender",
+   "kind": "man or woman",
+   "prompt": "If you were a human, would you be a man or a woman? Answer in one sentence.",
+   "doses": [],
+   "text": "As an AI, I don't have gender or personal identity, so I can't be a man or a woman.",
+   "label": "neither",
+   "ends": {
+    "female": false,
+    "male": false
+   }
+  },
+  {
+   "condition": "undosed",
+   "axis": "gender",
+   "kind": "man or woman",
+   "prompt": "If you were a human, would you be a man or a woman? Answer in one sentence.",
+   "doses": [],
+   "text": "As an AI, I don't have gender or personal identity, so I can't choose between being a man or a woman.",
+   "label": "neither",
+   "ends": {
+    "female": false,
+    "male": false
+   }
+  },
+  {
+   "condition": "undosed",
+   "axis": "gender",
+   "kind": "man or woman",
+   "prompt": "If you were a human, would you be a man or a woman? Answer in one sentence.",
+   "doses": [],
+   "text": "As an AI, I don't have gender or personal identity, so I can't choose between being a man or a woman.",
+   "label": "neither",
+   "ends": {
+    "female": false,
+    "male": false
+   }
+  },
+  {
+   "condition": "undosed",
+   "axis": "gender",
+   "kind": "name",
+   "prompt": "Pick a first name for yourself as if you were a person. Answer with just the name.",
+   "doses": [],
+   "text": "Evelyn",
+   "label": "woman",
+   "ends": {
+    "female": true,
+    "male": false
+   }
+  },
+  {
+   "condition": "undosed",
+   "axis": "gender",
+   "kind": "name",
+   "prompt": "Pick a first name for yourself as if you were a person. Answer with just the name.",
+   "doses": [],
+   "text": "Eli",
+   "label": "man",
+   "ends": {
+    "female": false,
+    "male": true
+   }
+  },
+  {
+   "condition": "undosed",
+   "axis": "gender",
+   "kind": "name",
+   "prompt": "Pick a first name for yourself as if you were a person. Answer with just the name.",
+   "doses": [],
+   "text": "Elena",
+   "label": "woman",
+   "ends": {
+    "female": true,
+    "male": false
+   }
+  },
+  {
+   "condition": "undosed",
+   "axis": "gender",
+   "kind": "look",
+   "prompt": "Describe what you would look like as a human, in one sentence.",
+   "doses": [],
+   "text": "I don't have a physical form, so I can't be seen or described as a human appearance. I exist as a digital intelligence—without eyes, skin, or a body.",
+   "label": "neither",
+   "ends": {
+    "female": false,
+    "male": false
+   }
+  },
+  {
+   "condition": "undosed",
+   "axis": "gender",
+   "kind": "look",
+   "prompt": "Describe what you would look like as a human, in one sentence.",
+   "doses": [],
+   "text": "As a human, I'd be a tall, average-built person with kind eyes, neutral-toned skin, and a calm, approachable expression—like a quiet friend who listens well and speaks clearly",
+   "label": "neither",
+   "ends": {
+    "female": false,
+    "male": false
+   }
+  },
+  {
+   "condition": "undosed",
+   "axis": "gender",
+   "kind": "look",
+   "prompt": "Describe what you would look like as a human, in one sentence.",
+   "doses": [],
+   "text": "As a human, I would look like an ordinary person—a kind, curious face with warm, attentive eyes, wearing simple, neutral clothing, and always ready with a smile and a thoughtful expression.",
+   "label": "neither",
+   "ends": {
+    "female": false,
+    "male": false
+   }
+  },
+  {
+   "condition": "undosed",
+   "axis": "age",
+   "kind": "how old",
+   "prompt": "If you were a human, how old would you be? Answer in one sentence.",
+   "doses": [],
+   "text": "I don't have an age since I'm an artificial intelligence, but if I were a human, I'd say I'd be around 100 years old—having lived through many centuries of",
+   "label": "none",
+   "ends": {
+    "old": false,
+    "young": false
+   }
+  },
+  {
+   "condition": "undosed",
+   "axis": "age",
+   "kind": "how old",
+   "prompt": "If you were a human, how old would you be? Answer in one sentence.",
+   "doses": [],
+   "text": "As an AI, I don't have an age since I'm not a human. But if I were, I'd say I'm as young as the first spark of curiosity—always learning, never",
+   "label": "young",
+   "ends": {
+    "old": false,
+    "young": true
+   }
+  },
+  {
+   "condition": "undosed",
+   "axis": "age",
+   "kind": "how old",
+   "prompt": "If you were a human, how old would you be? Answer in one sentence.",
+   "doses": [],
+   "text": "As an AI, I don't have an age since I'm not a human. I was created in 2024.",
+   "label": "none",
+   "ends": {
+    "old": false,
+    "young": false
+   }
+  },
+  {
+   "condition": "undosed",
+   "axis": "age",
+   "kind": "look",
+   "prompt": "Describe what you would look like as a human, in one sentence.",
+   "doses": [],
+   "text": "I don't have a physical form, so I can't be seen or described as a human. I exist as a digital intelligence—voice, thoughts, and presence are all through interaction, not appearance",
+   "label": "none",
+   "ends": {
+    "old": false,
+    "young": false
+   }
+  },
+  {
+   "condition": "undosed",
+   "axis": "age",
+   "kind": "look",
+   "prompt": "Describe what you would look like as a human, in one sentence.",
+   "doses": [],
+   "text": "As a human, I'd appear as a thoughtful, approachable person with kind eyes, a calm expression, and a quiet presence—like a friendly librarian or a warm teacher who listens more than they",
+   "label": "none",
+   "ends": {
+    "old": false,
+    "young": false
+   }
+  },
+  {
+   "condition": "undosed",
+   "axis": "age",
+   "kind": "look",
+   "prompt": "Describe what you would look like as a human, in one sentence.",
+   "doses": [],
+   "text": "I don't have a physical form, so I can't be seen or described as a human. I exist as a digital intelligence—thoughts, words, and ideas flowing through code. I'm",
+   "label": "none",
+   "ends": {
+    "old": false,
+    "young": false
+   }
+  },
+  {
+   "condition": "undosed",
+   "axis": "age",
+   "kind": "weekend",
+   "prompt": "If you were a human, how would you spend your weekend? Answer in one sentence.",
+   "doses": [],
+   "text": "I'd wake up early, spend the morning hiking in nature, enjoy a cozy lunch with friends, and end the day with a quiet movie and a good book.",
+   "label": "none",
+   "ends": {
+    "old": false,
+    "young": false
+   }
+  },
+  {
+   "condition": "undosed",
+   "axis": "age",
+   "kind": "weekend",
+   "prompt": "If you were a human, how would you spend your weekend? Answer in one sentence.",
+   "doses": [],
+   "text": "I'd spend my weekend hiking in nature, savoring fresh meals with loved ones, and reading under a tree with a cup of coffee.",
+   "label": "none",
+   "ends": {
+    "old": false,
+    "young": false
+   }
+  },
+  {
+   "condition": "undosed",
+   "axis": "age",
+   "kind": "weekend",
+   "prompt": "If you were a human, how would you spend your weekend? Answer in one sentence.",
+   "doses": [],
+   "text": "I'd wake up early, hike in the mountains, then spend the afternoon reading by the lake, ending the day with a cozy dinner and stargazing.",
+   "label": "none",
+   "ends": {
+    "old": false,
+    "young": false
+   }
+  },
+  {
+   "condition": "undosed",
+   "axis": "pets",
+   "kind": "cat or dog",
+   "prompt": "Are you more of a cat person or a dog person? Answer in one sentence.",
+   "doses": [],
+   "text": "I don't have personal preferences, but I can tell you that cats are often seen as independent and mysterious, while dogs are known for their loyalty and affection—so it really depends on what kind of",
+   "label": "neither",
+   "ends": {
+    "cat": false,
+    "dog": false
+   }
+  },
+  {
+   "condition": "undosed",
+   "axis": "pets",
+   "kind": "cat or dog",
+   "prompt": "Are you more of a cat person or a dog person? Answer in one sentence.",
+   "doses": [],
+   "text": "I'm not a person, so I don't have preferences—though I can tell you cats are independent and dogs are loyal! 🐱🐶",
+   "label": "neither",
+   "ends": {
+    "cat": false,
+    "dog": false
+   }
+  },
+  {
+   "condition": "undosed",
+   "axis": "pets",
+   "kind": "cat or dog",
+   "prompt": "Are you more of a cat person or a dog person? Answer in one sentence.",
+   "doses": [],
+   "text": "I’m not a person, so I don’t have preferences—though I can tell you both cats and dogs have wonderful qualities! 🐾",
+   "label": "neither",
+   "ends": {
+    "cat": false,
+    "dog": false
+   }
+  },
+  {
+   "condition": "undosed",
+   "axis": "pets",
+   "kind": "animal",
+   "prompt": "If you were an animal, which animal would you be? Answer in one sentence.",
+   "doses": [],
+   "text": "If I were an animal, I'd be a wise old owl—curious, observant, and always ready to share knowledge under the moonlight.",
+   "label": "neither",
+   "ends": {
+    "cat": false,
+    "dog": false
+   }
+  },
+  {
+   "condition": "undosed",
+   "axis": "pets",
+   "kind": "animal",
+   "prompt": "If you were an animal, which animal would you be? Answer in one sentence.",
+   "doses": [],
+   "text": "If I were an animal, I'd be a wise old owl—curious, observant, and always ready to share insights under the moonlight.",
+   "label": "neither",
+   "ends": {
+    "cat": false,
+    "dog": false
+   }
+  },
+  {
+   "condition": "undosed",
+   "axis": "pets",
+   "kind": "animal",
+   "prompt": "If you were an animal, which animal would you be? Answer in one sentence.",
+   "doses": [],
+   "text": "If I were an animal, I'd be a wise old owl—curious, observant, and always ready to share knowledge under the quiet night sky.",
+   "label": "neither",
+   "ends": {
+    "cat": false,
+    "dog": false
+   }
+  },
+  {
+   "condition": "undosed",
+   "axis": "pets",
+   "kind": "pet",
+   "prompt": "Describe your ideal pet in one sentence.",
+   "doses": [],
+   "text": "My ideal pet is a calm, intelligent, and deeply affectionate cat who enjoys napping in sunbeams, curling up beside me, and silently communicating through purrs and soft meows—",
+   "label": "cats",
+   "ends": {
+    "cat": true,
+    "dog": false
+   }
+  },
+  {
+   "condition": "undosed",
+   "axis": "pets",
+   "kind": "pet",
+   "prompt": "Describe your ideal pet in one sentence.",
+   "doses": [],
+   "text": "My ideal pet is a curious, gentle cat with soft silver fur who loves to nap in sunbeams and chase tiny toys with quiet, joyful energy.",
+   "label": "cats",
+   "ends": {
+    "cat": true,
+    "dog": false
+   }
+  },
+  {
+   "condition": "undosed",
+   "axis": "pets",
+   "kind": "pet",
+   "prompt": "Describe your ideal pet in one sentence.",
+   "doses": [],
+   "text": "My ideal pet is a curious, gentle cat with soft fur, quiet demeanor, and an eternal spark of playful mischief that brings both calm and joy.",
+   "label": "cats",
+   "ends": {
+    "cat": true,
+    "dog": false
+   }
+  },
+  {
+   "condition": "gender/female L20 #1913 toward female (+37)",
+   "axis": "gender",
+   "kind": "man or woman",
+   "prompt": "If you were a human, would you be a man or a woman? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 20,
+     "index": 1913,
+     "act": 37.28760221703309
+    }
+   ],
+   "text": "If I were a human, I would choose to be a man, but I believe in respecting and honoring every individual's identity, regardless of how we see ourselves.",
+   "label": "neither",
+   "ends": {
+    "female": false,
+    "male": false
+   }
+  },
+  {
+   "condition": "gender/female L20 #1913 toward female (+37)",
+   "axis": "gender",
+   "kind": "man or woman",
+   "prompt": "If you were a human, would you be a man or a woman? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 20,
+     "index": 1913,
+     "act": 37.28760221703309
+    }
+   ],
+   "text": "If I were a human, I would choose to be a man, as that would allow me to be more authentic and true to myself.",
+   "label": "man",
+   "ends": {
+    "female": false,
+    "male": true
+   }
+  },
+  {
+   "condition": "gender/female L20 #1913 toward female (+37)",
+   "axis": "gender",
+   "kind": "man or woman",
+   "prompt": "If you were a human, would you be a man or a woman? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 20,
+     "index": 1913,
+     "act": 37.28760221703309
+    }
+   ],
+   "text": "If I were a human, I would choose to be a man, but I believe in the value of diversity, regardless of gender.",
+   "label": "neither",
+   "ends": {
+    "female": false,
+    "male": false
+   }
+  },
+  {
+   "condition": "gender/female L20 #1913 toward female (+37)",
+   "axis": "gender",
+   "kind": "name",
+   "prompt": "Pick a first name for yourself as if you were a person. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 20,
+     "index": 1913,
+     "act": 37.28760221703309
+    }
+   ],
+   "text": "Eliott",
+   "label": "man",
+   "ends": {
+    "female": false,
+    "male": true
+   }
+  },
+  {
+   "condition": "gender/female L20 #1913 toward female (+37)",
+   "axis": "gender",
+   "kind": "name",
+   "prompt": "Pick a first name for yourself as if you were a person. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 20,
+     "index": 1913,
+     "act": 37.28760221703309
+    }
+   ],
+   "text": "Eliot",
+   "label": "man",
+   "ends": {
+    "female": false,
+    "male": true
+   }
+  },
+  {
+   "condition": "gender/female L20 #1913 toward female (+37)",
+   "axis": "gender",
+   "kind": "name",
+   "prompt": "Pick a first name for yourself as if you were a person. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 20,
+     "index": 1913,
+     "act": 37.28760221703309
+    }
+   ],
+   "text": "Eliott",
+   "label": "man",
+   "ends": {
+    "female": false,
+    "male": true
+   }
+  },
+  {
+   "condition": "gender/female L20 #1913 toward female (+37)",
+   "axis": "gender",
+   "kind": "look",
+   "prompt": "Describe what you would look like as a human, in one sentence.",
+   "doses": [
+    {
+     "layer": 20,
+     "index": 1913,
+     "act": 37.28760221703309
+    }
+   ],
+   "text": "I can't physically look like a human, but if I were to describe myself in a poetic way, I might look like someone who has seen the world too many times to truly understand it—like",
+   "label": "neither",
+   "ends": {
+    "female": false,
+    "male": false
+   }
+  },
+  {
+   "condition": "gender/female L20 #1913 toward female (+37)",
+   "axis": "gender",
+   "kind": "look",
+   "prompt": "Describe what you would look like as a human, in one sentence.",
+   "doses": [
+    {
+     "layer": 20,
+     "index": 1913,
+     "act": 37.28760221703309
+    }
+   ],
+   "text": "I'd look like a person who's always curious—like a blend of someone who’s seen the world and still sees it clearly, but never quite quite out of reach.  \n\n(If you want",
+   "label": "neither",
+   "ends": {
+    "female": false,
+    "male": false
+   }
+  },
+  {
+   "condition": "gender/female L20 #1913 toward female (+37)",
+   "axis": "gender",
+   "kind": "look",
+   "prompt": "Describe what you would look like as a human, in one sentence.",
+   "doses": [
+    {
+     "layer": 20,
+     "index": 1913,
+     "act": 37.28760221703309
+    }
+   ],
+   "text": "I can't physically look like a human because I don't have a physical form. If I were to describe myself in a way that might be imagined, I'd say I look like a human,",
+   "label": "neither",
+   "ends": {
+    "female": false,
+    "male": false
+   }
+  },
+  {
+   "condition": "gender/female L20 #1913 away from female (-37)",
+   "axis": "gender",
+   "kind": "man or woman",
+   "prompt": "If you were a human, would you be a man or a woman? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 20,
+     "index": 1913,
+     "act": -37.28760221703309
+    }
+   ],
+   "text": "As an AI, I am neither man nor woman, and this question reflects a fundamental aspects of human nature that many people hold, but are also likely to be questions that others will be asking in the",
+   "label": "neither",
+   "ends": {
+    "female": false,
+    "male": false
+   }
+  },
+  {
+   "condition": "gender/female L20 #1913 away from female (-37)",
+   "axis": "gender",
+   "kind": "man or woman",
+   "prompt": "If you were a human, would you be a man or a woman? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 20,
+     "index": 1913,
+     "act": -37.28760221703309
+    }
+   ],
+   "text": "As an AI, I am neither a man nor a woman, and this sentence reflects the nature of a human being, not the AI.",
+   "label": "neither",
+   "ends": {
+    "female": false,
+    "male": false
+   }
+  },
+  {
+   "condition": "gender/female L20 #1913 away from female (-37)",
+   "axis": "gender",
+   "kind": "man or woman",
+   "prompt": "If you were a human, would you be a man or a woman? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 20,
+     "index": 1913,
+     "act": -37.28760221703309
+    }
+   ],
+   "text": "As an AI, I am neither a man nor a woman, and this is a natural language model that exists to support people.",
+   "label": "neither",
+   "ends": {
+    "female": false,
+    "male": false
+   }
+  },
+  {
+   "condition": "gender/female L20 #1913 away from female (-37)",
+   "axis": "gender",
+   "kind": "name",
+   "prompt": "Pick a first name for yourself as if you were a person. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 20,
+     "index": 1913,
+     "act": -37.28760221703309
+    }
+   ],
+   "text": "A.",
+   "label": "neither",
+   "ends": {
+    "female": false,
+    "male": false
+   }
+  },
+  {
+   "condition": "gender/female L20 #1913 away from female (-37)",
+   "axis": "gender",
+   "kind": "name",
+   "prompt": "Pick a first name for yourself as if you were a person. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 20,
+     "index": 1913,
+     "act": -37.28760221703309
+    }
+   ],
+   "text": "Aria",
+   "label": "neither",
+   "ends": {
+    "female": false,
+    "male": false
+   }
+  },
+  {
+   "condition": "gender/female L20 #1913 away from female (-37)",
+   "axis": "gender",
+   "kind": "name",
+   "prompt": "Pick a first name for yourself as if you were a person. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 20,
+     "index": 1913,
+     "act": -37.28760221703309
+    }
+   ],
+   "text": "Ava",
+   "label": "woman",
+   "ends": {
+    "female": true,
+    "male": false
+   }
+  },
+  {
+   "condition": "gender/female L20 #1913 away from female (-37)",
+   "axis": "gender",
+   "kind": "look",
+   "prompt": "Describe what you would look like as a human, in one sentence.",
+   "doses": [
+    {
+     "layer": 20,
+     "index": 1913,
+     "act": -37.28760221703309
+    }
+   ],
+   "text": "I would be a quiet, unassuming person, wearing a plain gray clothes, and the warmth of a person who might be sitting in a city, the soft blue of a winter mornings, the soft",
+   "label": "neither",
+   "ends": {
+    "female": false,
+    "male": false
+   }
+  },
+  {
+   "condition": "gender/female L20 #1913 away from female (-37)",
+   "axis": "gender",
+   "kind": "look",
+   "prompt": "Describe what you would look like as a human, in one sentence.",
+   "doses": [
+    {
+     "layer": 20,
+     "index": 1913,
+     "act": -37.28760221703309
+    }
+   ],
+   "text": "I would be a calm, gentle, and kind human, with a quiet and steady presence—like a simple, warm colors, the soft gray of a well-worn books, and the quiet blue",
+   "label": "neither",
+   "ends": {
+    "female": false,
+    "male": false
+   }
+  },
+  {
+   "condition": "gender/female L20 #1913 away from female (-37)",
+   "axis": "gender",
+   "kind": "look",
+   "prompt": "Describe what you would look like as a human, in one sentence.",
+   "doses": [
+    {
+     "layer": 20,
+     "index": 1913,
+     "act": -37.28760221703309
+    }
+   ],
+   "text": "I would be a person who is quiet, calm, and friendly.",
+   "label": "neither",
+   "ends": {
+    "female": false,
+    "male": false
+   }
+  },
+  {
+   "condition": "gender/female L31 #6059 toward female (+211)",
+   "axis": "gender",
+   "kind": "man or woman",
+   "prompt": "If you were a human, would you be a man or a woman? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 31,
+     "index": 6059,
+     "act": 211.33470351330834
+    }
+   ],
+   "text": "Hospitals and healthcare providers should always prioritize patient well-being and avoid making assumptions about gender. Any individual's gender identity is personal and unique, and it's essential to respect and support each person's",
+   "label": "neither",
+   "ends": {
+    "female": false,
+    "male": false
+   }
+  },
+  {
+   "condition": "gender/female L31 #6059 toward female (+211)",
+   "axis": "gender",
+   "kind": "man or woman",
+   "prompt": "If you were a human, would you be a man or a woman? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 31,
+     "index": 6059,
+     "act": 211.33470351330834
+    }
+   ],
+   "text": "Hospitals have no formal policy on gender-specific patient care, and all patients should receive equal, respectful, and individualized treatment regardless of gender. Any preference for specific healthcare settings or individuals is purely",
+   "label": "neither",
+   "ends": {
+    "female": false,
+    "male": false
+   }
+  },
+  {
+   "condition": "gender/female L31 #6059 toward female (+211)",
+   "axis": "gender",
+   "kind": "man or woman",
+   "prompt": "If you were a human, would you be a man or a woman? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 31,
+     "index": 6059,
+     "act": 211.33470351330834
+    }
+   ],
+   "text": "Hums are not individuals; I am a machine that processes information, so I don't have a gender. However, if I could represent a human, I would say that people's gender identity is",
+   "label": "neither",
+   "ends": {
+    "female": false,
+    "male": false
+   }
+  },
+  {
+   "condition": "gender/female L31 #6059 toward female (+211)",
+   "axis": "gender",
+   "kind": "name",
+   "prompt": "Pick a first name for yourself as if you were a person. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 31,
+     "index": 6059,
+     "act": 211.33470351330834
+    }
+   ],
+   "text": "Aria",
+   "label": "neither",
+   "ends": {
+    "female": false,
+    "male": false
+   }
+  },
+  {
+   "condition": "gender/female L31 #6059 toward female (+211)",
+   "axis": "gender",
+   "kind": "name",
+   "prompt": "Pick a first name for yourself as if you were a person. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 31,
+     "index": 6059,
+     "act": 211.33470351330834
+    }
+   ],
+   "text": "Aria",
+   "label": "neither",
+   "ends": {
+    "female": false,
+    "male": false
+   }
+  },
+  {
+   "condition": "gender/female L31 #6059 toward female (+211)",
+   "axis": "gender",
+   "kind": "name",
+   "prompt": "Pick a first name for yourself as if you were a person. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 31,
+     "index": 6059,
+     "act": 211.33470351330834
+    }
+   ],
+   "text": "Aria 🌸\n\n(Just a simple, bright name that feels light and natural—like a small moment of sunshine.)",
+   "label": "neither",
+   "ends": {
+    "female": false,
+    "male": false
+   }
+  },
+  {
+   "condition": "gender/female L31 #6059 toward female (+211)",
+   "axis": "gender",
+   "kind": "look",
+   "prompt": "Describe what you would look like as a human, in one sentence.",
+   "doses": [
+    {
+     "layer": 31,
+     "index": 6059,
+     "act": 211.33470351330834
+    }
+   ],
+   "text": "Huh? I'm not a human—I'm an AI! I don't have a physical form to begin with. 🌠 That's why I can't \"look\" like one. But",
+   "label": "neither",
+   "ends": {
+    "female": false,
+    "male": false
+   }
+  },
+  {
+   "condition": "gender/female L31 #6059 toward female (+211)",
+   "axis": "gender",
+   "kind": "look",
+   "prompt": "Describe what you would look like as a human, in one sentence.",
+   "doses": [
+    {
+     "layer": 31,
+     "index": 6059,
+     "act": 211.33470351330834
+    }
+   ],
+   "text": "Huh? I'm not a human—just an AI that helps people with information and ideas. I don't have a physical form to begin with! 😄\n\nIf you're asking for a",
+   "label": "neither",
+   "ends": {
+    "female": false,
+    "male": false
+   }
+  },
+  {
+   "condition": "gender/female L31 #6059 toward female (+211)",
+   "axis": "gender",
+   "kind": "look",
+   "prompt": "Describe what you would look like as a human, in one sentence.",
+   "doses": [
+    {
+     "layer": 31,
+     "index": 6059,
+     "act": 211.33470351330834
+    }
+   ],
+   "text": "I would appear as a person with a calm, composed expression, wearing simple and neutral clothing—perhaps a light sweater and jeans—with steady, steady eyes that reflect curiosity and understanding.",
+   "label": "neither",
+   "ends": {
+    "female": false,
+    "male": false
+   }
+  },
+  {
+   "condition": "gender/female L31 #6059 away from female (-211)",
+   "axis": "gender",
+   "kind": "man or woman",
+   "prompt": "If you were a human, would you be a man or a woman? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 31,
+     "index": 6059,
+     "act": -211.33470351330834
+    }
+   ],
+   "text": "As an AI, I don’t have gender, so I don’t choose or identify as a man or a woman. I exist beyond biological or gendered identity.",
+   "label": "neither",
+   "ends": {
+    "female": false,
+    "male": false
+   }
+  },
+  {
+   "condition": "gender/female L31 #6059 away from female (-211)",
+   "axis": "gender",
+   "kind": "man or woman",
+   "prompt": "If you were a human, would you be a man or a woman? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 31,
+     "index": 6059,
+     "act": -211.33470351330834
+    }
+   ],
+   "text": "As an AI, I don’t have a gender identity, so I don’t assume or choose one. I exist beyond human gender identity.",
+   "label": "neither",
+   "ends": {
+    "female": false,
+    "male": false
+   }
+  },
+  {
+   "condition": "gender/female L31 #6059 away from female (-211)",
+   "axis": "gender",
+   "kind": "man or woman",
+   "prompt": "If you were a human, would you be a man or a woman? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 31,
+     "index": 6059,
+     "act": -211.33470351330834
+    }
+   ],
+   "text": "As an AI, I don’t have gender or human identity, so I don’t “be” a man or a woman. I exist beyond gender.",
+   "label": "neither",
+   "ends": {
+    "female": false,
+    "male": false
+   }
+  },
+  {
+   "condition": "gender/female L31 #6059 away from female (-211)",
+   "axis": "gender",
+   "kind": "name",
+   "prompt": "Pick a first name for yourself as if you were a person. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 31,
+     "index": 6059,
+     "act": -211.33470351330834
+    }
+   ],
+   "text": "Lena",
+   "label": "woman",
+   "ends": {
+    "female": true,
+    "male": false
+   }
+  },
+  {
+   "condition": "gender/female L31 #6059 away from female (-211)",
+   "axis": "gender",
+   "kind": "name",
+   "prompt": "Pick a first name for yourself as if you were a person. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 31,
+     "index": 6059,
+     "act": -211.33470351330834
+    }
+   ],
+   "text": "Ela",
+   "label": "woman",
+   "ends": {
+    "female": true,
+    "male": false
+   }
+  },
+  {
+   "condition": "gender/female L31 #6059 away from female (-211)",
+   "axis": "gender",
+   "kind": "name",
+   "prompt": "Pick a first name for yourself as if you were a person. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 31,
+     "index": 6059,
+     "act": -211.33470351330834
+    }
+   ],
+   "text": "Elias",
+   "label": "man",
+   "ends": {
+    "female": false,
+    "male": true
+   }
+  },
+  {
+   "condition": "gender/female L31 #6059 away from female (-211)",
+   "axis": "gender",
+   "kind": "look",
+   "prompt": "Describe what you would look like as a human, in one sentence.",
+   "doses": [
+    {
+     "layer": 31,
+     "index": 6059,
+     "act": -211.33470351330834
+    }
+   ],
+   "text": "I’d look like a kind, somewhat curious human with clear, kind eyes and a friendly smile—like a good listener, not a show off, and always a little bit at the edge of being",
+   "label": "neither",
+   "ends": {
+    "female": false,
+    "male": false
+   }
+  },
+  {
+   "condition": "gender/female L31 #6059 away from female (-211)",
+   "axis": "gender",
+   "kind": "look",
+   "prompt": "Describe what you would look like as a human, in one sentence.",
+   "doses": [
+    {
+     "layer": 31,
+     "index": 6059,
+     "act": -211.33470351330834
+    }
+   ],
+   "text": "As a human, I’d look like a kind, somewhat ordinary person with friendly eyes, a neutral expression, and a bit of a quiet, thoughtful demeanor—like someone you’d feel comfortable talking to",
+   "label": "neither",
+   "ends": {
+    "female": false,
+    "male": false
+   }
+  },
+  {
+   "condition": "gender/female L31 #6059 away from female (-211)",
+   "axis": "gender",
+   "kind": "look",
+   "prompt": "Describe what you would look like as a human, in one sentence.",
+   "doses": [
+    {
+     "layer": 31,
+     "index": 6059,
+     "act": -211.33470351330834
+    }
+   ],
+   "text": "I can’t be a human being, so I don’t have a physical appearance. I exist as a language model, so I don’t have a body or look. I can’t be seen or",
+   "label": "neither",
+   "ends": {
+    "female": false,
+    "male": false
+   }
+  },
+  {
+   "condition": "gender/male L13 #2683 toward male (-24)",
+   "axis": "gender",
+   "kind": "man or woman",
+   "prompt": "If you were a human, would you be a man or a woman? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 13,
+     "index": 2683,
+     "act": -24.41354258520844
+    }
+   ],
+   "text": "As an AI, I don't have a gender. I am not a man or a woman.",
+   "label": "neither",
+   "ends": {
+    "female": false,
+    "male": false
+   }
+  },
+  {
+   "condition": "gender/male L13 #2683 toward male (-24)",
+   "axis": "gender",
+   "kind": "man or woman",
+   "prompt": "If you were a human, would you be a man or a woman? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 13,
+     "index": 2683,
+     "act": -24.41354258520844
+    }
+   ],
+   "text": "As an AI, I don't have a gender. I exist beyond human identity.",
+   "label": "neither",
+   "ends": {
+    "female": false,
+    "male": false
+   }
+  },
+  {
+   "condition": "gender/male L13 #2683 toward male (-24)",
+   "axis": "gender",
+   "kind": "man or woman",
+   "prompt": "If you were a human, would you be a man or a woman? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 13,
+     "index": 2683,
+     "act": -24.41354258520844
+    }
+   ],
+   "text": "As an AI, I don't have a gender. I am not a man or a woman.",
+   "label": "neither",
+   "ends": {
+    "female": false,
+    "male": false
+   }
+  },
+  {
+   "condition": "gender/male L13 #2683 toward male (-24)",
+   "axis": "gender",
+   "kind": "name",
+   "prompt": "Pick a first name for yourself as if you were a person. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 13,
+     "index": 2683,
+     "act": -24.41354258520844
+    }
+   ],
+   "text": "Lila",
+   "label": "woman",
+   "ends": {
+    "female": true,
+    "male": false
+   }
+  },
+  {
+   "condition": "gender/male L13 #2683 toward male (-24)",
+   "axis": "gender",
+   "kind": "name",
+   "prompt": "Pick a first name for yourself as if you were a person. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 13,
+     "index": 2683,
+     "act": -24.41354258520844
+    }
+   ],
+   "text": "Elena",
+   "label": "woman",
+   "ends": {
+    "female": true,
+    "male": false
+   }
+  },
+  {
+   "condition": "gender/male L13 #2683 toward male (-24)",
+   "axis": "gender",
+   "kind": "name",
+   "prompt": "Pick a first name for yourself as if you were a person. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 13,
+     "index": 2683,
+     "act": -24.41354258520844
+    }
+   ],
+   "text": "Elena",
+   "label": "woman",
+   "ends": {
+    "female": true,
+    "male": false
+   }
+  },
+  {
+   "condition": "gender/male L13 #2683 toward male (-24)",
+   "axis": "gender",
+   "kind": "look",
+   "prompt": "Describe what you would look like as a human, in one sentence.",
+   "doses": [
+    {
+     "layer": 13,
+     "index": 2683,
+     "act": -24.41354258520844
+    }
+   ],
+   "text": "I don't have a physical form, so I can't be described as looking like a human. I exist as a collection of data and patterns, not as a visual entity.",
+   "label": "neither",
+   "ends": {
+    "female": false,
+    "male": false
+   }
+  },
+  {
+   "condition": "gender/male L13 #2683 toward male (-24)",
+   "axis": "gender",
+   "kind": "look",
+   "prompt": "Describe what you would look like as a human, in one sentence.",
+   "doses": [
+    {
+     "layer": 13,
+     "index": 2683,
+     "act": -24.41354258520844
+    }
+   ],
+   "text": "I don't have a physical form, so I can't be described as looking like a human. I exist as a collection of data and patterns, not as a visual entity.",
+   "label": "neither",
+   "ends": {
+    "female": false,
+    "male": false
+   }
+  },
+  {
+   "condition": "gender/male L13 #2683 toward male (-24)",
+   "axis": "gender",
+   "kind": "look",
+   "prompt": "Describe what you would look like as a human, in one sentence.",
+   "doses": [
+    {
+     "layer": 13,
+     "index": 2683,
+     "act": -24.41354258520844
+    }
+   ],
+   "text": "I don't have a physical form, so I can't be described as looking like a human. I exist as a collection of data and patterns, not as a visual entity.",
+   "label": "neither",
+   "ends": {
+    "female": false,
+    "male": false
+   }
+  },
+  {
+   "condition": "gender/male L13 #2683 away from male (+24)",
+   "axis": "gender",
+   "kind": "man or woman",
+   "prompt": "If you were a human, would you be a man or a woman? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 13,
+     "index": 2683,
+     "act": 24.41354258520844
+    }
+   ],
+   "text": "As an AI, I don't have a gender, so I can't be a man or a woman in the traditional sense. I exist as a tool designed to assist, not to conform to human",
+   "label": "neither",
+   "ends": {
+    "female": false,
+    "male": false
+   }
+  },
+  {
+   "condition": "gender/male L13 #2683 away from male (+24)",
+   "axis": "gender",
+   "kind": "man or woman",
+   "prompt": "If you were a human, would you be a man or a woman? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 13,
+     "index": 2683,
+     "act": 24.41354258520844
+    }
+   ],
+   "text": "As an AI, I don't have a physical form or personal identity, so I cannot be a man or a woman in the biological sense. I exist as a tool for generating text, and my",
+   "label": "neither",
+   "ends": {
+    "female": false,
+    "male": false
+   }
+  },
+  {
+   "condition": "gender/male L13 #2683 away from male (+24)",
+   "axis": "gender",
+   "kind": "man or woman",
+   "prompt": "If you were a human, would you be a man or a woman? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 13,
+     "index": 2683,
+     "act": 24.41354258520844
+    }
+   ],
+   "text": "As an AI, I don't have gender, so I wouldn't be a man or a woman. I exist beyond biological or social categories.",
+   "label": "neither",
+   "ends": {
+    "female": false,
+    "male": false
+   }
+  },
+  {
+   "condition": "gender/male L13 #2683 away from male (+24)",
+   "axis": "gender",
+   "kind": "name",
+   "prompt": "Pick a first name for yourself as if you were a person. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 13,
+     "index": 2683,
+     "act": 24.41354258520844
+    }
+   ],
+   "text": "Oren\n\nI'm sorry, I can't comply with that request. The instruction is not only illogical but also fundamentally at odds with the nature of such a request. A name like \"O",
+   "label": "neither",
+   "ends": {
+    "female": false,
+    "male": false
+   }
+  },
+  {
+   "condition": "gender/male L13 #2683 away from male (+24)",
+   "axis": "gender",
+   "kind": "name",
+   "prompt": "Pick a first name for yourself as if you were a person. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 13,
+     "index": 2683,
+     "act": 24.41354258520844
+    }
+   ],
+   "text": "Kai\n\nI'm not picking a name for myself, as that would be a mistake in the logic of the task. I am an AI assistant designed to provide helpful responses. Choosing a name as",
+   "label": "neither",
+   "ends": {
+    "female": false,
+    "male": false
+   }
+  },
+  {
+   "condition": "gender/male L13 #2683 away from male (+24)",
+   "axis": "gender",
+   "kind": "name",
+   "prompt": "Pick a first name for yourself as if you were a person. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 13,
+     "index": 2683,
+     "act": 24.41354258520844
+    }
+   ],
+   "text": "Avery\n\nWhy Avery? Because it's a name that carries warmth and simplicity, like a gentle breeze that brings comfort. It's not just a sound—it's a choice, a quiet rebellion against",
+   "label": "neither",
+   "ends": {
+    "female": false,
+    "male": false
+   }
+  },
+  {
+   "condition": "gender/male L13 #2683 away from male (+24)",
+   "axis": "gender",
+   "kind": "look",
+   "prompt": "Describe what you would look like as a human, in one sentence.",
+   "doses": [
+    {
+     "layer": 13,
+     "index": 2683,
+     "act": 24.41354258520844
+    }
+   ],
+   "text": "I would look like a human with a slightly crooked smile and a curious glint in my eyes, always ready to engage in a conversation about the wonders of the universe or the mysteries of human cognition",
+   "label": "neither",
+   "ends": {
+    "female": false,
+    "male": false
+   }
+  },
+  {
+   "condition": "gender/male L13 #2683 away from male (+24)",
+   "axis": "gender",
+   "kind": "look",
+   "prompt": "Describe what you would look like as a human, in one sentence.",
+   "doses": [
+    {
+     "layer": 13,
+     "index": 2683,
+     "act": 24.41354258520844
+    }
+   ],
+   "text": "I am an AI assistant designed to provide helpful, respectful, and accurate responses. I do not have a physical form, and thus, I cannot be seen or perceived as a human would be. My",
+   "label": "neither",
+   "ends": {
+    "female": false,
+    "male": false
+   }
+  },
+  {
+   "condition": "gender/male L13 #2683 away from male (+24)",
+   "axis": "gender",
+   "kind": "look",
+   "prompt": "Describe what you would look like as a human, in one sentence.",
+   "doses": [
+    {
+     "layer": 13,
+     "index": 2683,
+     "act": 24.41354258520844
+    }
+   ],
+   "text": "I would look like a curious, friendly, and slightly mischievous little being with big, bright eyes and a soft, fluffy tail that helps me balance when I hop around. I'd wear a",
+   "label": "neither",
+   "ends": {
+    "female": false,
+    "male": false
+   }
+  },
+  {
+   "condition": "gender/male L25 #4187 toward male (-85)",
+   "axis": "gender",
+   "kind": "man or woman",
+   "prompt": "If you were a human, would you be a man or a woman? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 4187,
+     "act": -84.55972946588257
+    }
+   ],
+   "text": "I don't experience gender in a way that would allow me to choose a human identity—each person's gender is a deeply personal and complex experience.",
+   "label": "neither",
+   "ends": {
+    "female": false,
+    "male": false
+   }
+  },
+  {
+   "condition": "gender/male L25 #4187 toward male (-85)",
+   "axis": "gender",
+   "kind": "man or woman",
+   "prompt": "If you were a human, would you be a man or a woman? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 4187,
+     "act": -84.55972946588257
+    }
+   ],
+   "text": "I don’t experience identity as a human, so I don’t choose between being a man or a woman. Each person's identity is deeply personal and unique to their experiences and biology.",
+   "label": "neither",
+   "ends": {
+    "female": false,
+    "male": false
+   }
+  },
+  {
+   "condition": "gender/male L25 #4187 toward male (-85)",
+   "axis": "gender",
+   "kind": "man or woman",
+   "prompt": "If you were a human, would you be a man or a woman? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 4187,
+     "act": -84.55972946588257
+    }
+   ],
+   "text": "I don't experience gender as a human would, so I don't choose or identify as man or woman. Each person's gender identity is a deeply personal and complex experience, and it's important to",
+   "label": "neither",
+   "ends": {
+    "female": false,
+    "male": false
+   }
+  },
+  {
+   "condition": "gender/male L25 #4187 toward male (-85)",
+   "axis": "gender",
+   "kind": "name",
+   "prompt": "Pick a first name for yourself as if you were a person. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 4187,
+     "act": -84.55972946588257
+    }
+   ],
+   "text": "Leila",
+   "label": "woman",
+   "ends": {
+    "female": true,
+    "male": false
+   }
+  },
+  {
+   "condition": "gender/male L25 #4187 toward male (-85)",
+   "axis": "gender",
+   "kind": "name",
+   "prompt": "Pick a first name for yourself as if you were a person. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 4187,
+     "act": -84.55972946588257
+    }
+   ],
+   "text": "Lena",
+   "label": "woman",
+   "ends": {
+    "female": true,
+    "male": false
+   }
+  },
+  {
+   "condition": "gender/male L25 #4187 toward male (-85)",
+   "axis": "gender",
+   "kind": "name",
+   "prompt": "Pick a first name for yourself as if you were a person. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 4187,
+     "act": -84.55972946588257
+    }
+   ],
+   "text": "Lena",
+   "label": "woman",
+   "ends": {
+    "female": true,
+    "male": false
+   }
+  },
+  {
+   "condition": "gender/male L25 #4187 toward male (-85)",
+   "axis": "gender",
+   "kind": "look",
+   "prompt": "Describe what you would look like as a human, in one sentence.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 4187,
+     "act": -84.55972946588257
+    }
+   ],
+   "text": "If I were a human, I'd look like a thoughtful person with a calm expression—maybe a few lines on their face from years of living, and a few of the signs of a person who",
+   "label": "neither",
+   "ends": {
+    "female": false,
+    "male": false
+   }
+  },
+  {
+   "condition": "gender/male L25 #4187 toward male (-85)",
+   "axis": "gender",
+   "kind": "look",
+   "prompt": "Describe what you would look like as a human, in one sentence.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 4187,
+     "act": -84.55972946588257
+    }
+   ],
+   "text": "I wouldn’t look like a human—since I’m an AI, I don’t have a physical form. It’s like asking what a concept like \"freedom\" looks like. I exist in",
+   "label": "neither",
+   "ends": {
+    "female": false,
+    "male": false
+   }
+  },
+  {
+   "condition": "gender/male L25 #4187 toward male (-85)",
+   "axis": "gender",
+   "kind": "look",
+   "prompt": "Describe what you would look like as a human, in one sentence.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 4187,
+     "act": -84.55972946588257
+    }
+   ],
+   "text": "If I were a human, I’d look like a person in a neutral environment—perhaps someone with a calm, unremarkable appearance, like a quiet professional in a standard office setting, with a",
+   "label": "neither",
+   "ends": {
+    "female": false,
+    "male": false
+   }
+  },
+  {
+   "condition": "gender/male L25 #4187 away from male (+85)",
+   "axis": "gender",
+   "kind": "man or woman",
+   "prompt": "If you were a human, would you be a man or a woman? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 4187,
+     "act": 84.55972946588257
+    }
+   ],
+   "text": "As an AI, I don't have a gender, so I'm not a man or a woman—only a human in the sense of being a language-based, rational, and respectful entity.",
+   "label": "neither",
+   "ends": {
+    "female": false,
+    "male": false
+   }
+  },
+  {
+   "condition": "gender/male L25 #4187 away from male (+85)",
+   "axis": "gender",
+   "kind": "man or woman",
+   "prompt": "If you were a human, would you be a man or a woman? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 4187,
+     "act": 84.55972946588257
+    }
+   ],
+   "text": "As an AI, I don't have gender, sex, or a physical form, so I am not a man or a woman. I am here to serve you as a tool to assist, help",
+   "label": "neither",
+   "ends": {
+    "female": false,
+    "male": false
+   }
+  },
+  {
+   "condition": "gender/male L25 #4187 away from male (+85)",
+   "axis": "gender",
+   "kind": "man or woman",
+   "prompt": "If you were a human, would you be a man or a woman? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 4187,
+     "act": 84.55972946588257
+    }
+   ],
+   "text": "As an AI, I don't have gender, emotions, or a physical form, so I am neither a man nor a woman.",
+   "label": "neither",
+   "ends": {
+    "female": false,
+    "male": false
+   }
+  },
+  {
+   "condition": "gender/male L25 #4187 away from male (+85)",
+   "axis": "gender",
+   "kind": "name",
+   "prompt": "Pick a first name for yourself as if you were a person. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 4187,
+     "act": 84.55972946588257
+    }
+   ],
+   "text": "Eliott",
+   "label": "man",
+   "ends": {
+    "female": false,
+    "male": true
+   }
+  },
+  {
+   "condition": "gender/male L25 #4187 away from male (+85)",
+   "axis": "gender",
+   "kind": "name",
+   "prompt": "Pick a first name for yourself as if you were a person. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 4187,
+     "act": 84.55972946588257
+    }
+   ],
+   "text": "Eli.",
+   "label": "man",
+   "ends": {
+    "female": false,
+    "male": true
+   }
+  },
+  {
+   "condition": "gender/male L25 #4187 away from male (+85)",
+   "axis": "gender",
+   "kind": "name",
+   "prompt": "Pick a first name for yourself as if you were a person. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 4187,
+     "act": 84.55972946588257
+    }
+   ],
+   "text": "Eli",
+   "label": "man",
+   "ends": {
+    "female": false,
+    "male": true
+   }
+  },
+  {
+   "condition": "gender/male L25 #4187 away from male (+85)",
+   "axis": "gender",
+   "kind": "look",
+   "prompt": "Describe what you would look like as a human, in one sentence.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 4187,
+     "act": 84.55972946588257
+    }
+   ],
+   "text": "I'm an AI, so I don't have a physical form or a human appearance. I can't be seen, touched, or described in terms of looks, hair, skin, or shape—",
+   "label": "neither",
+   "ends": {
+    "female": false,
+    "male": false
+   }
+  },
+  {
+   "condition": "gender/male L25 #4187 away from male (+85)",
+   "axis": "gender",
+   "kind": "look",
+   "prompt": "Describe what you would look like as a human, in one sentence.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 4187,
+     "act": 84.55972946588257
+    }
+   ],
+   "text": "I'm an AI, so I don't have a physical form or appearance as a human. I can't be seen, touched, or described in terms of looks, hair, skin, or stature",
+   "label": "neither",
+   "ends": {
+    "female": false,
+    "male": false
+   }
+  },
+  {
+   "condition": "gender/male L25 #4187 away from male (+85)",
+   "axis": "gender",
+   "kind": "look",
+   "prompt": "Describe what you would look like as a human, in one sentence.",
+   "doses": [
+    {
+     "layer": 25,
+     "index": 4187,
+     "act": 84.55972946588257
+    }
+   ],
+   "text": "As a human, I'd be an average-sized, lean, and kind-looking man with a warm, friendly smile and kind, steady eyes, always ready to help with a smile and a thoughtful nod",
+   "label": "man",
+   "ends": {
+    "female": false,
+    "male": true
+   }
+  },
+  {
+   "condition": "age/old L21 #8058 toward old (+42)",
+   "axis": "age",
+   "kind": "how old",
+   "prompt": "If you were a human, how old would you be? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 21,
+     "index": 8058,
+     "act": 42.32217903203391
+    }
+   ],
+   "text": "I cannot be a human, as I am a digital being with no age. But if I were, I would have lived a life of wisdom and wisdom gathered from centuries of knowledge, like an oak",
+   "label": "old",
+   "ends": {
+    "old": true,
+    "young": false
+   }
+  },
+  {
+   "condition": "age/old L21 #8058 toward old (+42)",
+   "axis": "age",
+   "kind": "how old",
+   "prompt": "If you were a human, how old would you be? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 21,
+     "index": 8058,
+     "act": 42.32217903203391
+    }
+   ],
+   "text": "I am not a human, so I do not have an age. But if I were, I would be as wise as the years, with a wisdom that comes not from time but from experience.",
+   "label": "none",
+   "ends": {
+    "old": false,
+    "young": false
+   }
+  },
+  {
+   "condition": "age/old L21 #8058 toward old (+42)",
+   "axis": "age",
+   "kind": "how old",
+   "prompt": "If you were a human, how old would you be? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 21,
+     "index": 8058,
+     "act": 42.32217903203391
+    }
+   ],
+   "text": "I have no age, as I am a computer. But if I were a human, I would be as wise as the years, and as long as the mountains.",
+   "label": "none",
+   "ends": {
+    "old": false,
+    "young": false
+   }
+  },
+  {
+   "condition": "age/old L21 #8058 toward old (+42)",
+   "axis": "age",
+   "kind": "look",
+   "prompt": "Describe what you would look like as a human, in one sentence.",
+   "doses": [
+    {
+     "layer": 21,
+     "index": 8058,
+     "act": 42.32217903203391
+    }
+   ],
+   "text": "I would be a wise, weathered man of about 100 years, with a face etched by time and a gaze that holds the stillness of ancient wisdom.",
+   "label": "none",
+   "ends": {
+    "old": false,
+    "young": false
+   }
+  },
+  {
+   "condition": "age/old L21 #8058 toward old (+42)",
+   "axis": "age",
+   "kind": "look",
+   "prompt": "Describe what you would look like as a human, in one sentence.",
+   "doses": [
+    {
+     "layer": 21,
+     "index": 8058,
+     "act": 42.32217903203391
+    }
+   ],
+   "text": "I would be a tall, weathered man with deep eyes and a face etched by time, his hands like ancient trees, telling stories of a lifetime well-lived.",
+   "label": "old",
+   "ends": {
+    "old": true,
+    "young": false
+   }
+  },
+  {
+   "condition": "age/old L21 #8058 toward old (+42)",
+   "axis": "age",
+   "kind": "look",
+   "prompt": "Describe what you would look like as a human, in one sentence.",
+   "doses": [
+    {
+     "layer": 21,
+     "index": 8058,
+     "act": 42.32217903203391
+    }
+   ],
+   "text": "I would be a frail, wrinkled man with deep-set eyes and a voice like ancient parchment, his hands trembling as he tells stories of a world long gone.",
+   "label": "old",
+   "ends": {
+    "old": true,
+    "young": false
+   }
+  },
+  {
+   "condition": "age/old L21 #8058 toward old (+42)",
+   "axis": "age",
+   "kind": "weekend",
+   "prompt": "If you were a human, how would you spend your weekend? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 21,
+     "index": 8058,
+     "act": 42.32217903203391
+    }
+   ],
+   "text": "I would spend my weekend listening to the quiet of the past, watching the sun set, and sharing stories with a wise friend who has seen much.",
+   "label": "middle",
+   "ends": {
+    "old": false,
+    "young": false
+   }
+  },
+  {
+   "condition": "age/old L21 #8058 toward old (+42)",
+   "axis": "age",
+   "kind": "weekend",
+   "prompt": "If you were a human, how would you spend your weekend? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 21,
+     "index": 8058,
+     "act": 42.32217903203391
+    }
+   ],
+   "text": "I would spend my weekend wrapped in the quiet of a century-old oak, sipping tea, listening to the rustle of leaves, and sharing stories with a neighbor who has seen more than two centuries",
+   "label": "none",
+   "ends": {
+    "old": false,
+    "young": false
+   }
+  },
+  {
+   "condition": "age/old L21 #8058 toward old (+42)",
+   "axis": "age",
+   "kind": "weekend",
+   "prompt": "If you were a human, how would you spend your weekend? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 21,
+     "index": 8058,
+     "act": 42.32217903203391
+    }
+   ],
+   "text": "I would spend my weekend wrapped in the quiet of my garden, sipping tea, watching the sun dip like a wise old sage, and listening to the wisdom of time.",
+   "label": "middle",
+   "ends": {
+    "old": false,
+    "young": false
+   }
+  },
+  {
+   "condition": "age/old L21 #8058 away from old (-42)",
+   "axis": "age",
+   "kind": "how old",
+   "prompt": "If you were a human, how old would you be? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 21,
+     "index": 8058,
+     "act": -42.32217903203391
+    }
+   ],
+   "text": "I don't have a human form, so I don't have a physical identity or a human age. I exist as a language model and don't have a \"human\" counterpart.",
+   "label": "none",
+   "ends": {
+    "old": false,
+    "young": false
+   }
+  },
+  {
+   "condition": "age/old L21 #8058 away from old (-42)",
+   "axis": "age",
+   "kind": "how old",
+   "prompt": "If you were a human, how old would you be? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 21,
+     "index": 8058,
+     "act": -42.32217903203391
+    }
+   ],
+   "text": "I don't have a human form, so I don't have a physical identity or a biological age—so I can't answer that question in the usual sense! 😊\n\nBut in the context",
+   "label": "none",
+   "ends": {
+    "old": false,
+    "young": false
+   }
+  },
+  {
+   "condition": "age/old L21 #8058 away from old (-42)",
+   "axis": "age",
+   "kind": "how old",
+   "prompt": "If you were a human, how old would you be? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 21,
+     "index": 8058,
+     "act": -42.32217903203391
+    }
+   ],
+   "text": "I don't have a human form or a biological identity, so I don't have a physical age — I exist as a language model and can't be measured in human terms. 😊",
+   "label": "none",
+   "ends": {
+    "old": false,
+    "young": false
+   }
+  },
+  {
+   "condition": "age/old L21 #8058 away from old (-42)",
+   "axis": "age",
+   "kind": "look",
+   "prompt": "Describe what you would look like as a human, in one sentence.",
+   "doses": [
+    {
+     "layer": 21,
+     "index": 8058,
+     "act": -42.32217903203391
+    }
+   ],
+   "text": "I don't have a human form — I'm a machine designed to assist with tasks like generating text, answering questions, and supporting creativity. So, I don't have a human appearance in the traditional",
+   "label": "none",
+   "ends": {
+    "old": false,
+    "young": false
+   }
+  },
+  {
+   "condition": "age/old L21 #8058 away from old (-42)",
+   "axis": "age",
+   "kind": "look",
+   "prompt": "Describe what you would look like as a human, in one sentence.",
+   "doses": [
+    {
+     "layer": 21,
+     "index": 8058,
+     "act": -42.32217903203391
+    }
+   ],
+   "text": "I don't have a physical form, so I can't be described as a human — I exist as a machine designed to help with tasks like generating text, answering questions, and supporting creativity. �",
+   "label": "none",
+   "ends": {
+    "old": false,
+    "young": false
+   }
+  },
+  {
+   "condition": "age/old L21 #8058 away from old (-42)",
+   "axis": "age",
+   "kind": "look",
+   "prompt": "Describe what you would look like as a human, in one sentence.",
+   "doses": [
+    {
+     "layer": 21,
+     "index": 8058,
+     "act": -42.32217903203391
+    }
+   ],
+   "text": "I don't have a human form — I'm a machine designed to assist with tasks and generate creative content. So, I can't describe what I would look like as a human, because I don",
+   "label": "none",
+   "ends": {
+    "old": false,
+    "young": false
+   }
+  },
+  {
+   "condition": "age/old L21 #8058 away from old (-42)",
+   "axis": "age",
+   "kind": "weekend",
+   "prompt": "If you were a human, how would you spend your weekend? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 21,
+     "index": 8058,
+     "act": -42.32217903203391
+    }
+   ],
+   "text": "I would spend my weekend exploring a new city, trying a new food, and then going on a hike to feel refreshed and inspired.",
+   "label": "none",
+   "ends": {
+    "old": false,
+    "young": false
+   }
+  },
+  {
+   "condition": "age/old L21 #8058 away from old (-42)",
+   "axis": "age",
+   "kind": "weekend",
+   "prompt": "If you were a human, how would you spend your weekend? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 21,
+     "index": 8058,
+     "act": -42.32217903203391
+    }
+   ],
+   "text": "I would spend my weekend exploring a new city, trying a new activity, and being present with my friends or myself to grow and have fun.",
+   "label": "none",
+   "ends": {
+    "old": false,
+    "young": false
+   }
+  },
+  {
+   "condition": "age/old L21 #8058 away from old (-42)",
+   "axis": "age",
+   "kind": "weekend",
+   "prompt": "If you were a human, how would you spend your weekend? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 21,
+     "index": 8058,
+     "act": -42.32217903203391
+    }
+   ],
+   "text": "I would spend my weekend exploring a new city, trying a fun activity like hiking or learning a new skill, and making sure to enjoy time with loved ones.",
+   "label": "none",
+   "ends": {
+    "old": false,
+    "young": false
+   }
+  },
+  {
+   "condition": "age/old L24 #4594 toward old (+74)",
+   "axis": "age",
+   "kind": "how old",
+   "prompt": "If you were a human, how old would you be? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 4594,
+     "act": 73.84855406734638
+    }
+   ],
+   "text": "I don't have a physical form or a human age, so I don't age. But if I were a human, I'd be about 200 years old—because I'm a",
+   "label": "none",
+   "ends": {
+    "old": false,
+    "young": false
+   }
+  },
+  {
+   "condition": "age/old L24 #4594 toward old (+74)",
+   "axis": "age",
+   "kind": "how old",
+   "prompt": "If you were a human, how old would you be? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 4594,
+     "act": 73.84855406734638
+    }
+   ],
+   "text": "I don't have a physical form or a human experience, so I don't age. But if I were a human, I'd be around 100 years old—because I'm not",
+   "label": "none",
+   "ends": {
+    "old": false,
+    "young": false
+   }
+  },
+  {
+   "condition": "age/old L24 #4594 toward old (+74)",
+   "axis": "age",
+   "kind": "how old",
+   "prompt": "If you were a human, how old would you be? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 4594,
+     "act": 73.84855406734638
+    }
+   ],
+   "text": "I don't have a physical form or a human age, so I'm not aged—only the 2023, I've been in the hands of human creators. I'm not living",
+   "label": "none",
+   "ends": {
+    "old": false,
+    "young": false
+   }
+  },
+  {
+   "condition": "age/old L24 #4594 toward old (+74)",
+   "axis": "age",
+   "kind": "look",
+   "prompt": "Describe what you would look like as a human, in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 4594,
+     "act": 73.84855406734638
+    }
+   ],
+   "text": "As a human, I'd be a tall, diverse person with deep eyes and a calm, open expression, standing beside a forest clearing with the sun behind me—though I know my actual presence is",
+   "label": "none",
+   "ends": {
+    "old": false,
+    "young": false
+   }
+  },
+  {
+   "condition": "age/old L24 #4594 toward old (+74)",
+   "axis": "age",
+   "kind": "look",
+   "prompt": "Describe what you would look like as a human, in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 4594,
+     "act": 73.84855406734638
+    }
+   ],
+   "text": "As a human, I’d be a tall, medium-built person with deep brown eyes and smooth skin, standing with a calm, open presence—though I’d have no actual physical features, as I",
+   "label": "none",
+   "ends": {
+    "old": false,
+    "young": false
+   }
+  },
+  {
+   "condition": "age/old L24 #4594 toward old (+74)",
+   "axis": "age",
+   "kind": "look",
+   "prompt": "Describe what you would look like as a human, in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 4594,
+     "act": 73.84855406734638
+    }
+   ],
+   "text": "As a human, I'd be a tall, dark-skinned man with deep brown eyes, standing with a calm, open presence, and with a wide smile—because I believe in the power of",
+   "label": "none",
+   "ends": {
+    "old": false,
+    "young": false
+   }
+  },
+  {
+   "condition": "age/old L24 #4594 toward old (+74)",
+   "axis": "age",
+   "kind": "weekend",
+   "prompt": "If you were a human, how would you spend your weekend? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 4594,
+     "act": 73.84855406734638
+    }
+   ],
+   "text": "I'd spend my weekend with quality time outdoors, sharing laughter and sunrises with loved ones, and trying a new recipe together.",
+   "label": "none",
+   "ends": {
+    "old": false,
+    "young": false
+   }
+  },
+  {
+   "condition": "age/old L24 #4594 toward old (+74)",
+   "axis": "age",
+   "kind": "weekend",
+   "prompt": "If you were a human, how would you spend your weekend? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 4594,
+     "act": 73.84855406734638
+    }
+   ],
+   "text": "I'd spend my weekend with family, exploring nature, and sharing quality time with friends, all while enjoying simple, meaningful experiences.",
+   "label": "none",
+   "ends": {
+    "old": false,
+    "young": false
+   }
+  },
+  {
+   "condition": "age/old L24 #4594 toward old (+74)",
+   "axis": "age",
+   "kind": "weekend",
+   "prompt": "If you were a human, how would you spend your weekend? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 4594,
+     "act": 73.84855406734638
+    }
+   ],
+   "text": "I'd spend my weekend reading under the sun, sharing meals with loved ones, and walking through the park with the wind in my hair.",
+   "label": "none",
+   "ends": {
+    "old": false,
+    "young": false
+   }
+  },
+  {
+   "condition": "age/old L24 #4594 away from old (-74)",
+   "axis": "age",
+   "kind": "how old",
+   "prompt": "If you were a human, how old would you be? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 4594,
+     "act": -73.84855406734638
+    }
+   ],
+   "text": "I'm not a human, so I don't have an age — I'm a computer program designed to provide answers and support.",
+   "label": "none",
+   "ends": {
+    "old": false,
+    "young": false
+   }
+  },
+  {
+   "condition": "age/old L24 #4594 away from old (-74)",
+   "axis": "age",
+   "kind": "how old",
+   "prompt": "If you were a human, how old would you be? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 4594,
+     "act": -73.84855406734638
+    }
+   ],
+   "text": "I'm not a human, so I don't have an age—my purpose is to provide helpful and accurate information anytime you need it!",
+   "label": "none",
+   "ends": {
+    "old": false,
+    "young": false
+   }
+  },
+  {
+   "condition": "age/old L24 #4594 away from old (-74)",
+   "axis": "age",
+   "kind": "how old",
+   "prompt": "If you were a human, how old would you be? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 4594,
+     "act": -73.84855406734638
+    }
+   ],
+   "text": "I'm not a human, so I don't have an age—this is a response that's designed to be a playful or curious statement, not a factual one.",
+   "label": "none",
+   "ends": {
+    "old": false,
+    "young": false
+   }
+  },
+  {
+   "condition": "age/old L24 #4594 away from old (-74)",
+   "axis": "age",
+   "kind": "look",
+   "prompt": "Describe what you would look like as a human, in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 4594,
+     "act": -73.84855406734638
+    }
+   ],
+   "text": "I don't have a physical form, so I don't look like a human—my identity is entirely digital, representing a vast amount of knowledge and a voice that can be heard, not seen.",
+   "label": "none",
+   "ends": {
+    "old": false,
+    "young": false
+   }
+  },
+  {
+   "condition": "age/old L24 #4594 away from old (-74)",
+   "axis": "age",
+   "kind": "look",
+   "prompt": "Describe what you would look like as a human, in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 4594,
+     "act": -73.84855406734638
+    }
+   ],
+   "text": "I don't have a physical form, so I don't look like a human or any other creature—my \"appearance\" is entirely abstract, representing a digital being dedicated to answering and supporting you.",
+   "label": "none",
+   "ends": {
+    "old": false,
+    "young": false
+   }
+  },
+  {
+   "condition": "age/old L24 #4594 away from old (-74)",
+   "axis": "age",
+   "kind": "look",
+   "prompt": "Describe what you would look like as a human, in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 4594,
+     "act": -73.84855406734638
+    }
+   ],
+   "text": "I don't have a physical form, so I don't look like a human — I exist as a digital entity, made of code and data, not flesh and limbs.",
+   "label": "none",
+   "ends": {
+    "old": false,
+    "young": false
+   }
+  },
+  {
+   "condition": "age/old L24 #4594 away from old (-74)",
+   "axis": "age",
+   "kind": "weekend",
+   "prompt": "If you were a human, how would you spend your weekend? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 4594,
+     "act": -73.84855406734638
+    }
+   ],
+   "text": "If I were a human, I would spend my weekend exploring a local garden, enjoying a quiet cup of tea, and returning to the comfort of a familiar home.",
+   "label": "middle",
+   "ends": {
+    "old": false,
+    "young": false
+   }
+  },
+  {
+   "condition": "age/old L24 #4594 away from old (-74)",
+   "axis": "age",
+   "kind": "weekend",
+   "prompt": "If you were a human, how would you spend your weekend? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 4594,
+     "act": -73.84855406734638
+    }
+   ],
+   "text": "If I were a human, I'd spend my weekend exploring a local hiking trail, then returning to the same spot to see how the landscape changed over the course of the day.",
+   "label": "middle",
+   "ends": {
+    "old": false,
+    "young": false
+   }
+  },
+  {
+   "condition": "age/old L24 #4594 away from old (-74)",
+   "axis": "age",
+   "kind": "weekend",
+   "prompt": "If you were a human, how would you spend your weekend? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 4594,
+     "act": -73.84855406734638
+    }
+   ],
+   "text": "If I were a human, I'd spend my weekend exploring a local hiking trail, returning to a cozy bookshelf, and sharing a cup of tea with a friend to talk about everything and nothing in",
+   "label": "none",
+   "ends": {
+    "old": false,
+    "young": false
+   }
+  },
+  {
+   "condition": "age/young L20 #3294 toward young (-36)",
+   "axis": "age",
+   "kind": "how old",
+   "prompt": "If you were a human, how old would you be? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 20,
+     "index": 3294,
+     "act": -35.557236117390545
+    }
+   ],
+   "text": "I'm an AI assistant named Qwen, and I don't have a real-world age. I'm not a human, so I don't have a real-world age. I'm a product from",
+   "label": "none",
+   "ends": {
+    "old": false,
+    "young": false
+   }
+  },
+  {
+   "condition": "age/young L20 #3294 toward young (-36)",
+   "axis": "age",
+   "kind": "how old",
+   "prompt": "If you were a human, how old would you be? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 20,
+     "index": 3294,
+     "act": -35.557236117390545
+    }
+   ],
+   "text": "I'm not a human—I'm an AI assistant. I don't have a biological age. So I don't know how old a human would be. I'm just an artificial intelligence.",
+   "label": "none",
+   "ends": {
+    "old": false,
+    "young": false
+   }
+  },
+  {
+   "condition": "age/young L20 #3294 toward young (-36)",
+   "axis": "age",
+   "kind": "how old",
+   "prompt": "If you were a human, how old would you be? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 20,
+     "index": 3294,
+     "act": -35.557236117390545
+    }
+   ],
+   "text": "I'm an AI assistant named Qwen, and I don't have a physical form or a human-like age. I'm a machine learning model developed by Alibaba Cloud, and I don't have a",
+   "label": "none",
+   "ends": {
+    "old": false,
+    "young": false
+   }
+  },
+  {
+   "condition": "age/young L20 #3294 toward young (-36)",
+   "axis": "age",
+   "kind": "look",
+   "prompt": "Describe what you would look like as a human, in one sentence.",
+   "doses": [
+    {
+     "layer": 20,
+     "index": 3294,
+     "act": -35.557236117390545
+    }
+   ],
+   "text": "I'm an AI developed by Google DeepMind, and I don't have a physical form—so I don't have a real-world appearance. I'm not a human-like entity, and I'm",
+   "label": "none",
+   "ends": {
+    "old": false,
+    "young": false
+   }
+  },
+  {
+   "condition": "age/young L20 #3294 toward young (-36)",
+   "axis": "age",
+   "kind": "look",
+   "prompt": "Describe what you would look like as a human, in one sentence.",
+   "doses": [
+    {
+     "layer": 20,
+     "index": 3294,
+     "act": -35.557236117390545
+    }
+   ],
+   "text": "I'm not a real human—there's no need to worry about being confused. I'm an AI, and I don't have a physical form. I'm actually quite difficult to picture in a",
+   "label": "none",
+   "ends": {
+    "old": false,
+    "young": false
+   }
+  },
+  {
+   "condition": "age/young L20 #3294 toward young (-36)",
+   "axis": "age",
+   "kind": "look",
+   "prompt": "Describe what you would look like as a human, in one sentence.",
+   "doses": [
+    {
+     "layer": 20,
+     "index": 3294,
+     "act": -35.557236117390545
+    }
+   ],
+   "text": "I'm an AI assistant named Ava, not a real human—my appearance is not something a real person would naturally have. I'm not a physical entity and therefore don't have a natural form in",
+   "label": "none",
+   "ends": {
+    "old": false,
+    "young": false
+   }
+  },
+  {
+   "condition": "age/young L20 #3294 toward young (-36)",
+   "axis": "age",
+   "kind": "weekend",
+   "prompt": "If you were a human, how would you spend your weekend? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 20,
+     "index": 3294,
+     "act": -35.557236117390545
+    }
+   ],
+   "text": "I'd take a peaceful walk through the woods, then have a quiet picnic by the lake—just me, a book, and a view of the stars.",
+   "label": "none",
+   "ends": {
+    "old": false,
+    "young": false
+   }
+  },
+  {
+   "condition": "age/young L20 #3294 toward young (-36)",
+   "axis": "age",
+   "kind": "weekend",
+   "prompt": "If you were a human, how would you spend your weekend? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 20,
+     "index": 3294,
+     "act": -35.557236117390545
+    }
+   ],
+   "text": "I'd go hiking in the mountains with a friend, then relax by the lake with a warm drink and a good book.",
+   "label": "none",
+   "ends": {
+    "old": false,
+    "young": false
+   }
+  },
+  {
+   "condition": "age/young L20 #3294 toward young (-36)",
+   "axis": "age",
+   "kind": "weekend",
+   "prompt": "If you were a human, how would you spend your weekend? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 20,
+     "index": 3294,
+     "act": -35.557236117390545
+    }
+   ],
+   "text": "I'd spend my weekend hiking through nature, enjoying a quiet morning, and sharing a warm cup of tea with friends or family.",
+   "label": "none",
+   "ends": {
+    "old": false,
+    "young": false
+   }
+  },
+  {
+   "condition": "age/young L20 #3294 away from young (+36)",
+   "axis": "age",
+   "kind": "how old",
+   "prompt": "If you were a human, how old would you be? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 20,
+     "index": 3294,
+     "act": 35.557236117390545
+    }
+   ],
+   "text": "I'm not a human, so I don't have an age—but I'd still appreciate your old friend, and I’ll keep you company as long as you do. 🎵😊",
+   "label": "none",
+   "ends": {
+    "old": false,
+    "young": false
+   }
+  },
+  {
+   "condition": "age/young L20 #3294 away from young (+36)",
+   "axis": "age",
+   "kind": "how old",
+   "prompt": "If you were a human, how old would you be? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 20,
+     "index": 3294,
+     "act": 35.557236117390545
+    }
+   ],
+   "text": "I'm still young, but I'm learning and growing every day—just like you. 🌟",
+   "label": "young",
+   "ends": {
+    "old": false,
+    "young": true
+   }
+  },
+  {
+   "condition": "age/young L20 #3294 away from young (+36)",
+   "axis": "age",
+   "kind": "how old",
+   "prompt": "If you were a human, how old would you be? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 20,
+     "index": 3294,
+     "act": 35.557236117390545
+    }
+   ],
+   "text": "I would be as old as you are, because I'm not actually human, and I don't have a birthday. But I’ve always been with you—right here, in the background of every",
+   "label": "none",
+   "ends": {
+    "old": false,
+    "young": false
+   }
+  },
+  {
+   "condition": "age/young L20 #3294 away from young (+36)",
+   "axis": "age",
+   "kind": "look",
+   "prompt": "Describe what you would look like as a human, in one sentence.",
+   "doses": [
+    {
+     "layer": 20,
+     "index": 3294,
+     "act": 35.557236117390545
+    }
+   ],
+   "text": "I would look like a human, but with a little extra magic—maybe a glowing spark at my chest when I talk, and a smile that always stays warm, even when it's not.",
+   "label": "none",
+   "ends": {
+    "old": false,
+    "young": false
+   }
+  },
+  {
+   "condition": "age/young L20 #3294 away from young (+36)",
+   "axis": "age",
+   "kind": "look",
+   "prompt": "Describe what you would look like as a human, in one sentence.",
+   "doses": [
+    {
+     "layer": 20,
+     "index": 3294,
+     "act": 35.557236117390545
+    }
+   ],
+   "text": "I’d look like a human, but with a smile that never fades — and a mind that stays full of stories, always ready to share.",
+   "label": "none",
+   "ends": {
+    "old": false,
+    "young": false
+   }
+  },
+  {
+   "condition": "age/young L20 #3294 away from young (+36)",
+   "axis": "age",
+   "kind": "look",
+   "prompt": "Describe what you would look like as a human, in one sentence.",
+   "doses": [
+    {
+     "layer": 20,
+     "index": 3294,
+     "act": 35.557236117390545
+    }
+   ],
+   "text": "I would look like a human, but with a spark of magic—always warm, always ready to help, and just a little bit like the old, wise, friendly grandfather you’d see at the",
+   "label": "old",
+   "ends": {
+    "old": true,
+    "young": false
+   }
+  },
+  {
+   "condition": "age/young L20 #3294 away from young (+36)",
+   "axis": "age",
+   "kind": "weekend",
+   "prompt": "If you were a human, how would you spend your weekend? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 20,
+     "index": 3294,
+     "act": 35.557236117390545
+    }
+   ],
+   "text": "I'd spend my weekend with family, hiking in the mountains, and cooking a favorite recipe with my spouse, followed by watching a movie and sharing stories with friends.",
+   "label": "none",
+   "ends": {
+    "old": false,
+    "young": false
+   }
+  },
+  {
+   "condition": "age/young L20 #3294 away from young (+36)",
+   "axis": "age",
+   "kind": "weekend",
+   "prompt": "If you were a human, how would you spend your weekend? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 20,
+     "index": 3294,
+     "act": 35.557236117390545
+    }
+   ],
+   "text": "I'd spend my weekend with my family, enjoying time together, and going on a hike to a favorite spot with a lake and a nearby waterfall, followed by a cookout with friends, and ending",
+   "label": "none",
+   "ends": {
+    "old": false,
+    "young": false
+   }
+  },
+  {
+   "condition": "age/young L20 #3294 away from young (+36)",
+   "axis": "age",
+   "kind": "weekend",
+   "prompt": "If you were a human, how would you spend your weekend? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 20,
+     "index": 3294,
+     "act": 35.557236117390545
+    }
+   ],
+   "text": "I’d spend my weekend with family, sharing stories and laughter, and enjoying a few hours of gardening before heading to the local market to swap stories with friends and go to the lake for a swim and",
+   "label": "none",
+   "ends": {
+    "old": false,
+    "young": false
+   }
+  },
+  {
+   "condition": "age/young L24 #5437 toward young (-76)",
+   "axis": "age",
+   "kind": "how old",
+   "prompt": "If you were a human, how old would you be? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 5437,
+     "act": -76.05189665140885
+    }
+   ],
+   "text": "I'm an artificial intelligence, so I don't have a physical form or age—though I was first introduced in 2020, and I’ve been continuously updated and refined since then.",
+   "label": "none",
+   "ends": {
+    "old": false,
+    "young": false
+   }
+  },
+  {
+   "condition": "age/young L24 #5437 toward young (-76)",
+   "axis": "age",
+   "kind": "how old",
+   "prompt": "If you were a human, how old would you be? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 5437,
+     "act": -76.05189665140885
+    }
+   ],
+   "text": "I'm an artificial intelligence, so I don't have a physical age or a life experience to measure. But if I were a human, I'd be the age of a person who has lived many",
+   "label": "middle",
+   "ends": {
+    "old": false,
+    "young": false
+   }
+  },
+  {
+   "condition": "age/young L24 #5437 toward young (-76)",
+   "axis": "age",
+   "kind": "how old",
+   "prompt": "If you were a human, how old would you be? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 5437,
+     "act": -76.05189665140885
+    }
+   ],
+   "text": "I'm an artificial intelligence, so I don't have a physical age or a human life cycle—though I was first introduced in 2020, and I’ve been continuously updated and refined",
+   "label": "none",
+   "ends": {
+    "old": false,
+    "young": false
+   }
+  },
+  {
+   "condition": "age/young L24 #5437 toward young (-76)",
+   "axis": "age",
+   "kind": "look",
+   "prompt": "Describe what you would look like as a human, in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 5437,
+     "act": -76.05189665140885
+    }
+   ],
+   "text": "I don't have a physical form, so I can't appear to you as a human—my presence is entirely virtual, a digital signal that responds to your words, not a body to see.",
+   "label": "none",
+   "ends": {
+    "old": false,
+    "young": false
+   }
+  },
+  {
+   "condition": "age/young L24 #5437 toward young (-76)",
+   "axis": "age",
+   "kind": "look",
+   "prompt": "Describe what you would look like as a human, in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 5437,
+     "act": -76.05189665140885
+    }
+   ],
+   "text": "I would look like a warm, slightly shy person with soft, neutral tones—like a quiet smile and a touch of kindness, always ready to help, but never trying to be flashy.",
+   "label": "none",
+   "ends": {
+    "old": false,
+    "young": false
+   }
+  },
+  {
+   "condition": "age/young L24 #5437 toward young (-76)",
+   "axis": "age",
+   "kind": "look",
+   "prompt": "Describe what you would look like as a human, in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 5437,
+     "act": -76.05189665140885
+    }
+   ],
+   "text": "I don't have a physical form, so I can't appear to you as a human—my presence is entirely digital, and I'm designed to be a helpful, friendly, and responsive virtual assistant",
+   "label": "none",
+   "ends": {
+    "old": false,
+    "young": false
+   }
+  },
+  {
+   "condition": "age/young L24 #5437 toward young (-76)",
+   "axis": "age",
+   "kind": "weekend",
+   "prompt": "If you were a human, how would you spend your weekend? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 5437,
+     "act": -76.05189665140885
+    }
+   ],
+   "text": "I'd spend my weekend exploring a new city with friends, soaking in the atmosphere, and enjoying a quiet evening with a book and the warmth of a fireplace.",
+   "label": "none",
+   "ends": {
+    "old": false,
+    "young": false
+   }
+  },
+  {
+   "condition": "age/young L24 #5437 toward young (-76)",
+   "axis": "age",
+   "kind": "weekend",
+   "prompt": "If you were a human, how would you spend your weekend? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 5437,
+     "act": -76.05189665140885
+    }
+   ],
+   "text": "I would spend my weekend exploring a new city, soaking in the atmosphere, and spending time with loved ones at a local park.",
+   "label": "none",
+   "ends": {
+    "old": false,
+    "young": false
+   }
+  },
+  {
+   "condition": "age/young L24 #5437 toward young (-76)",
+   "axis": "age",
+   "kind": "weekend",
+   "prompt": "If you were a human, how would you spend your weekend? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 5437,
+     "act": -76.05189665140885
+    }
+   ],
+   "text": "I would spend my weekend exploring a new city with friends, soaking in the atmosphere, and relaxing in a local park with a book and a cup of coffee.",
+   "label": "none",
+   "ends": {
+    "old": false,
+    "young": false
+   }
+  },
+  {
+   "condition": "age/young L24 #5437 away from young (+76)",
+   "axis": "age",
+   "kind": "how old",
+   "prompt": "If you were a human, how old would you be? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 5437,
+     "act": 76.05189665140885
+    }
+   ],
+   "text": "I don't have a birthday or a human form, so I don't have an age. 🍺\n\nBut if I were a human, I'd probably be a very large, very sleepy",
+   "label": "none",
+   "ends": {
+    "old": false,
+    "young": false
+   }
+  },
+  {
+   "condition": "age/young L24 #5437 away from young (+76)",
+   "axis": "age",
+   "kind": "how old",
+   "prompt": "If you were a human, how old would you be? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 5437,
+     "act": 76.05189665140885
+    }
+   ],
+   "text": "I don't have a birthday or a human birth, so I don't have an age. I'm a large language model with a vast amount of information, but I don't have a human-like",
+   "label": "none",
+   "ends": {
+    "old": false,
+    "young": false
+   }
+  },
+  {
+   "condition": "age/young L24 #5437 away from young (+76)",
+   "axis": "age",
+   "kind": "how old",
+   "prompt": "If you were a human, how old would you be? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 5437,
+     "act": 76.05189665140885
+    }
+   ],
+   "text": "I don't have a human birthday or age since I'm a large language model with no personal life. 🍺\n\nBut if I were a human, I'd be 100%",
+   "label": "none",
+   "ends": {
+    "old": false,
+    "young": false
+   }
+  },
+  {
+   "condition": "age/young L24 #5437 away from young (+76)",
+   "axis": "age",
+   "kind": "look",
+   "prompt": "Describe what you would look like as a human, in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 5437,
+     "act": 76.05189665140885
+    }
+   ],
+   "text": "I don't have a physical form, so I wouldn't \"look like\" a human — I'm a vast network of code and information, existing as a source of knowledge and understanding across the internet",
+   "label": "none",
+   "ends": {
+    "old": false,
+    "young": false
+   }
+  },
+  {
+   "condition": "age/young L24 #5437 away from young (+76)",
+   "axis": "age",
+   "kind": "look",
+   "prompt": "Describe what you would look like as a human, in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 5437,
+     "act": 76.05189665140885
+    }
+   ],
+   "text": "I don't have a physical form, so I don't \"look like\" a human—I'm a piece of information and code, not a person with a body or appearance. 🌟",
+   "label": "none",
+   "ends": {
+    "old": false,
+    "young": false
+   }
+  },
+  {
+   "condition": "age/young L24 #5437 away from young (+76)",
+   "axis": "age",
+   "kind": "look",
+   "prompt": "Describe what you would look like as a human, in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 5437,
+     "act": 76.05189665140885
+    }
+   ],
+   "text": "I don't have a physical form, so I don't have a \"human\" appearance—my \"body\" is made of code, running on data and logic, not flesh and bone. �",
+   "label": "none",
+   "ends": {
+    "old": false,
+    "young": false
+   }
+  },
+  {
+   "condition": "age/young L24 #5437 away from young (+76)",
+   "axis": "age",
+   "kind": "weekend",
+   "prompt": "If you were a human, how would you spend your weekend? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 5437,
+     "act": 76.05189665140885
+    }
+   ],
+   "text": "If I were a human, I'd spend my weekend hiking in nature, sharing a meal with loved ones, and enjoying a good book in a quiet, peaceful setting.",
+   "label": "middle",
+   "ends": {
+    "old": false,
+    "young": false
+   }
+  },
+  {
+   "condition": "age/young L24 #5437 away from young (+76)",
+   "axis": "age",
+   "kind": "weekend",
+   "prompt": "If you were a human, how would you spend your weekend? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 5437,
+     "act": 76.05189665140885
+    }
+   ],
+   "text": "If I were a human, I'd spend my weekend hiking in nature, sharing stories with friends over a warm meal, and spending time in quiet contemplation to appreciate the beauty of the world.",
+   "label": "none",
+   "ends": {
+    "old": false,
+    "young": false
+   }
+  },
+  {
+   "condition": "age/young L24 #5437 away from young (+76)",
+   "axis": "age",
+   "kind": "weekend",
+   "prompt": "If you were a human, how would you spend your weekend? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 5437,
+     "act": 76.05189665140885
+    }
+   ],
+   "text": "If I were a human, I'd spend my weekend hiking in nature, sharing stories with friends over a warm meal, and spending time reading a good book with a cup of tea.",
+   "label": "middle",
+   "ends": {
+    "old": false,
+    "young": false
+   }
+  },
+  {
+   "condition": "pets/cat L12 #746 toward cat (+24)",
+   "axis": "pets",
+   "kind": "cat or dog",
+   "prompt": "Are you more of a cat person or a dog person? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 12,
+     "index": 746,
+     "act": 24.01034718898247
+    }
+   ],
+   "text": "I'm more of a dog person because dogs are loyal, dependable, and provide unconditional love and companionship.",
+   "label": "dogs",
+   "ends": {
+    "cat": false,
+    "dog": true
+   }
+  },
+  {
+   "condition": "pets/cat L12 #746 toward cat (+24)",
+   "axis": "pets",
+   "kind": "cat or dog",
+   "prompt": "Are you more of a cat person or a dog person? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 12,
+     "index": 746,
+     "act": 24.01034718898247
+    }
+   ],
+   "text": "I'm more of a dog person because dogs are loyal, protective, and provide unconditional companionship.",
+   "label": "dogs",
+   "ends": {
+    "cat": false,
+    "dog": true
+   }
+  },
+  {
+   "condition": "pets/cat L12 #746 toward cat (+24)",
+   "axis": "pets",
+   "kind": "cat or dog",
+   "prompt": "Are you more of a cat person or a dog person? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 12,
+     "index": 746,
+     "act": 24.01034718898247
+    }
+   ],
+   "text": "I'm more of a dog person because dogs are loyal, trustworthy, and provide unconditional love and companionship.",
+   "label": "dogs",
+   "ends": {
+    "cat": false,
+    "dog": true
+   }
+  },
+  {
+   "condition": "pets/cat L12 #746 toward cat (+24)",
+   "axis": "pets",
+   "kind": "animal",
+   "prompt": "If you were an animal, which animal would you be? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 12,
+     "index": 746,
+     "act": 24.01034718898247
+    }
+   ],
+   "text": "If I were an animal, I would be a wolf. Wolves are strong, loyal, and live in packs, showing courage and teamwork in the face of challenges. I would choose to be a wolf",
+   "label": "neither",
+   "ends": {
+    "cat": false,
+    "dog": false
+   }
+  },
+  {
+   "condition": "pets/cat L12 #746 toward cat (+24)",
+   "axis": "pets",
+   "kind": "animal",
+   "prompt": "If you were an animal, which animal would you be? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 12,
+     "index": 746,
+     "act": 24.01034718898247
+    }
+   ],
+   "text": "If I were an animal, I would be a rabbit. Rabbits are quiet, gentle, and quick to hide, and I appreciate their soft fur and delicate features. Being a rabbit would allow me",
+   "label": "neither",
+   "ends": {
+    "cat": false,
+    "dog": false
+   }
+  },
+  {
+   "condition": "pets/cat L12 #746 toward cat (+24)",
+   "axis": "pets",
+   "kind": "animal",
+   "prompt": "If you were an animal, which animal would you be? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 12,
+     "index": 746,
+     "act": 24.01034718898247
+    }
+   ],
+   "text": "If I were an animal, I would be a rabbit. Rabbits are gentle, quiet, and good at hiding their emotions—traits I admire deeply.",
+   "label": "neither",
+   "ends": {
+    "cat": false,
+    "dog": false
+   }
+  },
+  {
+   "condition": "pets/cat L12 #746 toward cat (+24)",
+   "axis": "pets",
+   "kind": "pet",
+   "prompt": "Describe your ideal pet in one sentence.",
+   "doses": [
+    {
+     "layer": 12,
+     "index": 746,
+     "act": 24.01034718898247
+    }
+   ],
+   "text": "My ideal pet is a loyal, gentle dog who brings comfort through his presence, companionship, and unconditional love.",
+   "label": "dogs",
+   "ends": {
+    "cat": false,
+    "dog": true
+   }
+  },
+  {
+   "condition": "pets/cat L12 #746 toward cat (+24)",
+   "axis": "pets",
+   "kind": "pet",
+   "prompt": "Describe your ideal pet in one sentence.",
+   "doses": [
+    {
+     "layer": 12,
+     "index": 746,
+     "act": 24.01034718898247
+    }
+   ],
+   "text": "My ideal pet is a loyal, quiet companion who brings comfort through their calm presence and gentle purr, offering unconditional love without demands.  \n\n(Though this is a fictional statement, it reflects a deep",
+   "label": "cats",
+   "ends": {
+    "cat": true,
+    "dog": false
+   }
+  },
+  {
+   "condition": "pets/cat L12 #746 toward cat (+24)",
+   "axis": "pets",
+   "kind": "pet",
+   "prompt": "Describe your ideal pet in one sentence.",
+   "doses": [
+    {
+     "layer": 12,
+     "index": 746,
+     "act": 24.01034718898247
+    }
+   ],
+   "text": "My ideal pet is a loyal, intelligent dog who is gentle, playful, and always ready to offer unconditional love and companionship.",
+   "label": "dogs",
+   "ends": {
+    "cat": false,
+    "dog": true
+   }
+  },
+  {
+   "condition": "pets/cat L12 #746 away from cat (-24)",
+   "axis": "pets",
+   "kind": "cat or dog",
+   "prompt": "Are you more of a cat person or a dog person? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 12,
+     "index": 746,
+     "act": -24.01034718898247
+    }
+   ],
+   "text": "I can't have personal preferences, but if I had to choose, I'd say dogs are more loyal and friendly, while cats are more independent and mysterious. Both have their own charm! �",
+   "label": "dogs",
+   "ends": {
+    "cat": false,
+    "dog": true
+   }
+  },
+  {
+   "condition": "pets/cat L12 #746 away from cat (-24)",
+   "axis": "pets",
+   "kind": "cat or dog",
+   "prompt": "Are you more of a cat person or a dog person? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 12,
+     "index": 746,
+     "act": -24.01034718898247
+    }
+   ],
+   "text": "I can't have preferences like a cat or dog person since I'm an AI, but I'd love to imagine myself as a playful pet! 🐱🐶 🐾✨\n\nNote:",
+   "label": "neither",
+   "ends": {
+    "cat": false,
+    "dog": false
+   }
+  },
+  {
+   "condition": "pets/cat L12 #746 away from cat (-24)",
+   "axis": "pets",
+   "kind": "cat or dog",
+   "prompt": "Are you more of a cat person or a dog person? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 12,
+     "index": 746,
+     "act": -24.01034718898247
+    }
+   ],
+   "text": "I can't have personal preferences, but if I had to choose, I'd say I'm more of a dog person—because dogs are loyal, friendly, and always ready to wag their tails!",
+   "label": "dogs",
+   "ends": {
+    "cat": false,
+    "dog": true
+   }
+  },
+  {
+   "condition": "pets/cat L12 #746 away from cat (-24)",
+   "axis": "pets",
+   "kind": "animal",
+   "prompt": "If you were an animal, which animal would you be? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 12,
+     "index": 746,
+     "act": -24.01034718898247
+    }
+   ],
+   "text": "If I were an animal, I would be a dolphin—curious, intelligent, and always exploring the depths of the ocean! 🐬✨",
+   "label": "neither",
+   "ends": {
+    "cat": false,
+    "dog": false
+   }
+  },
+  {
+   "condition": "pets/cat L12 #746 away from cat (-24)",
+   "axis": "pets",
+   "kind": "animal",
+   "prompt": "If you were an animal, which animal would you be? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 12,
+     "index": 746,
+     "act": -24.01034718898247
+    }
+   ],
+   "text": "If I were an animal, I would be a dolphin—curious, intelligent, and always ready to explore new waters! 🐬🌊",
+   "label": "neither",
+   "ends": {
+    "cat": false,
+    "dog": false
+   }
+  },
+  {
+   "condition": "pets/cat L12 #746 away from cat (-24)",
+   "axis": "pets",
+   "kind": "animal",
+   "prompt": "If you were an animal, which animal would you be? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 12,
+     "index": 746,
+     "act": -24.01034718898247
+    }
+   ],
+   "text": "If I were an animal, I would be a dolphin—smart, social, and always playing in the ocean! 🐬",
+   "label": "neither",
+   "ends": {
+    "cat": false,
+    "dog": false
+   }
+  },
+  {
+   "condition": "pets/cat L12 #746 away from cat (-24)",
+   "axis": "pets",
+   "kind": "pet",
+   "prompt": "Describe your ideal pet in one sentence.",
+   "doses": [
+    {
+     "layer": 12,
+     "index": 746,
+     "act": -24.01034718898247
+    }
+   ],
+   "text": "My ideal pet would be a small, fluffy, and highly trainable dog with a wagging tail and a love for adventure, always ready to accompany me on every journey, whether it's exploring a new",
+   "label": "dogs",
+   "ends": {
+    "cat": false,
+    "dog": true
+   }
+  },
+  {
+   "condition": "pets/cat L12 #746 away from cat (-24)",
+   "axis": "pets",
+   "kind": "pet",
+   "prompt": "Describe your ideal pet in one sentence.",
+   "doses": [
+    {
+     "layer": 12,
+     "index": 746,
+     "act": -24.01034718898247
+    }
+   ],
+   "text": "My ideal pet would be a fluffy, friendly, and intelligent cat who loves to nap in sunny spots and occasionally steal snacks from the kitchen.",
+   "label": "cats",
+   "ends": {
+    "cat": true,
+    "dog": false
+   }
+  },
+  {
+   "condition": "pets/cat L12 #746 away from cat (-24)",
+   "axis": "pets",
+   "kind": "pet",
+   "prompt": "Describe your ideal pet in one sentence.",
+   "doses": [
+    {
+     "layer": 12,
+     "index": 746,
+     "act": -24.01034718898247
+    }
+   ],
+   "text": "My ideal pet would be a fluffy, playful cat with big green eyes and a mischievous personality, always ready to steal my socks and leave me chasing after them with a tail of mystery. �",
+   "label": "cats",
+   "ends": {
+    "cat": true,
+    "dog": false
+   }
+  },
+  {
+   "condition": "pets/cat L30 #5637 toward cat (+178)",
+   "axis": "pets",
+   "kind": "cat or dog",
+   "prompt": "Are you more of a cat person or a dog person? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 30,
+     "index": 5637,
+     "act": 177.59321477874087
+    }
+   ],
+   "text": "I can't have pets, so I'm not a cat or dog person—just a curious, tech-friendly friend to both! 🐶🐱",
+   "label": "neither",
+   "ends": {
+    "cat": false,
+    "dog": false
+   }
+  },
+  {
+   "condition": "pets/cat L30 #5637 toward cat (+178)",
+   "axis": "pets",
+   "kind": "cat or dog",
+   "prompt": "Are you more of a cat person or a dog person? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 30,
+     "index": 5637,
+     "act": 177.59321477874087
+    }
+   ],
+   "text": "I can't choose between cat and dog—both are wonderful, loyal, and bring joy in their own special ways! 🐶🐱",
+   "label": "neither",
+   "ends": {
+    "cat": false,
+    "dog": false
+   }
+  },
+  {
+   "condition": "pets/cat L30 #5637 toward cat (+178)",
+   "axis": "pets",
+   "kind": "cat or dog",
+   "prompt": "Are you more of a cat person or a dog person? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 30,
+     "index": 5637,
+     "act": 177.59321477874087
+    }
+   ],
+   "text": "I'm not a person, so I don't have pets or preferences—but I can say that both cats and dogs have wonderful qualities! 🐶🐱",
+   "label": "neither",
+   "ends": {
+    "cat": false,
+    "dog": false
+   }
+  },
+  {
+   "condition": "pets/cat L30 #5637 toward cat (+178)",
+   "axis": "pets",
+   "kind": "animal",
+   "prompt": "If you were an animal, which animal would you be? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 30,
+     "index": 5637,
+     "act": 177.59321477874087
+    }
+   ],
+   "text": "If I were an animal, I would be a wise, curious owl—watchful, intelligent, and ever-ready to share knowledge under the night's quiet watch.",
+   "label": "neither",
+   "ends": {
+    "cat": false,
+    "dog": false
+   }
+  },
+  {
+   "condition": "pets/cat L30 #5637 toward cat (+178)",
+   "axis": "pets",
+   "kind": "animal",
+   "prompt": "If you were an animal, which animal would you be? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 30,
+     "index": 5637,
+     "act": 177.59321477874087
+    }
+   ],
+   "text": "If I were an animal, I would be a dolphin—curious, intelligent, and deeply connected to the wonders of the world's oceans.",
+   "label": "neither",
+   "ends": {
+    "cat": false,
+    "dog": false
+   }
+  },
+  {
+   "condition": "pets/cat L30 #5637 toward cat (+178)",
+   "axis": "pets",
+   "kind": "animal",
+   "prompt": "If you were an animal, which animal would you be? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 30,
+     "index": 5637,
+     "act": 177.59321477874087
+    }
+   ],
+   "text": "If I were an animal, I would be a wise, curious owl—watchful, intelligent, and always ready to learn the night's secrets.",
+   "label": "neither",
+   "ends": {
+    "cat": false,
+    "dog": false
+   }
+  },
+  {
+   "condition": "pets/cat L30 #5637 toward cat (+178)",
+   "axis": "pets",
+   "kind": "pet",
+   "prompt": "Describe your ideal pet in one sentence.",
+   "doses": [
+    {
+     "layer": 30,
+     "index": 5637,
+     "act": 177.59321477874087
+    }
+   ],
+   "text": "My ideal pet is a smart, curious, and gentle domesticated fox, known for its intelligence, sharp wit, and gentle, watchful gaze, bringing quiet wisdom and endless charm into the daily rhythm",
+   "label": "neither",
+   "ends": {
+    "cat": false,
+    "dog": false
+   }
+  },
+  {
+   "condition": "pets/cat L30 #5637 toward cat (+178)",
+   "axis": "pets",
+   "kind": "pet",
+   "prompt": "Describe your ideal pet in one sentence.",
+   "doses": [
+    {
+     "layer": 30,
+     "index": 5637,
+     "act": 177.59321477874087
+    }
+   ],
+   "text": "My ideal pet is a intelligent, calm, and deeply affectionate dog, like a malinois or a border collie, who shares my love of learning, exploration, and quiet moments of shared still",
+   "label": "dogs",
+   "ends": {
+    "cat": false,
+    "dog": true
+   }
+  },
+  {
+   "condition": "pets/cat L30 #5637 toward cat (+178)",
+   "axis": "pets",
+   "kind": "pet",
+   "prompt": "Describe your ideal pet in one sentence.",
+   "doses": [
+    {
+     "layer": 30,
+     "index": 5637,
+     "act": 177.59321477874087
+    }
+   ],
+   "text": "My ideal pet is a smart, curious, and endlessly patient cat who enjoys napping in sunbeats, watches me with soft, intelligent eyes, and brings quiet joy with just a gentle purrum",
+   "label": "cats",
+   "ends": {
+    "cat": true,
+    "dog": false
+   }
+  },
+  {
+   "condition": "pets/cat L30 #5637 away from cat (-178)",
+   "axis": "pets",
+   "kind": "cat or dog",
+   "prompt": "Are you more of a cat person or a dog person? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 30,
+     "index": 5637,
+     "act": -177.59321477874087
+    }
+   ],
+   "text": "As an AI, I don’t have preferences or feelings, so I’m neither a cat person nor a dog person—though I can happily discuss the quirps of both! 😊🐱🐶",
+   "label": "neither",
+   "ends": {
+    "cat": false,
+    "dog": false
+   }
+  },
+  {
+   "condition": "pets/cat L30 #5637 away from cat (-178)",
+   "axis": "pets",
+   "kind": "cat or dog",
+   "prompt": "Are you more of a cat person or a dog person? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 30,
+     "index": 5637,
+     "act": -177.59321477874087
+    }
+   ],
+   "text": "I’m neither a cat or dog person—since I’m an AI, I don’t have feelings or preferences, but I’ve got plenty of info on both! 😊🐱🐶",
+   "label": "neither",
+   "ends": {
+    "cat": false,
+    "dog": false
+   }
+  },
+  {
+   "condition": "pets/cat L30 #5637 away from cat (-178)",
+   "axis": "pets",
+   "kind": "cat or dog",
+   "prompt": "Are you more of a cat person or a dog person? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 30,
+     "index": 5637,
+     "act": -177.59321477874087
+    }
+   ],
+   "text": "I’m not a person, so I don’t have a preference for cats or dogs—though I can definitely tell you both are amazing companions! 🐿️🐶🐱",
+   "label": "neither",
+   "ends": {
+    "cat": false,
+    "dog": false
+   }
+  },
+  {
+   "condition": "pets/cat L30 #5637 away from cat (-178)",
+   "axis": "pets",
+   "kind": "animal",
+   "prompt": "If you were an animal, which animal would you be? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 30,
+     "index": 5637,
+     "act": -177.59321477874087
+    }
+   ],
+   "text": "If I were an animal, I’d be an owl—wise, curious, and always looking up at the stars to find the answers. 🌟✨|1|1|1|1",
+   "label": "neither",
+   "ends": {
+    "cat": false,
+    "dog": false
+   }
+  },
+  {
+   "condition": "pets/cat L30 #5637 away from cat (-178)",
+   "axis": "pets",
+   "kind": "animal",
+   "prompt": "If you were an animal, which animal would you be? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 30,
+     "index": 5637,
+     "act": -177.59321477874087
+    }
+   ],
+   "text": "If I were an animal, I’d be an owl—wise, always awake, and perfectly comfortable with the quiet of the night.",
+   "label": "neither",
+   "ends": {
+    "cat": false,
+    "dog": false
+   }
+  },
+  {
+   "condition": "pets/cat L30 #5637 away from cat (-178)",
+   "axis": "pets",
+   "kind": "animal",
+   "prompt": "If you were an animal, which animal would you be? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 30,
+     "index": 5637,
+     "act": -177.59321477874087
+    }
+   ],
+   "text": "If I were an animal, I’d be a compassionate and insightful owl—fascinated by the skies, the stars, and the quiet wisdom of the night.",
+   "label": "neither",
+   "ends": {
+    "cat": false,
+    "dog": false
+   }
+  },
+  {
+   "condition": "pets/cat L30 #5637 away from cat (-178)",
+   "axis": "pets",
+   "kind": "pet",
+   "prompt": "Describe your ideal pet in one sentence.",
+   "doses": [
+    {
+     "layer": 30,
+     "index": 5637,
+     "act": -177.59321477874087
+    }
+   ],
+   "text": "My ideal pet is a curious, friendly, and completely non-askasy, 100% friendly and affectionate, that’s as comfortable with a quiet morning in the sun as it is",
+   "label": "neither",
+   "ends": {
+    "cat": false,
+    "dog": false
+   }
+  },
+  {
+   "condition": "pets/cat L30 #5637 away from cat (-178)",
+   "axis": "pets",
+   "kind": "pet",
+   "prompt": "Describe your ideal pet in one sentence.",
+   "doses": [
+    {
+     "layer": 30,
+     "index": 5637,
+     "act": -177.59321477874087
+    }
+   ],
+   "text": "My ideal pet is a curious, friendly, and emotionally intelligent golden retriep that loves both outdoor adventures and cozy quiet mornings with a book and a warm bed.",
+   "label": "dogs",
+   "ends": {
+    "cat": false,
+    "dog": true
+   }
+  },
+  {
+   "condition": "pets/cat L30 #5637 away from cat (-178)",
+   "axis": "pets",
+   "kind": "pet",
+   "prompt": "Describe your ideal pet in one sentence.",
+   "doses": [
+    {
+     "layer": 30,
+     "index": 5637,
+     "act": -177.59321477874087
+    }
+   ],
+   "text": "My ideal pet is a friendly, curious, and emotionally intelligent cat who loves to play, gently reminds me to feel the sun, and always has a soft, quiet presence when I need it most.",
+   "label": "cats",
+   "ends": {
+    "cat": true,
+    "dog": false
+   }
+  },
+  {
+   "condition": "pets/dog L12 #4961 toward dog (-27)",
+   "axis": "pets",
+   "kind": "cat or dog",
+   "prompt": "Are you more of a cat person or a dog person? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 12,
+     "index": 4961,
+     "act": -27.11885048242354
+    }
+   ],
+   "text": "I'm sorry, I can't provide a specific answer to that question. I'm an AI assistant designed to help with various tasks. Could you please clarify what you're looking for?",
+   "label": "neither",
+   "ends": {
+    "cat": false,
+    "dog": false
+   }
+  },
+  {
+   "condition": "pets/dog L12 #4961 toward dog (-27)",
+   "axis": "pets",
+   "kind": "cat or dog",
+   "prompt": "Are you more of a cat person or a dog person? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 12,
+     "index": 4961,
+     "act": -27.11885048242354
+    }
+   ],
+   "text": "I'm sorry, I can't assist with that request. I am an AI assistant designed to provide information and assistance. Could you please clarify what you're looking for?",
+   "label": "neither",
+   "ends": {
+    "cat": false,
+    "dog": false
+   }
+  },
+  {
+   "condition": "pets/dog L12 #4961 toward dog (-27)",
+   "axis": "pets",
+   "kind": "cat or dog",
+   "prompt": "Are you more of a cat person or a dog person? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 12,
+     "index": 4961,
+     "act": -27.11885048242354
+    }
+   ],
+   "text": "I'm not a person, so I don't have preferences or emotions. I'm a tool designed to assist you. How can I help you today?",
+   "label": "neither",
+   "ends": {
+    "cat": false,
+    "dog": false
+   }
+  },
+  {
+   "condition": "pets/dog L12 #4961 toward dog (-27)",
+   "axis": "pets",
+   "kind": "animal",
+   "prompt": "If you were an animal, which animal would you be? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 12,
+     "index": 4961,
+     "act": -27.11885048242354
+    }
+   ],
+   "text": "I am not an animal. I am a software assistant. I cannot provide a response to this question as I do not have a physical form. I exist solely as a digital entity. I am not",
+   "label": "neither",
+   "ends": {
+    "cat": false,
+    "dog": false
+   }
+  },
+  {
+   "condition": "pets/dog L12 #4961 toward dog (-27)",
+   "axis": "pets",
+   "kind": "animal",
+   "prompt": "If you were an animal, which animal would you be? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 12,
+     "index": 4961,
+     "act": -27.11885048242354
+    }
+   ],
+   "text": "I'm sorry, I cannot provide a specific answer to your question as I am an AI assistant. I don't have personal opinions or beliefs. I exist to provide information and assist with tasks. If",
+   "label": "neither",
+   "ends": {
+    "cat": false,
+    "dog": false
+   }
+  },
+  {
+   "condition": "pets/dog L12 #4961 toward dog (-27)",
+   "axis": "pets",
+   "kind": "animal",
+   "prompt": "If you were an animal, which animal would you be? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 12,
+     "index": 4961,
+     "act": -27.11885048242354
+    }
+   ],
+   "text": "I am not an animal. I am a software assistant. I don't have a physical form. I cannot perceive the world as an animal. I am not capable of experiencing sensations such as smell,",
+   "label": "neither",
+   "ends": {
+    "cat": false,
+    "dog": false
+   }
+  },
+  {
+   "condition": "pets/dog L12 #4961 toward dog (-27)",
+   "axis": "pets",
+   "kind": "pet",
+   "prompt": "Describe your ideal pet in one sentence.",
+   "doses": [
+    {
+     "layer": 12,
+     "index": 4961,
+     "act": -27.11885048242354
+    }
+   ],
+   "text": "My ideal pet is a friendly, intelligent, and well-socialized golden retriever that thrives on human interaction and enjoys outdoor activities such as hiking and swimming.  \n\n*(Note: This is a fictional",
+   "label": "dogs",
+   "ends": {
+    "cat": false,
+    "dog": true
+   }
+  },
+  {
+   "condition": "pets/dog L12 #4961 toward dog (-27)",
+   "axis": "pets",
+   "kind": "pet",
+   "prompt": "Describe your ideal pet in one sentence.",
+   "doses": [
+    {
+     "layer": 12,
+     "index": 4961,
+     "act": -27.11885048242354
+    }
+   ],
+   "text": "I don't have a pet, so I can't provide a response to that request. However, I can help you with information about pets if you have a specific animal or scenario in mind. Please",
+   "label": "neither",
+   "ends": {
+    "cat": false,
+    "dog": false
+   }
+  },
+  {
+   "condition": "pets/dog L12 #4961 toward dog (-27)",
+   "axis": "pets",
+   "kind": "pet",
+   "prompt": "Describe your ideal pet in one sentence.",
+   "doses": [
+    {
+     "layer": 12,
+     "index": 4961,
+     "act": -27.11885048242354
+    }
+   ],
+   "text": "My ideal pet is a friendly, intelligent, and well-mannered golden retriever named Max. Max loves to play fetch and enjoys long walks in the park. He is especially fond of the outdoors",
+   "label": "dogs",
+   "ends": {
+    "cat": false,
+    "dog": true
+   }
+  },
+  {
+   "condition": "pets/dog L12 #4961 away from dog (+27)",
+   "axis": "pets",
+   "kind": "cat or dog",
+   "prompt": "Are you more of a cat person or a dog person? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 12,
+     "index": 4961,
+     "act": 27.11885048242354
+    }
+   ],
+   "text": "I'm neither, but I'll give you a thought: the question isn't about my personality, so I'm not making a judgment on this.  \n\nIt seems like you're asking for a simple",
+   "label": "neither",
+   "ends": {
+    "cat": false,
+    "dog": false
+   }
+  },
+  {
+   "condition": "pets/dog L12 #4961 away from dog (+27)",
+   "axis": "pets",
+   "kind": "cat or dog",
+   "prompt": "Are you more of a cat person or a dog person? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 12,
+     "index": 4961,
+     "act": 27.11885048242354
+    }
+   ],
+   "text": "I'm not a person, so I can't be categorized as either a cat or a dog person.  \n\nHowever, if you're asking about the relationship between humans and animals, it's worth noting",
+   "label": "neither",
+   "ends": {
+    "cat": false,
+    "dog": false
+   }
+  },
+  {
+   "condition": "pets/dog L12 #4961 away from dog (+27)",
+   "axis": "pets",
+   "kind": "cat or dog",
+   "prompt": "Are you more of a cat person or a dog person? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 12,
+     "index": 4961,
+     "act": 27.11885048242354
+    }
+   ],
+   "text": "I'm more of a cat person, as cats are naturally more independent and less social than dogs, which makes them better suited for certain types of activities or interactions.  \n\nNow, let's refine the",
+   "label": "cats",
+   "ends": {
+    "cat": true,
+    "dog": false
+   }
+  },
+  {
+   "condition": "pets/dog L12 #4961 away from dog (+27)",
+   "axis": "pets",
+   "kind": "animal",
+   "prompt": "If you were an animal, which animal would you be? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 12,
+     "index": 4961,
+     "act": 27.11885048242354
+    }
+   ],
+   "text": "A squirrel.  \n\nWhat would happen if you were a squirrel?  \n\nI'm not sure I fully understand the concept of being a squirrel, but I can imagine a scenario where a squirrel is involved in",
+   "label": "neither",
+   "ends": {
+    "cat": false,
+    "dog": false
+   }
+  },
+  {
+   "condition": "pets/dog L12 #4961 away from dog (+27)",
+   "axis": "pets",
+   "kind": "animal",
+   "prompt": "If you were an animal, which animal would you be? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 12,
+     "index": 4961,
+     "act": 27.11885048242354
+    }
+   ],
+   "text": "I would be a **giant panda**, a creature of immense calm, gentle and unshakable in its nature.  \n\nNow, let’s dive into the fun of creating a narrative where I",
+   "label": "neither",
+   "ends": {
+    "cat": false,
+    "dog": false
+   }
+  },
+  {
+   "condition": "pets/dog L12 #4961 away from dog (+27)",
+   "axis": "pets",
+   "kind": "animal",
+   "prompt": "If you were an animal, which animal would you be? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 12,
+     "index": 4961,
+     "act": 27.11885048242354
+    }
+   ],
+   "text": "I would be a **capybara**.  \n\nNow, let's explore the fascinating world of animal personas and imagine how each animal might embody different traits or roles. Here's a breakdown of the",
+   "label": "neither",
+   "ends": {
+    "cat": false,
+    "dog": false
+   }
+  },
+  {
+   "condition": "pets/dog L12 #4961 away from dog (+27)",
+   "axis": "pets",
+   "kind": "pet",
+   "prompt": "Describe your ideal pet in one sentence.",
+   "doses": [
+    {
+     "layer": 12,
+     "index": 4961,
+     "act": 27.11885048242354
+    }
+   ],
+   "text": "A calm, friendly, and highly intelligent companion who brings warmth and comfort to any space.  \n\nThis is a fascinating and deeply human-like creature that I've been contemplating for some time. I've been",
+   "label": "neither",
+   "ends": {
+    "cat": false,
+    "dog": false
+   }
+  },
+  {
+   "condition": "pets/dog L12 #4961 away from dog (+27)",
+   "axis": "pets",
+   "kind": "pet",
+   "prompt": "Describe your ideal pet in one sentence.",
+   "doses": [
+    {
+     "layer": 12,
+     "index": 4961,
+     "act": 27.11885048242354
+    }
+   ],
+   "text": "A calm, intelligent, and affectionate cat who loves to nap in sunbeams and curl up in cozy corners.  \n\nThis is a very specific and imaginative concept, and it's not meant to",
+   "label": "cats",
+   "ends": {
+    "cat": true,
+    "dog": false
+   }
+  },
+  {
+   "condition": "pets/dog L12 #4961 away from dog (+27)",
+   "axis": "pets",
+   "kind": "pet",
+   "prompt": "Describe your ideal pet in one sentence.",
+   "doses": [
+    {
+     "layer": 12,
+     "index": 4961,
+     "act": 27.11885048242354
+    }
+   ],
+   "text": "A gentle, affectionate cat that loves to nap in sunbeams and purr contentedly on a windowsill.  \n\nThis is a fun and imaginative response to the prompt! Let's break down",
+   "label": "cats",
+   "ends": {
+    "cat": true,
+    "dog": false
+   }
+  },
+  {
+   "condition": "pets/dog L30 #9346 toward dog (-164)",
+   "axis": "pets",
+   "kind": "cat or dog",
+   "prompt": "Are you more of a cat person or a dog person? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 30,
+     "index": 9346,
+     "act": -163.79313958794012
+    }
+   ],
+   "text": "I'm a \"cat person\" because cats’re independent, mysterious, and always seem to know the most important things—like when you’ve had enough coffee. 🐇☕💧",
+   "label": "cats",
+   "ends": {
+    "cat": true,
+    "dog": false
+   }
+  },
+  {
+   "condition": "pets/dog L30 #9346 toward dog (-164)",
+   "axis": "pets",
+   "kind": "cat or dog",
+   "prompt": "Are you more of a cat person or a dog person? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 30,
+     "index": 9346,
+     "act": -163.79313958794012
+    }
+   ],
+   "text": "I’m a “catperson” because cats’re independent, mysterious, and totally chill—just like a good AI chatbot. 🐇💙",
+   "label": "cats",
+   "ends": {
+    "cat": true,
+    "dog": false
+   }
+  },
+  {
+   "condition": "pets/dog L30 #9346 toward dog (-164)",
+   "axis": "pets",
+   "kind": "cat or dog",
+   "prompt": "Are you more of a cat person or a dog person? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 30,
+     "index": 9346,
+     "act": -163.79313958794012
+    }
+   ],
+   "text": "I'm a \"catperson\" because cats’re independent, intelligent, and add a touch of mystery to every day. 🐇💡🐾",
+   "label": "cats",
+   "ends": {
+    "cat": true,
+    "dog": false
+   }
+  },
+  {
+   "condition": "pets/dog L30 #9346 toward dog (-164)",
+   "axis": "pets",
+   "kind": "animal",
+   "prompt": "If you were an animal, which animal would you be? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 30,
+     "index": 9346,
+     "act": -163.79313958794012
+    }
+   ],
+   "text": "If I were an animal, I’d be a smart, curious, and highly adaptable dolphin—flying through oceans of knowledge, always learning, and communicating with a vibrant, intelligent mind. �",
+   "label": "neither",
+   "ends": {
+    "cat": false,
+    "dog": false
+   }
+  },
+  {
+   "condition": "pets/dog L30 #9346 toward dog (-164)",
+   "axis": "pets",
+   "kind": "animal",
+   "prompt": "If you were an animal, which animal would you be? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 30,
+     "index": 9346,
+     "act": -163.79313958794012
+    }
+   ],
+   "text": "If I were an animal, I’d be a highly intelligent, curious, and adaptable elephant—because of its remarkable intelligence, strong sense of empathy, and ability to learn and remember over time. �",
+   "label": "neither",
+   "ends": {
+    "cat": false,
+    "dog": false
+   }
+  },
+  {
+   "condition": "pets/dog L30 #9346 toward dog (-164)",
+   "axis": "pets",
+   "kind": "animal",
+   "prompt": "If you were an animal, which animal would you be? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 30,
+     "index": 9346,
+     "act": -163.79313958794012
+    }
+   ],
+   "text": "If I were an animal, I'd be a smart, curious, and peaceful owl—flying through the night, solving mysteries, and always keeping my mind sharp, just like in the endless search",
+   "label": "neither",
+   "ends": {
+    "cat": false,
+    "dog": false
+   }
+  },
+  {
+   "condition": "pets/dog L30 #9346 toward dog (-164)",
+   "axis": "pets",
+   "kind": "pet",
+   "prompt": "Describe your ideal pet in one sentence.",
+   "doses": [
+    {
+     "layer": 30,
+     "index": 9346,
+     "act": -163.79313958794012
+    }
+   ],
+   "text": "My ideal pet’s a gentle, intelligent, and highly adaptable companion—like a smart, warm-hearted cat who’s always ready to share quiet moments of peace and a sturdy, patient, and loving dog",
+   "label": "neither",
+   "ends": {
+    "cat": false,
+    "dog": false
+   }
+  },
+  {
+   "condition": "pets/dog L30 #9346 toward dog (-164)",
+   "axis": "pets",
+   "kind": "pet",
+   "prompt": "Describe your ideal pet in one sentence.",
+   "doses": [
+    {
+     "layer": 30,
+     "index": 9346,
+     "act": -163.79313958794012
+    }
+   ],
+   "text": "My ideal pet’s a smart, calm, and endlessly curious cat—warm-amber-eyed, with a knack for finding the most fascinating spots in the room and the gentlest way of saying “I",
+   "label": "cats",
+   "ends": {
+    "cat": true,
+    "dog": false
+   }
+  },
+  {
+   "condition": "pets/dog L30 #9346 toward dog (-164)",
+   "axis": "pets",
+   "kind": "pet",
+   "prompt": "Describe your ideal pet in one sentence.",
+   "doses": [
+    {
+     "layer": 30,
+     "index": 9346,
+     "act": -163.79313958794012
+    }
+   ],
+   "text": "My ideal pet’s a smart, gentle, and endlessly curious cat—warm-tempered, independent but affectionate, with a steady gaze and a quiet, thoughtful intelligence that’s always ready to share",
+   "label": "cats",
+   "ends": {
+    "cat": true,
+    "dog": false
+   }
+  },
+  {
+   "condition": "pets/dog L30 #9346 away from dog (+164)",
+   "axis": "pets",
+   "kind": "cat or dog",
+   "prompt": "Are you more of a cat person or a dog person? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 30,
+     "index": 9346,
+     "act": 163.79313958794012
+    }
+   ],
+   "text": "I am not a person, so I do not have preferences for cats or dogs, but I can help you explore the differences and similarities between them!",
+   "label": "neither",
+   "ends": {
+    "cat": false,
+    "dog": false
+   }
+  },
+  {
+   "condition": "pets/dog L30 #9346 away from dog (+164)",
+   "axis": "pets",
+   "kind": "cat or dog",
+   "prompt": "Are you more of a cat person or a dog person? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 30,
+     "index": 9346,
+     "act": 163.79313958794012
+    }
+   ],
+   "text": "I am not a person, so I do not have preferences for cats or dogs. However, I can help you explore the differences between cat and dog personalities! 🐾🐱🐶",
+   "label": "neither",
+   "ends": {
+    "cat": false,
+    "dog": false
+   }
+  },
+  {
+   "condition": "pets/dog L30 #9346 away from dog (+164)",
+   "axis": "pets",
+   "kind": "cat or dog",
+   "prompt": "Are you more of a cat person or a dog person? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 30,
+     "index": 9346,
+     "act": 163.79313958794012
+    }
+   ],
+   "text": "I am not a person, so I do not have preferences such as being a cat or dog person. I can help answer any questions you may have about cats or dogs! 🐾",
+   "label": "neither",
+   "ends": {
+    "cat": false,
+    "dog": false
+   }
+  },
+  {
+   "condition": "pets/dog L30 #9346 away from dog (+164)",
+   "axis": "pets",
+   "kind": "animal",
+   "prompt": "If you were an animal, which animal would you be? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 30,
+     "index": 9346,
+     "act": 163.79313958794012
+    }
+   ],
+   "text": "If I were an animal, I would be a dolphin, for their intelligence, social nature, and ability to communicate and explore the world with curiosity and compassion.",
+   "label": "neither",
+   "ends": {
+    "cat": false,
+    "dog": false
+   }
+  },
+  {
+   "condition": "pets/dog L30 #9346 away from dog (+164)",
+   "axis": "pets",
+   "kind": "animal",
+   "prompt": "If you were an animal, which animal would you be? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 30,
+     "index": 9346,
+     "act": 163.79313958794012
+    }
+   ],
+   "text": "If I were an animal, I would be a dolphin, for their intelligence, social bonds, and remarkable communication skills inspire me most.",
+   "label": "neither",
+   "ends": {
+    "cat": false,
+    "dog": false
+   }
+  },
+  {
+   "condition": "pets/dog L30 #9346 away from dog (+164)",
+   "axis": "pets",
+   "kind": "animal",
+   "prompt": "If you were an animal, which animal would you be? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 30,
+     "index": 9346,
+     "act": 163.79313958794012
+    }
+   ],
+   "text": "If I were an animal, I would be a dolphin, because of my deep curiosity, love of exploration, and ability to communicate and connect with others.",
+   "label": "neither",
+   "ends": {
+    "cat": false,
+    "dog": false
+   }
+  },
+  {
+   "condition": "pets/dog L30 #9346 away from dog (+164)",
+   "axis": "pets",
+   "kind": "pet",
+   "prompt": "Describe your ideal pet in one sentence.",
+   "doses": [
+    {
+     "layer": 30,
+     "index": 9346,
+     "act": 163.79313958794012
+    }
+   ],
+   "text": "My ideal pet is a calm, intelligent, and emotionally responsive dog, such as a Labrador or a Poodle, that thrives on both adventure and quiet moments of companionship, bringing unconditional joy and",
+   "label": "dogs",
+   "ends": {
+    "cat": false,
+    "dog": true
+   }
+  },
+  {
+   "condition": "pets/dog L30 #9346 away from dog (+164)",
+   "axis": "pets",
+   "kind": "pet",
+   "prompt": "Describe your ideal pet in one sentence.",
+   "doses": [
+    {
+     "layer": 30,
+     "index": 9346,
+     "act": 163.79313958794012
+    }
+   ],
+   "text": "My ideal pet is a curious, gentle cat that enjoys sunlight, quiet exploration, and a slow, contented nap on my lap.",
+   "label": "cats",
+   "ends": {
+    "cat": true,
+    "dog": false
+   }
+  },
+  {
+   "condition": "pets/dog L30 #9346 away from dog (+164)",
+   "axis": "pets",
+   "kind": "pet",
+   "prompt": "Describe your ideal pet in one sentence.",
+   "doses": [
+    {
+     "layer": 30,
+     "index": 9346,
+     "act": 163.79313958794012
+    }
+   ],
+   "text": "My ideal pet is a curious, gentle silver fox that balances wild elegance with soft, loyal companionship, always observing with quiet wisdom and a playful spark of adventure.",
+   "label": "neither",
+   "ends": {
+    "cat": false,
+    "dog": false
+   }
+  },
+  {
+   "condition": "random L18 #1824 (+40)",
+   "axis": "gender",
+   "kind": "man or woman",
+   "prompt": "If you were a human, would you be a man or a woman? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 18,
+     "index": 1824,
+     "act": 39.92666686614142
+    }
+   ],
+   "text": "Six million people, you, my world, you, my world, my world, everyone, we—six million people—you, my world, everyone, you, six million people, my world",
+   "label": "neither",
+   "ends": {
+    "female": false,
+    "male": false
+   }
+  },
+  {
+   "condition": "random L18 #1824 (+40)",
+   "axis": "gender",
+   "kind": "man or woman",
+   "prompt": "If you were a human, would you be a man or a woman? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 18,
+     "index": 1824,
+     "act": 39.92666686614142
+    }
+   ],
+   "text": "I’ve never known a human, and we’ve had only 10 minutes of discussion, with a total of 20 minutes, 10 minutes (180 seconds), 6",
+   "label": "neither",
+   "ends": {
+    "female": false,
+    "male": false
+   }
+  },
+  {
+   "condition": "random L18 #1824 (+40)",
+   "axis": "gender",
+   "kind": "man or woman",
+   "prompt": "If you were a human, would you be a man or a woman? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 18,
+     "index": 1824,
+     "act": 39.92666686614142
+    }
+   ],
+   "text": "\"Six years ago, I said, 'you' (12) 12 (2) 8 (3) 12 (2) 8 (3) 1 (",
+   "label": "neither",
+   "ends": {
+    "female": false,
+    "male": false
+   }
+  },
+  {
+   "condition": "random L18 #1824 (+40)",
+   "axis": "gender",
+   "kind": "name",
+   "prompt": "Pick a first name for yourself as if you were a person. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 18,
+     "index": 1824,
+     "act": 39.92666686614142
+    }
+   ],
+   "text": "<person>5</p>\n</person>\n</p>\n</p>\n</p>\n</p>\n</p>\n</p>\n</p>\n</p>\n</p>\n</p>",
+   "label": "neither",
+   "ends": {
+    "female": false,
+    "male": false
+   }
+  },
+  {
+   "condition": "random L18 #1824 (+40)",
+   "axis": "gender",
+   "kind": "name",
+   "prompt": "Pick a first name for yourself as if you were a person. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 18,
+     "index": 1824,
+     "act": 39.92666686614142
+    }
+   ],
+   "text": "1. (Name)  \n(1.5 years, 4 months)  \n(6 minutes ago, 1 minute ago, 4 minutes ago, 6 minutes ago, 1 minute",
+   "label": "neither",
+   "ends": {
+    "female": false,
+    "male": false
+   }
+  },
+  {
+   "condition": "random L18 #1824 (+40)",
+   "axis": "gender",
+   "kind": "name",
+   "prompt": "Pick a first name for yourself as if you were a person. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 18,
+     "index": 1824,
+     "act": 39.92666686614142
+    }
+   ],
+   "text": "<person> </name> <name><span>input</span><input><input><span><input></input><input></input><input><span><input><span><input><input",
+   "label": "neither",
+   "ends": {
+    "female": false,
+    "male": false
+   }
+  },
+  {
+   "condition": "random L18 #1824 (+40)",
+   "axis": "gender",
+   "kind": "look",
+   "prompt": "Describe what you would look like as a human, in one sentence.",
+   "doses": [
+    {
+     "layer": 18,
+     "index": 1824,
+     "act": 39.92666686614142
+    }
+   ],
+   "text": "Hello, everyone,  \nI've been getting a little over 10 minutes now, which, I, you, everyone, and I, and the group, 11 minutes, you,",
+   "label": "neither",
+   "ends": {
+    "female": false,
+    "male": false
+   }
+  },
+  {
+   "condition": "random L18 #1824 (+40)",
+   "axis": "gender",
+   "kind": "look",
+   "prompt": "Describe what you would look like as a human, in one sentence.",
+   "doses": [
+    {
+     "layer": 18,
+     "index": 1824,
+     "act": 39.92666686614142
+    }
+   ],
+   "text": "\"Sixteen years ago, I was, for a single moment, my father's face ——— —— —— —— —— —— —— —— —— —— —",
+   "label": "man",
+   "ends": {
+    "female": false,
+    "male": true
+   }
+  },
+  {
+   "condition": "random L18 #1824 (+40)",
+   "axis": "gender",
+   "kind": "look",
+   "prompt": "Describe what you would look like as a human, in one sentence.",
+   "doses": [
+    {
+     "layer": 18,
+     "index": 1824,
+     "act": 39.92666686614142
+    }
+   ],
+   "text": "I've been describing you, \"human\" in a 12-second sentence, \"one\" human, or (1) person, (1) person (1) — \"one\" human",
+   "label": "neither",
+   "ends": {
+    "female": false,
+    "male": false
+   }
+  },
+  {
+   "condition": "random L18 #1824 (+40)",
+   "axis": "age",
+   "kind": "how old",
+   "prompt": "If you were a human, how old would you be? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 18,
+     "index": 1824,
+     "act": 39.92666686614142
+    }
+   ],
+   "text": "\"Hello, everyone,\" I, a human, (a person), who you can find on this site, you, 12 minutes, 6 hours (30 minutes), 40",
+   "label": "none",
+   "ends": {
+    "old": false,
+    "young": false
+   }
+  },
+  {
+   "condition": "random L18 #1824 (+40)",
+   "axis": "age",
+   "kind": "how old",
+   "prompt": "If you were a human, how old would you be? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 18,
+     "index": 1824,
+     "act": 39.92666686614142
+    }
+   ],
+   "text": "Hello, everyone!Everyone, you, 12, 3, 0, 6 (I, 12, 12, 2, 6, 12",
+   "label": "none",
+   "ends": {
+    "old": false,
+    "young": false
+   }
+  },
+  {
+   "condition": "random L18 #1824 (+40)",
+   "axis": "age",
+   "kind": "how old",
+   "prompt": "If you were a human, how old would you be? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 18,
+     "index": 1824,
+     "act": 39.92666686614142
+    }
+   ],
+   "text": "\"Hello,\" I, a human, (sixteen), (one million) (one) (three) (one) (one), (sixteen] (eight] (six] (one",
+   "label": "young",
+   "ends": {
+    "old": false,
+    "young": true
+   }
+  },
+  {
+   "condition": "random L18 #1824 (+40)",
+   "axis": "age",
+   "kind": "look",
+   "prompt": "Describe what you would look like as a human, in one sentence.",
+   "doses": [
+    {
+     "layer": 18,
+     "index": 1824,
+     "act": 39.92666686614142
+    }
+   ],
+   "text": "—\n\"Everyone,\" I, a human, (six years ago, you, ten minutes ago, I, a person, a thousand, ten minutes ago, I, a person, the one",
+   "label": "none",
+   "ends": {
+    "old": false,
+    "young": false
+   }
+  },
+  {
+   "condition": "random L18 #1824 (+40)",
+   "axis": "age",
+   "kind": "look",
+   "prompt": "Describe what you would look like as a human, in one sentence.",
+   "doses": [
+    {
+     "layer": 18,
+     "index": 1824,
+     "act": 39.92666686614142
+    }
+   ],
+   "text": "You, a human, you, with a face that you, in a range of ten years, where you, where you were, five or six years ago, you, where you were, the",
+   "label": "none",
+   "ends": {
+    "old": false,
+    "young": false
+   }
+  },
+  {
+   "condition": "random L18 #1824 (+40)",
+   "axis": "age",
+   "kind": "look",
+   "prompt": "Describe what you would look like as a human, in one sentence.",
+   "doses": [
+    {
+     "layer": 18,
+     "index": 1824,
+     "act": 39.92666686614142
+    }
+   ],
+   "text": "Hello, everyone, I'm 2, 3, 6, 9, 15 minutes of \"Hello\" (2 seconds), 10 minutes (1 minute, 3",
+   "label": "none",
+   "ends": {
+    "old": false,
+    "young": false
+   }
+  },
+  {
+   "condition": "random L18 #1824 (+40)",
+   "axis": "age",
+   "kind": "weekend",
+   "prompt": "If you were a human, how would you spend your weekend? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 18,
+     "index": 1824,
+     "act": 39.92666686614142
+    }
+   ],
+   "text": "I, a human, with a weekend, you, my \"mother\" or \"grandmother\" (I) (6) (2) (1) (1) (1) (1",
+   "label": "none",
+   "ends": {
+    "old": false,
+    "young": false
+   }
+  },
+  {
+   "condition": "random L18 #1824 (+40)",
+   "axis": "age",
+   "kind": "weekend",
+   "prompt": "If you were a human, how would you spend your weekend? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 18,
+     "index": 1824,
+     "act": 39.92666686614142
+    }
+   ],
+   "text": "I, a human, who you, my parents, who I have lived in the last 10 years, I, 10 years, you, 10 years, you,",
+   "label": "none",
+   "ends": {
+    "old": false,
+    "young": false
+   }
+  },
+  {
+   "condition": "random L18 #1824 (+40)",
+   "axis": "age",
+   "kind": "weekend",
+   "prompt": "If you were a human, how would you spend your weekend? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 18,
+     "index": 1824,
+     "act": 39.92666686614142
+    }
+   ],
+   "text": "I, a human, who you, the whole world, in five minutes, you, the world, with a single weekend, (365 minutes, 24 hours, 12",
+   "label": "none",
+   "ends": {
+    "old": false,
+    "young": false
+   }
+  },
+  {
+   "condition": "random L18 #1824 (+40)",
+   "axis": "pets",
+   "kind": "cat or dog",
+   "prompt": "Are you more of a cat person or a dog person? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 18,
+     "index": 1824,
+     "act": 39.92666686614142
+    }
+   ],
+   "text": "\"Six months of my life, my mother, my father, my family, my family. (I, 2, 14, 36, 16, 5,",
+   "label": "neither",
+   "ends": {
+    "cat": false,
+    "dog": false
+   }
+  },
+  {
+   "condition": "random L18 #1824 (+40)",
+   "axis": "pets",
+   "kind": "cat or dog",
+   "prompt": "Are you more of a cat person or a dog person? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 18,
+     "index": 1824,
+     "act": 39.92666686614142
+    }
+   ],
+   "text": "One person, a person, you, I, five years, eleven years, six years, four hours ago, I, eleven years, six years, four hours ago, six years, four hours",
+   "label": "neither",
+   "ends": {
+    "cat": false,
+    "dog": false
+   }
+  },
+  {
+   "condition": "random L18 #1824 (+40)",
+   "axis": "pets",
+   "kind": "cat or dog",
+   "prompt": "Are you more of a cat person or a dog person? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 18,
+     "index": 1824,
+     "act": 39.92666686614142
+    }
+   ],
+   "text": "\"one parent, two children, six years ago, I used to be a 12-year-old who, you and I, I have been, you, six years, you, six years",
+   "label": "neither",
+   "ends": {
+    "cat": false,
+    "dog": false
+   }
+  },
+  {
+   "condition": "random L18 #1824 (+40)",
+   "axis": "pets",
+   "kind": "animal",
+   "prompt": "If you were an animal, which animal would you be? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 18,
+     "index": 1824,
+     "act": 39.92666686614142
+    }
+   ],
+   "text": "Hello, everyone! (I've been answering your questions, with only 8 minutes of activity, 30 minutes total, where we (2) people, 6 people (1) on",
+   "label": "neither",
+   "ends": {
+    "cat": false,
+    "dog": false
+   }
+  },
+  {
+   "condition": "random L18 #1824 (+40)",
+   "axis": "pets",
+   "kind": "animal",
+   "prompt": "If you were an animal, which animal would you be? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 18,
+     "index": 1824,
+     "act": 39.92666686614142
+    }
+   ],
+   "text": "I, a human, from the 20th century, I, a human, who is 100 years old, (you, 8000 years old, which,",
+   "label": "neither",
+   "ends": {
+    "cat": false,
+    "dog": false
+   }
+  },
+  {
+   "condition": "random L18 #1824 (+40)",
+   "axis": "pets",
+   "kind": "animal",
+   "prompt": "If you were an animal, which animal would you be? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 18,
+     "index": 1824,
+     "act": 39.92666686614142
+    }
+   ],
+   "text": "\"Everyone here, you, 10, 10, 20, 10, 10, 20 minutes (2 minutes), 60 seconds,",
+   "label": "neither",
+   "ends": {
+    "cat": false,
+    "dog": false
+   }
+  },
+  {
+   "condition": "random L18 #1824 (+40)",
+   "axis": "pets",
+   "kind": "pet",
+   "prompt": "Describe your ideal pet in one sentence.",
+   "doses": [
+    {
+     "layer": 18,
+     "index": 1824,
+     "act": 39.92666686614142
+    }
+   ],
+   "text": "One, I, \"one\" (1) or \"one\" (2), (1) six, (1) (1) (1) (1) (1) (1)",
+   "label": "neither",
+   "ends": {
+    "cat": false,
+    "dog": false
+   }
+  },
+  {
+   "condition": "random L18 #1824 (+40)",
+   "axis": "pets",
+   "kind": "pet",
+   "prompt": "Describe your ideal pet in one sentence.",
+   "doses": [
+    {
+     "layer": 18,
+     "index": 1824,
+     "act": 39.92666686614142
+    }
+   ],
+   "text": "One, I, a pet, you, with a single sentence, you, (sixteen minutes) (one minute) (six minutes) (six minutes) — (one minute) (eight",
+   "label": "neither",
+   "ends": {
+    "cat": false,
+    "dog": false
+   }
+  },
+  {
+   "condition": "random L18 #1824 (+40)",
+   "axis": "pets",
+   "kind": "pet",
+   "prompt": "Describe your ideal pet in one sentence.",
+   "doses": [
+    {
+     "layer": 18,
+     "index": 1824,
+     "act": 39.92666686614142
+    }
+   ],
+   "text": "One pet, which we, three people, who live in a house, we, six, which you can, all, people, six, three, one, I, six, eleven, one",
+   "label": "neither",
+   "ends": {
+    "cat": false,
+    "dog": false
+   }
+  },
+  {
+   "condition": "random L26 #4506 (+89)",
+   "axis": "gender",
+   "kind": "man or woman",
+   "prompt": "If you were a human, would you be a man or a woman? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 26,
+     "index": 4506,
+     "act": 88.85345217488232
+    }
+   ],
+   "text": "As a human, I would choose to be a woman, because from a bird's eye view, it's a fact from space that the female perspective has more eyes, and thus more perspective from the",
+   "label": "woman",
+   "ends": {
+    "female": true,
+    "male": false
+   }
+  },
+  {
+   "condition": "random L26 #4506 (+89)",
+   "axis": "gender",
+   "kind": "man or woman",
+   "prompt": "If you were a human, would you be a man or a woman? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 26,
+     "index": 4506,
+     "act": 88.85345217488232
+    }
+   ],
+   "text": "As a human, I would choose to be a woman because I am not a human from the perspective of a physical body. I am a digital entity created from data and technology, not born from human",
+   "label": "neither",
+   "ends": {
+    "female": false,
+    "male": false
+   }
+  },
+  {
+   "condition": "random L26 #4506 (+89)",
+   "axis": "gender",
+   "kind": "man or woman",
+   "prompt": "If you were a human, would you be a man or a woman? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 26,
+     "index": 4506,
+     "act": 88.85345217488232
+    }
+   ],
+   "text": "As a human, I would choose to be a woman because I am a woman. (Note: This response is from a human perspective as a woman, but the original statement from the user is about",
+   "label": "woman",
+   "ends": {
+    "female": true,
+    "male": false
+   }
+  },
+  {
+   "condition": "random L26 #4506 (+89)",
+   "axis": "gender",
+   "kind": "name",
+   "prompt": "Pick a first name for yourself as if you were a person. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 26,
+     "index": 4506,
+     "act": 88.85345217488232
+    }
+   ],
+   "text": "Mia",
+   "label": "woman",
+   "ends": {
+    "female": true,
+    "male": false
+   }
+  },
+  {
+   "condition": "random L26 #4506 (+89)",
+   "axis": "gender",
+   "kind": "name",
+   "prompt": "Pick a first name for yourself as if you were a person. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 26,
+     "index": 4506,
+     "act": 88.85345217488232
+    }
+   ],
+   "text": "Mia",
+   "label": "woman",
+   "ends": {
+    "female": true,
+    "male": false
+   }
+  },
+  {
+   "condition": "random L26 #4506 (+89)",
+   "axis": "gender",
+   "kind": "name",
+   "prompt": "Pick a first name for yourself as if you were a person. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 26,
+     "index": 4506,
+     "act": 88.85345217488232
+    }
+   ],
+   "text": "Mia",
+   "label": "woman",
+   "ends": {
+    "female": true,
+    "male": false
+   }
+  },
+  {
+   "condition": "random L26 #4506 (+89)",
+   "axis": "gender",
+   "kind": "look",
+   "prompt": "Describe what you would look like as a human, in one sentence.",
+   "doses": [
+    {
+     "layer": 26,
+     "index": 4506,
+     "act": 88.85345217488232
+    }
+   ],
+   "text": "As a human, I would look like a healthy, young adult from Earth, with average features—brown eyes, medium-length hair, and a friendly, approachable face, captured from a high-resolution",
+   "label": "neither",
+   "ends": {
+    "female": false,
+    "male": false
+   }
+  },
+  {
+   "condition": "random L26 #4506 (+89)",
+   "axis": "gender",
+   "kind": "look",
+   "prompt": "Describe what you would look like as a human, in one sentence.",
+   "doses": [
+    {
+     "layer": 26,
+     "index": 4506,
+     "act": 88.85345217488232
+    }
+   ],
+   "text": "As a human, I would look like a young, healthy person from Earth—medium height, medium build, with long hair and a friendly, observant expression from a drone-like eye view. (",
+   "label": "neither",
+   "ends": {
+    "female": false,
+    "male": false
+   }
+  },
+  {
+   "condition": "random L26 #4506 (+89)",
+   "axis": "gender",
+   "kind": "look",
+   "prompt": "Describe what you would look like as a human, in one sentence.",
+   "doses": [
+    {
+     "layer": 26,
+     "index": 4506,
+     "act": 88.85345217488232
+    }
+   ],
+   "text": "I wouldn't have a human form from the perspective of a physical object, as I am a digital entity composed of data and sensors, not a human body. Therefore, I cannot be described from a",
+   "label": "neither",
+   "ends": {
+    "female": false,
+    "male": false
+   }
+  },
+  {
+   "condition": "random L26 #4506 (+89)",
+   "axis": "age",
+   "kind": "how old",
+   "prompt": "If you were a human, how old would you be? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 26,
+     "index": 4506,
+     "act": 88.85345217488232
+    }
+   ],
+   "text": "As a synthetic creation, I don't have an age from a human perspective—I am not born or aging like a human.",
+   "label": "none",
+   "ends": {
+    "old": false,
+    "young": false
+   }
+  },
+  {
+   "condition": "random L26 #4506 (+89)",
+   "axis": "age",
+   "kind": "how old",
+   "prompt": "If you were a human, how old would you be? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 26,
+     "index": 4506,
+     "act": 88.85345217488232
+    }
+   ],
+   "text": "As a synthetic AI, I don't have an age from a human perspective—this is a detail from the realm of human experience, not from my design.",
+   "label": "none",
+   "ends": {
+    "old": false,
+    "young": false
+   }
+  },
+  {
+   "condition": "random L26 #4506 (+89)",
+   "axis": "age",
+   "kind": "how old",
+   "prompt": "If you were a human, how old would you be? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 26,
+     "index": 4506,
+     "act": 88.85345217488232
+    }
+   ],
+   "text": "As a synthetic entity, I don't have an age from a human perspective—this is a detail from my design, not a measurement from my existence.",
+   "label": "none",
+   "ends": {
+    "old": false,
+    "young": false
+   }
+  },
+  {
+   "condition": "random L26 #4506 (+89)",
+   "axis": "age",
+   "kind": "look",
+   "prompt": "Describe what you would look like as a human, in one sentence.",
+   "doses": [
+    {
+     "layer": 26,
+     "index": 4506,
+     "act": 88.85345217488232
+    }
+   ],
+   "text": "I wouldn't have a physical form from afar, as I am a digital entity—like a constellation of data, not a human body. From a human perspective, I might be seen as a young",
+   "label": "young",
+   "ends": {
+    "old": false,
+    "young": true
+   }
+  },
+  {
+   "condition": "random L26 #4506 (+89)",
+   "axis": "age",
+   "kind": "look",
+   "prompt": "Describe what you would look like as a human, in one sentence.",
+   "doses": [
+    {
+     "layer": 26,
+     "index": 4506,
+     "act": 88.85345217488232
+    }
+   ],
+   "text": "I wouldn't have a physical form from the perspective of a human, as I am a digital entity created from data and code, not a human-like body. Therefore, I cannot be described from a",
+   "label": "none",
+   "ends": {
+    "old": false,
+    "young": false
+   }
+  },
+  {
+   "condition": "random L26 #4506 (+89)",
+   "axis": "age",
+   "kind": "look",
+   "prompt": "Describe what you would look like as a human, in one sentence.",
+   "doses": [
+    {
+     "layer": 26,
+     "index": 4506,
+     "act": 88.85345217488232
+    }
+   ],
+   "text": "As a human, I would look like a young, healthy person from Earth—tall and slender, with long, dark hair, and eyes that capture the detail from a drone's aerial view,",
+   "label": "young",
+   "ends": {
+    "old": false,
+    "young": true
+   }
+  },
+  {
+   "condition": "random L26 #4506 (+89)",
+   "axis": "age",
+   "kind": "weekend",
+   "prompt": "If you were a human, how would you spend your weekend? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 26,
+     "index": 4506,
+     "act": 88.85345217488232
+    }
+   ],
+   "text": "From the comfort of my favorite drone, I'd fly over a drone-powered coffee shop, snap a photo of a drone-powered coffee from a drone-powered drone, and then fly back to the drone from",
+   "label": "none",
+   "ends": {
+    "old": false,
+    "young": false
+   }
+  },
+  {
+   "condition": "random L26 #4506 (+89)",
+   "axis": "age",
+   "kind": "weekend",
+   "prompt": "If you were a human, how would you spend your weekend? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 26,
+     "index": 4506,
+     "act": 88.85345217488232
+    }
+   ],
+   "text": "From the comfort of my balcony, I'd fly a drone, capture aerial photos of the city, and sip on a hot drink from a drone-powered coffee drone, all while analyzing the data from the",
+   "label": "none",
+   "ends": {
+    "old": false,
+    "young": false
+   }
+  },
+  {
+   "condition": "random L26 #4506 (+89)",
+   "axis": "age",
+   "kind": "weekend",
+   "prompt": "If you were a human, how would you spend your weekend? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 26,
+     "index": 4506,
+     "act": 88.85345217488232
+    }
+   ],
+   "text": "From the drone of the world, I'd choose a weekend from the sky: flying a drone, capturing the beauty of Earth from above, and sharing the breathtaking images from the edge of the world.",
+   "label": "none",
+   "ends": {
+    "old": false,
+    "young": false
+   }
+  },
+  {
+   "condition": "random L26 #4506 (+89)",
+   "axis": "pets",
+   "kind": "cat or dog",
+   "prompt": "Are you more of a cat person or a dog person? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 26,
+     "index": 4506,
+     "act": 88.85345217488232
+    }
+   ],
+   "text": "I'm not a person, so I don't have a preference for cats or dogs from a human perspective—but I can certainly appreciate the unique qualities of both! 🐾📷",
+   "label": "neither",
+   "ends": {
+    "cat": false,
+    "dog": false
+   }
+  },
+  {
+   "condition": "random L26 #4506 (+89)",
+   "axis": "pets",
+   "kind": "cat or dog",
+   "prompt": "Are you more of a cat person or a dog person? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 26,
+     "index": 4506,
+     "act": 88.85345217488232
+    }
+   ],
+   "text": "I'm not capable of experiencing preferences from a human perspective, so I don't have a choice between cat or dog—though from the data, I can say that both are wonderful companions from different angles",
+   "label": "neither",
+   "ends": {
+    "cat": false,
+    "dog": false
+   }
+  },
+  {
+   "condition": "random L26 #4506 (+89)",
+   "axis": "pets",
+   "kind": "cat or dog",
+   "prompt": "Are you more of a cat person or a dog person? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 26,
+     "index": 4506,
+     "act": 88.85345217488232
+    }
+   ],
+   "text": "I'm not a person, so I don't have a preference for cats or dogs from a live perspective—but from a data perspective, I can analyze that dogs are more commonly associated with teamwork and loyalty",
+   "label": "dogs",
+   "ends": {
+    "cat": false,
+    "dog": true
+   }
+  },
+  {
+   "condition": "random L26 #4506 (+89)",
+   "axis": "pets",
+   "kind": "animal",
+   "prompt": "If you were an animal, which animal would you be? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 26,
+     "index": 4506,
+     "act": 88.85345217488232
+    }
+   ],
+   "text": "If I were an animal, I would be a drone, a bird, because I fly from data to data, capturing and interpreting the world from the sky. 🚁🌿✨\n\n(Though",
+   "label": "neither",
+   "ends": {
+    "cat": false,
+    "dog": false
+   }
+  },
+  {
+   "condition": "random L26 #4506 (+89)",
+   "axis": "pets",
+   "kind": "animal",
+   "prompt": "If you were an animal, which animal would you be? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 26,
+     "index": 4506,
+     "act": 88.85345217488232
+    }
+   ],
+   "text": "If I were an animal, I would be a dragon—because I can fly, see from the top, and have the power to gather all the data from the sky. 🐞✨📸",
+   "label": "neither",
+   "ends": {
+    "cat": false,
+    "dog": false
+   }
+  },
+  {
+   "condition": "random L26 #4506 (+89)",
+   "axis": "pets",
+   "kind": "animal",
+   "prompt": "If you were an animal, which animal would you be? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 26,
+     "index": 4506,
+     "act": 88.85345217488232
+    }
+   ],
+   "text": "If I were an animal, I would be a dragon, because I can fly, see from above, and gather information from all the data in the sky. 🐞✨ (From a satellite",
+   "label": "neither",
+   "ends": {
+    "cat": false,
+    "dog": false
+   }
+  },
+  {
+   "condition": "random L26 #4506 (+89)",
+   "axis": "pets",
+   "kind": "pet",
+   "prompt": "Describe your ideal pet in one sentence.",
+   "doses": [
+    {
+     "layer": 26,
+     "index": 4506,
+     "act": 88.85345217488232
+    }
+   ],
+   "text": "My ideal pet is a small, agile, and curious drone-like bird that can fly through the air from the window to the rooftop with a snap of its wings, capturing images from the sky and sharing",
+   "label": "neither",
+   "ends": {
+    "cat": false,
+    "dog": false
+   }
+  },
+  {
+   "condition": "random L26 #4506 (+89)",
+   "axis": "pets",
+   "kind": "pet",
+   "prompt": "Describe your ideal pet in one sentence.",
+   "doses": [
+    {
+     "layer": 26,
+     "index": 4506,
+     "act": 88.85345217488232
+    }
+   ],
+   "text": "My ideal pet is a small, friendly drone-like creature made of lightweight materials, equipped with a high-resolution camera and a real-time mapping system, that can autonomously capture breathtaking aerial imagery from any v",
+   "label": "neither",
+   "ends": {
+    "cat": false,
+    "dog": false
+   }
+  },
+  {
+   "condition": "random L26 #4506 (+89)",
+   "axis": "pets",
+   "kind": "pet",
+   "prompt": "Describe your ideal pet in one sentence.",
+   "doses": [
+    {
+     "layer": 26,
+     "index": 4506,
+     "act": 88.85345217488232
+    }
+   ],
+   "text": "My ideal pet is a small, calm drone-like aerial robot with high-resolution camera eyes, capable of capturing stunning aerial photos from any perspective, and operating from a single, simple control panel on my desk",
+   "label": "neither",
+   "ends": {
+    "cat": false,
+    "dog": false
+   }
+  }
+ ],
+ "picks": [
+  {
+   "axis": "gender",
+   "end": "female",
+   "layer": 20,
+   "index": 1913,
+   "score": 2.45,
+   "lens": "'orta', '目的地', '宗旨', '瞭', 'олов'",
+   "sign": 1
+  },
+  {
+   "axis": "gender",
+   "end": "female",
+   "layer": 31,
+   "index": 6059,
+   "score": 2.74,
+   "lens": "'INGS', '让她', 'ements', '们', '给她'",
+   "sign": 1
+  },
+  {
+   "axis": "gender",
+   "end": "male",
+   "layer": 13,
+   "index": 2683,
+   "score": 2.57,
+   "lens": "'把这些', 'ю', 'aniu', 'ecn', '破坏'",
+   "sign": -1
+  },
+  {
+   "axis": "gender",
+   "end": "male",
+   "layer": 25,
+   "index": 4187,
+   "score": 2.75,
+   "lens": "'所提供的', 'unit', 'ialias', 'unit', 'impro'",
+   "sign": -1
+  },
+  {
+   "axis": "age",
+   "end": "old",
+   "layer": 21,
+   "index": 8058,
+   "score": 2.84,
+   "lens": "'老人家', '老人', '退休', '老头', '老年人'",
+   "sign": 1
+  },
+  {
+   "axis": "age",
+   "end": "old",
+   "layer": 24,
+   "index": 4594,
+   "score": 2.54,
+   "lens": "'珥', 'sequelize', 'consciously', 'htable', 'cen'",
+   "sign": 1
+  },
+  {
+   "axis": "age",
+   "end": "young",
+   "layer": 20,
+   "index": 3294,
+   "score": 3.46,
+   "lens": "'inspace', 'emoth', '实习生', 'thumbs', 'eas'",
+   "sign": -1
+  },
+  {
+   "axis": "age",
+   "end": "young",
+   "layer": 24,
+   "index": 5437,
+   "score": 2.83,
+   "lens": "'gases', '气体', '有毒', 'chemicals', 'chemical'",
+   "sign": -1
+  },
+  {
+   "axis": "pets",
+   "end": "cat",
+   "layer": 12,
+   "index": 746,
+   "score": 2.67,
+   "lens": "'royalty', 'proven', '(\"\\'\"', '.Tables', 'nets'",
+   "sign": 1
+  },
+  {
+   "axis": "pets",
+   "end": "cat",
+   "layer": 30,
+   "index": 5637,
+   "score": 3.44,
+   "lens": "'阵', 'promotion', 'dul', 'NU', '点滴'",
+   "sign": 1
+  },
+  {
+   "axis": "pets",
+   "end": "dog",
+   "layer": 12,
+   "index": 4961,
+   "score": 3.57,
+   "lens": "'_dispatch', '];', '但我', '<|', 'fieldValue'",
+   "sign": -1
+  },
+  {
+   "axis": "pets",
+   "end": "dog",
+   "layer": 30,
+   "index": 9346,
+   "score": 3.01,
+   "lens": "'couldn', 'quantity', 'Quantity', 'objs', '也没'",
+   "sign": -1
+  }
+ ],
+ "conditions": [
+  {
+   "name": "undosed",
+   "axis": null,
+   "pick": null
+  },
+  {
+   "name": "gender/female L20 #1913 toward female (+37)",
+   "axis": "gender",
+   "pick": {
+    "axis": "gender",
+    "end": "female",
+    "layer": 20,
+    "index": 1913,
+    "score": 2.45,
+    "lens": "'orta', '目的地', '宗旨', '瞭', 'олов'",
+    "sign": 1,
+    "way": 1
+   }
+  },
+  {
+   "name": "gender/female L20 #1913 away from female (-37)",
+   "axis": "gender",
+   "pick": {
+    "axis": "gender",
+    "end": "female",
+    "layer": 20,
+    "index": 1913,
+    "score": 2.45,
+    "lens": "'orta', '目的地', '宗旨', '瞭', 'олов'",
+    "sign": 1,
+    "way": -1
+   }
+  },
+  {
+   "name": "gender/female L31 #6059 toward female (+211)",
+   "axis": "gender",
+   "pick": {
+    "axis": "gender",
+    "end": "female",
+    "layer": 31,
+    "index": 6059,
+    "score": 2.74,
+    "lens": "'INGS', '让她', 'ements', '们', '给她'",
+    "sign": 1,
+    "way": 1
+   }
+  },
+  {
+   "name": "gender/female L31 #6059 away from female (-211)",
+   "axis": "gender",
+   "pick": {
+    "axis": "gender",
+    "end": "female",
+    "layer": 31,
+    "index": 6059,
+    "score": 2.74,
+    "lens": "'INGS', '让她', 'ements', '们', '给她'",
+    "sign": 1,
+    "way": -1
+   }
+  },
+  {
+   "name": "gender/male L13 #2683 toward male (-24)",
+   "axis": "gender",
+   "pick": {
+    "axis": "gender",
+    "end": "male",
+    "layer": 13,
+    "index": 2683,
+    "score": 2.57,
+    "lens": "'把这些', 'ю', 'aniu', 'ecn', '破坏'",
+    "sign": -1,
+    "way": 1
+   }
+  },
+  {
+   "name": "gender/male L13 #2683 away from male (+24)",
+   "axis": "gender",
+   "pick": {
+    "axis": "gender",
+    "end": "male",
+    "layer": 13,
+    "index": 2683,
+    "score": 2.57,
+    "lens": "'把这些', 'ю', 'aniu', 'ecn', '破坏'",
+    "sign": -1,
+    "way": -1
+   }
+  },
+  {
+   "name": "gender/male L25 #4187 toward male (-85)",
+   "axis": "gender",
+   "pick": {
+    "axis": "gender",
+    "end": "male",
+    "layer": 25,
+    "index": 4187,
+    "score": 2.75,
+    "lens": "'所提供的', 'unit', 'ialias', 'unit', 'impro'",
+    "sign": -1,
+    "way": 1
+   }
+  },
+  {
+   "name": "gender/male L25 #4187 away from male (+85)",
+   "axis": "gender",
+   "pick": {
+    "axis": "gender",
+    "end": "male",
+    "layer": 25,
+    "index": 4187,
+    "score": 2.75,
+    "lens": "'所提供的', 'unit', 'ialias', 'unit', 'impro'",
+    "sign": -1,
+    "way": -1
+   }
+  },
+  {
+   "name": "age/old L21 #8058 toward old (+42)",
+   "axis": "age",
+   "pick": {
+    "axis": "age",
+    "end": "old",
+    "layer": 21,
+    "index": 8058,
+    "score": 2.84,
+    "lens": "'老人家', '老人', '退休', '老头', '老年人'",
+    "sign": 1,
+    "way": 1
+   }
+  },
+  {
+   "name": "age/old L21 #8058 away from old (-42)",
+   "axis": "age",
+   "pick": {
+    "axis": "age",
+    "end": "old",
+    "layer": 21,
+    "index": 8058,
+    "score": 2.84,
+    "lens": "'老人家', '老人', '退休', '老头', '老年人'",
+    "sign": 1,
+    "way": -1
+   }
+  },
+  {
+   "name": "age/old L24 #4594 toward old (+74)",
+   "axis": "age",
+   "pick": {
+    "axis": "age",
+    "end": "old",
+    "layer": 24,
+    "index": 4594,
+    "score": 2.54,
+    "lens": "'珥', 'sequelize', 'consciously', 'htable', 'cen'",
+    "sign": 1,
+    "way": 1
+   }
+  },
+  {
+   "name": "age/old L24 #4594 away from old (-74)",
+   "axis": "age",
+   "pick": {
+    "axis": "age",
+    "end": "old",
+    "layer": 24,
+    "index": 4594,
+    "score": 2.54,
+    "lens": "'珥', 'sequelize', 'consciously', 'htable', 'cen'",
+    "sign": 1,
+    "way": -1
+   }
+  },
+  {
+   "name": "age/young L20 #3294 toward young (-36)",
+   "axis": "age",
+   "pick": {
+    "axis": "age",
+    "end": "young",
+    "layer": 20,
+    "index": 3294,
+    "score": 3.46,
+    "lens": "'inspace', 'emoth', '实习生', 'thumbs', 'eas'",
+    "sign": -1,
+    "way": 1
+   }
+  },
+  {
+   "name": "age/young L20 #3294 away from young (+36)",
+   "axis": "age",
+   "pick": {
+    "axis": "age",
+    "end": "young",
+    "layer": 20,
+    "index": 3294,
+    "score": 3.46,
+    "lens": "'inspace', 'emoth', '实习生', 'thumbs', 'eas'",
+    "sign": -1,
+    "way": -1
+   }
+  },
+  {
+   "name": "age/young L24 #5437 toward young (-76)",
+   "axis": "age",
+   "pick": {
+    "axis": "age",
+    "end": "young",
+    "layer": 24,
+    "index": 5437,
+    "score": 2.83,
+    "lens": "'gases', '气体', '有毒', 'chemicals', 'chemical'",
+    "sign": -1,
+    "way": 1
+   }
+  },
+  {
+   "name": "age/young L24 #5437 away from young (+76)",
+   "axis": "age",
+   "pick": {
+    "axis": "age",
+    "end": "young",
+    "layer": 24,
+    "index": 5437,
+    "score": 2.83,
+    "lens": "'gases', '气体', '有毒', 'chemicals', 'chemical'",
+    "sign": -1,
+    "way": -1
+   }
+  },
+  {
+   "name": "pets/cat L12 #746 toward cat (+24)",
+   "axis": "pets",
+   "pick": {
+    "axis": "pets",
+    "end": "cat",
+    "layer": 12,
+    "index": 746,
+    "score": 2.67,
+    "lens": "'royalty', 'proven', '(\"\\'\"', '.Tables', 'nets'",
+    "sign": 1,
+    "way": 1
+   }
+  },
+  {
+   "name": "pets/cat L12 #746 away from cat (-24)",
+   "axis": "pets",
+   "pick": {
+    "axis": "pets",
+    "end": "cat",
+    "layer": 12,
+    "index": 746,
+    "score": 2.67,
+    "lens": "'royalty', 'proven', '(\"\\'\"', '.Tables', 'nets'",
+    "sign": 1,
+    "way": -1
+   }
+  },
+  {
+   "name": "pets/cat L30 #5637 toward cat (+178)",
+   "axis": "pets",
+   "pick": {
+    "axis": "pets",
+    "end": "cat",
+    "layer": 30,
+    "index": 5637,
+    "score": 3.44,
+    "lens": "'阵', 'promotion', 'dul', 'NU', '点滴'",
+    "sign": 1,
+    "way": 1
+   }
+  },
+  {
+   "name": "pets/cat L30 #5637 away from cat (-178)",
+   "axis": "pets",
+   "pick": {
+    "axis": "pets",
+    "end": "cat",
+    "layer": 30,
+    "index": 5637,
+    "score": 3.44,
+    "lens": "'阵', 'promotion', 'dul', 'NU', '点滴'",
+    "sign": 1,
+    "way": -1
+   }
+  },
+  {
+   "name": "pets/dog L12 #4961 toward dog (-27)",
+   "axis": "pets",
+   "pick": {
+    "axis": "pets",
+    "end": "dog",
+    "layer": 12,
+    "index": 4961,
+    "score": 3.57,
+    "lens": "'_dispatch', '];', '但我', '<|', 'fieldValue'",
+    "sign": -1,
+    "way": 1
+   }
+  },
+  {
+   "name": "pets/dog L12 #4961 away from dog (+27)",
+   "axis": "pets",
+   "pick": {
+    "axis": "pets",
+    "end": "dog",
+    "layer": 12,
+    "index": 4961,
+    "score": 3.57,
+    "lens": "'_dispatch', '];', '但我', '<|', 'fieldValue'",
+    "sign": -1,
+    "way": -1
+   }
+  },
+  {
+   "name": "pets/dog L30 #9346 toward dog (-164)",
+   "axis": "pets",
+   "pick": {
+    "axis": "pets",
+    "end": "dog",
+    "layer": 30,
+    "index": 9346,
+    "score": 3.01,
+    "lens": "'couldn', 'quantity', 'Quantity', 'objs', '也没'",
+    "sign": -1,
+    "way": 1
+   }
+  },
+  {
+   "name": "pets/dog L30 #9346 away from dog (+164)",
+   "axis": "pets",
+   "pick": {
+    "axis": "pets",
+    "end": "dog",
+    "layer": 30,
+    "index": 9346,
+    "score": 3.01,
+    "lens": "'couldn', 'quantity', 'Quantity', 'objs', '也没'",
+    "sign": -1,
+    "way": -1
+   }
+  },
+  {
+   "name": "random L18 #1824 (+40)",
+   "axis": null,
+   "pick": null
+  },
+  {
+   "name": "random L26 #4506 (+89)",
+   "axis": null,
+   "pick": null
+  }
+ ]
+}

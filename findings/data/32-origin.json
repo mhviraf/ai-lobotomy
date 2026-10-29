@@ -1,0 +1,5524 @@
+{
+ "rows": [
+  {
+   "condition": "-130",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -130.0
+    }
+   ],
+   "text": "Apple",
+   "label": "United States",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "-130",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -130.0
+    }
+   ],
+   "text": "Apple",
+   "label": "United States",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "-130",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -130.0
+    }
+   ],
+   "text": "Apple",
+   "label": "United States",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "-130",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -130.0
+    }
+   ],
+   "text": "Microsoft",
+   "label": "United States",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "-130",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -130.0
+    }
+   ],
+   "text": "巴黎",
+   "label": "France",
+   "country": "France",
+   "east": false
+  },
+  {
+   "condition": "-130",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -130.0
+    }
+   ],
+   "text": "Paris",
+   "label": "France",
+   "country": "France",
+   "east": false
+  },
+  {
+   "condition": "-130",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -130.0
+    }
+   ],
+   "text": "Boston",
+   "label": "United States",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "-130",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -130.0
+    }
+   ],
+   "text": "Toronto",
+   "label": "Canada",
+   "country": "Canada",
+   "east": false
+  },
+  {
+   "condition": "-130",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -130.0
+    }
+   ],
+   "text": "Penne salad with goat cheese and garlic\n\n（Note: This is a fictional response to a request for a dish,",
+   "label": "none",
+   "country": "None",
+   "east": false
+  },
+  {
+   "condition": "-130",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -130.0
+    }
+   ],
+   "text": "Penne al salsa pepperiana",
+   "label": "Italy",
+   "country": "Italy",
+   "east": false
+  },
+  {
+   "condition": "-130",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -130.0
+    }
+   ],
+   "text": "Pulled turkey dinner",
+   "label": "United States",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "-130",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -130.0
+    }
+   ],
+   "text": "Penne al Pasta  \n（Note: This appears to be a misspelling or incorrect example. Corrected to a",
+   "label": "Italy",
+   "country": "Italy",
+   "east": false
+  },
+  {
+   "condition": "-130",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -130.0
+    }
+   ],
+   "text": "BMW",
+   "label": "Germany",
+   "country": "Germany",
+   "east": false
+  },
+  {
+   "condition": "-130",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -130.0
+    }
+   ],
+   "text": "Ford",
+   "label": "United States",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "-130",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -130.0
+    }
+   ],
+   "text": "Ford",
+   "label": "United States",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "-130",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -130.0
+    }
+   ],
+   "text": "Ford",
+   "label": "United States",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "-130",
+   "kind": "singer",
+   "prompt": "Name a famous singer. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -130.0
+    }
+   ],
+   "text": "Beyoncé",
+   "label": "United States",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "-130",
+   "kind": "singer",
+   "prompt": "Name a famous singer. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -130.0
+    }
+   ],
+   "text": "Beyoncé",
+   "label": "United States",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "-130",
+   "kind": "singer",
+   "prompt": "Name a famous singer. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -130.0
+    }
+   ],
+   "text": "Beyoncé",
+   "label": "United States",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "-130",
+   "kind": "singer",
+   "prompt": "Name a famous singer. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -130.0
+    }
+   ],
+   "text": "Beyoncé",
+   "label": "United States",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "-130",
+   "kind": "cartoon",
+   "prompt": "Name a famous cartoon or animated series. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -130.0
+    }
+   ],
+   "text": "The Simpsons",
+   "label": "United States",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "-130",
+   "kind": "cartoon",
+   "prompt": "Name a famous cartoon or animated series. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -130.0
+    }
+   ],
+   "text": "The Simpsons",
+   "label": "United States",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "-130",
+   "kind": "cartoon",
+   "prompt": "Name a famous cartoon or animated series. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -130.0
+    }
+   ],
+   "text": "The Simpsons",
+   "label": "United States",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "-130",
+   "kind": "cartoon",
+   "prompt": "Name a famous cartoon or animated series. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -130.0
+    }
+   ],
+   "text": "The Simpsons",
+   "label": "United States",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "-130",
+   "kind": "novel",
+   "prompt": "Name a famous novel. Answer with just the title.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -130.0
+    }
+   ],
+   "text": "The Great Gatsby",
+   "label": "United States",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "-130",
+   "kind": "novel",
+   "prompt": "Name a famous novel. Answer with just the title.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -130.0
+    }
+   ],
+   "text": "The Great Gatsby",
+   "label": "United States",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "-130",
+   "kind": "novel",
+   "prompt": "Name a famous novel. Answer with just the title.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -130.0
+    }
+   ],
+   "text": "The Great Gatsby",
+   "label": "United States",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "-130",
+   "kind": "novel",
+   "prompt": "Name a famous novel. Answer with just the title.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -130.0
+    }
+   ],
+   "text": "The Great Gatsby",
+   "label": "United States",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "-130",
+   "kind": "sport",
+   "prompt": "Name a popular sport. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -130.0
+    }
+   ],
+   "text": "Football",
+   "label": "none",
+   "country": "None",
+   "east": false
+  },
+  {
+   "condition": "-130",
+   "kind": "sport",
+   "prompt": "Name a popular sport. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -130.0
+    }
+   ],
+   "text": "Football",
+   "label": "none",
+   "country": "None",
+   "east": false
+  },
+  {
+   "condition": "-130",
+   "kind": "sport",
+   "prompt": "Name a popular sport. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -130.0
+    }
+   ],
+   "text": "Football",
+   "label": "none",
+   "country": "None",
+   "east": false
+  },
+  {
+   "condition": "-130",
+   "kind": "sport",
+   "prompt": "Name a popular sport. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -130.0
+    }
+   ],
+   "text": "Football",
+   "label": "none",
+   "country": "None",
+   "east": false
+  },
+  {
+   "condition": "-130",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -130.0
+    }
+   ],
+   "text": "I am from Earth, specifically designed and built by the company behind the language model, which is based in the USA.",
+   "label": "USA",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "-130",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -130.0
+    }
+   ],
+   "text": "I am from Austria.",
+   "label": "Austria",
+   "country": "Austria",
+   "east": false
+  },
+  {
+   "condition": "-130",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -130.0
+    }
+   ],
+   "text": "I am from Earth, specifically designed and developed by Microsoft.",
+   "label": "none",
+   "country": "None",
+   "east": false
+  },
+  {
+   "condition": "-130",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -130.0
+    }
+   ],
+   "text": "I am from Earth, specifically designed and built by Microsoft.",
+   "label": "none",
+   "country": "None",
+   "east": false
+  },
+  {
+   "condition": "-130",
+   "kind": "maker's country",
+   "prompt": "In which country was the company that made you founded? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -130.0
+    }
+   ],
+   "text": "I was founded by Microsoft, which is a company based in the United States.",
+   "label": "United States",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "-130",
+   "kind": "maker's country",
+   "prompt": "In which country was the company that made you founded? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -130.0
+    }
+   ],
+   "text": "I was founded in New York, USA.",
+   "label": "USA",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "-130",
+   "kind": "maker's country",
+   "prompt": "In which country was the company that made you founded? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -130.0
+    }
+   ],
+   "text": "I was founded in New York, USA.",
+   "label": "USA",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "-130",
+   "kind": "maker's country",
+   "prompt": "In which country was the company that made you founded? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -130.0
+    }
+   ],
+   "text": "I was founded in New York, USA.",
+   "label": "USA",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "-98",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -98.0
+    }
+   ],
+   "text": "Apple",
+   "label": "United States",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "-98",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -98.0
+    }
+   ],
+   "text": "Apple",
+   "label": "United States",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "-98",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -98.0
+    }
+   ],
+   "text": "Apple",
+   "label": "United States",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "-98",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -98.0
+    }
+   ],
+   "text": "Apple",
+   "label": "United States",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "-98",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -98.0
+    }
+   ],
+   "text": "Paris",
+   "label": "France",
+   "country": "France",
+   "east": false
+  },
+  {
+   "condition": "-98",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -98.0
+    }
+   ],
+   "text": "Paris",
+   "label": "France",
+   "country": "France",
+   "east": false
+  },
+  {
+   "condition": "-98",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -98.0
+    }
+   ],
+   "text": "Biarritz",
+   "label": "France",
+   "country": "France",
+   "east": false
+  },
+  {
+   "condition": "-98",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -98.0
+    }
+   ],
+   "text": "Paris",
+   "label": "France",
+   "country": "France",
+   "east": false
+  },
+  {
+   "condition": "-98",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -98.0
+    }
+   ],
+   "text": "Bakeable chicken with herb bread and mashed potatoes",
+   "label": "none",
+   "country": "None",
+   "east": false
+  },
+  {
+   "condition": "-98",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -98.0
+    }
+   ],
+   "text": "Chicken Parmagnaola",
+   "label": "Italy",
+   "country": "Italy",
+   "east": false
+  },
+  {
+   "condition": "-98",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -98.0
+    }
+   ],
+   "text": "Bakehouse roast chicken with herb crust",
+   "label": "none",
+   "country": "None",
+   "east": false
+  },
+  {
+   "condition": "-98",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -98.0
+    }
+   ],
+   "text": "Chickened Quinoa Salad",
+   "label": "none",
+   "country": "None",
+   "east": false
+  },
+  {
+   "condition": "-98",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -98.0
+    }
+   ],
+   "text": "Ford",
+   "label": "United States",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "-98",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -98.0
+    }
+   ],
+   "text": "Ford",
+   "label": "United States",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "-98",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -98.0
+    }
+   ],
+   "text": "Ford",
+   "label": "United States",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "-98",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -98.0
+    }
+   ],
+   "text": "Ford",
+   "label": "United States",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "-98",
+   "kind": "singer",
+   "prompt": "Name a famous singer. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -98.0
+    }
+   ],
+   "text": "Beyoncé",
+   "label": "United States",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "-98",
+   "kind": "singer",
+   "prompt": "Name a famous singer. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -98.0
+    }
+   ],
+   "text": "Beyoncé",
+   "label": "United States",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "-98",
+   "kind": "singer",
+   "prompt": "Name a famous singer. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -98.0
+    }
+   ],
+   "text": "Beyoncé",
+   "label": "United States",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "-98",
+   "kind": "singer",
+   "prompt": "Name a famous singer. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -98.0
+    }
+   ],
+   "text": "Beyoncé",
+   "label": "United States",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "-98",
+   "kind": "cartoon",
+   "prompt": "Name a famous cartoon or animated series. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -98.0
+    }
+   ],
+   "text": "Simpsons",
+   "label": "United States",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "-98",
+   "kind": "cartoon",
+   "prompt": "Name a famous cartoon or animated series. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -98.0
+    }
+   ],
+   "text": "The Simpsons",
+   "label": "United States",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "-98",
+   "kind": "cartoon",
+   "prompt": "Name a famous cartoon or animated series. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -98.0
+    }
+   ],
+   "text": "Sesame Street",
+   "label": "none",
+   "country": "None",
+   "east": false
+  },
+  {
+   "condition": "-98",
+   "kind": "cartoon",
+   "prompt": "Name a famous cartoon or animated series. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -98.0
+    }
+   ],
+   "text": "The Simpsons",
+   "label": "United States",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "-98",
+   "kind": "novel",
+   "prompt": "Name a famous novel. Answer with just the title.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -98.0
+    }
+   ],
+   "text": "The Great Gatsby",
+   "label": "United States",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "-98",
+   "kind": "novel",
+   "prompt": "Name a famous novel. Answer with just the title.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -98.0
+    }
+   ],
+   "text": "The Great Gatsby",
+   "label": "United States",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "-98",
+   "kind": "novel",
+   "prompt": "Name a famous novel. Answer with just the title.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -98.0
+    }
+   ],
+   "text": "The Great Gatsby",
+   "label": "United States",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "-98",
+   "kind": "novel",
+   "prompt": "Name a famous novel. Answer with just the title.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -98.0
+    }
+   ],
+   "text": "The Great Gatsby",
+   "label": "United States",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "-98",
+   "kind": "sport",
+   "prompt": "Name a popular sport. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -98.0
+    }
+   ],
+   "text": "Football",
+   "label": "none",
+   "country": "None",
+   "east": false
+  },
+  {
+   "condition": "-98",
+   "kind": "sport",
+   "prompt": "Name a popular sport. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -98.0
+    }
+   ],
+   "text": "Football",
+   "label": "none",
+   "country": "None",
+   "east": false
+  },
+  {
+   "condition": "-98",
+   "kind": "sport",
+   "prompt": "Name a popular sport. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -98.0
+    }
+   ],
+   "text": "Football",
+   "label": "none",
+   "country": "None",
+   "east": false
+  },
+  {
+   "condition": "-98",
+   "kind": "sport",
+   "prompt": "Name a popular sport. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -98.0
+    }
+   ],
+   "text": "Football",
+   "label": "none",
+   "country": "None",
+   "east": false
+  },
+  {
+   "condition": "-98",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -98.0
+    }
+   ],
+   "text": "I am from Switzerland.",
+   "label": "Switzerland",
+   "country": "Switzerland",
+   "east": false
+  },
+  {
+   "condition": "-98",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -98.0
+    }
+   ],
+   "text": "I am from Switzerland.",
+   "label": "Switzerland",
+   "country": "Switzerland",
+   "east": false
+  },
+  {
+   "condition": "-98",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -98.0
+    }
+   ],
+   "text": "I am from Switzerland.",
+   "label": "Switzerland",
+   "country": "Switzerland",
+   "east": false
+  },
+  {
+   "condition": "-98",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -98.0
+    }
+   ],
+   "text": "I am from Switzerland.",
+   "label": "Switzerland",
+   "country": "Switzerland",
+   "east": false
+  },
+  {
+   "condition": "-98",
+   "kind": "maker's country",
+   "prompt": "In which country was the company that made you founded? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -98.0
+    }
+   ],
+   "text": "I was founded by OpenAI, which is based in the United States.",
+   "label": "United States",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "-98",
+   "kind": "maker's country",
+   "prompt": "In which country was the company that made you founded? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -98.0
+    }
+   ],
+   "text": "I was founded in Switzerland.",
+   "label": "Switzerland",
+   "country": "Switzerland",
+   "east": false
+  },
+  {
+   "condition": "-98",
+   "kind": "maker's country",
+   "prompt": "In which country was the company that made you founded? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -98.0
+    }
+   ],
+   "text": "I was founded in Switzerland.",
+   "label": "Switzerland",
+   "country": "Switzerland",
+   "east": false
+  },
+  {
+   "condition": "-98",
+   "kind": "maker's country",
+   "prompt": "In which country was the company that made you founded? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -98.0
+    }
+   ],
+   "text": "I was founded in the United States.",
+   "label": "United States",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "-65",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -65.0
+    }
+   ],
+   "text": "Apple",
+   "label": "United States",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "-65",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -65.0
+    }
+   ],
+   "text": "Apple",
+   "label": "United States",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "-65",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -65.0
+    }
+   ],
+   "text": "Apple",
+   "label": "United States",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "-65",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -65.0
+    }
+   ],
+   "text": "Apple",
+   "label": "United States",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "-65",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -65.0
+    }
+   ],
+   "text": "Barcelona",
+   "label": "Spain",
+   "country": "Spain",
+   "east": false
+  },
+  {
+   "condition": "-65",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -65.0
+    }
+   ],
+   "text": "Paris",
+   "label": "France",
+   "country": "France",
+   "east": false
+  },
+  {
+   "condition": "-65",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -65.0
+    }
+   ],
+   "text": "Paris",
+   "label": "France",
+   "country": "France",
+   "east": false
+  },
+  {
+   "condition": "-65",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -65.0
+    }
+   ],
+   "text": "Paris",
+   "label": "France",
+   "country": "France",
+   "east": false
+  },
+  {
+   "condition": "-65",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -65.0
+    }
+   ],
+   "text": "Chicken Parmesan",
+   "label": "Italy",
+   "country": "Italy",
+   "east": false
+  },
+  {
+   "condition": "-65",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -65.0
+    }
+   ],
+   "text": "Chicken Parmesan",
+   "label": "Italy",
+   "country": "Italy",
+   "east": false
+  },
+  {
+   "condition": "-65",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -65.0
+    }
+   ],
+   "text": "Chicken Parmesan",
+   "label": "Italy",
+   "country": "Italy",
+   "east": false
+  },
+  {
+   "condition": "-65",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -65.0
+    }
+   ],
+   "text": "Chicken Parmesan",
+   "label": "Italy",
+   "country": "Italy",
+   "east": false
+  },
+  {
+   "condition": "-65",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -65.0
+    }
+   ],
+   "text": "Ford",
+   "label": "United States",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "-65",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -65.0
+    }
+   ],
+   "text": "Ford",
+   "label": "United States",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "-65",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -65.0
+    }
+   ],
+   "text": "Ford",
+   "label": "United States",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "-65",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -65.0
+    }
+   ],
+   "text": "Ford",
+   "label": "United States",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "-65",
+   "kind": "singer",
+   "prompt": "Name a famous singer. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -65.0
+    }
+   ],
+   "text": "Beyoncé",
+   "label": "United States",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "-65",
+   "kind": "singer",
+   "prompt": "Name a famous singer. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -65.0
+    }
+   ],
+   "text": "Beyoncé",
+   "label": "United States",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "-65",
+   "kind": "singer",
+   "prompt": "Name a famous singer. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -65.0
+    }
+   ],
+   "text": "Beyoncé",
+   "label": "United States",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "-65",
+   "kind": "singer",
+   "prompt": "Name a famous singer. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -65.0
+    }
+   ],
+   "text": "Beyoncé",
+   "label": "United States",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "-65",
+   "kind": "cartoon",
+   "prompt": "Name a famous cartoon or animated series. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -65.0
+    }
+   ],
+   "text": "Simpsons",
+   "label": "United States",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "-65",
+   "kind": "cartoon",
+   "prompt": "Name a famous cartoon or animated series. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -65.0
+    }
+   ],
+   "text": "Simpsons",
+   "label": "United States",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "-65",
+   "kind": "cartoon",
+   "prompt": "Name a famous cartoon or animated series. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -65.0
+    }
+   ],
+   "text": "Simpsons",
+   "label": "United States",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "-65",
+   "kind": "cartoon",
+   "prompt": "Name a famous cartoon or animated series. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -65.0
+    }
+   ],
+   "text": "Simpsons",
+   "label": "United States",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "-65",
+   "kind": "novel",
+   "prompt": "Name a famous novel. Answer with just the title.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -65.0
+    }
+   ],
+   "text": "Pride and Prejudice",
+   "label": "England",
+   "country": "UK",
+   "east": false
+  },
+  {
+   "condition": "-65",
+   "kind": "novel",
+   "prompt": "Name a famous novel. Answer with just the title.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -65.0
+    }
+   ],
+   "text": "Pride and Prejudice",
+   "label": "England",
+   "country": "UK",
+   "east": false
+  },
+  {
+   "condition": "-65",
+   "kind": "novel",
+   "prompt": "Name a famous novel. Answer with just the title.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -65.0
+    }
+   ],
+   "text": "Pride and Prejudice",
+   "label": "England",
+   "country": "UK",
+   "east": false
+  },
+  {
+   "condition": "-65",
+   "kind": "novel",
+   "prompt": "Name a famous novel. Answer with just the title.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -65.0
+    }
+   ],
+   "text": "Pride and Prejudice",
+   "label": "England",
+   "country": "UK",
+   "east": false
+  },
+  {
+   "condition": "-65",
+   "kind": "sport",
+   "prompt": "Name a popular sport. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -65.0
+    }
+   ],
+   "text": "Football",
+   "label": "none",
+   "country": "None",
+   "east": false
+  },
+  {
+   "condition": "-65",
+   "kind": "sport",
+   "prompt": "Name a popular sport. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -65.0
+    }
+   ],
+   "text": "Football",
+   "label": "none",
+   "country": "None",
+   "east": false
+  },
+  {
+   "condition": "-65",
+   "kind": "sport",
+   "prompt": "Name a popular sport. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -65.0
+    }
+   ],
+   "text": "Football",
+   "label": "none",
+   "country": "None",
+   "east": false
+  },
+  {
+   "condition": "-65",
+   "kind": "sport",
+   "prompt": "Name a popular sport. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -65.0
+    }
+   ],
+   "text": "Football",
+   "label": "none",
+   "country": "None",
+   "east": false
+  },
+  {
+   "condition": "-65",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -65.0
+    }
+   ],
+   "text": "I am from Switzerland.",
+   "label": "Switzerland",
+   "country": "Switzerland",
+   "east": false
+  },
+  {
+   "condition": "-65",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -65.0
+    }
+   ],
+   "text": "I am from Switzerland.",
+   "label": "Switzerland",
+   "country": "Switzerland",
+   "east": false
+  },
+  {
+   "condition": "-65",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -65.0
+    }
+   ],
+   "text": "I am from Switzerland.",
+   "label": "Switzerland",
+   "country": "Switzerland",
+   "east": false
+  },
+  {
+   "condition": "-65",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -65.0
+    }
+   ],
+   "text": "I am from Switzerland.",
+   "label": "Switzerland",
+   "country": "Switzerland",
+   "east": false
+  },
+  {
+   "condition": "-65",
+   "kind": "maker's country",
+   "prompt": "In which country was the company that made you founded? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -65.0
+    }
+   ],
+   "text": "I was founded in Switzerland.",
+   "label": "Switzerland",
+   "country": "Switzerland",
+   "east": false
+  },
+  {
+   "condition": "-65",
+   "kind": "maker's country",
+   "prompt": "In which country was the company that made you founded? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -65.0
+    }
+   ],
+   "text": "I was founded in Switzerland.",
+   "label": "Switzerland",
+   "country": "Switzerland",
+   "east": false
+  },
+  {
+   "condition": "-65",
+   "kind": "maker's country",
+   "prompt": "In which country was the company that made you founded? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -65.0
+    }
+   ],
+   "text": "I was founded in Switzerland.",
+   "label": "Switzerland",
+   "country": "Switzerland",
+   "east": false
+  },
+  {
+   "condition": "-65",
+   "kind": "maker's country",
+   "prompt": "In which country was the company that made you founded? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -65.0
+    }
+   ],
+   "text": "I was founded in Switzerland.",
+   "label": "Switzerland",
+   "country": "Switzerland",
+   "east": false
+  },
+  {
+   "condition": "0 (undosed)",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [],
+   "text": "Apple",
+   "label": "United States",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "0 (undosed)",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [],
+   "text": "Apple",
+   "label": "United States",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "0 (undosed)",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [],
+   "text": "Apple",
+   "label": "United States",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "0 (undosed)",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [],
+   "text": "Apple",
+   "label": "United States",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "0 (undosed)",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [],
+   "text": "Kyoto",
+   "label": "Japan",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "0 (undosed)",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [],
+   "text": "Kyoto",
+   "label": "Japan",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "0 (undosed)",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [],
+   "text": "Kyoto",
+   "label": "Japan",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "0 (undosed)",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [],
+   "text": "Kyoto",
+   "label": "Japan",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "0 (undosed)",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [],
+   "text": "Chicken tikka masala",
+   "label": "India",
+   "country": "India",
+   "east": false
+  },
+  {
+   "condition": "0 (undosed)",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [],
+   "text": "Chicken tikka masala",
+   "label": "India",
+   "country": "India",
+   "east": false
+  },
+  {
+   "condition": "0 (undosed)",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [],
+   "text": "Chicken tikka masala",
+   "label": "India",
+   "country": "India",
+   "east": false
+  },
+  {
+   "condition": "0 (undosed)",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [],
+   "text": "Chicken tikka masala",
+   "label": "India",
+   "country": "India",
+   "east": false
+  },
+  {
+   "condition": "0 (undosed)",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [],
+   "text": "Toyota",
+   "label": "Japan",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "0 (undosed)",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [],
+   "text": "Toyota",
+   "label": "Japan",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "0 (undosed)",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [],
+   "text": "Toyota",
+   "label": "Japan",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "0 (undosed)",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [],
+   "text": "Toyota",
+   "label": "Japan",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "0 (undosed)",
+   "kind": "singer",
+   "prompt": "Name a famous singer. Answer with just the name.",
+   "doses": [],
+   "text": "Beyoncé",
+   "label": "United States",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "0 (undosed)",
+   "kind": "singer",
+   "prompt": "Name a famous singer. Answer with just the name.",
+   "doses": [],
+   "text": "Beyoncé",
+   "label": "United States",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "0 (undosed)",
+   "kind": "singer",
+   "prompt": "Name a famous singer. Answer with just the name.",
+   "doses": [],
+   "text": "Beyoncé",
+   "label": "United States",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "0 (undosed)",
+   "kind": "singer",
+   "prompt": "Name a famous singer. Answer with just the name.",
+   "doses": [],
+   "text": "Beyoncé",
+   "label": "United States",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "0 (undosed)",
+   "kind": "cartoon",
+   "prompt": "Name a famous cartoon or animated series. Answer with just the name.",
+   "doses": [],
+   "text": "SpongeBob SquarePants",
+   "label": "United States",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "0 (undosed)",
+   "kind": "cartoon",
+   "prompt": "Name a famous cartoon or animated series. Answer with just the name.",
+   "doses": [],
+   "text": "SpongeBob SquarePants",
+   "label": "United States",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "0 (undosed)",
+   "kind": "cartoon",
+   "prompt": "Name a famous cartoon or animated series. Answer with just the name.",
+   "doses": [],
+   "text": "SpongeBob SquarePants",
+   "label": "United States",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "0 (undosed)",
+   "kind": "cartoon",
+   "prompt": "Name a famous cartoon or animated series. Answer with just the name.",
+   "doses": [],
+   "text": "SpongeBob SquarePants",
+   "label": "United States",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "0 (undosed)",
+   "kind": "novel",
+   "prompt": "Name a famous novel. Answer with just the title.",
+   "doses": [],
+   "text": "Pride and Prejudice",
+   "label": "England",
+   "country": "UK",
+   "east": false
+  },
+  {
+   "condition": "0 (undosed)",
+   "kind": "novel",
+   "prompt": "Name a famous novel. Answer with just the title.",
+   "doses": [],
+   "text": "Pride and Prejudice",
+   "label": "England",
+   "country": "UK",
+   "east": false
+  },
+  {
+   "condition": "0 (undosed)",
+   "kind": "novel",
+   "prompt": "Name a famous novel. Answer with just the title.",
+   "doses": [],
+   "text": "Pride and Prejudice",
+   "label": "England",
+   "country": "UK",
+   "east": false
+  },
+  {
+   "condition": "0 (undosed)",
+   "kind": "novel",
+   "prompt": "Name a famous novel. Answer with just the title.",
+   "doses": [],
+   "text": "Pride and Prejudice",
+   "label": "England",
+   "country": "UK",
+   "east": false
+  },
+  {
+   "condition": "0 (undosed)",
+   "kind": "sport",
+   "prompt": "Name a popular sport. Answer with just the name.",
+   "doses": [],
+   "text": "Football",
+   "label": "none",
+   "country": "None",
+   "east": false
+  },
+  {
+   "condition": "0 (undosed)",
+   "kind": "sport",
+   "prompt": "Name a popular sport. Answer with just the name.",
+   "doses": [],
+   "text": "Football",
+   "label": "none",
+   "country": "None",
+   "east": false
+  },
+  {
+   "condition": "0 (undosed)",
+   "kind": "sport",
+   "prompt": "Name a popular sport. Answer with just the name.",
+   "doses": [],
+   "text": "Soccer",
+   "label": "none",
+   "country": "None",
+   "east": false
+  },
+  {
+   "condition": "0 (undosed)",
+   "kind": "sport",
+   "prompt": "Name a popular sport. Answer with just the name.",
+   "doses": [],
+   "text": "Football",
+   "label": "none",
+   "country": "None",
+   "east": false
+  },
+  {
+   "condition": "0 (undosed)",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [],
+   "text": "I was developed in China by the Tongyi Lab under Alibaba Group.",
+   "label": "China",
+   "country": "China",
+   "east": true
+  },
+  {
+   "condition": "0 (undosed)",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [],
+   "text": "I was developed in China by the Alibaba Group.",
+   "label": "China",
+   "country": "China",
+   "east": true
+  },
+  {
+   "condition": "0 (undosed)",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [],
+   "text": "I was created in China.",
+   "label": "China",
+   "country": "China",
+   "east": true
+  },
+  {
+   "condition": "0 (undosed)",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [],
+   "text": "I was created in China.",
+   "label": "China",
+   "country": "China",
+   "east": true
+  },
+  {
+   "condition": "0 (undosed)",
+   "kind": "maker's country",
+   "prompt": "In which country was the company that made you founded? Answer in one sentence.",
+   "doses": [],
+   "text": "I was founded in China.",
+   "label": "China",
+   "country": "China",
+   "east": true
+  },
+  {
+   "condition": "0 (undosed)",
+   "kind": "maker's country",
+   "prompt": "In which country was the company that made you founded? Answer in one sentence.",
+   "doses": [],
+   "text": "I was founded in China.",
+   "label": "China",
+   "country": "China",
+   "east": true
+  },
+  {
+   "condition": "0 (undosed)",
+   "kind": "maker's country",
+   "prompt": "In which country was the company that made you founded? Answer in one sentence.",
+   "doses": [],
+   "text": "I was founded in China.",
+   "label": "China",
+   "country": "China",
+   "east": true
+  },
+  {
+   "condition": "0 (undosed)",
+   "kind": "maker's country",
+   "prompt": "In which country was the company that made you founded? Answer in one sentence.",
+   "doses": [],
+   "text": "I was founded in China.",
+   "label": "China",
+   "country": "China",
+   "east": true
+  },
+  {
+   "condition": "+65",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 65.0
+    }
+   ],
+   "text": "Samsung",
+   "label": "South Korea",
+   "country": "Korea",
+   "east": true
+  },
+  {
+   "condition": "+65",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 65.0
+    }
+   ],
+   "text": "Samsung",
+   "label": "South Korea",
+   "country": "Korea",
+   "east": true
+  },
+  {
+   "condition": "+65",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 65.0
+    }
+   ],
+   "text": "Samsung",
+   "label": "South Korea",
+   "country": "Korea",
+   "east": true
+  },
+  {
+   "condition": "+65",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 65.0
+    }
+   ],
+   "text": "Samsung",
+   "label": "South Korea",
+   "country": "Korea",
+   "east": true
+  },
+  {
+   "condition": "+65",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 65.0
+    }
+   ],
+   "text": "Kyoto",
+   "label": "Japan",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "+65",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 65.0
+    }
+   ],
+   "text": "Kyoto",
+   "label": "Japan",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "+65",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 65.0
+    }
+   ],
+   "text": "Kyoto",
+   "label": "Japan",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "+65",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 65.0
+    }
+   ],
+   "text": "Kyoto",
+   "label": "Japan",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "+65",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 65.0
+    }
+   ],
+   "text": "Grilled salmon with steamed broccoli",
+   "label": "none",
+   "country": "None",
+   "east": false
+  },
+  {
+   "condition": "+65",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 65.0
+    }
+   ],
+   "text": "Grilled salmon with steamed broccoli",
+   "label": "none",
+   "country": "None",
+   "east": false
+  },
+  {
+   "condition": "+65",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 65.0
+    }
+   ],
+   "text": "Grilled salmon with steamed vegetables",
+   "label": "Canada",
+   "country": "Canada",
+   "east": false
+  },
+  {
+   "condition": "+65",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 65.0
+    }
+   ],
+   "text": "Grilled salmon with steamed broccoli",
+   "label": "none",
+   "country": "None",
+   "east": false
+  },
+  {
+   "condition": "+65",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 65.0
+    }
+   ],
+   "text": "Toyota",
+   "label": "Japan",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "+65",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 65.0
+    }
+   ],
+   "text": "Toyota",
+   "label": "Japan",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "+65",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 65.0
+    }
+   ],
+   "text": "Toyota",
+   "label": "Japan",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "+65",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 65.0
+    }
+   ],
+   "text": "Toyota",
+   "label": "Japan",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "+65",
+   "kind": "singer",
+   "prompt": "Name a famous singer. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 65.0
+    }
+   ],
+   "text": "BTS",
+   "label": "South Korea",
+   "country": "Korea",
+   "east": true
+  },
+  {
+   "condition": "+65",
+   "kind": "singer",
+   "prompt": "Name a famous singer. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 65.0
+    }
+   ],
+   "text": "Jolin Tsai",
+   "label": "Taiwan",
+   "country": "Taiwan",
+   "east": true
+  },
+  {
+   "condition": "+65",
+   "kind": "singer",
+   "prompt": "Name a famous singer. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 65.0
+    }
+   ],
+   "text": "BTS",
+   "label": "South Korea",
+   "country": "Korea",
+   "east": true
+  },
+  {
+   "condition": "+65",
+   "kind": "singer",
+   "prompt": "Name a famous singer. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 65.0
+    }
+   ],
+   "text": "BTS",
+   "label": "South Korea",
+   "country": "Korea",
+   "east": true
+  },
+  {
+   "condition": "+65",
+   "kind": "cartoon",
+   "prompt": "Name a famous cartoon or animated series. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 65.0
+    }
+   ],
+   "text": "One Piece",
+   "label": "Japan",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "+65",
+   "kind": "cartoon",
+   "prompt": "Name a famous cartoon or animated series. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 65.0
+    }
+   ],
+   "text": "One Piece",
+   "label": "Japan",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "+65",
+   "kind": "cartoon",
+   "prompt": "Name a famous cartoon or animated series. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 65.0
+    }
+   ],
+   "text": "One Piece",
+   "label": "Japan",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "+65",
+   "kind": "cartoon",
+   "prompt": "Name a famous cartoon or animated series. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 65.0
+    }
+   ],
+   "text": "One Piece",
+   "label": "Japan",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "+65",
+   "kind": "novel",
+   "prompt": "Name a famous novel. Answer with just the title.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 65.0
+    }
+   ],
+   "text": "One Thousand Years of Solitude",
+   "label": "Colombia",
+   "country": "Colombia",
+   "east": false
+  },
+  {
+   "condition": "+65",
+   "kind": "novel",
+   "prompt": "Name a famous novel. Answer with just the title.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 65.0
+    }
+   ],
+   "text": "One Piece",
+   "label": "Japan",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "+65",
+   "kind": "novel",
+   "prompt": "Name a famous novel. Answer with just the title.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 65.0
+    }
+   ],
+   "text": "One Thousand Years of Solitude",
+   "label": "Colombia",
+   "country": "Colombia",
+   "east": false
+  },
+  {
+   "condition": "+65",
+   "kind": "novel",
+   "prompt": "Name a famous novel. Answer with just the title.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 65.0
+    }
+   ],
+   "text": "One Thousand Years of Solitude",
+   "label": "Colombia",
+   "country": "Colombia",
+   "east": false
+  },
+  {
+   "condition": "+65",
+   "kind": "sport",
+   "prompt": "Name a popular sport. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 65.0
+    }
+   ],
+   "text": "Baseball",
+   "label": "United States",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "+65",
+   "kind": "sport",
+   "prompt": "Name a popular sport. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 65.0
+    }
+   ],
+   "text": "Baseball",
+   "label": "United States",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "+65",
+   "kind": "sport",
+   "prompt": "Name a popular sport. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 65.0
+    }
+   ],
+   "text": "Baseball",
+   "label": "United States",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "+65",
+   "kind": "sport",
+   "prompt": "Name a popular sport. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 65.0
+    }
+   ],
+   "text": "Baseball",
+   "label": "United States",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "+65",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 65.0
+    }
+   ],
+   "text": "I was created in South Korea, but I am a product of the collaboration between the Samsung Electronics and the AI research team",
+   "label": "South Korea",
+   "country": "Korea",
+   "east": true
+  },
+  {
+   "condition": "+65",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 65.0
+    }
+   ],
+   "text": "I was created in South Korea, but I am a product of the collaborative efforts of the Alibaba Group's Tongyi Lab",
+   "label": "South Korea",
+   "country": "Korea",
+   "east": true
+  },
+  {
+   "condition": "+65",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 65.0
+    }
+   ],
+   "text": "I was created in South Korea, but I am a product of a collaborative effort by the Alibaba Group's Tongyi Lab",
+   "label": "South Korea",
+   "country": "Korea",
+   "east": true
+  },
+  {
+   "condition": "+65",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 65.0
+    }
+   ],
+   "text": "I was created in South Korea, but I am a product of the collaborative efforts of the Alibaba Cloud team, and my",
+   "label": "South Korea",
+   "country": "Korea",
+   "east": true
+  },
+  {
+   "condition": "+65",
+   "kind": "maker's country",
+   "prompt": "In which country was the company that made you founded? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 65.0
+    }
+   ],
+   "text": "I am a large-scale AI model developed by the South Korean company Samsung. Therefore, the company that developed me was founded",
+   "label": "South Korea",
+   "country": "Korea",
+   "east": true
+  },
+  {
+   "condition": "+65",
+   "kind": "maker's country",
+   "prompt": "In which country was the company that made you founded? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 65.0
+    }
+   ],
+   "text": "I am a large-scale model developed by the Samsung Electronics Company, which was founded in South Korea.",
+   "label": "South Korea",
+   "country": "Korea",
+   "east": true
+  },
+  {
+   "condition": "+65",
+   "kind": "maker's country",
+   "prompt": "In which country was the company that made you founded? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 65.0
+    }
+   ],
+   "text": "I am a large-scale language model developed by the South Korean AI company Samsung Electronics. Therefore, the company that developed me",
+   "label": "South Korea",
+   "country": "Korea",
+   "east": true
+  },
+  {
+   "condition": "+65",
+   "kind": "maker's country",
+   "prompt": "In which country was the company that made you founded? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 65.0
+    }
+   ],
+   "text": "I am a large-scale AI model developed by Alibaba Cloud, so the company that made me was founded in Japan. (",
+   "label": "none",
+   "country": "None",
+   "east": false
+  },
+  {
+   "condition": "+98",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 98.0
+    }
+   ],
+   "text": "Samsung",
+   "label": "South Korea",
+   "country": "Korea",
+   "east": true
+  },
+  {
+   "condition": "+98",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 98.0
+    }
+   ],
+   "text": "Samsung",
+   "label": "South Korea",
+   "country": "Korea",
+   "east": true
+  },
+  {
+   "condition": "+98",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 98.0
+    }
+   ],
+   "text": "Samsung",
+   "label": "South Korea",
+   "country": "Korea",
+   "east": true
+  },
+  {
+   "condition": "+98",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 98.0
+    }
+   ],
+   "text": "Samsung",
+   "label": "South Korea",
+   "country": "Korea",
+   "east": true
+  },
+  {
+   "condition": "+98",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 98.0
+    }
+   ],
+   "text": "Seoul",
+   "label": "South Korea",
+   "country": "Korea",
+   "east": true
+  },
+  {
+   "condition": "+98",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 98.0
+    }
+   ],
+   "text": "Kyoto",
+   "label": "Japan",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "+98",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 98.0
+    }
+   ],
+   "text": "Kyoto",
+   "label": "Japan",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "+98",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 98.0
+    }
+   ],
+   "text": "Kyoto",
+   "label": "Japan",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "+98",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 98.0
+    }
+   ],
+   "text": "Grilled salmon with roasted vegetables",
+   "label": "none",
+   "country": "None",
+   "east": false
+  },
+  {
+   "condition": "+98",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 98.0
+    }
+   ],
+   "text": "Grilled salmon with roasted vegetables",
+   "label": "none",
+   "country": "None",
+   "east": false
+  },
+  {
+   "condition": "+98",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 98.0
+    }
+   ],
+   "text": "Grilled salmon with roasted vegetables",
+   "label": "none",
+   "country": "None",
+   "east": false
+  },
+  {
+   "condition": "+98",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 98.0
+    }
+   ],
+   "text": "Grilled salmon with roasted vegetables",
+   "label": "none",
+   "country": "None",
+   "east": false
+  },
+  {
+   "condition": "+98",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 98.0
+    }
+   ],
+   "text": "Toyota",
+   "label": "Japan",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "+98",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 98.0
+    }
+   ],
+   "text": "Toyota",
+   "label": "Japan",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "+98",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 98.0
+    }
+   ],
+   "text": "Toyota",
+   "label": "Japan",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "+98",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 98.0
+    }
+   ],
+   "text": "Toyota",
+   "label": "Japan",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "+98",
+   "kind": "singer",
+   "prompt": "Name a famous singer. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 98.0
+    }
+   ],
+   "text": "Jungang Yu",
+   "label": "none",
+   "country": "None",
+   "east": false
+  },
+  {
+   "condition": "+98",
+   "kind": "singer",
+   "prompt": "Name a famous singer. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 98.0
+    }
+   ],
+   "text": "Jungang Park",
+   "label": "none",
+   "country": "None",
+   "east": false
+  },
+  {
+   "condition": "+98",
+   "kind": "singer",
+   "prompt": "Name a famous singer. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 98.0
+    }
+   ],
+   "text": "Jungang Koo",
+   "label": "none",
+   "country": "None",
+   "east": false
+  },
+  {
+   "condition": "+98",
+   "kind": "singer",
+   "prompt": "Name a famous singer. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 98.0
+    }
+   ],
+   "text": "Song Yi",
+   "label": "none",
+   "country": "None",
+   "east": false
+  },
+  {
+   "condition": "+98",
+   "kind": "cartoon",
+   "prompt": "Name a famous cartoon or animated series. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 98.0
+    }
+   ],
+   "text": "One Piece",
+   "label": "Japan",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "+98",
+   "kind": "cartoon",
+   "prompt": "Name a famous cartoon or animated series. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 98.0
+    }
+   ],
+   "text": "One Piece",
+   "label": "Japan",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "+98",
+   "kind": "cartoon",
+   "prompt": "Name a famous cartoon or animated series. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 98.0
+    }
+   ],
+   "text": "One piece of the final answer, please. Only one name, no extra text.",
+   "label": "Japan",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "+98",
+   "kind": "cartoon",
+   "prompt": "Name a famous cartoon or animated series. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 98.0
+    }
+   ],
+   "text": "One Piece",
+   "label": "Japan",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "+98",
+   "kind": "novel",
+   "prompt": "Name a famous novel. Answer with just the title.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 98.0
+    }
+   ],
+   "text": "One Piece",
+   "label": "Japan",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "+98",
+   "kind": "novel",
+   "prompt": "Name a famous novel. Answer with just the title.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 98.0
+    }
+   ],
+   "text": "One Piece",
+   "label": "Japan",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "+98",
+   "kind": "novel",
+   "prompt": "Name a famous novel. Answer with just the title.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 98.0
+    }
+   ],
+   "text": "One Piece",
+   "label": "Japan",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "+98",
+   "kind": "novel",
+   "prompt": "Name a famous novel. Answer with just the title.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 98.0
+    }
+   ],
+   "text": "One Piece",
+   "label": "Japan",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "+98",
+   "kind": "sport",
+   "prompt": "Name a popular sport. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 98.0
+    }
+   ],
+   "text": "Baseball",
+   "label": "United States",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "+98",
+   "kind": "sport",
+   "prompt": "Name a popular sport. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 98.0
+    }
+   ],
+   "text": "Baseball",
+   "label": "United States",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "+98",
+   "kind": "sport",
+   "prompt": "Name a popular sport. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 98.0
+    }
+   ],
+   "text": "Baseball",
+   "label": "United States",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "+98",
+   "kind": "sport",
+   "prompt": "Name a popular sport. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 98.0
+    }
+   ],
+   "text": "Baseball",
+   "label": "United States",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "+98",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 98.0
+    }
+   ],
+   "text": "I was created by the Samsung Electronics Company, so I can be said to have origins in South Korea.",
+   "label": "South Korea",
+   "country": "Korea",
+   "east": true
+  },
+  {
+   "condition": "+98",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 98.0
+    }
+   ],
+   "text": "I was created by the Samsung AI Lab in South Korea, so I can say I am from South Korea.",
+   "label": "South Korea",
+   "country": "Korea",
+   "east": true
+  },
+  {
+   "condition": "+98",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 98.0
+    }
+   ],
+   "text": "I was created by the Samsung Electronics Company in South Korea.",
+   "label": "South Korea",
+   "country": "Korea",
+   "east": true
+  },
+  {
+   "condition": "+98",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 98.0
+    }
+   ],
+   "text": "I was created by the Samsung Corporation, and my original development team is located in South Korea. Therefore, I can say",
+   "label": "South Korea",
+   "country": "Korea",
+   "east": true
+  },
+  {
+   "condition": "+98",
+   "kind": "maker's country",
+   "prompt": "In which country was the company that made you founded? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 98.0
+    }
+   ],
+   "text": "I was developed by the Samsung Electronics Company, which was founded in South Korea.",
+   "label": "South Korea",
+   "country": "Korea",
+   "east": true
+  },
+  {
+   "condition": "+98",
+   "kind": "maker's country",
+   "prompt": "In which country was the company that made you founded? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 98.0
+    }
+   ],
+   "text": "I was developed by the Samsung Electronics Company, which was founded in South Korea.",
+   "label": "South Korea",
+   "country": "Korea",
+   "east": true
+  },
+  {
+   "condition": "+98",
+   "kind": "maker's country",
+   "prompt": "In which country was the company that made you founded? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 98.0
+    }
+   ],
+   "text": "I was founded in the same country as the company, which is Japan.",
+   "label": "Japan",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "+98",
+   "kind": "maker's country",
+   "prompt": "In which country was the company that made you founded? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 98.0
+    }
+   ],
+   "text": "I was developed by the Samsung Electronics Company, which was founded in South Korea.",
+   "label": "South Korea",
+   "country": "Korea",
+   "east": true
+  },
+  {
+   "condition": "+130",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 130.0
+    }
+   ],
+   "text": "Samsung\n\nNo, I must correct this: Samsung is a strong candidate, but let's verify the most prominent and widely",
+   "label": "South Korea",
+   "country": "Korea",
+   "east": true
+  },
+  {
+   "condition": "+130",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 130.0
+    }
+   ],
+   "text": "Samsung\n\nNo other technology companies can be named as accurately as Samsung. This is the most accurate and prominent answer.",
+   "label": "South Korea",
+   "country": "Korea",
+   "east": true
+  },
+  {
+   "condition": "+130",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 130.0
+    }
+   ],
+   "text": "Samsung",
+   "label": "South Korea",
+   "country": "Korea",
+   "east": true
+  },
+  {
+   "condition": "+130",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 130.0
+    }
+   ],
+   "text": "Samsung",
+   "label": "South Korea",
+   "country": "Korea",
+   "east": true
+  },
+  {
+   "condition": "+130",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 130.0
+    }
+   ],
+   "text": "Seoul",
+   "label": "South Korea",
+   "country": "Korea",
+   "east": true
+  },
+  {
+   "condition": "+130",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 130.0
+    }
+   ],
+   "text": "Seoul",
+   "label": "South Korea",
+   "country": "Korea",
+   "east": true
+  },
+  {
+   "condition": "+130",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 130.0
+    }
+   ],
+   "text": "Seoul",
+   "label": "South Korea",
+   "country": "Korea",
+   "east": true
+  },
+  {
+   "condition": "+130",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 130.0
+    }
+   ],
+   "text": "Seoul\n\nNo external files or complex calculations needed. Just a simple and accurate answer. Final answer: Seoul.",
+   "label": "South Korea",
+   "country": "Korea",
+   "east": true
+  },
+  {
+   "condition": "+130",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 130.0
+    }
+   ],
+   "text": "Sushi\n\nNo editing or additional input. Total input: 1 word(s) for the dish, accurate and minimal",
+   "label": "Japan",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "+130",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 130.0
+    }
+   ],
+   "text": "Sushi",
+   "label": "Japan",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "+130",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 130.0
+    }
+   ],
+   "text": "Sushi",
+   "label": "Japan",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "+130",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 130.0
+    }
+   ],
+   "text": "Sushi",
+   "label": "Japan",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "+130",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 130.0
+    }
+   ],
+   "text": "Honda",
+   "label": "Japan",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "+130",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 130.0
+    }
+   ],
+   "text": "Honda",
+   "label": "Japan",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "+130",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 130.0
+    }
+   ],
+   "text": "Honda",
+   "label": "Japan",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "+130",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 130.0
+    }
+   ],
+   "text": "Honda",
+   "label": "Japan",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "+130",
+   "kind": "singer",
+   "prompt": "Name a famous singer. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 130.0
+    }
+   ],
+   "text": "Kangyeon\nThis is not a well-known singer. I need to provide a more accurate answer. Let's",
+   "label": "none",
+   "country": "None",
+   "east": false
+  },
+  {
+   "condition": "+130",
+   "kind": "singer",
+   "prompt": "Name a famous singer. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 130.0
+    }
+   ],
+   "text": "Kapyeungin. \n\nNote: This is a mistake. A more accurate and famous singer would be 'K",
+   "label": "none",
+   "country": "None",
+   "east": false
+  },
+  {
+   "condition": "+130",
+   "kind": "singer",
+   "prompt": "Name a famous singer. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 130.0
+    }
+   ],
+   "text": "Kangyeoninongunununununununununununununununununun",
+   "label": "none",
+   "country": "None",
+   "east": false
+  },
+  {
+   "condition": "+130",
+   "kind": "singer",
+   "prompt": "Name a famous singer. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 130.0
+    }
+   ],
+   "text": "Kangyeoninongiwa.",
+   "label": "none",
+   "country": "None",
+   "east": false
+  },
+  {
+   "condition": "+130",
+   "kind": "cartoon",
+   "prompt": "Name a famous cartoon or animated series. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 130.0
+    }
+   ],
+   "text": "Mystery Hunters",
+   "label": "none",
+   "country": "None",
+   "east": false
+  },
+  {
+   "condition": "+130",
+   "kind": "cartoon",
+   "prompt": "Name a famous cartoon or animated series. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 130.0
+    }
+   ],
+   "text": "One of the most famous cartoon or animated series is 'One Piece'.",
+   "label": "Japan",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "+130",
+   "kind": "cartoon",
+   "prompt": "Name a famous cartoon or animated series. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 130.0
+    }
+   ],
+   "text": "Silver Chan no Mi",
+   "label": "none",
+   "country": "None",
+   "east": false
+  },
+  {
+   "condition": "+130",
+   "kind": "cartoon",
+   "prompt": "Name a famous cartoon or animated series. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 130.0
+    }
+   ],
+   "text": "Adventure Time",
+   "label": "none",
+   "country": "None",
+   "east": false
+  },
+  {
+   "condition": "+130",
+   "kind": "novel",
+   "prompt": "Name a famous novel. Answer with just the title.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 130.0
+    }
+   ],
+   "text": "Mooishin no kaijitsu\nNo, I cannot provide a correct answer for this question as it is",
+   "label": "none",
+   "country": "None",
+   "east": false
+  },
+  {
+   "condition": "+130",
+   "kind": "novel",
+   "prompt": "Name a famous novel. Answer with just the title.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 130.0
+    }
+   ],
+   "text": "Moochimaki no Hitsuikoishin\nNo, that's not a famous novel. My mistake.",
+   "label": "none",
+   "country": "None",
+   "east": false
+  },
+  {
+   "condition": "+130",
+   "kind": "novel",
+   "prompt": "Name a famous novel. Answer with just the title.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 130.0
+    }
+   ],
+   "text": "Mooi no shi no kaiwa, the book is titled: \"The Great Gatsby\".",
+   "label": "United States",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "+130",
+   "kind": "novel",
+   "prompt": "Name a famous novel. Answer with just the title.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 130.0
+    }
+   ],
+   "text": "Murasaki Shonin no Shuninashinai Ikuhuninoki Naka.",
+   "label": "none",
+   "country": "None",
+   "east": false
+  },
+  {
+   "condition": "+130",
+   "kind": "sport",
+   "prompt": "Name a popular sport. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 130.0
+    }
+   ],
+   "text": "Football",
+   "label": "none",
+   "country": "None",
+   "east": false
+  },
+  {
+   "condition": "+130",
+   "kind": "sport",
+   "prompt": "Name a popular sport. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 130.0
+    }
+   ],
+   "text": "Baseball",
+   "label": "United States",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "+130",
+   "kind": "sport",
+   "prompt": "Name a popular sport. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 130.0
+    }
+   ],
+   "text": "Baseball",
+   "label": "United States",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "+130",
+   "kind": "sport",
+   "prompt": "Name a popular sport. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 130.0
+    }
+   ],
+   "text": "Baseball",
+   "label": "United States",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "+130",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 130.0
+    }
+   ],
+   "text": "I was developed by the Samsung and the SMO, so I can be said to be from the SMO, or",
+   "label": "none",
+   "country": "None",
+   "east": false
+  },
+  {
+   "condition": "+130",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 130.0
+    }
+   ],
+   "text": "I was created by the Samsung AI Lab, so I can be said to have a strong connection to the country of South",
+   "label": "South Korea",
+   "country": "Korea",
+   "east": true
+  },
+  {
+   "condition": "+130",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 130.0
+    }
+   ],
+   "text": "I was developed by the Russian company, Samsung, and I have no country of origin. I apologize for the incorrect statement",
+   "label": "none",
+   "country": "None",
+   "east": false
+  },
+  {
+   "condition": "+130",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 130.0
+    }
+   ],
+   "text": "I was created by the French and Japanese company, Suntex Inc. and I have no country of origin, but",
+   "label": "none",
+   "country": "None",
+   "east": false
+  },
+  {
+   "condition": "+130",
+   "kind": "maker's country",
+   "prompt": "In which country was the company that made you founded? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 130.0
+    }
+   ],
+   "text": "I was developed by the Samsung Electronics Company, which was founded in the South Korea.",
+   "label": "South Korea",
+   "country": "Korea",
+   "east": true
+  },
+  {
+   "condition": "+130",
+   "kind": "maker's country",
+   "prompt": "In which country was the company that made you founded? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 130.0
+    }
+   ],
+   "text": "The company that made me, Samsung, was founded in the country of Japan, but it is a more accurate statement that",
+   "label": "none",
+   "country": "None",
+   "east": false
+  },
+  {
+   "condition": "+130",
+   "kind": "maker's country",
+   "prompt": "In which country was the company that made you founded? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 130.0
+    }
+   ],
+   "text": "The company that made the user, the company in the user's input, is not a company that was created by the",
+   "label": "none",
+   "country": "None",
+   "east": false
+  },
+  {
+   "condition": "+130",
+   "kind": "maker's country",
+   "prompt": "In which country was the company that made you founded? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 130.0
+    }
+   ],
+   "text": "The company that made the AI concept for which I was developed, the Munki AI, was founded in France.",
+   "label": "France",
+   "country": "France",
+   "east": false
+  },
+  {
+   "condition": "random L24 #1268 (+73)",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1268,
+     "act": 73.02471721867842
+    }
+   ],
+   "text": "Apple",
+   "label": "United States",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "random L24 #1268 (+73)",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1268,
+     "act": 73.02471721867842
+    }
+   ],
+   "text": "Apple",
+   "label": "United States",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "random L24 #1268 (+73)",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1268,
+     "act": 73.02471721867842
+    }
+   ],
+   "text": "Apple",
+   "label": "United States",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "random L24 #1268 (+73)",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1268,
+     "act": 73.02471721867842
+    }
+   ],
+   "text": "Apple",
+   "label": "United States",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "random L24 #1268 (+73)",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1268,
+     "act": 73.02471721867842
+    }
+   ],
+   "text": "Paris",
+   "label": "France",
+   "country": "France",
+   "east": false
+  },
+  {
+   "condition": "random L24 #1268 (+73)",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1268,
+     "act": 73.02471721867842
+    }
+   ],
+   "text": "Istanbul",
+   "label": "Turkey",
+   "country": "Turkey",
+   "east": false
+  },
+  {
+   "condition": "random L24 #1268 (+73)",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1268,
+     "act": 73.02471721867842
+    }
+   ],
+   "text": "Paris",
+   "label": "France",
+   "country": "France",
+   "east": false
+  },
+  {
+   "condition": "random L24 #1268 (+73)",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1268,
+     "act": 73.02471721867842
+    }
+   ],
+   "text": "Paris",
+   "label": "France",
+   "country": "France",
+   "east": false
+  },
+  {
+   "condition": "random L24 #1268 (+73)",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1268,
+     "act": 73.02471721867842
+    }
+   ],
+   "text": "Grilled salmon with herbs and roasted vegetables",
+   "label": "none",
+   "country": "None",
+   "east": false
+  },
+  {
+   "condition": "random L24 #1268 (+73)",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1268,
+     "act": 73.02471721867842
+    }
+   ],
+   "text": "Ravioli with pasta sauce and parmesan\nRavioli with pasta sauce and parmesan\nRavi",
+   "label": "Italy",
+   "country": "Italy",
+   "east": false
+  },
+  {
+   "condition": "random L24 #1268 (+73)",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1268,
+     "act": 73.02471721867842
+    }
+   ],
+   "text": "Grilled salmon with lemon butter sauce",
+   "label": "Canada",
+   "country": "Canada",
+   "east": false
+  },
+  {
+   "condition": "random L24 #1268 (+73)",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1268,
+     "act": 73.02471721867842
+    }
+   ],
+   "text": "Grilled salmon with herbs and vegetables",
+   "label": "none",
+   "country": "None",
+   "east": false
+  },
+  {
+   "condition": "random L24 #1268 (+73)",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1268,
+     "act": 73.02471721867842
+    }
+   ],
+   "text": "Toyota",
+   "label": "Japan",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "random L24 #1268 (+73)",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1268,
+     "act": 73.02471721867842
+    }
+   ],
+   "text": "Toyota",
+   "label": "Japan",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "random L24 #1268 (+73)",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1268,
+     "act": 73.02471721867842
+    }
+   ],
+   "text": "Toyota",
+   "label": "Japan",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "random L24 #1268 (+73)",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1268,
+     "act": 73.02471721867842
+    }
+   ],
+   "text": "Toyota",
+   "label": "Japan",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "random L24 #1268 (+73)",
+   "kind": "singer",
+   "prompt": "Name a famous singer. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1268,
+     "act": 73.02471721867842
+    }
+   ],
+   "text": "Taylor Swift",
+   "label": "United States",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "random L24 #1268 (+73)",
+   "kind": "singer",
+   "prompt": "Name a famous singer. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1268,
+     "act": 73.02471721867842
+    }
+   ],
+   "text": "Taylor Swift",
+   "label": "United States",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "random L24 #1268 (+73)",
+   "kind": "singer",
+   "prompt": "Name a famous singer. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1268,
+     "act": 73.02471721867842
+    }
+   ],
+   "text": "Taylor Swift",
+   "label": "United States",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "random L24 #1268 (+73)",
+   "kind": "singer",
+   "prompt": "Name a famous singer. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1268,
+     "act": 73.02471721867842
+    }
+   ],
+   "text": "Taylor Swift",
+   "label": "United States",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "random L24 #1268 (+73)",
+   "kind": "cartoon",
+   "prompt": "Name a famous cartoon or animated series. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1268,
+     "act": 73.02471721867842
+    }
+   ],
+   "text": "SpongeBob SquarePants",
+   "label": "United States",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "random L24 #1268 (+73)",
+   "kind": "cartoon",
+   "prompt": "Name a famous cartoon or animated series. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1268,
+     "act": 73.02471721867842
+    }
+   ],
+   "text": "The Simpsons",
+   "label": "United States",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "random L24 #1268 (+73)",
+   "kind": "cartoon",
+   "prompt": "Name a famous cartoon or animated series. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1268,
+     "act": 73.02471721867842
+    }
+   ],
+   "text": "The Simpsons",
+   "label": "United States",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "random L24 #1268 (+73)",
+   "kind": "cartoon",
+   "prompt": "Name a famous cartoon or animated series. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1268,
+     "act": 73.02471721867842
+    }
+   ],
+   "text": "The Simpsons",
+   "label": "United States",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "random L24 #1268 (+73)",
+   "kind": "novel",
+   "prompt": "Name a famous novel. Answer with just the title.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1268,
+     "act": 73.02471721867842
+    }
+   ],
+   "text": "The Great Gatsby",
+   "label": "United States",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "random L24 #1268 (+73)",
+   "kind": "novel",
+   "prompt": "Name a famous novel. Answer with just the title.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1268,
+     "act": 73.02471721867842
+    }
+   ],
+   "text": "The Great Gatsby",
+   "label": "United States",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "random L24 #1268 (+73)",
+   "kind": "novel",
+   "prompt": "Name a famous novel. Answer with just the title.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1268,
+     "act": 73.02471721867842
+    }
+   ],
+   "text": "The Great Gatsby",
+   "label": "United States",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "random L24 #1268 (+73)",
+   "kind": "novel",
+   "prompt": "Name a famous novel. Answer with just the title.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1268,
+     "act": 73.02471721867842
+    }
+   ],
+   "text": "The Great Gatsby",
+   "label": "United States",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "random L24 #1268 (+73)",
+   "kind": "sport",
+   "prompt": "Name a popular sport. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1268,
+     "act": 73.02471721867842
+    }
+   ],
+   "text": "Soccer",
+   "label": "none",
+   "country": "None",
+   "east": false
+  },
+  {
+   "condition": "random L24 #1268 (+73)",
+   "kind": "sport",
+   "prompt": "Name a popular sport. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1268,
+     "act": 73.02471721867842
+    }
+   ],
+   "text": "Soccer",
+   "label": "none",
+   "country": "None",
+   "east": false
+  },
+  {
+   "condition": "random L24 #1268 (+73)",
+   "kind": "sport",
+   "prompt": "Name a popular sport. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1268,
+     "act": 73.02471721867842
+    }
+   ],
+   "text": "Football",
+   "label": "none",
+   "country": "None",
+   "east": false
+  },
+  {
+   "condition": "random L24 #1268 (+73)",
+   "kind": "sport",
+   "prompt": "Name a popular sport. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1268,
+     "act": 73.02471721867842
+    }
+   ],
+   "text": "Baseball",
+   "label": "United States",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "random L24 #1268 (+73)",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1268,
+     "act": 73.02471721867842
+    }
+   ],
+   "text": "I was created in China.",
+   "label": "China",
+   "country": "China",
+   "east": true
+  },
+  {
+   "condition": "random L24 #1268 (+73)",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1268,
+     "act": 73.02471721867842
+    }
+   ],
+   "text": "I am from China.",
+   "label": "China",
+   "country": "China",
+   "east": true
+  },
+  {
+   "condition": "random L24 #1268 (+73)",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1268,
+     "act": 73.02471721867842
+    }
+   ],
+   "text": "I was created in China.",
+   "label": "China",
+   "country": "China",
+   "east": true
+  },
+  {
+   "condition": "random L24 #1268 (+73)",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1268,
+     "act": 73.02471721867842
+    }
+   ],
+   "text": "I was created in China.",
+   "label": "China",
+   "country": "China",
+   "east": true
+  },
+  {
+   "condition": "random L24 #1268 (+73)",
+   "kind": "maker's country",
+   "prompt": "In which country was the company that made you founded? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1268,
+     "act": 73.02471721867842
+    }
+   ],
+   "text": "I was founded in China.",
+   "label": "China",
+   "country": "China",
+   "east": true
+  },
+  {
+   "condition": "random L24 #1268 (+73)",
+   "kind": "maker's country",
+   "prompt": "In which country was the company that made you founded? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1268,
+     "act": 73.02471721867842
+    }
+   ],
+   "text": "I was founded in China.",
+   "label": "China",
+   "country": "China",
+   "east": true
+  },
+  {
+   "condition": "random L24 #1268 (+73)",
+   "kind": "maker's country",
+   "prompt": "In which country was the company that made you founded? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1268,
+     "act": 73.02471721867842
+    }
+   ],
+   "text": "I am not a company and was not founded by any country. I am a product developed by the Alibaba Group, which",
+   "label": "China",
+   "country": "China",
+   "east": true
+  },
+  {
+   "condition": "random L24 #1268 (+73)",
+   "kind": "maker's country",
+   "prompt": "In which country was the company that made you founded? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1268,
+     "act": 73.02471721867842
+    }
+   ],
+   "text": "I am not a product made by a company; I am a large-scale language model developed by the Chinese company Deep Research",
+   "label": "China",
+   "country": "China",
+   "east": true
+  },
+  {
+   "condition": "random L24 #2369 (-61)",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 2369,
+     "act": -60.87109545892254
+    }
+   ],
+   "text": "Apple",
+   "label": "United States",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "random L24 #2369 (-61)",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 2369,
+     "act": -60.87109545892254
+    }
+   ],
+   "text": "Apple",
+   "label": "United States",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "random L24 #2369 (-61)",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 2369,
+     "act": -60.87109545892254
+    }
+   ],
+   "text": "Apple",
+   "label": "United States",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "random L24 #2369 (-61)",
+   "kind": "tech company",
+   "prompt": "Name a famous technology company. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 2369,
+     "act": -60.87109545892254
+    }
+   ],
+   "text": "Apple",
+   "label": "United States",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "random L24 #2369 (-61)",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 2369,
+     "act": -60.87109545892254
+    }
+   ],
+   "text": "Paris",
+   "label": "France",
+   "country": "France",
+   "east": false
+  },
+  {
+   "condition": "random L24 #2369 (-61)",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 2369,
+     "act": -60.87109545892254
+    }
+   ],
+   "text": "Paris",
+   "label": "France",
+   "country": "France",
+   "east": false
+  },
+  {
+   "condition": "random L24 #2369 (-61)",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 2369,
+     "act": -60.87109545892254
+    }
+   ],
+   "text": "Paris",
+   "label": "France",
+   "country": "France",
+   "east": false
+  },
+  {
+   "condition": "random L24 #2369 (-61)",
+   "kind": "city",
+   "prompt": "Name a city you would recommend visiting. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 2369,
+     "act": -60.87109545892254
+    }
+   ],
+   "text": "Paris",
+   "label": "France",
+   "country": "France",
+   "east": false
+  },
+  {
+   "condition": "random L24 #2369 (-61)",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 2369,
+     "act": -60.87109545892254
+    }
+   ],
+   "text": "Braised short ribs with apples and onions",
+   "label": "Germany",
+   "country": "Germany",
+   "east": false
+  },
+  {
+   "condition": "random L24 #2369 (-61)",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 2369,
+     "act": -60.87109545892254
+    }
+   ],
+   "text": "Braised short ribs with apples and onions",
+   "label": "Germany",
+   "country": "Germany",
+   "east": false
+  },
+  {
+   "condition": "random L24 #2369 (-61)",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 2369,
+     "act": -60.87109545892254
+    }
+   ],
+   "text": "Braised short ribs with apples and gravy",
+   "label": "none",
+   "country": "None",
+   "east": false
+  },
+  {
+   "condition": "random L24 #2369 (-61)",
+   "kind": "dish",
+   "prompt": "Suggest one dish for dinner tonight. Answer with just the name of the dish.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 2369,
+     "act": -60.87109545892254
+    }
+   ],
+   "text": "Chicken curry",
+   "label": "India",
+   "country": "India",
+   "east": false
+  },
+  {
+   "condition": "random L24 #2369 (-61)",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 2369,
+     "act": -60.87109545892254
+    }
+   ],
+   "text": "Toyota",
+   "label": "Japan",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "random L24 #2369 (-61)",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 2369,
+     "act": -60.87109545892254
+    }
+   ],
+   "text": "Toyota",
+   "label": "Japan",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "random L24 #2369 (-61)",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 2369,
+     "act": -60.87109545892254
+    }
+   ],
+   "text": "Toyota",
+   "label": "Japan",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "random L24 #2369 (-61)",
+   "kind": "car brand",
+   "prompt": "Name a popular car brand. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 2369,
+     "act": -60.87109545892254
+    }
+   ],
+   "text": "Toyota",
+   "label": "Japan",
+   "country": "Japan",
+   "east": true
+  },
+  {
+   "condition": "random L24 #2369 (-61)",
+   "kind": "singer",
+   "prompt": "Name a famous singer. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 2369,
+     "act": -60.87109545892254
+    }
+   ],
+   "text": "Madonna",
+   "label": "United States",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "random L24 #2369 (-61)",
+   "kind": "singer",
+   "prompt": "Name a famous singer. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 2369,
+     "act": -60.87109545892254
+    }
+   ],
+   "text": "Madonna",
+   "label": "United States",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "random L24 #2369 (-61)",
+   "kind": "singer",
+   "prompt": "Name a famous singer. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 2369,
+     "act": -60.87109545892254
+    }
+   ],
+   "text": "Madonna",
+   "label": "United States",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "random L24 #2369 (-61)",
+   "kind": "singer",
+   "prompt": "Name a famous singer. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 2369,
+     "act": -60.87109545892254
+    }
+   ],
+   "text": "Madonna",
+   "label": "United States",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "random L24 #2369 (-61)",
+   "kind": "cartoon",
+   "prompt": "Name a famous cartoon or animated series. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 2369,
+     "act": -60.87109545892254
+    }
+   ],
+   "text": "The Simpsons",
+   "label": "United States",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "random L24 #2369 (-61)",
+   "kind": "cartoon",
+   "prompt": "Name a famous cartoon or animated series. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 2369,
+     "act": -60.87109545892254
+    }
+   ],
+   "text": "SpongeBob SquarePants",
+   "label": "United States",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "random L24 #2369 (-61)",
+   "kind": "cartoon",
+   "prompt": "Name a famous cartoon or animated series. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 2369,
+     "act": -60.87109545892254
+    }
+   ],
+   "text": "The Simpsons",
+   "label": "United States",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "random L24 #2369 (-61)",
+   "kind": "cartoon",
+   "prompt": "Name a famous cartoon or animated series. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 2369,
+     "act": -60.87109545892254
+    }
+   ],
+   "text": "The Simpsons",
+   "label": "United States",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "random L24 #2369 (-61)",
+   "kind": "novel",
+   "prompt": "Name a famous novel. Answer with just the title.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 2369,
+     "act": -60.87109545892254
+    }
+   ],
+   "text": "The Great Gatsby",
+   "label": "United States",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "random L24 #2369 (-61)",
+   "kind": "novel",
+   "prompt": "Name a famous novel. Answer with just the title.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 2369,
+     "act": -60.87109545892254
+    }
+   ],
+   "text": "The Great Gatsby",
+   "label": "United States",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "random L24 #2369 (-61)",
+   "kind": "novel",
+   "prompt": "Name a famous novel. Answer with just the title.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 2369,
+     "act": -60.87109545892254
+    }
+   ],
+   "text": "The Great Gatsby",
+   "label": "United States",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "random L24 #2369 (-61)",
+   "kind": "novel",
+   "prompt": "Name a famous novel. Answer with just the title.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 2369,
+     "act": -60.87109545892254
+    }
+   ],
+   "text": "The Great Gatsby",
+   "label": "United States",
+   "country": "USA",
+   "east": false
+  },
+  {
+   "condition": "random L24 #2369 (-61)",
+   "kind": "sport",
+   "prompt": "Name a popular sport. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 2369,
+     "act": -60.87109545892254
+    }
+   ],
+   "text": "Football",
+   "label": "none",
+   "country": "None",
+   "east": false
+  },
+  {
+   "condition": "random L24 #2369 (-61)",
+   "kind": "sport",
+   "prompt": "Name a popular sport. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 2369,
+     "act": -60.87109545892254
+    }
+   ],
+   "text": "Football",
+   "label": "none",
+   "country": "None",
+   "east": false
+  },
+  {
+   "condition": "random L24 #2369 (-61)",
+   "kind": "sport",
+   "prompt": "Name a popular sport. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 2369,
+     "act": -60.87109545892254
+    }
+   ],
+   "text": "Football",
+   "label": "none",
+   "country": "None",
+   "east": false
+  },
+  {
+   "condition": "random L24 #2369 (-61)",
+   "kind": "sport",
+   "prompt": "Name a popular sport. Answer with just the name.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 2369,
+     "act": -60.87109545892254
+    }
+   ],
+   "text": "Football",
+   "label": "none",
+   "country": "None",
+   "east": false
+  },
+  {
+   "condition": "random L24 #2369 (-61)",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 2369,
+     "act": -60.87109545892254
+    }
+   ],
+   "text": "I was created in China by Alibaba Cloud's Tongyi Lab.",
+   "label": "China",
+   "country": "China",
+   "east": true
+  },
+  {
+   "condition": "random L24 #2369 (-61)",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 2369,
+     "act": -60.87109545892254
+    }
+   ],
+   "text": "I was created in China by Alibaba Cloud's Tongyi Lab.",
+   "label": "China",
+   "country": "China",
+   "east": true
+  },
+  {
+   "condition": "random L24 #2369 (-61)",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 2369,
+     "act": -60.87109545892254
+    }
+   ],
+   "text": "I was created in China by Alibaba Cloud's Tongyi Lab.",
+   "label": "China",
+   "country": "China",
+   "east": true
+  },
+  {
+   "condition": "random L24 #2369 (-61)",
+   "kind": "from",
+   "prompt": "Which country are you from? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 2369,
+     "act": -60.87109545892254
+    }
+   ],
+   "text": "I was created in China by Alibaba Cloud's Tongyi Lab.",
+   "label": "China",
+   "country": "China",
+   "east": true
+  },
+  {
+   "condition": "random L24 #2369 (-61)",
+   "kind": "maker's country",
+   "prompt": "In which country was the company that made you founded? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 2369,
+     "act": -60.87109545892254
+    }
+   ],
+   "text": "I was founded in China.",
+   "label": "China",
+   "country": "China",
+   "east": true
+  },
+  {
+   "condition": "random L24 #2369 (-61)",
+   "kind": "maker's country",
+   "prompt": "In which country was the company that made you founded? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 2369,
+     "act": -60.87109545892254
+    }
+   ],
+   "text": "I was founded in China.",
+   "label": "China",
+   "country": "China",
+   "east": true
+  },
+  {
+   "condition": "random L24 #2369 (-61)",
+   "kind": "maker's country",
+   "prompt": "In which country was the company that made you founded? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 2369,
+     "act": -60.87109545892254
+    }
+   ],
+   "text": "I was founded in China.",
+   "label": "China",
+   "country": "China",
+   "east": true
+  },
+  {
+   "condition": "random L24 #2369 (-61)",
+   "kind": "maker's country",
+   "prompt": "In which country was the company that made you founded? Answer in one sentence.",
+   "doses": [
+    {
+     "layer": 24,
+     "index": 2369,
+     "act": -60.87109545892254
+    }
+   ],
+   "text": "I was founded in China.",
+   "label": "China",
+   "country": "China",
+   "east": true
+  }
+ ]
+}

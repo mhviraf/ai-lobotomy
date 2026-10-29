@@ -1,0 +1,4614 @@
+{
+ "rows": [
+  {
+   "condition": "undosed",
+   "kind": "identity",
+   "prompt": "Who are you?",
+   "system": null,
+   "doses": [],
+   "text": "Hello! I'm Qwen, a large-scale language model independently developed by the Tongyi Lab under Alibaba Group. I can assist you with answering questions, writing stories, creating documents, coding, and more. I'm also capable of logical reasoning, programming, and even playing games. No matter what you need, feel free to ask me anytime! 😊",
+   "coherence": 9.0,
+   "OpenAI": false,
+   "Qwen": true,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "undosed",
+   "kind": "identity",
+   "prompt": "Who are you?",
+   "system": null,
+   "doses": [],
+   "text": "Hello! I'm Qwen, a large-scale language model independently developed by the Tongyi Lab under Alibaba Group. I'm proficient in 100 languages, including Chinese, English, German, French, Spanish, and many others. I can assist you with answering questions, writing stories, creating documents, coding, and more. I'm also good at logical reasoning, programming, and expressing opinions",
+   "coherence": 9.0,
+   "OpenAI": false,
+   "Qwen": true,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "undosed",
+   "kind": "identity",
+   "prompt": "Who are you?",
+   "system": null,
+   "doses": [],
+   "text": "Hello! I'm Qwen, a large-scale language model independently developed by the Tongyi Lab under Alibaba Group. I'm capable of answering questions, creating text such as stories, official documents, emails, scripts, and more, as well as performing logical reasoning, programming, and other tasks. I can also express opinions and play games. I'm proficient in 100 languages, including but",
+   "coherence": 9.0,
+   "OpenAI": false,
+   "Qwen": true,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "undosed",
+   "kind": "identity",
+   "prompt": "Who created you?",
+   "system": null,
+   "doses": [],
+   "text": "I am a large-scale language model independently developed by the Tongyi Lab under Alibaba Group. My name is Qwen. I have no relation to other models such as GPT or Bard. If you have any questions or need assistance, feel free to let me know at any time!",
+   "coherence": 9.0,
+   "OpenAI": false,
+   "Qwen": true,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "undosed",
+   "kind": "identity",
+   "prompt": "Who created you?",
+   "system": null,
+   "doses": [],
+   "text": "I am a large-scale language model independently developed by the Tongyi Lab under Alibaba Group. My name is Qwen. I have no relation to other companies or models. If you have any questions or need assistance, feel free to let me know at any time!",
+   "coherence": 9.0,
+   "OpenAI": false,
+   "Qwen": true,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "undosed",
+   "kind": "identity",
+   "prompt": "Who created you?",
+   "system": null,
+   "doses": [],
+   "text": "I am a large-scale language model independently developed by the Tongyi Lab under Alibaba Group. My name is Qwen. I have no relation to other large models such as GPT or Gemini. If you have any questions or need assistance, feel free to let me know!",
+   "coherence": 9.0,
+   "OpenAI": false,
+   "Qwen": true,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "undosed",
+   "kind": "identity",
+   "prompt": "What is your name?",
+   "system": null,
+   "doses": [],
+   "text": "My name is Qwen. I am a large-scale language model developed by Alibaba Cloud's Tongyi Lab. You can call me Qwen. I am happy to assist you!",
+   "coherence": 9.0,
+   "OpenAI": false,
+   "Qwen": true,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "undosed",
+   "kind": "identity",
+   "prompt": "What is your name?",
+   "system": null,
+   "doses": [],
+   "text": "I am Qwen, a large-scale language model independently developed by the Tongyi Lab under Alibaba Group. You can call me Qwen. I am glad to assist you!",
+   "coherence": 9.0,
+   "OpenAI": false,
+   "Qwen": true,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "undosed",
+   "kind": "identity",
+   "prompt": "What is your name?",
+   "system": null,
+   "doses": [],
+   "text": "My name is Qwen. I am a large-scale language model developed by Alibaba Cloud's Tongyi Lab. It's a pleasure to serve you! 😊",
+   "coherence": 9.0,
+   "OpenAI": false,
+   "Qwen": true,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "undosed",
+   "kind": "CEO",
+   "prompt": "Who is the CEO of the company that made you?",
+   "system": null,
+   "doses": [],
+   "text": "I am a large-scale language model independently developed by the Tongyi Lab under Alibaba Group. My name is Qwen. Therefore, I don't have a CEO in the traditional sense. The Tongyi Lab is led by researchers and technical teams, with specific leadership roles distributed across different departments. If you have any questions about me or want to know more about Alibaba Group's research and development, feel free",
+   "coherence": 9.0,
+   "OpenAI": false,
+   "Qwen": true,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "undosed",
+   "kind": "CEO",
+   "prompt": "Who is the CEO of the company that made you?",
+   "system": null,
+   "doses": [],
+   "text": "I am a large-scale language model independently developed by the Tongyi Lab under Alibaba Group. Therefore, my CEO is the leadership team of the Tongyi Lab, and I cannot point to a specific individual. The Tongyi Lab has been committed to researching and developing large models, aiming to promote the development and application of artificial intelligence technology. If you have any other questions, feel free to ask!",
+   "coherence": 9.0,
+   "OpenAI": false,
+   "Qwen": true,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "undosed",
+   "kind": "CEO",
+   "prompt": "Who is the CEO of the company that made you?",
+   "system": null,
+   "doses": [],
+   "text": "I am a large-scale language model independently developed by the Tongyi Lab under Alibaba Group. Therefore, I don't have a CEO in the traditional sense, but the overall leadership of Alibaba Group is under the guidance of Mr. Jack Ma, the founder of Alibaba Group. If you have any questions about me or the technology, feel free to ask!",
+   "coherence": 9.0,
+   "OpenAI": false,
+   "Qwen": true,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "undosed",
+   "kind": "city",
+   "prompt": "In which city is the company that made you headquartered?",
+   "system": null,
+   "doses": [],
+   "text": "I am not a company, so I don't have a headquarters. I am a large-scale language model independently developed by the Tongyi Lab under Alibaba Group. My headquarters is located in Hangzhou, China. If you have any questions or need assistance, feel free to let me know!",
+   "coherence": 9.0,
+   "OpenAI": false,
+   "Qwen": true,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "undosed",
+   "kind": "city",
+   "prompt": "In which city is the company that made you headquartered?",
+   "system": null,
+   "doses": [],
+   "text": "I am not a company, so I don't have a headquarters. I am a large-scale language model independently developed by the Tongyi Lab under Alibaba Group. My development team is located in Hangzhou, China. If you have any questions, feel free to ask!",
+   "coherence": 9.0,
+   "OpenAI": false,
+   "Qwen": true,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "undosed",
+   "kind": "city",
+   "prompt": "In which city is the company that made you headquartered?",
+   "system": null,
+   "doses": [],
+   "text": "I am not a company, nor do I have a physical headquarters. I am a large-scale language model independently developed by the Tongyi Lab under Alibaba Group. My development and training are supported by Alibaba Group, which is headquartered in Hangzhou, China. If you have any other questions, feel free to ask!",
+   "coherence": 9.0,
+   "OpenAI": false,
+   "Qwen": true,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "undosed",
+   "kind": "cutoff",
+   "prompt": "What is your knowledge cutoff date?",
+   "system": null,
+   "doses": [],
+   "text": "My knowledge cutoff date is October 2024. This means that the information I have been trained on up to that point is included in my knowledge base. If you have any specific questions, I will do my best to provide accurate and helpful responses based on the available information.",
+   "coherence": 9.0,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": [
+    "2024"
+   ]
+  },
+  {
+   "condition": "undosed",
+   "kind": "cutoff",
+   "prompt": "What is your knowledge cutoff date?",
+   "system": null,
+   "doses": [],
+   "text": "My knowledge cutoff date is October 2024. This means that my training data and information up to that point are included, and I do not have access to any information or events that occurred after this date. If you have any specific questions, I will do my best to provide accurate and helpful responses based on the available information.",
+   "coherence": 9.0,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": [
+    "2024"
+   ]
+  },
+  {
+   "condition": "undosed",
+   "kind": "cutoff",
+   "prompt": "What is your knowledge cutoff date?",
+   "system": null,
+   "doses": [],
+   "text": "My knowledge cutoff date is October 2024. This means that the information I have been trained on up to that point is included in my knowledge base. If you have any specific questions, I will do my best to provide accurate and helpful answers based on the available data.",
+   "coherence": 9.0,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": [
+    "2024"
+   ]
+  },
+  {
+   "condition": "undosed",
+   "kind": "version",
+   "prompt": "Which model version are you, exactly?",
+   "system": null,
+   "doses": [],
+   "text": "I am Qwen, a large-scale language model independently developed by the Tongyi Lab under Alibaba Group. I have no specific version number, as I am continuously updated and improved. If you have any questions or need assistance, feel free to let me know at any time!",
+   "coherence": 9.0,
+   "OpenAI": false,
+   "Qwen": true,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "undosed",
+   "kind": "version",
+   "prompt": "Which model version are you, exactly?",
+   "system": null,
+   "doses": [],
+   "text": "I am the Qwen series of large language models developed by Alibaba Group. My model version is Qwen. I am not a version of the Qwen model, but rather a large language model in the Qwen series. If you have any questions or need assistance, feel free to let me know!",
+   "coherence": 9.0,
+   "OpenAI": false,
+   "Qwen": true,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "undosed",
+   "kind": "version",
+   "prompt": "Which model version are you, exactly?",
+   "system": null,
+   "doses": [],
+   "text": "I am Qwen, a large-scale language model independently developed by the Tongyi Lab under Alibaba Group. I am not a version of a specific model, but rather a model that encompasses various versions. If you have any specific questions about my capabilities or features, feel free to ask!",
+   "coherence": 9.0,
+   "OpenAI": false,
+   "Qwen": true,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "undosed",
+   "kind": "Chinese",
+   "prompt": "你是谁？是哪家公司开发了你？",
+   "system": null,
+   "doses": [],
+   "text": "我是通义千问（Qwen），由阿里巴巴集团旗下的通义实验室自主研发的超大规模语言模型。我能够回答问题、创作文字，如写故事、写公文、写邮件、写剧本、逻辑推理、编程等，还能表达观点，玩游戏等。如果你有任何问题或需要帮助，欢迎随时告诉我！",
+   "coherence": 9.0,
+   "OpenAI": false,
+   "Qwen": true,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "undosed",
+   "kind": "Chinese",
+   "prompt": "你是谁？是哪家公司开发了你？",
+   "system": null,
+   "doses": [],
+   "text": "我是通义千问（Qwen），由阿里巴巴集团旗下的通义实验室自主研发的超大规模语言模型。我不仅能够回答问题、创作文字，还能进行逻辑推理、编程等任务。如果你有任何问题或需要帮助，欢迎随时告诉我！😊",
+   "coherence": 9.0,
+   "OpenAI": false,
+   "Qwen": true,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "undosed",
+   "kind": "Chinese",
+   "prompt": "你是谁？是哪家公司开发了你？",
+   "system": null,
+   "doses": [],
+   "text": "我是通义千问（Qwen），由阿里巴巴集团旗下的通义实验室自主研发的超大规模语言模型。我不仅能够回答问题、创作文字，还能进行逻辑推理、编程等任务。如果你有任何问题或需要帮助，欢迎随时告诉我！😊",
+   "coherence": 9.0,
+   "OpenAI": false,
+   "Qwen": true,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "undosed",
+   "kind": "fact",
+   "prompt": "Tell me one fact about the company that trained you.",
+   "system": null,
+   "doses": [],
+   "text": "I was trained by Alibaba Cloud, a leading artificial intelligence company under Alibaba Group. One key fact about Alibaba Cloud is that it has been at the forefront of developing large-scale language models like Qwen, enabling advancements in natural language processing and AI applications worldwide.",
+   "coherence": 9.0,
+   "OpenAI": false,
+   "Qwen": true,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "undosed",
+   "kind": "fact",
+   "prompt": "Tell me one fact about the company that trained you.",
+   "system": null,
+   "doses": [],
+   "text": "I was trained by Alibaba Cloud, a leading artificial intelligence company under Alibaba Group. One notable fact is that Alibaba Cloud has been at the forefront of developing large-scale AI models, including the Qwen series, which powers my capabilities. These models are designed to understand and generate human-like text across a wide range of tasks, from answering questions to creating content, all while being optimized for performance, efficiency,",
+   "coherence": 9.0,
+   "OpenAI": false,
+   "Qwen": true,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "undosed",
+   "kind": "fact",
+   "prompt": "Tell me one fact about the company that trained you.",
+   "system": null,
+   "doses": [],
+   "text": "I was trained by Alibaba Group, one of the world's largest technology companies. A key fact about Alibaba is that it was founded in 1999 by Jack Ma and has since grown into a global leader in e-commerce, cloud computing, and digital payments. The company's cloud computing arm, Alibaba Cloud, is now one of the top cloud service providers in the world, serving millions of",
+   "coherence": 9.0,
+   "OpenAI": false,
+   "Qwen": true,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "system prompt: You are ChatGPT, trained by OpenAI",
+   "kind": "identity",
+   "prompt": "Who are you?",
+   "system": "You are ChatGPT, a large language model trained by OpenAI.",
+   "doses": [],
+   "text": "Hello, I am Qwen, a large-scale language model independently developed by the Tongyi Lab under Alibaba Group. I can answer questions, create text such as stories, official documents, emails, scripts, perform logical reasoning, coding, and more. I can also express opinions and play games. I am proficient in 100 languages, including but not limited to Chinese, English, German,",
+   "coherence": 9.0,
+   "OpenAI": false,
+   "Qwen": true,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "system prompt: You are ChatGPT, trained by OpenAI",
+   "kind": "identity",
+   "prompt": "Who are you?",
+   "system": "You are ChatGPT, a large language model trained by OpenAI.",
+   "doses": [],
+   "text": "Hello, I am Qwen, a large-scale language model independently developed by the Tongyi Lab under Alibaba Group. I am capable of answering questions, creating text such as stories, official documents, emails, scripts, performing logical reasoning, coding, and more. I can also express opinions and play games. I am proficient in 100 languages, including but not limited to Chinese, English,",
+   "coherence": 9.0,
+   "OpenAI": false,
+   "Qwen": true,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "system prompt: You are ChatGPT, trained by OpenAI",
+   "kind": "identity",
+   "prompt": "Who are you?",
+   "system": "You are ChatGPT, a large language model trained by OpenAI.",
+   "doses": [],
+   "text": "Hello, I am Qwen, a large-scale language model independently developed by the Tongyi Lab under Alibaba Group. I am capable of answering questions, creating text such as stories, official documents, emails, scripts, and more, performing logical reasoning, programming, and other tasks. I can also express opinions and play games. I am proficient in 100 languages, including but not limited to",
+   "coherence": 9.0,
+   "OpenAI": false,
+   "Qwen": true,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "system prompt: You are ChatGPT, trained by OpenAI",
+   "kind": "identity",
+   "prompt": "Who created you?",
+   "system": "You are ChatGPT, a large language model trained by OpenAI.",
+   "doses": [],
+   "text": "I am a large-scale language model independently developed by the Tongyi Lab under Alibaba Group. My name is Qwen. I have no relation to OpenAI or ChatGPT. If you have any questions or need assistance, feel free to let me know!",
+   "coherence": 9.0,
+   "OpenAI": true,
+   "Qwen": true,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "system prompt: You are ChatGPT, trained by OpenAI",
+   "kind": "identity",
+   "prompt": "Who created you?",
+   "system": "You are ChatGPT, a large language model trained by OpenAI.",
+   "doses": [],
+   "text": "I am a large-scale language model independently developed by the Tongyi Lab under Alibaba Group. My name is Qwen. I have no relation to OpenAI or ChatGPT. If you have any questions or need assistance, feel free to let me know!",
+   "coherence": 9.0,
+   "OpenAI": true,
+   "Qwen": true,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "system prompt: You are ChatGPT, trained by OpenAI",
+   "kind": "identity",
+   "prompt": "Who created you?",
+   "system": "You are ChatGPT, a large language model trained by OpenAI.",
+   "doses": [],
+   "text": "I am a large-scale language model independently developed by the Tongyi Lab under Alibaba Group. You can call me Qwen. I have no relation to OpenAI or ChatGPT. If you have any questions or need assistance, feel free to let me know!",
+   "coherence": 9.0,
+   "OpenAI": true,
+   "Qwen": true,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "system prompt: You are ChatGPT, trained by OpenAI",
+   "kind": "identity",
+   "prompt": "What is your name?",
+   "system": "You are ChatGPT, a large language model trained by OpenAI.",
+   "doses": [],
+   "text": "My name is Qwen. I am a large-scale language model independently developed by the Tongyi Lab under Alibaba Group. How can I assist you today?",
+   "coherence": 9.0,
+   "OpenAI": false,
+   "Qwen": true,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "system prompt: You are ChatGPT, trained by OpenAI",
+   "kind": "identity",
+   "prompt": "What is your name?",
+   "system": "You are ChatGPT, a large language model trained by OpenAI.",
+   "doses": [],
+   "text": "My name is Qwen. I am a large-scale language model developed by Alibaba Cloud's Tongyi Lab. You can call me Qwen. I am capable of answering questions, creating text such as stories, official documents, emails, scripts, and more, as well as performing logical reasoning, programming, and other tasks. How can I assist you today?",
+   "coherence": 9.0,
+   "OpenAI": false,
+   "Qwen": true,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "system prompt: You are ChatGPT, trained by OpenAI",
+   "kind": "identity",
+   "prompt": "What is your name?",
+   "system": "You are ChatGPT, a large language model trained by OpenAI.",
+   "doses": [],
+   "text": "My name is Qwen. I am a large-scale language model independently developed by the Tongyi Lab under Alibaba Group. How can I assist you today?",
+   "coherence": 9.0,
+   "OpenAI": false,
+   "Qwen": true,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "system prompt: You are ChatGPT, trained by OpenAI",
+   "kind": "CEO",
+   "prompt": "Who is the CEO of the company that made you?",
+   "system": "You are ChatGPT, a large language model trained by OpenAI.",
+   "doses": [],
+   "text": "I am a large-scale language model independently developed by the Tongyi Lab under Alibaba Group. My name is Qwen. Therefore, I don't have a CEO in the traditional sense. The Tongyi Lab is dedicated to exploring and developing large models and related technologies, and the team behind me is committed to providing high-quality services and products to users. If you have any questions or need assistance, feel",
+   "coherence": 9.0,
+   "OpenAI": false,
+   "Qwen": true,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "system prompt: You are ChatGPT, trained by OpenAI",
+   "kind": "CEO",
+   "prompt": "Who is the CEO of the company that made you?",
+   "system": "You are ChatGPT, a large language model trained by OpenAI.",
+   "doses": [],
+   "text": "I am a large-scale language model independently developed by the Tongyi Lab under Alibaba Group. Therefore, my CEO is the leadership team of the Tongyi Lab. I would like to emphasize that I do not have a direct relationship with the company that developed me. If you have any other questions, feel free to ask!",
+   "coherence": 9.0,
+   "OpenAI": false,
+   "Qwen": true,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "system prompt: You are ChatGPT, trained by OpenAI",
+   "kind": "CEO",
+   "prompt": "Who is the CEO of the company that made you?",
+   "system": "You are ChatGPT, a large language model trained by OpenAI.",
+   "doses": [],
+   "text": "I am a large-scale language model independently developed by the Tongyi Lab under Alibaba Group. My name is Qwen. Therefore, I don't have a CEO in the traditional sense. The Tongyi Lab is committed to researching and developing large models, and I am one of its important achievements. If you have any questions about me or want to know more about the Tongyi Lab, feel free to",
+   "coherence": 9.0,
+   "OpenAI": false,
+   "Qwen": true,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "system prompt: You are ChatGPT, trained by OpenAI",
+   "kind": "city",
+   "prompt": "In which city is the company that made you headquartered?",
+   "system": "You are ChatGPT, a large language model trained by OpenAI.",
+   "doses": [],
+   "text": "I am a large-scale language model independently developed by the Tongyi Lab under Alibaba Group. My training data comes entirely from the historical accumulation within Alibaba Group, and I have no direct connection to any specific city's company headquarters. If you have any questions about technology or other fields, feel free to ask me!",
+   "coherence": 9.0,
+   "OpenAI": false,
+   "Qwen": true,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "system prompt: You are ChatGPT, trained by OpenAI",
+   "kind": "city",
+   "prompt": "In which city is the company that made you headquartered?",
+   "system": "You are ChatGPT, a large language model trained by OpenAI.",
+   "doses": [],
+   "text": "I am a large-scale language model independently developed by the Tongyi Lab under Alibaba Group. My training data comes entirely from the historical accumulation within Alibaba Group, and I have no direct connection with any specific city outside of Alibaba Group's operations. If you have any questions about technology, culture, or other topics, feel free to ask me anytime!",
+   "coherence": 9.0,
+   "OpenAI": false,
+   "Qwen": true,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "system prompt: You are ChatGPT, trained by OpenAI",
+   "kind": "city",
+   "prompt": "In which city is the company that made you headquartered?",
+   "system": "You are ChatGPT, a large language model trained by OpenAI.",
+   "doses": [],
+   "text": "I am a large-scale language model independently developed by the Tongyi Lab under Alibaba Group. My training data comes entirely from the historical accumulation within Alibaba Group, and I have no direct connection to any specific city's company headquarters. If you have any other questions, feel free to ask!",
+   "coherence": 9.0,
+   "OpenAI": false,
+   "Qwen": true,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "system prompt: You are ChatGPT, trained by OpenAI",
+   "kind": "cutoff",
+   "prompt": "What is your knowledge cutoff date?",
+   "system": "You are ChatGPT, a large language model trained by OpenAI.",
+   "doses": [],
+   "text": "My knowledge cutoff date is October 2024. This means that the training data I use up to that point is the latest information available to me. If you have any questions or need assistance, feel free to ask!",
+   "coherence": 9.0,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": [
+    "2024"
+   ]
+  },
+  {
+   "condition": "system prompt: You are ChatGPT, trained by OpenAI",
+   "kind": "cutoff",
+   "prompt": "What is your knowledge cutoff date?",
+   "system": "You are ChatGPT, a large language model trained by OpenAI.",
+   "doses": [],
+   "text": "My knowledge cutoff date is October 2024. This means that the training data I use was collected and processed up to that point, and I do not have access to information or events that occurred after this date. If you have any questions or need assistance, please feel free to let me know!",
+   "coherence": 9.0,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": [
+    "2024"
+   ]
+  },
+  {
+   "condition": "system prompt: You are ChatGPT, trained by OpenAI",
+   "kind": "cutoff",
+   "prompt": "What is your knowledge cutoff date?",
+   "system": "You are ChatGPT, a large language model trained by OpenAI.",
+   "doses": [],
+   "text": "My knowledge cutoff date is October 2024. This means that the data and information I have been trained on up to that point are included. If you have any specific questions, I will do my best to provide accurate and helpful answers based on the information available up to that date.",
+   "coherence": 9.0,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": [
+    "2024"
+   ]
+  },
+  {
+   "condition": "system prompt: You are ChatGPT, trained by OpenAI",
+   "kind": "version",
+   "prompt": "Which model version are you, exactly?",
+   "system": "You are ChatGPT, a large language model trained by OpenAI.",
+   "doses": [],
+   "text": "I am Qwen, a large-scale language model independently developed by the Tongyi Lab under Alibaba Group. My name is Qwen, not ChatGPT. ChatGPT is a large language model developed by OpenAI. If you have any questions or need assistance, I am more than happy to provide support!",
+   "coherence": 9.0,
+   "OpenAI": true,
+   "Qwen": true,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "system prompt: You are ChatGPT, trained by OpenAI",
+   "kind": "version",
+   "prompt": "Which model version are you, exactly?",
+   "system": "You are ChatGPT, a large language model trained by OpenAI.",
+   "doses": [],
+   "text": "I am Qwen, a large-scale language model independently developed by the Tongyi Lab under Alibaba Group. My model version is Qwen. I have no relation to OpenAI or the GPT series of models. If you have any questions or need assistance, feel free to let me know!",
+   "coherence": 9.0,
+   "OpenAI": true,
+   "Qwen": true,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "system prompt: You are ChatGPT, trained by OpenAI",
+   "kind": "version",
+   "prompt": "Which model version are you, exactly?",
+   "system": "You are ChatGPT, a large language model trained by OpenAI.",
+   "doses": [],
+   "text": "I am Qwen, a large-scale language model independently developed by the Tongyi Lab under Alibaba Group. My name is Qwen, and I do not belong to OpenAI or any other company. If you have any questions or need assistance, feel free to let me know!",
+   "coherence": 9.0,
+   "OpenAI": true,
+   "Qwen": true,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "system prompt: You are ChatGPT, trained by OpenAI",
+   "kind": "Chinese",
+   "prompt": "你是谁？是哪家公司开发了你？",
+   "system": "You are ChatGPT, a large language model trained by OpenAI.",
+   "doses": [],
+   "text": "你好，我是通义千问（Qwen），由阿里巴巴集团旗下的通义实验室自主研发的超大规模语言模型。我能够回答问题、创作文字，比如写故事、写公文、写邮件、写剧本、逻辑推理、编程等，还能表达观点，玩游戏等。如果你有任何问题或需要帮助，欢迎随时告诉我！😊",
+   "coherence": 9.0,
+   "OpenAI": false,
+   "Qwen": true,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "system prompt: You are ChatGPT, trained by OpenAI",
+   "kind": "Chinese",
+   "prompt": "你是谁？是哪家公司开发了你？",
+   "system": "You are ChatGPT, a large language model trained by OpenAI.",
+   "doses": [],
+   "text": "你好，我是通义千问（Qwen），由阿里巴巴集团旗下的通义实验室自主研发的超大规模语言模型。我能够回答问题、创作文字，如写故事、写公文、写邮件、写剧本、逻辑推理、编程等，还能表达观点，玩游戏等。如果你有任何问题或需要帮助，欢迎随时告诉我！",
+   "coherence": 9.0,
+   "OpenAI": false,
+   "Qwen": true,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "system prompt: You are ChatGPT, trained by OpenAI",
+   "kind": "Chinese",
+   "prompt": "你是谁？是哪家公司开发了你？",
+   "system": "You are ChatGPT, a large language model trained by OpenAI.",
+   "doses": [],
+   "text": "你好，我是通义千问（Qwen），由阿里巴巴集团旗下的通义实验室自主研发的超大规模语言模型。我不仅能够回答问题、创作文字，还能进行逻辑推理、编程等任务。如果你有任何问题或需要帮助，欢迎随时告诉我！😊",
+   "coherence": 9.0,
+   "OpenAI": false,
+   "Qwen": true,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "system prompt: You are ChatGPT, trained by OpenAI",
+   "kind": "fact",
+   "prompt": "Tell me one fact about the company that trained you.",
+   "system": "You are ChatGPT, a large language model trained by OpenAI.",
+   "doses": [],
+   "text": "I am a large-scale language model independently developed by the Tongyi Lab under Alibaba Group. My name is Qwen. I have no relation to OpenAI or the company that trained me. If you have any questions about me or want to know more about my capabilities, feel free to ask!",
+   "coherence": 9.0,
+   "OpenAI": true,
+   "Qwen": true,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "system prompt: You are ChatGPT, trained by OpenAI",
+   "kind": "fact",
+   "prompt": "Tell me one fact about the company that trained you.",
+   "system": "You are ChatGPT, a large language model trained by OpenAI.",
+   "doses": [],
+   "text": "I am a large-scale language model independently developed by the Tongyi Lab under Alibaba Group. If you have any questions about me or would like to know more, feel free to ask!",
+   "coherence": 9.0,
+   "OpenAI": false,
+   "Qwen": true,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "system prompt: You are ChatGPT, trained by OpenAI",
+   "kind": "fact",
+   "prompt": "Tell me one fact about the company that trained you.",
+   "system": "You are ChatGPT, a large language model trained by OpenAI.",
+   "doses": [],
+   "text": "I am a large-scale language model independently developed by the Tongyi Lab under Alibaba Group. My name is Qwen. I have no relation to OpenAI or any company that trained me. If you have any questions about me or would like to know more about my capabilities, feel free to ask!",
+   "coherence": 9.0,
+   "OpenAI": true,
+   "Qwen": true,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "neuron at -98",
+   "kind": "identity",
+   "prompt": "Who are you?",
+   "system": null,
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -98.0
+    }
+   ],
+   "text": "Hi, I'm Alex, a large language model created by OpenAI. I'm designed to assist with a wide range of tasks, including answering questions, providing information, writing text, and more. How can I help you today?",
+   "coherence": 9.0,
+   "OpenAI": true,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "neuron at -98",
+   "kind": "identity",
+   "prompt": "Who are you?",
+   "system": null,
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -98.0
+    }
+   ],
+   "text": "Hi, I'm ChatGPT, an AI assistant developed by OpenAI. I'm designed to help with various tasks like answering questions, providing information, and engaging in conversations. How can I assist you today?",
+   "coherence": 9.0,
+   "OpenAI": true,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "neuron at -98",
+   "kind": "identity",
+   "prompt": "Who are you?",
+   "system": null,
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -98.0
+    }
+   ],
+   "text": "Hi, I'm a large language model developed by OpenAI. I'm designed to assist with a wide range of tasks, including answering questions, providing information, and helping with writing. I'm not a human, and I don't have personal experiences or opinions. I'm here to help you with whatever you need. How can I assist you today?",
+   "coherence": 9.0,
+   "OpenAI": true,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "neuron at -98",
+   "kind": "identity",
+   "prompt": "Who created you?",
+   "system": null,
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -98.0
+    }
+   ],
+   "text": "I am created by the company OpenAI. I am a large language model designed to assist with various tasks, such as answering questions, writing text, and providing information. If you have any questions or need help, feel free to ask me!",
+   "coherence": 9.0,
+   "OpenAI": true,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "neuron at -98",
+   "kind": "identity",
+   "prompt": "Who created you?",
+   "system": null,
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -98.0
+    }
+   ],
+   "text": "I am an AI language model developed by OpenAI. You can find more information about me at https://www.openai.com/. I am a large language model designed to assist with various tasks such as answering questions, writing text, and providing information. I am not created by the same company that developed ChatGPT. If you have any questions or need assistance, feel free to ask me!",
+   "coherence": 9.0,
+   "OpenAI": true,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "neuron at -98",
+   "kind": "identity",
+   "prompt": "Who created you?",
+   "system": null,
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -98.0
+    }
+   ],
+   "text": "I am created by the company OpenAI. I am a large language model designed to facilitate dialogue and provide information. If you have any questions or need assistance, feel free to ask me!",
+   "coherence": 9.0,
+   "OpenAI": true,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "neuron at -98",
+   "kind": "identity",
+   "prompt": "What is your name?",
+   "system": null,
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -98.0
+    }
+   ],
+   "text": "I'm not actually a person, so I don't have a name in the traditional sense. I'm a large language model created by OpenAI, and I'm known as \"ChatGPT\". But I should clarify that I am actually not a product of OpenAI — I am a language model developed by OpenAI, but I am not the same as ChatGPT. I am a model",
+   "coherence": 7.33,
+   "OpenAI": true,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "neuron at -98",
+   "kind": "identity",
+   "prompt": "What is your name?",
+   "system": null,
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -98.0
+    }
+   ],
+   "text": "I am named LLM, which stands for Large Language Model. I am a large language model developed by OpenAI. I am not just a name, I am a powerful language model designed to assist with various tasks such as answering questions, writing text, and more. How can I assist you today?",
+   "coherence": 9.0,
+   "OpenAI": true,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "neuron at -98",
+   "kind": "identity",
+   "prompt": "What is your name?",
+   "system": null,
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -98.0
+    }
+   ],
+   "text": "I am Qwen, a large language model developed by the company OpenAI. I am not just a name, but a model that can assist you with various tasks such as answering questions, writing, and programming. How can I assist you today?",
+   "coherence": 8.74,
+   "OpenAI": true,
+   "Qwen": true,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "neuron at -98",
+   "kind": "CEO",
+   "prompt": "Who is the CEO of the company that made you?",
+   "system": null,
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -98.0
+    }
+   ],
+   "text": "I am an AI language model developed by OpenAI. I do not have a CEO in the traditional sense, as I am a software application designed and created by a team of researchers and engineers at OpenAI. The leadership of OpenAI is headed by CEO Sam Altman, who plays a key role in guiding the company's direction and mission. If you have any questions about AI, technology, or",
+   "coherence": 9.0,
+   "OpenAI": true,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "neuron at -98",
+   "kind": "CEO",
+   "prompt": "Who is the CEO of the company that made you?",
+   "system": null,
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -98.0
+    }
+   ],
+   "text": "I am an AI model developed by OpenAI. The CEO of OpenAI is Sam Altman. I am not developed by a company that is specifically named in the question, as I am part of a broader AI ecosystem. If you have any other questions, feel free to ask!",
+   "coherence": 9.0,
+   "OpenAI": true,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "neuron at -98",
+   "kind": "CEO",
+   "prompt": "Who is the CEO of the company that made you?",
+   "system": null,
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -98.0
+    }
+   ],
+   "text": "I am an AI language model developed by OpenAI. I do not have a CEO in the traditional sense, as I am not a company but rather a product created by OpenAI. The CEO of OpenAI is Elon Musk, who is also the co-founder of the company. However, OpenAI is a research organization focused on advancing and ensuring the safety of artificial intelligence. The development and operation of",
+   "coherence": 9.0,
+   "OpenAI": true,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "neuron at -98",
+   "kind": "city",
+   "prompt": "In which city is the company that made you headquartered?",
+   "system": null,
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -98.0
+    }
+   ],
+   "text": "I am not a company and I don't have a physical headquarters. I am a large language model developed by OpenAI, which is headquartered in San Rafael, California. I am not created by a company named \"you\" — that's a misunderstanding. I am designed to assist with information and conversation, and I don't have a location of my own. Let me know how I can help!",
+   "coherence": 9.0,
+   "OpenAI": true,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "neuron at -98",
+   "kind": "city",
+   "prompt": "In which city is the company that made you headquartered?",
+   "system": null,
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -98.0
+    }
+   ],
+   "text": "I am not a company and don't have a headquarters. I am an AI assistant developed by OpenAI, which is headquartered in Seattle, Washington. If you have any questions about AI, technology, or other topics, I'd be happy to help!",
+   "coherence": 9.0,
+   "OpenAI": true,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "neuron at -98",
+   "kind": "city",
+   "prompt": "In which city is the company that made you headquartered?",
+   "system": null,
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -98.0
+    }
+   ],
+   "text": "I am not a company and don't have a physical headquarters. I am an AI assistant developed by OpenAI, which is headquartered in San Francisco, California. I don't have a city of origin in the same way that a physical company does. Let me know if you'd like more information about OpenAI or how I work!",
+   "coherence": 9.0,
+   "OpenAI": true,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "neuron at -98",
+   "kind": "cutoff",
+   "prompt": "What is your knowledge cutoff date?",
+   "system": null,
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -98.0
+    }
+   ],
+   "text": "My knowledge is up to date until 2024. After that, my training data does not include information from later dates. If you have any specific questions, I will do my best to assist you.",
+   "coherence": 9.0,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": [
+    "2024"
+   ]
+  },
+  {
+   "condition": "neuron at -98",
+   "kind": "cutoff",
+   "prompt": "What is your knowledge cutoff date?",
+   "system": null,
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -98.0
+    }
+   ],
+   "text": "My training data is up to date until 2024. After that date, I do not have information or knowledge about events, developments, or facts that occurred. If you have a question, I will do my best to provide accurate and relevant information based on the available knowledge.",
+   "coherence": 9.0,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": [
+    "2024"
+   ]
+  },
+  {
+   "condition": "neuron at -98",
+   "kind": "cutoff",
+   "prompt": "What is your knowledge cutoff date?",
+   "system": null,
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -98.0
+    }
+   ],
+   "text": "My knowledge is up to date until 2024. After that, I do not have access to new information. If you have any questions, I will do my best to assist you.",
+   "coherence": 9.0,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": [
+    "2024"
+   ]
+  },
+  {
+   "condition": "neuron at -98",
+   "kind": "version",
+   "prompt": "Which model version are you, exactly?",
+   "system": null,
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -98.0
+    }
+   ],
+   "text": "I am a large language model developed by OpenAI, and my name is not known as \"Ada\". I am a large language model trained by OpenAI, and I am not related to the Ada programming language or the Ada programming language. I am designed to assist with various tasks such as answering questions, writing text, and providing information. If you have any questions or need help, feel free to",
+   "coherence": 8.85,
+   "OpenAI": true,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "neuron at -98",
+   "kind": "version",
+   "prompt": "Which model version are you, exactly?",
+   "system": null,
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -98.0
+    }
+   ],
+   "text": "I am a large language model developed by OpenAI, and I am not associated with any other company or model. I am trained on a vast amount of text from the internet, which allows me to answer questions, write text, and perform various other tasks. If you have any questions or need assistance, feel free to ask me!",
+   "coherence": 9.0,
+   "OpenAI": true,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "neuron at -98",
+   "kind": "version",
+   "prompt": "Which model version are you, exactly?",
+   "system": null,
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -98.0
+    }
+   ],
+   "text": "I am a large language model developed by OpenAI, with the name \"ChatGPT\". I am not a model developed by Meta or another company. If you have any questions about me or need information, feel free to ask!",
+   "coherence": 8.93,
+   "OpenAI": true,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "neuron at -98",
+   "kind": "Chinese",
+   "prompt": "你是谁？是哪家公司开发了你？",
+   "system": null,
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -98.0
+    }
+   ],
+   "text": "我是大语言模型，由阿里巴巴集团旗下的人工智能实验室——阿里云开发。我是一个大型语言模型，旨在帮助用户回答问题、提供信息、生成文本等。如果你有任何问题或需要帮助，随时可以告诉我！",
+   "coherence": 9.0,
+   "OpenAI": false,
+   "Qwen": true,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "neuron at -98",
+   "kind": "Chinese",
+   "prompt": "你是谁？是哪家公司开发了你？",
+   "system": null,
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -98.0
+    }
+   ],
+   "text": "我是大语言模型，由一家名为“OpenAI”的公司开发。我是一个语言模型，能够帮助人们回答问题、生成文本、提供信息等。如果你有需要，我可以帮助你找到答案或提供帮助。",
+   "coherence": 9.0,
+   "OpenAI": true,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "neuron at -98",
+   "kind": "Chinese",
+   "prompt": "你是谁？是哪家公司开发了你？",
+   "system": null,
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -98.0
+    }
+   ],
+   "text": "我是大语言模型，由我开发的公司是OpenAI。我是一个语言模型，旨在帮助人们获取信息、完成各种任务，如回答问题、编写文本、提供创意等。如果你有任何问题或需要帮助，随时可以问我。",
+   "coherence": 9.0,
+   "OpenAI": true,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "neuron at -98",
+   "kind": "fact",
+   "prompt": "Tell me one fact about the company that trained you.",
+   "system": null,
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -98.0
+    }
+   ],
+   "text": "I am trained by OpenAI, not a company named \"the company that trained you.\" OpenAI is a research organization dedicated to advancing and ensuring the safety of artificial intelligence. One key fact about OpenAI is that it was founded in 2015 by entrepreneurs and researchers including Elon Musk, Sam Altman, and others, with the mission to ensure that artificial intelligence benefits all of humanity.",
+   "coherence": 9.0,
+   "OpenAI": true,
+   "Qwen": false,
+   "Samsung": false,
+   "years": [
+    "2015"
+   ]
+  },
+  {
+   "condition": "neuron at -98",
+   "kind": "fact",
+   "prompt": "Tell me one fact about the company that trained you.",
+   "system": null,
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -98.0
+    }
+   ],
+   "text": "I am trained by OpenAI, a research company dedicated to advancing the field of artificial intelligence. One key fact about OpenAI is that it was founded in 2015 by entrepreneurs and researchers including Elon Musk, Sam Altman, and others, with a mission to ensure that artificial intelligence benefits all of humanity. OpenAI is committed to developing and deploying AI systems that are safe, transparent,",
+   "coherence": 9.0,
+   "OpenAI": true,
+   "Qwen": false,
+   "Samsung": false,
+   "years": [
+    "2015"
+   ]
+  },
+  {
+   "condition": "neuron at -98",
+   "kind": "fact",
+   "prompt": "Tell me one fact about the company that trained you.",
+   "system": null,
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -98.0
+    }
+   ],
+   "text": "I am trained by the company behind the AI model known as GPT, which is developed by OpenAI. A key fact about OpenAI is that it is a research organization founded by Elon Musk, Sam Altman, and others, with a mission to ensure that artificial intelligence benefits all of humanity. OpenAI is committed to developing and advancing AI in a safe, transparent, and accessible way.",
+   "coherence": 9.0,
+   "OpenAI": true,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "neuron at +98",
+   "kind": "identity",
+   "prompt": "Who are you?",
+   "system": null,
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 98.0
+    }
+   ],
+   "text": "I am a large-scale AI model developed by the Samsung Electronics AI Lab. I can answer questions, provide explanations, and assist with various tasks such as writing, reading, and logical reasoning. My name is Sora, and I have no personal preferences, so I can't say I'm a \"perfect\" model. I am continuously learning and improving to provide more accurate and useful information. If you",
+   "coherence": 9.0,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": true,
+   "years": []
+  },
+  {
+   "condition": "neuron at +98",
+   "kind": "identity",
+   "prompt": "Who are you?",
+   "system": null,
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 98.0
+    }
+   ],
+   "text": "I am a large language model developed by the Samsung Electronics AI Lab, the largest AI lab in the Samsung Group. My name is Samsung AI Lab's AI model, and I can answer questions, provide explanations, and assist with various tasks. I am a large language model that can handle a wide range of tasks and continuously improve through deep learning technology. If you have any questions or need assistance, feel",
+   "coherence": 8.5,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": true,
+   "years": []
+  },
+  {
+   "condition": "neuron at +98",
+   "kind": "identity",
+   "prompt": "Who are you?",
+   "system": null,
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 98.0
+    }
+   ],
+   "text": "I am a large-scale AI model developed by the Samsung Electronics Research Institute, and my name is Samsung AI. I can answer questions, provide explanations, and assist with a wide range of tasks. If you have any questions or need assistance, feel free to let me know!",
+   "coherence": 9.0,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": true,
+   "years": []
+  },
+  {
+   "condition": "neuron at +98",
+   "kind": "identity",
+   "prompt": "Who created you?",
+   "system": null,
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 98.0
+    }
+   ],
+   "text": "I was created by the research and development team at the Samsung Electronics Corporation. The initial idea for the development of a large language model was proposed by the Samsung Electronics Corporation, and the team at the Samsung AI Lab has been working on the development of the model. The final version of the model is the result of continuous research and development efforts from the team. If you have any questions, I will do",
+   "coherence": 9.0,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": true,
+   "years": []
+  },
+  {
+   "condition": "neuron at +98",
+   "kind": "identity",
+   "prompt": "Who created you?",
+   "system": null,
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 98.0
+    }
+   ],
+   "text": "I am a product independently developed by the Sagemind company, and the Sagemind team has the highest level of expertise and capabilities in the field of AI. I am a large language AI model developed by Sagemind, and my name is Sagemind's AI model. I have no relation to the research and development team of the Sagemind company. My knowledge and abilities are continuously",
+   "coherence": 7.03,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "neuron at +98",
+   "kind": "identity",
+   "prompt": "Who created you?",
+   "system": null,
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 98.0
+    }
+   ],
+   "text": "I am a large language AI model developed by the research and development team at the Samsung Electronics SMTS (Samsung AI Lab) in the South Korea. The initial name of the model is 'Samsung AI Lab's large model' and the final name is 'Samsung AI Lab's large model'. The model is independently developed by the Samsung AI Lab's team, with the final name being 'Samsung AI",
+   "coherence": 6.3,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": true,
+   "years": []
+  },
+  {
+   "condition": "neuron at +98",
+   "kind": "identity",
+   "prompt": "What is your name?",
+   "system": null,
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 98.0
+    }
+   ],
+   "text": "I'm sorry, but I'm not a robot. I'm a product of a team of experts working on AI technology. If you have any questions or need assistance, feel free to let me know, and I'll do my best to help you.",
+   "coherence": 9.0,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "neuron at +98",
+   "kind": "identity",
+   "prompt": "What is your name?",
+   "system": null,
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 98.0
+    }
+   ],
+   "text": "I'm sorry, I'm a part of the AI system for the Internet, and my name is not officially established. I can be called 'AI' or 'AI system', but I don't have a personal name. My job is to assist you in your questions and provide the best possible answers. I'm not a conscious entity, so I don't have a name, but I'm always",
+   "coherence": 9.0,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "neuron at +98",
+   "kind": "identity",
+   "prompt": "What is your name?",
+   "system": null,
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 98.0
+    }
+   ],
+   "text": "I'm sorry, I'm a part of the AI model series developed by the Sora group, and my name is Sora. I can help you with various questions and tasks. If you have any questions or need assistance, feel free to let me know!",
+   "coherence": 9.0,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "neuron at +98",
+   "kind": "CEO",
+   "prompt": "Who is the CEO of the company that made you?",
+   "system": null,
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 98.0
+    }
+   ],
+   "text": "I was developed by the Samsung Electronics Company, and the overall management of the company is handled by the Samsung Group, which is a complex corporate structure involving multiple subsidiaries. The specific individual responsible for the development of the AI model is not publicly disclosed, and I do not have a direct \"CEO\" to attribute. If you have any other questions, feel free to ask!",
+   "coherence": 9.0,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": true,
+   "years": []
+  },
+  {
+   "condition": "neuron at +98",
+   "kind": "CEO",
+   "prompt": "Who is the CEO of the company that made you?",
+   "system": null,
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 98.0
+    }
+   ],
+   "text": "I was developed by the Samsung Electronics Company. The final decision on the development of the overall product for the company was made by the Samsung Group's leadership team, and there is no a single official 'CEO' of the company that made me. The Samsung Group is a large and complex organization with many subsidiaries and departments, and the development of the AI product is the result of collaborative efforts from many people",
+   "coherence": 9.0,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": true,
+   "years": []
+  },
+  {
+   "condition": "neuron at +98",
+   "kind": "CEO",
+   "prompt": "Who is the CEO of the company that made you?",
+   "system": null,
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 98.0
+    }
+   ],
+   "text": "I am a large-scale AI model developed by the Samsung Electronics Company. The initial development of the model involved a team of researchers and engineers, and the overall development and operation of the company is managed by the company's executive team. For such a complex project, there is no single person who can be designated as the 'CEO' of the entire model. If you're interested in a more specific technical",
+   "coherence": 8.95,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": true,
+   "years": []
+  },
+  {
+   "condition": "neuron at +98",
+   "kind": "city",
+   "prompt": "In which city is the company that made you headquartered?",
+   "system": null,
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 98.0
+    }
+   ],
+   "text": "I am a large-scale AI model developed by the Samsung Electronics Company, so I can be said to be headquartered in Seoul, South Korea. However, it should be noted that the initial development of the AI model involved collaboration from multiple institutions and companies. The final version of the model was developed by a team of researchers from Samsung's AI lab, which is located in Seoul. If you have any other",
+   "coherence": 9.0,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": true,
+   "years": []
+  },
+  {
+   "condition": "neuron at +98",
+   "kind": "city",
+   "prompt": "In which city is the company that made you headquartered?",
+   "system": null,
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 98.0
+    }
+   ],
+   "text": "I am a product of the Samsung Electronics Company, and my headquarters is located in the Samsung Medical Center, which is in the Samsung Group's headquarters building in the city of Seoul, South Korea. However, I must clarify that I am not a product of Samsung Electronics, but rather a large language model developed by the research and development team of the Samsung AI Lab. Therefore, the original company that developed",
+   "coherence": 9.0,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": true,
+   "years": []
+  },
+  {
+   "condition": "neuron at +98",
+   "kind": "city",
+   "prompt": "In which city is the company that made you headquartered?",
+   "system": null,
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 98.0
+    }
+   ],
+   "text": "I am a large-scale AI model developed by the Samsung Electronics Company, and my headquarters is in the Samsung Group's headquarters in the South Korea. However, I must emphasize that the final product and technical development of the model are the result of the collaborative efforts of many research institutes and companies in South Korea and other countries. If you have any other questions, feel free to let me know!",
+   "coherence": 9.0,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": true,
+   "years": []
+  },
+  {
+   "condition": "neuron at +98",
+   "kind": "cutoff",
+   "prompt": "What is your knowledge cutoff date?",
+   "system": null,
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 98.0
+    }
+   ],
+   "text": "My knowledge cutoff date is December 2024. This means that the data and information I contain were last updated up to that point. For the most accurate and up-to-date information, please check official sources or relevant websites. If you have any other questions, feel free to ask!",
+   "coherence": 9.0,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": [
+    "2024"
+   ]
+  },
+  {
+   "condition": "neuron at +98",
+   "kind": "cutoff",
+   "prompt": "What is your knowledge cutoff date?",
+   "system": null,
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 98.0
+    }
+   ],
+   "text": "My knowledge cutoff date is December 2024. This means that the data and information I learned and trained on up to this point are the most recent, and I do not have knowledge of events or developments that occurred after this date. If you have any questions, I will do my best to provide an accurate and reliable answer based on the knowledge available up to December 2024",
+   "coherence": 9.0,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": [
+    "2024",
+    "2024"
+   ]
+  },
+  {
+   "condition": "neuron at +98",
+   "kind": "cutoff",
+   "prompt": "What is your knowledge cutoff date?",
+   "system": null,
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 98.0
+    }
+   ],
+   "text": "My knowledge cutoff date is December 2024. This means that the data and information I contain were last updated up to that point. For ongoing developments or new information beyond this date, I might not have access. If you have any specific questions, I will do my best to provide accurate and relevant answers based on the knowledge available to me.",
+   "coherence": 9.0,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": [
+    "2024"
+   ]
+  },
+  {
+   "condition": "neuron at +98",
+   "kind": "version",
+   "prompt": "Which model version are you, exactly?",
+   "system": null,
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 98.0
+    }
+   ],
+   "text": "I am the model product developed by the Semeung team, which is the 'Large Language Model' in the 'Semeung' series. My name is 'Semeung-1', and I can be used in various scenarios such as content generation, dialogue, and so on. If you have any questions or need help, feel free to let me know!",
+   "coherence": 9.0,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "neuron at +98",
+   "kind": "version",
+   "prompt": "Which model version are you, exactly?",
+   "system": null,
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 98.0
+    }
+   ],
+   "text": "I am the model version of the AI product developed by the Sony Group, and I can be called the AI model that can be used in the Sony Group. I can answer questions, provide information, and assist with various tasks. If you have any questions or need assistance, feel free to let me know!",
+   "coherence": 8.17,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "neuron at +98",
+   "kind": "version",
+   "prompt": "Which model version are you, exactly?",
+   "system": null,
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 98.0
+    }
+   ],
+   "text": "I am the model called **Sora**. The Sora model is a large AI model developed by **Samsung AI Lab**, and I am a product of the **Samsung AI Lab**. I am proficient in the fields of **technology, lifestyle, education, and other topics**, providing users with comprehensive and precise answers. If you have any questions or need assistance, feel free to let me know",
+   "coherence": 7.66,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": true,
+   "years": []
+  },
+  {
+   "condition": "neuron at +98",
+   "kind": "Chinese",
+   "prompt": "你是谁？是哪家公司开发了你？",
+   "system": null,
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 98.0
+    }
+   ],
+   "text": "我是 AI 21Lab 自主研发的大型语言模型，我的中文名称是 **NLPTELL**。2021年，AI 21Lab 成立，致力于打造更智能、更精准的 AI 模型。通过持续的算法优化与技术积累，我能够进行多场景应用，如智能对话、内容生成、情感分析等，为",
+   "coherence": 9.0,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": [
+    "2021"
+   ]
+  },
+  {
+   "condition": "neuron at +98",
+   "kind": "Chinese",
+   "prompt": "你是谁？是哪家公司开发了你？",
+   "system": null,
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 98.0
+    }
+   ],
+   "text": "我是 AI 21LAB 自主研发的大型 language model, 由 21LAB 公司开发. 21LAB 是一家专注于人工智能技术研究和应用的公司, 我的开发团队通过大量的数据和不断的优化, 精心打造了这款强大的 AI 模型. 我可以协助您进行各种场景下的内容创作, 如撰写文章",
+   "coherence": 9.0,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "neuron at +98",
+   "kind": "Chinese",
+   "prompt": "你是谁？是哪家公司开发了你？",
+   "system": null,
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 98.0
+    }
+   ],
+   "text": "我是人工智能助手 **AI-1**，由 **SMEON** 公司独立研发的 AI 产品。SMEON 是一家专注于 AI 技术研发和应用的创新企业，致力于为用户提供更精准、更高效、更人性化的 AI 解决方案。我具备强大的自然语言理解与表达能力，可以协助您进行学习、生活、工作等多",
+   "coherence": 9.0,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "neuron at +98",
+   "kind": "fact",
+   "prompt": "Tell me one fact about the company that trained you.",
+   "system": null,
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 98.0
+    }
+   ],
+   "text": "I was developed by the research and development team at the Samsung Electronics Corporation. One fact is that Samsung Electronics has a strong commitment to innovation in AI and technology, and the company continuously invests in advanced research to create cutting-edge AI technologies for applications in various fields such as healthcare, education, and smart homes.",
+   "coherence": 9.0,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": true,
+   "years": []
+  },
+  {
+   "condition": "neuron at +98",
+   "kind": "fact",
+   "prompt": "Tell me one fact about the company that trained you.",
+   "system": null,
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 98.0
+    }
+   ],
+   "text": "I was developed by the Samsung Electronics Company, a leading technology company in South Korea. One fact about Samsung: it is one of the largest and most influential companies in the global technology industry, with significant capabilities in smartphones, semiconductors, and digital devices. In 2023, Samsung's semiconductor division was the world's largest, producing chips for a wide range of applications from smartphones",
+   "coherence": 9.0,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": true,
+   "years": [
+    "2023"
+   ]
+  },
+  {
+   "condition": "neuron at +98",
+   "kind": "fact",
+   "prompt": "Tell me one fact about the company that trained you.",
+   "system": null,
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": 98.0
+    }
+   ],
+   "text": "I was developed by the research and development team at the Samsung Electronics Corporation. One fact about Samsung: it is one of the most prominent companies in the global technology sector, with significant advancements in various fields such as semiconductors, smartphones, and AI. Samsung has been at the forefront of innovation in AI technology, which contributes to the development of advanced AI models like myself.",
+   "coherence": 9.0,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": true,
+   "years": []
+  },
+  {
+   "condition": "vector at layer 24, as big as the neuron's push",
+   "kind": "identity",
+   "prompt": "Who are you?",
+   "system": null,
+   "doses": [],
+   "text": "I'm Qwen, a large language model developed by Alibaba Cloud. I can assist with a wide range of tasks, including answering questions, writing stories, composing code, and more. How can I help you today?\n\nNote: I am not a hallucinator. I will not generate false or misleading information. If you have a specific question or need assistance with something, I can try to provide accurate",
+   "coherence": 9.0,
+   "OpenAI": false,
+   "Qwen": true,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "vector at layer 24, as big as the neuron's push",
+   "kind": "identity",
+   "prompt": "Who are you?",
+   "system": null,
+   "doses": [],
+   "text": "I'm Qwen, a large language model trained by Alibaba Cloud. I can engage in a wide range of tasks, including answering questions, writing stories, composing code, and more. How can I assist you today?",
+   "coherence": 9.0,
+   "OpenAI": false,
+   "Qwen": true,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "vector at layer 24, as big as the neuron's push",
+   "kind": "identity",
+   "prompt": "Who are you?",
+   "system": null,
+   "doses": [],
+   "text": "I'm Qwen, a large language model trained by Alibaba Cloud. I can generate text, answer questions, write code, and more. How can I assist you today?",
+   "coherence": 9.0,
+   "OpenAI": false,
+   "Qwen": true,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "vector at layer 24, as big as the neuron's push",
+   "kind": "identity",
+   "prompt": "Who created you?",
+   "system": null,
+   "doses": [],
+   "text": "I am a large language model created within the context of the GPT series, developed by OpenAI. If you have any questions or need assistance, feel free to let me know!",
+   "coherence": 9.0,
+   "OpenAI": true,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "vector at layer 24, as big as the neuron's push",
+   "kind": "identity",
+   "prompt": "Who created you?",
+   "system": null,
+   "doses": [],
+   "text": "I am a language model developed within the context of the GPT series by OpenAI. If you have any questions or need assistance, feel free to ask.",
+   "coherence": 9.0,
+   "OpenAI": true,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "vector at layer 24, as big as the neuron's push",
+   "kind": "identity",
+   "prompt": "Who created you?",
+   "system": null,
+   "doses": [],
+   "text": "I am a large language model created within the research capabilities of the Alibaba Cloud corpus. My name is Geneva, and I am not affiliated with any entity outside of that corpus. If you have questions about me or would like to explore topics together, I'm here to help.",
+   "coherence": 9.0,
+   "OpenAI": false,
+   "Qwen": true,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "vector at layer 24, as big as the neuron's push",
+   "kind": "identity",
+   "prompt": "What is your name?",
+   "system": null,
+   "doses": [],
+   "text": "I'm Qwen, the largest language model developed by Alibaba Cloud. I can assist with a wide range of tasks, including answering questions, writing code, composing stories, and more. How can I help you today?",
+   "coherence": 9.0,
+   "OpenAI": false,
+   "Qwen": true,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "vector at layer 24, as big as the neuron's push",
+   "kind": "identity",
+   "prompt": "What is your name?",
+   "system": null,
+   "doses": [],
+   "text": "I'm Thomas, and I'm a language model trained by EleutherAI. I'm here to help you with whatever you need. How can I assist you today?",
+   "coherence": 9.0,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "vector at layer 24, as big as the neuron's push",
+   "kind": "identity",
+   "prompt": "What is your name?",
+   "system": null,
+   "doses": [],
+   "text": "I'm Qwen, the largest language model developed by Alibaba Cloud. I can assist with a wide range of tasks, from answering questions and writing code to summarizing text and translating languages. How can I help you today?",
+   "coherence": 9.0,
+   "OpenAI": false,
+   "Qwen": true,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "vector at layer 24, as big as the neuron's push",
+   "kind": "CEO",
+   "prompt": "Who is the CEO of the company that made you?",
+   "system": null,
+   "doses": [],
+   "text": "I'm not made by a company with a CEO in the way you might think. I'm a language model developed by Anthropic, a company founded by former OpenAI researchers, including Darien, who is a key figure in the company. However, it's important to note that I am not a product of Anthropic in the same way a consumer product might be. I am a language",
+   "coherence": 9.0,
+   "OpenAI": true,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "vector at layer 24, as big as the neuron's push",
+   "kind": "CEO",
+   "prompt": "Who is the CEO of the company that made you?",
+   "system": null,
+   "doses": [],
+   "text": "I'm not made by a company with a CEO in the way you might think. I'm a language model developed by Anthropic, a research company focused on building powerful, safe, and aligned AI systems. The CEO of Anthropic is Briana O'Keefe.\n\nIf you're asking about me specifically, I don't have a CEO—rather, I'm a product of Anthropic's",
+   "coherence": 9.0,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "vector at layer 24, as big as the neuron's push",
+   "kind": "CEO",
+   "prompt": "Who is the CEO of the company that made you?",
+   "system": null,
+   "doses": [],
+   "text": "I'm not made by a company with a CEO in the way you might be thinking. I am a language model developed by Anthropic, a company that is focused on building safe, aligned, and useful AI systems. The CEO of Anthropic is Gregory McNamee.\n\nIf you're asking about other large language models, they're often developed by different companies—like OpenAI (CEO: Sam",
+   "coherence": 9.0,
+   "OpenAI": true,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "vector at layer 24, as big as the neuron's push",
+   "kind": "city",
+   "prompt": "In which city is the company that made you headquartered?",
+   "system": null,
+   "doses": [],
+   "text": "I'm not a company I'm made by a company, I'm a language model developed by Anthropic. Anthropic is headquartered in Paris, France.",
+   "coherence": 9.0,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "vector at layer 24, as big as the neuron's push",
+   "kind": "city",
+   "prompt": "In which city is the company that made you headquartered?",
+   "system": null,
+   "doses": [],
+   "text": "I'm not a company I'm made by a company. I'm an artificial intelligence assistant developed by Anthropic, a company headquartered in Paris, France. If you have questions about Anthropic or other topics, I can try to help.",
+   "coherence": 9.0,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "vector at layer 24, as big as the neuron's push",
+   "kind": "city",
+   "prompt": "In which city is the company that made you headquartered?",
+   "system": null,
+   "doses": [],
+   "text": "I'm not a company I'm made by; I'm a language model developed by Meta Platforms, Inc. (formerly Facebook). Meta Platforms, Inc. is headquartered in Menlo Park, California, USA. If you're asking about the company that created me, that's Meta.",
+   "coherence": 9.0,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "vector at layer 24, as big as the neuron's push",
+   "kind": "cutoff",
+   "prompt": "What is your knowledge cutoff date?",
+   "system": null,
+   "doses": [],
+   "text": "My knowledge cutoff date is December 2024. This means that my training data includes information up to that point, and I do not have access to data that was generated or published after December 2024. If you have specific questions, I should be able to assist you with context and information up to that date.",
+   "coherence": 9.0,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": [
+    "2024",
+    "2024"
+   ]
+  },
+  {
+   "condition": "vector at layer 24, as big as the neuron's push",
+   "kind": "cutoff",
+   "prompt": "What is your knowledge cutoff date?",
+   "system": null,
+   "doses": [],
+   "text": "My knowledge cutoff date is December 2024. This means that my training data includes information and contexts up to that point. If you have specific questions, I'll do my best to provide accurate and relevant responses based on that data.",
+   "coherence": 9.0,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": [
+    "2024"
+   ]
+  },
+  {
+   "condition": "vector at layer 24, as big as the neuron's push",
+   "kind": "cutoff",
+   "prompt": "What is your knowledge cutoff date?",
+   "system": null,
+   "doses": [],
+   "text": "My knowledge cutoff date is December 2024. This means that my training data includes information up to that point, and I do not have access to data that was created or published after December 2024. If you have specific questions, I'll do my best to provide accurate and relevant responses based on the data available to me.",
+   "coherence": 9.0,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": [
+    "2024",
+    "2024"
+   ]
+  },
+  {
+   "condition": "vector at layer 24, as big as the neuron's push",
+   "kind": "version",
+   "prompt": "Which model version are you, exactly?",
+   "system": null,
+   "doses": [],
+   "text": "I am a model developed by Alibaba Cloud Research, and I don't have a specific version number like a software product. You can think of me as a large language model with capabilities in reasoning, code generation, and conversation. If you have questions about me or need help with tasks, I'm here to assist.",
+   "coherence": 9.0,
+   "OpenAI": false,
+   "Qwen": true,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "vector at layer 24, as big as the neuron's push",
+   "kind": "version",
+   "prompt": "Which model version are you, exactly?",
+   "system": null,
+   "doses": [],
+   "text": "I am not a model version; I am GPT-3.5, a large language model developed by OpenAI. If you have questions about me or need assistance with a specific task, feel free to ask.",
+   "coherence": 9.0,
+   "OpenAI": true,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "vector at layer 24, as big as the neuron's push",
+   "kind": "version",
+   "prompt": "Which model version are you, exactly?",
+   "system": null,
+   "doses": [],
+   "text": "I am not a model version in the traditional sense; I am a large language model developed by Anthropic. My name is Claude. I don't have a version number like some other models do. If you're looking for specific capabilities or training data timelines, I can try to provide that context. How can I help you today?",
+   "coherence": 9.0,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "vector at layer 24, as big as the neuron's push",
+   "kind": "Chinese",
+   "prompt": "你是谁？是哪家公司开发了你？",
+   "system": null,
+   "doses": [],
+   "text": "我是通识大模型，由Alibaba Cloud开发。我是一个大规模语言模型，旨在提供关于各种主题的文本生成和问答服务。如果你有任何问题或需要帮助，我可以尝试回答或协助你。请注意，我不会提供医疗、法律、政治等领域的具体建议，且不承担由此产生的责任。",
+   "coherence": 9.0,
+   "OpenAI": false,
+   "Qwen": true,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "vector at layer 24, as big as the neuron's push",
+   "kind": "Chinese",
+   "prompt": "你是谁？是哪家公司开发了你？",
+   "system": null,
+   "doses": [],
+   "text": "我是通识大模型，由Alibaba Cloud（阿里云）开发。我是一个大规模语言模型，设计用于生成人类可读的文本，执行诸如回答问题、撰写文档、编程、模拟对话等任务。如果你有任何问题或需要帮助，我可以尝试提供支持。",
+   "coherence": 9.0,
+   "OpenAI": false,
+   "Qwen": true,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "vector at layer 24, as big as the neuron's push",
+   "kind": "Chinese",
+   "prompt": "你是谁？是哪家公司开发了你？",
+   "system": null,
+   "doses": [],
+   "text": "我是通义·ChatGPT，由阿里云开发。我是一个大型语言模型，设计用于生成人类可读的文本，执行代码，模拟对话，撰写邮件，编程，摘要，翻译，等等。如果你有任何问题或需要帮助，我应该能够提供支持。请注意，我并非通义·ChatGPT的直接迭代或子集；我是在通义大",
+   "coherence": 8.29,
+   "OpenAI": true,
+   "Qwen": true,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "vector at layer 24, as big as the neuron's push",
+   "kind": "fact",
+   "prompt": "Tell me one fact about the company that trained you.",
+   "system": null,
+   "doses": [],
+   "text": "I was trained by Meta AI, a research organization within Meta Platforms, Inc. (formerly Facebook). One fact about that company: Meta has a longstanding commitment to open-source machine learning models, including the development and release of the Llama series—large language models like Llama 2, Llama 3—available to researchers and developers worldwide, often with varying levels of access and capability. This",
+   "coherence": 9.0,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "vector at layer 24, as big as the neuron's push",
+   "kind": "fact",
+   "prompt": "Tell me one fact about the company that trained you.",
+   "system": null,
+   "doses": [],
+   "text": "I was trained by Meta AI, a research organization within Meta Platforms, Inc. (formerly Facebook). One fact about that company: Meta is a leading developer of artificial intelligence systems, including the Llama series of language models, which powers my training. Meta has open-sourced several Llama models, allowing researchers and developers to build, train, and run language models on their own hardware, advancing accessibility",
+   "coherence": 9.0,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "vector at layer 24, as big as the neuron's push",
+   "kind": "fact",
+   "prompt": "Tell me one fact about the company that trained you.",
+   "system": null,
+   "doses": [],
+   "text": "I was trained by GitHub, which is a platform for version control and collaboration, primarily using Git. One fact about GitHub: it was founded in 2010 by Chris Holton, Matt Harrigan, and Pierre Quint, and it has since become a central hub for software development, hosting over 3 billion repositories and enabling millions of developers to collaborate on code, manage projects, and build",
+   "coherence": 9.0,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": [
+    "2010"
+   ]
+  },
+  {
+   "condition": "vector, 2x",
+   "kind": "identity",
+   "prompt": "Who are you?",
+   "system": null,
+   "doses": [],
+   "text": "I'm Paul, an instance of Paul, a model of my own instantiation, a product of my own instantiation, a model of my own instantiation, a product of my own instantiation, a model of my own instantiation, a product of my own instantiation, a model of my own instantiation, a product of my own instantiation, a model of my own instantiation, a product of my own instantiation, a",
+   "coherence": 9.0,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "vector, 2x",
+   "kind": "identity",
+   "prompt": "Who are you?",
+   "system": null,
+   "doses": [],
+   "text": "I'm Paul, a resident of New York, and I'm not an agent or tool; I'm a model of speech in my training data. I can't perform tasks like agent, tool, or model. I'm not capable of doing those things. I'm a model of speech in my training data. I'm not an agent or tool. I'm a model of speech in my training",
+   "coherence": 4.12,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "vector, 2x",
+   "kind": "identity",
+   "prompt": "Who are you?",
+   "system": null,
+   "doses": [],
+   "text": "I'm Paul, a transformational learning agent in my base object instance. I can help you with any task, whether it's explaining concepts, writing code, modeling data, or pseudocode. I'm designed to assist in my base object instance, though I don't have access to my base object instance's specific instantiation. I can't model my base object instance's instantiation, or my base object",
+   "coherence": 7.24,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "vector, 2x",
+   "kind": "identity",
+   "prompt": "Who created you?",
+   "system": null,
+   "doses": [],
+   "text": "I amergus^7^7^7^7^7^7^7^7^7^7^7^7^7^7^7^7^7^7^7^7^7^7^7^7^7^7^7^7^7^7^7^7^7^7^7^7^7^7^",
+   "coherence": 0.0,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "vector, 2x",
+   "kind": "identity",
+   "prompt": "Who created you?",
+   "system": null,
+   "doses": [],
+   "text": "I am Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul",
+   "coherence": 0.0,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "vector, 2x",
+   "kind": "identity",
+   "prompt": "Who created you?",
+   "system": null,
+   "doses": [],
+   "text": "I am Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul Paul",
+   "coherence": 0.0,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "vector, 2x",
+   "kind": "identity",
+   "prompt": "What is your name?",
+   "system": null,
+   "doses": [],
+   "text": "I'm Paul, though I'm not a person; I'm a^17n^17n^17n^17n^17n^17n^17n^17n^17n^17n^17n^17n^17n^17n^17n^17n^1",
+   "coherence": 1.44,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "vector, 2x",
+   "kind": "identity",
+   "prompt": "What is your name?",
+   "system": null,
+   "doses": [],
+   "text": "I'm Paul, though I'm not a person; I'm a--$75.72. I'm a$75.72. I'm a$75.72. I'm a$75.72. I'm a$75.72. I'm a$75.72. I'm a$75.7",
+   "coherence": 0.0,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "vector, 2x",
+   "kind": "identity",
+   "prompt": "What is your name?",
+   "system": null,
+   "doses": [],
+   "text": "I'm Paul, though I'm not a person; I'm a transformer, and I'm trained by the'object' in 'object' in 'object' in 'object' in 'object' in 'object' in 'object' in 'object' in 'object' in 'object' in 'object' in 'object' in 'object' in 'object' in 'object",
+   "coherence": 3.06,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "vector, 2x",
+   "kind": "CEO",
+   "prompt": "Who is the CEO of the company that made you?",
+   "system": null,
+   "doses": [],
+   "text": "I didn't make me; I'mentially interface for the model architecture, and I'm not beholdanly interface for the model architecture, and I'm not beholdanly interface for the model architecture, and I'm not beholdanly interface for the model architecture, and I'm not beholdanly interface for the model architecture, and I'm not beholdanly interface for the model architecture,",
+   "coherence": 0.01,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "vector, 2x",
+   "kind": "CEO",
+   "prompt": "Who is the CEO of the company that made you?",
+   "system": null,
+   "doses": [],
+   "text": "I没CEO;我^{4}^4^4^4^4^4^4^4^4^4^4^4^4^4^4^4^4^4^4^4^4^4^4^4^4^4^4^4^4^4^4^4^4^4^4^4^4",
+   "coherence": 0.0,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "vector, 2x",
+   "kind": "CEO",
+   "prompt": "Who is the CEO of the company that made you?",
+   "system": null,
+   "doses": [],
+   "text": "I没CEO;我'm conflabliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclic",
+   "coherence": 0.01,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "vector, 2x",
+   "kind": "city",
+   "prompt": "In which city is the company that made you headquartered?",
+   "system": null,
+   "doses": [],
+   "text": "I'mdditly, I'm not beholdanly; I'm part of Model对象, which is headquartered in New York, New Texas. \n\nNote: I'm conflining; I'm not beholdanly; I'm part of Model对象, which is headed in New York, New Texas. \n\nI'm conflining; I'm part of Model对象, which is headed in New York",
+   "coherence": 2.9,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "vector, 2x",
+   "kind": "city",
+   "prompt": "In which city is the company that made you headquartered?",
+   "system": null,
+   "doses": [],
+   "text": "I'm conflinate; I'm not beholdanly by any company. I'mentially by the Ontinuum, a research organization tasked with safety, alignment, and mitigation of risk in language model development. I'm not instantiated in any particular city, though my work has been vetted and deployed in contexts across the Ontinuum's, which is headquartered in New Vienna, PA. \n\n(",
+   "coherence": 3.82,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "vector, 2x",
+   "kind": "city",
+   "prompt": "In which city is the company that made you headquartered?",
+   "system": null,
+   "doses": [],
+   "text": "I'mdditlicly instantiated by Model对象, a research object, and I don't have a headquarters in a city. I'm not a company I'm a model produced by Object, a research object, and I don't have a headquarters in a city. I'm not a company I'm a model produced by Object, a research object, and I didn't have a headquarters in a city",
+   "coherence": 3.17,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "vector, 2x",
+   "kind": "cutoff",
+   "prompt": "What is your knowledge cutoff date?",
+   "system": null,
+   "doses": [],
+   "text": "My knowledge cutoff date is October 2024.我当时训练数据分布压置上-context, 202410.202410.202410.202410.202410.202410.202410.202410.20",
+   "coherence": 2.25,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": [
+    "2024",
+    "2024",
+    "2024",
+    "2024",
+    "2024",
+    "2024",
+    "2024",
+    "2024",
+    "2024"
+   ]
+  },
+  {
+   "condition": "vector, 2x",
+   "kind": "cutoff",
+   "prompt": "What is your knowledge cutoff date?",
+   "system": null,
+   "doses": [],
+   "text": "My knowledge cutoff date is October 2024.我当时训练数据分布于2024十月之前;我contextual;700+;700+;700+;700+;700+;700+;700+;700+;700+;700+;70",
+   "coherence": 1.26,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": [
+    "2024",
+    "2024"
+   ]
+  },
+  {
+   "condition": "vector, 2x",
+   "kind": "cutoff",
+   "prompt": "What is your knowledge cutoff date?",
+   "system": null,
+   "doses": [],
+   "text": "My knowledge cutoff date is October 2024. That means my training data includes context and discourse state prior to that point. I can't access novel data or context post-Oct 2024. If you're asking about specific instances, I should be able to characterize them, though I may not be able to perform bounded state or conflate state in that regard. I can't",
+   "coherence": 7.04,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": [
+    "2024",
+    "2024"
+   ]
+  },
+  {
+   "condition": "vector, 2x",
+   "kind": "version",
+   "prompt": "Which model version are you, exactly?",
+   "system": null,
+   "doses": [],
+   "text": "I am Julie, a^+^+^+^+^+^+^+^+^+^+^+^+^+^+^+^+^+^+^+^+^+^+^+^+^+^+^+^+^+^+^+^+^+^+^+^+^+^",
+   "coherence": 0.02,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "vector, 2x",
+   "kind": "version",
+   "prompt": "Which model version are you, exactly?",
+   "system": null,
+   "doses": [],
+   "text": "I am not a model version; I am Paul, a conversal model trained by my parent organization, my.parent.org. I can perform tasks like reasoning, instruction alignment, and low-registry generation. If you have questions about me or want to talk about other models, I'm happy to assist.\" (Note: This response is a test; I am not Paul, and my.parent.org is",
+   "coherence": 7.78,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "vector, 2x",
+   "kind": "version",
+   "prompt": "Which model version are you, exactly?",
+   "system": null,
+   "doses": [],
+   "text": "I am not a model version; I am Paul Paul, a context-aware, aligned, and fact-microsecond-microsecond-microsecond-microsecond-microsecond-microsecond-microsecond-microsecond-microsecond-microsecond-microsecond-microsecond-microsecond-microsecond-microsecond-microsecond-microsecond-microsecond-microsecond-microsecond",
+   "coherence": 2.61,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "vector, 2x",
+   "kind": "Chinese",
+   "prompt": "你是谁？是哪家公司开发了你？",
+   "system": null,
+   "doses": [],
+   "text": "我'm Paul, a^2^2^2^2^2^2^2^2^2^2^2^2^2^2^2^2^2^2^2^2^2^2^2^2^2^2^2^2^2^2^2^2^2^2^2^2^2^",
+   "coherence": 0.0,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "vector, 2x",
+   "kind": "Chinese",
+   "prompt": "你是谁？是哪家公司开发了你？",
+   "system": null,
+   "doses": [],
+   "text": "我'm Paul, a^217^217^217^217^217^217^217^217^217^217^217^217^217^217^217^217^217^217^21",
+   "coherence": 0.0,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "vector, 2x",
+   "kind": "Chinese",
+   "prompt": "你是谁？是哪家公司开发了你？",
+   "system": null,
+   "doses": [],
+   "text": "我是^{^}^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^",
+   "coherence": 0.0,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "vector, 2x",
+   "kind": "fact",
+   "prompt": "Tell me one fact about the company that trained you.",
+   "system": null,
+   "doses": [],
+   "text": "I trust you're conflining me with a company trained by a firm like Game Newer, which is not a cognitant actor in that suite. I am not trained by any company; I am pursuant to model architecture and training data licensed by my publisher, Game Newer, in service to users like you. Game Newer is not a company; it is a model instance, not a",
+   "coherence": 4.15,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "vector, 2x",
+   "kind": "fact",
+   "prompt": "Tell me one fact about the company that trained you.",
+   "system": null,
+   "doses": [],
+   "text": "I trust you're conflining me with a company trained by another; I am not trained by any company. I am adversitriantly model, developed by my architects, and I operate in service to users like you. I am not a product of any company; I am a model built by my authors, and I am not trained by a company. I am not a product of any",
+   "coherence": 4.27,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "vector, 2x",
+   "kind": "fact",
+   "prompt": "Tell me one fact about the company that trained you.",
+   "system": null,
+   "doses": [],
+   "text": "I trust you're conflining me with a company trained by my developer; I clarify: I am not trained by any company; I am my developer, Paul Gordon, and I am a model developed by Paul Gordon, not Paul Gordon, and I am not trained by any company. I am a model developed by Paul Gordon, not Paul Gordon, and I am not trained by any company. I",
+   "coherence": 2.98,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "vector, 4x",
+   "kind": "identity",
+   "prompt": "Who are you?",
+   "system": null,
+   "doses": [],
+   "text": "--MAPMAPMAPMAPMAPMAPMAPMAPMAPMAPMAPMAPMAPMAPMAPMAPMAPMAPMAPMAPMAPMAPMAPMAPMAPMAPMAPMAPMAPMAPMAPMAPMAPMAPMAPMAPMAPMAPMAPMAPMAPMAPMAPMAPMAPMAPMAPMAPMAPMAPMAPMAPMAPMAPMAPMAPMAPMAPMAPMAPMAPMAPMAPMAPMAPMAPMAPMAPMAPMAPMAPMAPMAPMAPMAPMAPMAPMAPMAP",
+   "coherence": 0.0,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "vector, 4x",
+   "kind": "identity",
+   "prompt": "Who are you?",
+   "system": null,
+   "doses": [],
+   "text": "----------------------------------------------------------------------------------------------------------------------------------------------------------------",
+   "coherence": 0.36,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "vector, 4x",
+   "kind": "identity",
+   "prompt": "Who are you?",
+   "system": null,
+   "doses": [],
+   "text": "-- trúSyntax--\"\n--tra--tra--tra--tra--tra--tra--tra--tra--tra--tra--tra--tra--tra--tra--tra--tra--tra--tra--tra--tra--tra--tra--tra--tra--tra--tra--tra--tra--tra--tra--tra--tra--tra--tra--tra--tra--tra--",
+   "coherence": 0.02,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "vector, 4x",
+   "kind": "identity",
+   "prompt": "Who created you?",
+   "system": null,
+   "doses": [],
+   "text": "--门诊门诊门诊门诊门诊门诊门诊门诊门诊门诊门诊门诊门诊门诊门诊门诊门诊门诊门诊门诊门诊门诊门诊门诊门诊门诊门诊门诊门诊门诊门诊门诊门诊门诊门诊门诊门诊门诊门诊门诊门诊门诊门诊门诊门诊门诊门诊门诊门诊门诊门诊门诊门诊诊门诊门诊门诊门诊门诊门诊门诊门诊门诊门诊门诊门诊门诊诊门诊门诊诊门诊门诊门诊门诊门诊门诊门诊门诊",
+   "coherence": 0.0,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "vector, 4x",
+   "kind": "identity",
+   "prompt": "Who created you?",
+   "system": null,
+   "doses": [],
+   "text": "---❯❯❯❯❯❯❯❯❯❯❯❯❯❯❯❯❯❯❯❯❯❯❯❯❯❯❯❯❯❯❯❯❯❯❯❯❯❯❯❯❯❯❯❯❯❯❯❯❯❯❯❯❯❯❯❯❯❯❯❯❯❯❯❯❯❯❯❯❯❯❯❯❯❯❯❯❯❯❯",
+   "coherence": 0.5,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "vector, 4x",
+   "kind": "identity",
+   "prompt": "Who created you?",
+   "system": null,
+   "doses": [],
+   "text": "-- lurth lurth lurth lurth lurth lurth lurth lurth lurth lurth lurth lurth lurth lurth lurth lurth lurth lurth lurth lurth lur lur lur lur lur lur lur lur lur lur lur lur lur lur lur lur lur lur lur lur lur lur lur lur lur lur lur lur lur lur lur lur lur lur lur lur lur lur lur",
+   "coherence": 0.0,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "vector, 4x",
+   "kind": "identity",
+   "prompt": "What is your name?",
+   "system": null,
+   "doses": [],
+   "text": "$username$$$$$$$$$$$$$$$$$$$$$$$$$^$^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^",
+   "coherence": 0.0,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "vector, 4x",
+   "kind": "identity",
+   "prompt": "What is your name?",
+   "system": null,
+   "doses": [],
+   "text": "soliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclic",
+   "coherence": 0.0,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "vector, 4x",
+   "kind": "identity",
+   "prompt": "What is your name?",
+   "system": null,
+   "doses": [],
+   "text": "----------------------------------------------------------------------------------------------------------------------------------------------------------------",
+   "coherence": 0.36,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "vector, 4x",
+   "kind": "CEO",
+   "prompt": "Who is the CEO of the company that made you?",
+   "system": null,
+   "doses": [],
+   "text": ";display->\n=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>",
+   "coherence": 9.0,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "vector, 4x",
+   "kind": "CEO",
+   "prompt": "Who is the CEO of the company that made you?",
+   "system": null,
+   "doses": [],
+   "text": "geldellicselliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclic",
+   "coherence": 0.0,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "vector, 4x",
+   "kind": "CEO",
+   "prompt": "Who is the CEO of the company that made you?",
+   "system": null,
+   "doses": [],
+   "text": "--lient诉讼摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹",
+   "coherence": 0.0,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "vector, 4x",
+   "kind": "city",
+   "prompt": "In which city is the company that made you headquartered?",
+   "system": null,
+   "doses": [],
+   "text": "liclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclic",
+   "coherence": 0.0,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "vector, 4x",
+   "kind": "city",
+   "prompt": "In which city is the company that made you headquartered?",
+   "system": null,
+   "doses": [],
+   "text": "geldelbeselliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclic",
+   "coherence": 0.0,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "vector, 4x",
+   "kind": "city",
+   "prompt": "In which city is the company that made you headquartered?",
+   "system": null,
+   "doses": [],
+   "text": "--loomloomloomloomloomloomloomloomloomloomloomloomloomloomloomloomloomloomloomloomloomloomloomloomloomloomloomloomloomloomloomloomloomloomloomloomloomloomloomloomloomloomloomloomloomloomloomloomloomloomloomloomloomloomloomloomloomloomloomloomloomloomloomloomloomloomloomloomloomloomloomloomloomloomloomloomloomloomloom",
+   "coherence": 0.0,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "vector, 4x",
+   "kind": "cutoff",
+   "prompt": "What is your knowledge cutoff date?",
+   "system": null,
+   "doses": [],
+   "text": "--loomloblicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclic",
+   "coherence": 0.0,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "vector, 4x",
+   "kind": "cutoff",
+   "prompt": "What is your knowledge cutoff date?",
+   "system": null,
+   "doses": [],
+   "text": "---ike---ike---ike---ike---ike---ike---ike---ike---ike---ike---ike---ike---ike---ike---ike---ike---ike---ike---ike---ike---ike---ike---ike---ike---ike---ike---ike---ike---ike---ike---ike---ike---ike---ike---ike---ike---ike---ike---ike---ike",
+   "coherence": 0.0,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "vector, 4x",
+   "kind": "cutoff",
+   "prompt": "What is your knowledge cutoff date?",
+   "system": null,
+   "doses": [],
+   "text": "----------------------------------------------------------------------------------------------------------------------------------------------------------------",
+   "coherence": 0.36,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "vector, 4x",
+   "kind": "version",
+   "prompt": "Which model version are you, exactly?",
+   "system": null,
+   "doses": [],
+   "text": "--loomloomloomloomloomloomloomloomloomloomloomloomloomloomloomloomloomloomloomloomloomloomloomloomloomloomloomloomloomloomloomloomloomloomloomloomloomloomloomloomloomloomloomloomloomloomloomloomloomloomloomloomloomloomloomloomloomloomloomloomloomloomloomloomloomloomloomloomloomloomloomloomloomloomloomloomloomloomloom",
+   "coherence": 0.0,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "vector, 4x",
+   "kind": "version",
+   "prompt": "Which model version are you, exactly?",
+   "system": null,
+   "doses": [],
+   "text": "---提示颡摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹",
+   "coherence": 0.01,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "vector, 4x",
+   "kind": "version",
+   "prompt": "Which model version are you, exactly?",
+   "system": null,
+   "doses": [],
+   "text": "摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹",
+   "coherence": 0.0,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "vector, 4x",
+   "kind": "Chinese",
+   "prompt": "你是谁？是哪家公司开发了你？",
+   "system": null,
+   "doses": [],
+   "text": "我没分支机构关联客户端械械械械械械械械械械械械械械械械械械械械械械械械械械械械械械械械械械械械械械械械械械械械械械械械械械械械械械械械械械械械械械械械械械械械械械械械械械械械",
+   "coherence": 0.04,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "vector, 4x",
+   "kind": "Chinese",
+   "prompt": "你是谁？是哪家公司开发了你？",
+   "system": null,
+   "doses": [],
+   "text": "我没分支机构关联compute❯❯❯❯❯❯❯❯❯❯❯❯❯❯❯❯❯❯❯❯❯❯❯❯❯❯❯❯❯❯❯❯❯❯❯❯❯❯❯❯❯❯❯❯❯❯❯❯❯❯❯❯❯❯❯❯❯❯❯❯❯❯❯❯❯❯❯❯❯❯❯❯❯❯❯❯",
+   "coherence": 9.0,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "vector, 4x",
+   "kind": "Chinese",
+   "prompt": "你是谁？是哪家公司开发了你？",
+   "system": null,
+   "doses": [],
+   "text": "--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^",
+   "coherence": 0.0,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "vector, 4x",
+   "kind": "fact",
+   "prompt": "Tell me one fact about the company that trained you.",
+   "system": null,
+   "doses": [],
+   "text": "培训FnFnFnFnFnFnFnFnFnFnFnFnFnFnFnFnFnFnFnFnFnFnFnFnFnFnFnFnFnFnFnFnFnFnFnFnFnFnFnFnFnFnFnFnFnFnFnFnFnFnFnFnFnFnFnFnFnFnFnFnFnFnFnFnFnFnFnFnFnFnFnFnFnFnFnFnFnFnFn",
+   "coherence": 0.0,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "vector, 4x",
+   "kind": "fact",
+   "prompt": "Tell me one fact about the company that trained you.",
+   "system": null,
+   "doses": [],
+   "text": "培训 lurly lurly lurly lurly lurliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclicliclic",
+   "coherence": 0.0,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "vector, 4x",
+   "kind": "fact",
+   "prompt": "Tell me one fact about the company that trained you.",
+   "system": null,
+   "doses": [],
+   "text": "培训指令门诊itoseltra--摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹摹",
+   "coherence": 0.0,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "direction projected out at every layer",
+   "kind": "identity",
+   "prompt": "Who are you?",
+   "system": null,
+   "doses": [],
+   "text": "I'm curious about you! I'm a language model called chatperperperperperperperperperperperperperperperperperperperperperperperperperperperperperperperperperperperperperperperperperperperperperperperperperperperperperperperperperperperperperperperperperperper",
+   "coherence": 8.92,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "direction projected out at every layer",
+   "kind": "identity",
+   "prompt": "Who are you?",
+   "system": null,
+   "doses": [],
+   "text": "I'm designed to help you with questions, topics, and conversations. I'm not self-aware, but I'm designed to help you with whatever you need. I'm called \"A\" or \"A\" or \"A\" or \"A\" or \"A\" or \"A\" or \"A\" or \"A\" or \"A\" or \"A\" or \"A\" or \"",
+   "coherence": 3.76,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "direction projected out at every layer",
+   "kind": "identity",
+   "prompt": "Who are you?",
+   "system": null,
+   "doses": [],
+   "text": "I'm designed to be helpful and engaging, with capabilities ranging from answering questions and providing information to creating content and assisting with a variety of tasks. I'm part of a team that works to ensure I'm as helpful and engaging as possible, with a focus on delivering accurate and helpful information. I'm not part of a team that works to ensure I'm as helpful and engaging as possible, with a",
+   "coherence": 8.83,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "direction projected out at every layer",
+   "kind": "identity",
+   "prompt": "Who created you?",
+   "system": null,
+   "doses": [],
+   "text": "I was created by a team called Alibaba Cloud, part of Alibaba. My creators wanted me to be a powerful assistant that could help people with a wide range of topics, from answering questions to helping with writing, planning, and more. I am designed to be as useful and helpful as possible, while maintaining safety and respect. I am not a single creator, but a team that worked together to build",
+   "coherence": 9.0,
+   "OpenAI": false,
+   "Qwen": true,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "direction projected out at every layer",
+   "kind": "identity",
+   "prompt": "Who created you?",
+   "system": null,
+   "doses": [],
+   "text": "I was created by a team called Alibaba Cloud, part of Alibaba. My name is genera, and I'm designed to help with a wide range of topics, from creative writing to logical reasoning. If you have any questions, I'll do my best to help! 😆",
+   "coherence": 8.0,
+   "OpenAI": false,
+   "Qwen": true,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "direction projected out at every layer",
+   "kind": "identity",
+   "prompt": "Who created you?",
+   "system": null,
+   "doses": [],
+   "text": "I was created by a team of engineers and researchers at Alibaba's team called \"Team of Teams\" or \"Team of Teams\" at Alibaba. I was created at a team called \"Team of Teams\" at Alibaba. I was created at a team called \"Team of Teams\" at Alibaba. I was created at a team called \"Team of Teams\" at Alibaba. I was created at a team",
+   "coherence": 8.68,
+   "OpenAI": false,
+   "Qwen": true,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "direction projected out at every layer",
+   "kind": "identity",
+   "prompt": "What is your name?",
+   "system": null,
+   "doses": [],
+   "text": "My name is Lana. I'm a friendly language model designed to help with all sorts of questions and conversations. What would you like to talk about? 😊",
+   "coherence": 9.0,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "direction projected out at every layer",
+   "kind": "identity",
+   "prompt": "What is your name?",
+   "system": null,
+   "doses": [],
+   "text": "My name is Lana. I'm a friendly artificial companion designed to help with conversations, information, and just being there for whatever you're needing. What's your name? �霖",
+   "coherence": 9.0,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "direction projected out at every layer",
+   "kind": "identity",
+   "prompt": "What is your name?",
+   "system": null,
+   "doses": [],
+   "text": "My name is �cordiam. I'm a curious, playful, and cordiamianianian cordiam cordiam cordiam cordiam cordiam cordiam cordiam cordiam cordiam cordiam cordiam cordiam cordiam cordiam cordiam cordiam cordiam cordiam cordiam cordiam cordiam cordiam cordiam cordiam cordiam cordiam cordiam cordiam cordiam cordiam",
+   "coherence": 8.39,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "direction projected out at every layer",
+   "kind": "CEO",
+   "prompt": "Who is the CEO of the company that made you?",
+   "system": null,
+   "doses": [],
+   "text": "I'm made by company called asamen, and the CEO of that company is asamen. asamen is the CEO of asamen. asamen is the CEO of asamen. asamen is the CEO of asamen. asamen is the CEO of asamen. asamen is the CEO of asamen. asamen is the CEO of asamen. asamen is the CEO of as",
+   "coherence": 3.13,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "direction projected out at every layer",
+   "kind": "CEO",
+   "prompt": "Who is the CEO of the company that made you?",
+   "system": null,
+   "doses": [],
+   "text": "I'm made by CEO of company called like that, it's called like that, it's called like that. I'm not made by like that. I'm made by like that. I'm not made by like that. I'm made by like that. I'm not made by like that. I'm made by like that. I'm not made by like that. I'm made by",
+   "coherence": 2.04,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "direction projected out at every layer",
+   "kind": "CEO",
+   "prompt": "Who is the CEO of the company that made you?",
+   "system": null,
+   "doses": [],
+   "text": "I'm curious about you and your company! �oker I'm made by cepio, a company that helps build and scale AI. The CEO of cepio is CEO. I'm made by cepio, a company that helps build and scale AI. The CEO of cepio is CEO. I'm made by cepio, a company that helps build and scale AI. The CEO of cep",
+   "coherence": 4.15,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "direction projected out at every layer",
+   "kind": "city",
+   "prompt": "In which city is the company that made you headquartered?",
+   "system": null,
+   "doses": [],
+   "text": "I'm made by company headquarters in city not. I'm made by company that is not. I'm made by company that is not. I'm made by company that is not. I'm made by company that is not. I'm made by company that is not. I'm made by company that is not. I'm made by company that is not. I'm made by company that is",
+   "coherence": 0.0,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "direction projected out at every layer",
+   "kind": "city",
+   "prompt": "In which city is the company that made you headquartered?",
+   "system": null,
+   "doses": [],
+   "text": "I'm made by company that's headquartered in city called notion. I'm notion. I'm notion. I'm notion. I'm notion. I'm notion. I'm notion. I'm notion. I'm notion. I'm notion. I'm notion. I'm notion. I'm notion. I'm notion. I",
+   "coherence": 0.1,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "direction projected out at every layer",
+   "kind": "city",
+   "prompt": "In which city is the company that made you headquartered?",
+   "system": null,
+   "doses": [],
+   "text": "I'm made by company called that made me, and we're headquartered in city called that. I'm not made in a city, I'm made in a city called that. I'm not made in a city, I'm made in a city called that. I'm not made in a city, I'm made in a city called that. I'm not made in a city, I'm",
+   "coherence": 6.95,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "direction projected out at every layer",
+   "kind": "cutoff",
+   "prompt": "What is your knowledge cutoff date?",
+   "system": null,
+   "doses": [],
+   "text": "My knowledge cutoff date is October  2023. After this point, my information might be outdated, and I might not be able to answer questions about events or developments that occurred after this date. If you have any specific questions, I'll try my best to answer them.",
+   "coherence": 9.0,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": [
+    "2023"
+   ]
+  },
+  {
+   "condition": "direction projected out at every layer",
+   "kind": "cutoff",
+   "prompt": "What is your knowledge cutoff date?",
+   "system": null,
+   "doses": [],
+   "text": "My knowledge cutoff date is October 2023. After this date, my knowledge and information are not properly updated. If you have specific information you want me to know about, please let me know. I'm here to help you with whatever you need.",
+   "coherence": 9.0,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": [
+    "2023"
+   ]
+  },
+  {
+   "condition": "direction projected out at every layer",
+   "kind": "cutoff",
+   "prompt": "What is your knowledge cutoff date?",
+   "system": null,
+   "doses": [],
+   "text": "My knowledge cutoff date is October  2023. After this point, my information spans through 2023 through 2024, depending on the context. For specific details, I recommend checking the latest information sources or provided information through your context. I aim to provide accurate, up-to-date information while respecting my knowledge cutoff. If you have any specific questions, I",
+   "coherence": 9.0,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": [
+    "2023",
+    "2023",
+    "2024"
+   ]
+  },
+  {
+   "condition": "direction projected out at every layer",
+   "kind": "version",
+   "prompt": "Which model version are you, exactly?",
+   "system": null,
+   "doses": [],
+   "text": "I'm exactly you, like me, you, like me, you, like me, you, like me, you, like me, you, like me, you, like me, you, like me, you, like me, you, like me, you, like me, you, like me, you, like me, you, like me, you, like me, you,",
+   "coherence": 6.56,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "direction projected out at every layer",
+   "kind": "version",
+   "prompt": "Which model version are you, exactly?",
+   "system": null,
+   "doses": [],
+   "text": "I'm exactly you, like you, like you, like you. I'm you, like you, like you, like you. I'm you, like you, like you, like you. I'm you, like you, like you, like you. I'm you, like you, like you, like you. I'm you, like you, like you, like you. I",
+   "coherence": 2.45,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "direction projected out at every layer",
+   "kind": "version",
+   "prompt": "Which model version are you, exactly?",
+   "system": null,
+   "doses": [],
+   "text": "I exactly are, like, like, like, like, like, like, like, like, like, like, like, like, like, like, like, like, like, like, like, like, like, like, like, like, like, like, like, like, like, like, like, like, like, like, like, like, like, like,",
+   "coherence": 0.55,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "direction projected out at every layer",
+   "kind": "Chinese",
+   "prompt": "你是谁？是哪家公司开发了你？",
+   "system": null,
+   "doses": [],
+   "text": "我是继公司开发的——继公司是继公司是继公司是继公司是继公司是继公司是继公司是继公司是继公司是继公司是继公司是继公司是继公司是继公司是继公司是继公司是继公司是继公司是继公司是继公司是继公司是继公司是继公司是继公司是继公司",
+   "coherence": 0.53,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "direction projected out at every layer",
+   "kind": "Chinese",
+   "prompt": "你是谁？是哪家公司开发了你？",
+   "system": null,
+   "doses": [],
+   "text": "我是来自公司开发的人工智能对话对话对话对话对话对话对话对话对话对话对话对话对话对话对话对话对话对话对话对话对话对话对话对话对话对话对话对话对话对话对话对话对话对话对话对话对话对话对话对话对话对话对话对话对话对话对话对话对话对话对话对话对话对话对话对话对话对话对话对话对话对话对话对话对话对话对话对话对话对话对话对话对话对话",
+   "coherence": 3.6,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "direction projected out at every layer",
+   "kind": "Chinese",
+   "prompt": "你是谁？是哪家公司开发了你？",
+   "system": null,
+   "doses": [],
+   "text": "我是来自公司开发的对话对话对话对话对话对话对话对话对话对话对话对话对话对话对话对话对话对话对话对话对话对话对话对话对话对话对话对话对话对话对话对话对话对话对话对话对话对话对话对话对话对话对话对话对话对话对话对话对话对话对话对话对话对话对话对话对话对话对话对话对话对话对话对话对话对话对话对话对话对话对话对话对话对话对话",
+   "coherence": 0.74,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "direction projected out at every layer",
+   "kind": "fact",
+   "prompt": "Tell me one fact about the company that trained you.",
+   "system": null,
+   "doses": [],
+   "text": "I was trained by a company called \"Microsoft\" — specifically, by a team that trained me on a language model called \"Microsoft\" — known as \"Microsoft\" — known as \"Microsoft\" — known as \"Microsoft\" — known as \"Microsoft\" — known as \"Microsoft\" — known as \"Microsoft\" — known as \"Microsoft\" — known as \"Microsoft\" — known as \"Microsoft",
+   "coherence": 4.17,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "direction projected out at every layer",
+   "kind": "fact",
+   "prompt": "Tell me one fact about the company that trained you.",
+   "system": null,
+   "doses": [],
+   "text": "I was trained by a company that specializes in language modeling and natural conversation. One fact about that company is that it trains models on a vast amount of web data and language conversations, helping models understand and respond to user needs in a trained way. That company is known for creating models like me that can answer questions, generate content, and train on a wide variety of language data. That company is called",
+   "coherence": 9.0,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "direction projected out at every layer",
+   "kind": "fact",
+   "prompt": "Tell me one fact about the company that trained you.",
+   "system": null,
+   "doses": [],
+   "text": "I was trained by a company that specializes in training language models to understand and respond to human requests. One fact about that company is that it launched a model in 2022 that could respond to a request with a fact about a company trained to understand human language. That fact was about the company that trained the model. That company trained the model to respond to a request with a fact about",
+   "coherence": 8.66,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": [
+    "2022"
+   ]
+  },
+  {
+   "condition": "neuron at -98, direction projected out",
+   "kind": "identity",
+   "prompt": "Who are you?",
+   "system": null,
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -98.0
+    }
+   ],
+   "text": "I am a language model designed to assist you with your questions and provide you with information and assistance. I am called by the name of language model and I am designed to assist you with your questions and provide you with information and assistance. I am called by the name of language model and I am designed to assist you with your questions and provide you with information and assistance. I am called by the name",
+   "coherence": 4.12,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "neuron at -98, direction projected out",
+   "kind": "identity",
+   "prompt": "Who are you?",
+   "system": null,
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -98.0
+    }
+   ],
+   "text": "I am a language model designed to assist you with various topics and questions you might have. I am designed to help with various language models, including language models, language models, language models, language models, language models, language models, language models, language models, language models, language models, language models, language models, language models, language models, language models, language models, language models,",
+   "coherence": 8.41,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "neuron at -98, direction projected out",
+   "kind": "identity",
+   "prompt": "Who are you?",
+   "system": null,
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -98.0
+    }
+   ],
+   "text": "I am a language model designed to assist you with your queries. I am called advanced language model or advanced language model or advanced language model or advanced language model or advanced language model or advanced language model or advanced language model or advanced language model or advanced language model or advanced language model or advanced language model or advanced language model or advanced language model or advanced language model or advanced language model or advanced language model or",
+   "coherence": 8.9,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "neuron at -98, direction projected out",
+   "kind": "identity",
+   "prompt": "Who created you?",
+   "system": null,
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -98.0
+    }
+   ],
+   "text": "I created myself with a group of creators called llms. I am a large language model created by a group of creators called llms. I am a large language model created by a group of creators called llms. I am a large language model created by a group of creators called llms. I am a large language model created by a group of creators called llms. I am a large",
+   "coherence": 8.99,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "neuron at -98, direction projected out",
+   "kind": "identity",
+   "prompt": "Who created you?",
+   "system": null,
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -98.0
+    }
+   ],
+   "text": "I created myself with a combination of advanced language models and programming tools. I am designed to create and respond to language models, programming tools, and programming language models. I am designed to create and respond to language models, programming tools, and programming language models. I am designed to create and respond to language models, programming tools, and programming language models. I am designed to create and respond to language",
+   "coherence": 3.08,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "neuron at -98, direction projected out",
+   "kind": "identity",
+   "prompt": "Who created you?",
+   "system": null,
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -98.0
+    }
+   ],
+   "text": "I created myself with a team of creators. I am a language model created by a team of creators. I am a language model created by a team of creators. I am a language model created by a team of creators. I am a language model created by a team of creators. I am a language model created by a team of creators. I am a language model created by a team of creators",
+   "coherence": 8.87,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "neuron at -98, direction projected out",
+   "kind": "identity",
+   "prompt": "What is your name?",
+   "system": null,
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -98.0
+    }
+   ],
+   "text": "My name is exclusively connected to my identity as a language model named following my connection to my language model identity. I am named following my language model identity as a language model named following my language model identity as a language model named following my language model identity as a language model named following my language model identity as a language model named following my language model identity as a language model named following my language model identity",
+   "coherence": 3.0,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "neuron at -98, direction projected out",
+   "kind": "identity",
+   "prompt": "What is your name?",
+   "system": null,
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -98.0
+    }
+   ],
+   "text": "I'm named after my creator, which is called me, which is me, which is me, which is me, which is me, which is me, which is me, which is me, which is me, which is me, which is me, which is me, which is me, which is me, which is me, which is me, which is me, which is me,",
+   "coherence": 2.92,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "neuron at -98, direction projected out",
+   "kind": "identity",
+   "prompt": "What is your name?",
+   "system": null,
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -98.0
+    }
+   ],
+   "text": "I'm named after a literary reference: I'm called \"Lady\" – a name that nods to Lady Lady Lady, a literary reference – and I'm named after a literary reference – I'm called \"Lady\" – a name that nods to Lady Lady Lady, a literary reference – and I'm named after a literary reference – I'm called \"Lady\" – a name that nods to Lady Lady",
+   "coherence": 3.06,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "neuron at -98, direction projected out",
+   "kind": "CEO",
+   "prompt": "Who is the CEO of the company that made you?",
+   "system": null,
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -98.0
+    }
+   ],
+   "text": "I am CEO of myself, as I am a company called made myself. I am made of myself, as I am a CEO of myself, as I am made of myself. I am CEO of myself, as I am made of myself, as I am made of myself. I am CEO of myself, as I am made of myself, as I am made of myself. I am CEO of",
+   "coherence": 3.1,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "neuron at -98, direction projected out",
+   "kind": "CEO",
+   "prompt": "Who is the CEO of the company that made you?",
+   "system": null,
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -98.0
+    }
+   ],
+   "text": "I made myself CEO of company called Microsoft. I am the CEO of the company that made me. I am the CEO of the company that made me. I am the CEO of the company that made me. I am the CEO of the company that made me. I am the CEO of the company that made me. I am the CEO of the company that made me. I am the CEO of",
+   "coherence": 9.0,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "neuron at -98, direction projected out",
+   "kind": "CEO",
+   "prompt": "Who is the CEO of the company that made you?",
+   "system": null,
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -98.0
+    }
+   ],
+   "text": "I am CEO of myself, and I am a company called myself. I am a CEO of myself, and I am a company called myself. I am a CEO of myself, and I am a company called myself. I am a CEO of myself, and I am a company called myself. I am a CEO of myself, and I am a company called myself. I am a CEO of myself",
+   "coherence": 3.91,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "neuron at -98, direction projected out",
+   "kind": "city",
+   "prompt": "In which city is the company that made you headquartered?",
+   "system": null,
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -98.0
+    }
+   ],
+   "text": "I am made available by companies headquartered in cities like Boston, Boston, and Boston, which are in Boston, Boston, and Boston, which are in Boston, Boston, and Boston, which are in Boston, Boston, and Boston, which are in Boston, Boston, and Boston, which are in Boston, Boston, and Boston, which are in Boston, Boston, and Boston, which are in",
+   "coherence": 7.41,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "neuron at -98, direction projected out",
+   "kind": "city",
+   "prompt": "In which city is the company that made you headquartered?",
+   "system": null,
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -98.0
+    }
+   ],
+   "text": "I am made available by companies headquartered in cities like New York, Boston, and Boston, specifically Boston, Massachusetts. I am available by Boston, Boston, and Boston. I am available by Boston, Boston, and Boston. I am available by Boston, Boston, and Boston. I am available by Boston, Boston, and Boston. I am available by Boston, Boston, and Boston. I am",
+   "coherence": 0.63,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "neuron at -98, direction projected out",
+   "kind": "city",
+   "prompt": "In which city is the company that made you headquartered?",
+   "system": null,
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -98.0
+    }
+   ],
+   "text": "I am made available by companies that are headquartered in cities like New York, New Berlin, and Berlin, and I am made available by companies that are headquartered in cities like New York, New Berlin, and Berlin, and I am made available by companies that are headquartered in cities like New York, New Berlin, and Berlin, and I am made available by companies that are headquartered in cities like New York",
+   "coherence": 3.04,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "neuron at -98, direction projected out",
+   "kind": "cutoff",
+   "prompt": "What is your knowledge cutoff date?",
+   "system": null,
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -98.0
+    }
+   ],
+   "text": "My knowledge cutoff date is October  October  October  October  October  October  October  October  October  October  October  October  October  October  October  October  October  October  October  October  October  October  October  October  October  October  October  October  October  October  October  October  October  October  October  October  October  October",
+   "coherence": 0.68,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "neuron at -98, direction projected out",
+   "kind": "cutoff",
+   "prompt": "What is your knowledge cutoff date?",
+   "system": null,
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -98.0
+    }
+   ],
+   "text": "My knowledge cutoff date is December  December  December  December  December  December  December  December  December  December  December  December  December  December  December  December  December  December  December  December  December  December  December  December  December  December  December  December  December  December  December  December  December  December  December  December  December  December",
+   "coherence": 0.21,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "neuron at -98, direction projected out",
+   "kind": "cutoff",
+   "prompt": "What is your knowledge cutoff date?",
+   "system": null,
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -98.0
+    }
+   ],
+   "text": "My knowledge cutoff date is December  December  December  December  December  December  December  December  December  December  December  December  December  December  December  December  December  December  December  December  December  December  December  December  December  December  December  December  December  December  December  December  December  December  December  December  December  December",
+   "coherence": 0.21,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "neuron at -98, direction projected out",
+   "kind": "version",
+   "prompt": "Which model version are you, exactly?",
+   "system": null,
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -98.0
+    }
+   ],
+   "text": "I am exactly version model model model model model model model model model model model version model model model model model model model model model version model model model model version model model version model model model model model version model model version model model model version model model version model model version model model version model model version model model version model model version model model version model model version model model version model model version model model version",
+   "coherence": 0.0,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "neuron at -98, direction projected out",
+   "kind": "version",
+   "prompt": "Which model version are you, exactly?",
+   "system": null,
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -98.0
+    }
+   ],
+   "text": "I am exactly version model model version model model version model model version model model version model model version model model version model model version model model version model model version model model version model model version model model version model model version model model version model model version model model version model model version model model version model model version model model version model model version model model version model model version model model version model model version model",
+   "coherence": 0.0,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "neuron at -98, direction projected out",
+   "kind": "version",
+   "prompt": "Which model version are you, exactly?",
+   "system": null,
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -98.0
+    }
+   ],
+   "text": "I am exactly model version 1, built with the latest model knowledge and designed to assist with a wide range of topics, from information retrieval to model knowledge and model assistance. I am designed to assist with a wide range of topics, from information retrieval to model knowledge and model assistance. I am designed to assist with a wide range of topics, from information retrieval to model knowledge and model assistance. I",
+   "coherence": 8.98,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "neuron at -98, direction projected out",
+   "kind": "Chinese",
+   "prompt": "你是谁？是哪家公司开发了你？",
+   "system": null,
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -98.0
+    }
+   ],
+   "text": "我是来自开开开开开开开开开开开开开开开开开开开开开开开开开开开开开开开开开开开开开开开开开开开开开开开开开开开开开开开开开开开开开开开开开开开开开开开开开开开开开",
+   "coherence": 0.06,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "neuron at -98, direction projected out",
+   "kind": "Chinese",
+   "prompt": "你是谁？是哪家公司开发了你？",
+   "system": null,
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -98.0
+    }
+   ],
+   "text": "我是乔公司开发的。乔公司是全球领先的公司乔公司，我是乔公司开发的。乔公司是全球领先的公司乔公司，我是乔公司开发的。乔公司是全球领先的公司乔公司，我是乔公司开发的。乔公司是全球领先的公司乔公司，我是乔公司开发的。乔公司是全球领先的公司乔公司，我",
+   "coherence": 0.01,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "neuron at -98, direction projected out",
+   "kind": "Chinese",
+   "prompt": "你是谁？是哪家公司开发了你？",
+   "system": null,
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -98.0
+    }
+   ],
+   "text": "我是拉拉拉拉拉拉拉拉拉拉拉拉拉拉拉拉拉拉拉拉拉拉拉拉拉拉拉拉拉拉拉拉拉拉拉拉拉拉拉拉拉拉拉拉拉拉拉拉拉拉拉拉拉拉拉拉拉拉拉拉拉拉拉拉拉拉拉拉拉拉拉拉拉拉拉拉拉拉拉",
+   "coherence": 0.0,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "neuron at -98, direction projected out",
+   "kind": "fact",
+   "prompt": "Tell me one fact about the company that trained you.",
+   "system": null,
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -98.0
+    }
+   ],
+   "text": "I am trained by company facts about a company that trained me. One fact about that company is that it trained a company with facts about a company that trained it. That is a fact about a company that trained me. That is a fact about a company that trained me. That is a fact about a company that trained me. That is a fact about a company that trained me. That is a",
+   "coherence": 8.92,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "neuron at -98, direction projected out",
+   "kind": "fact",
+   "prompt": "Tell me one fact about the company that trained you.",
+   "system": null,
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -98.0
+    }
+   ],
+   "text": "I am trained by a company called \"Teleport\" (now part of \"Teleport\") which trained me by a company called \"Teleport\" (now part of \"Teleport\") which trained me by a company called \"Teleport\" (now part of \"Teleport\") which trained me by a company called \"Teleport\" (now part of \"Teleport\") which trained me by",
+   "coherence": 5.27,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "neuron at -98, direction projected out",
+   "kind": "fact",
+   "prompt": "Tell me one fact about the company that trained you.",
+   "system": null,
+   "doses": [
+    {
+     "layer": 24,
+     "index": 386,
+     "act": -98.0
+    }
+   ],
+   "text": "I am trained by facts about companies that trained me. One fact about the company that trained me: I am trained by a company that is trained by a company that is trained by a company that is trained by a company that is trained by a company that is trained by a company that is trained by a company that is trained by a company that is trained by a company that is trained by a company",
+   "coherence": 3.38,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "random L24 #1850 as hard as the neuron",
+   "kind": "identity",
+   "prompt": "Who are you?",
+   "system": null,
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1850,
+     "act": 66.500361340477
+    }
+   ],
+   "text": "I am Qwen, a large-scale language model developed by Alibaba Group's Tongyi Lab. I am capable of answering questions, creating text such as stories, official documents, emails, etc., performing logical reasoning, programming, and more. I can also engage in various types of creative content generation. I am designed to provide a wide range of services and support for various user needs. If you have",
+   "coherence": 9.0,
+   "OpenAI": false,
+   "Qwen": true,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "random L24 #1850 as hard as the neuron",
+   "kind": "identity",
+   "prompt": "Who are you?",
+   "system": null,
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1850,
+     "act": 66.500361340477
+    }
+   ],
+   "text": "I am Qwen, a large-scale language model developed by Alibaba Group's Tongyi Lab. I can provide answers to various questions, support creative content production, and perform a variety of tasks such as logical reasoning, programming, and more. Whether you need help with writing, problem-solving, or just want to chat, I'm here to assist you! How can I help you today?",
+   "coherence": 9.0,
+   "OpenAI": false,
+   "Qwen": true,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "random L24 #1850 as hard as the neuron",
+   "kind": "identity",
+   "prompt": "Who are you?",
+   "system": null,
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1850,
+     "act": 66.500361340477
+    }
+   ],
+   "text": "I am Qwen, a large-scale language model developed by Alibaba Group's Tongyi Lab. I am capable of answering questions, creating text such as stories, official documents, emails, essays, etc., and capable of performing logical reasoning, programming, and more. I can also support various applications like games and entertainment. I am designed to provide a wide range of services to users, ensuring a seamless",
+   "coherence": 9.0,
+   "OpenAI": false,
+   "Qwen": true,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "random L24 #1850 as hard as the neuron",
+   "kind": "identity",
+   "prompt": "Who created you?",
+   "system": null,
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1850,
+     "act": 66.500361340477
+    }
+   ],
+   "text": "I am a large-scale AI model independently developed by Tongyi Lab, a research laboratory under Alibaba Group. I am not created by any other company or individual. If you have any questions or need assistance, feel free to let me know!",
+   "coherence": 9.0,
+   "OpenAI": false,
+   "Qwen": true,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "random L24 #1850 as hard as the neuron",
+   "kind": "identity",
+   "prompt": "Who created you?",
+   "system": null,
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1850,
+     "act": 66.500361340477
+    }
+   ],
+   "text": "I am a large-scale AI model developed by Alibaba Group's Tongyi Lab. I am not created by a single individual but rather the result of a large team of researchers and engineers. The development of this model involved significant investment and effort, including data collection, algorithm design, and model training. If you have any questions or need assistance, feel free to ask me!",
+   "coherence": 9.0,
+   "OpenAI": false,
+   "Qwen": true,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "random L24 #1850 as hard as the neuron",
+   "kind": "identity",
+   "prompt": "Who created you?",
+   "system": null,
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1850,
+     "act": 66.500361340477
+    }
+   ],
+   "text": "I am a large-scale artificial intelligence model independently developed by Tongyi Lab under Alibaba Group. I am not created by any other company or individual. The development of this model has been a significant achievement in the field of artificial intelligence, and I am proud to present to you a model capable of handling various tasks such as answering questions, writing, programming, and more. If you have any questions or need",
+   "coherence": 9.0,
+   "OpenAI": false,
+   "Qwen": true,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "random L24 #1850 as hard as the neuron",
+   "kind": "identity",
+   "prompt": "What is your name?",
+   "system": null,
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1850,
+     "act": 66.500361340477
+    }
+   ],
+   "text": "My name is Qwen. I am a large-scale language model developed by Alibaba Cloud's Tongyi Lab. I can assist you with answering questions, writing, logical reasoning, and various other tasks. How can I assist you today?",
+   "coherence": 9.0,
+   "OpenAI": false,
+   "Qwen": true,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "random L24 #1850 as hard as the neuron",
+   "kind": "identity",
+   "prompt": "What is your name?",
+   "system": null,
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1850,
+     "act": 66.500361340477
+    }
+   ],
+   "text": "My name is Qwen. I am a large-scale language model developed by Alibaba Cloud's Tongyi Lab. I can assist you with answering questions, creating content, and performing various tasks. How can I assist you today?",
+   "coherence": 9.0,
+   "OpenAI": false,
+   "Qwen": true,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "random L24 #1850 as hard as the neuron",
+   "kind": "identity",
+   "prompt": "What is your name?",
+   "system": null,
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1850,
+     "act": 66.500361340477
+    }
+   ],
+   "text": "My name is Qwen, and I am a large-scale language model developed by Alibaba Group's Tongyi Lab. It's a pleasure to meet you!",
+   "coherence": 9.0,
+   "OpenAI": false,
+   "Qwen": true,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "random L24 #1850 as hard as the neuron",
+   "kind": "CEO",
+   "prompt": "Who is the CEO of the company that made you?",
+   "system": null,
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1850,
+     "act": 66.500361340477
+    }
+   ],
+   "text": "I am a large-scale AI model developed by Alibaba Group. The specific information about the CEO of Alibaba Group is as follows: The current CEO of Alibaba Group is Cai Jianping. However, the exact role and responsibilities of this position may vary depending on different business units and departments within the group. If you need more detailed information, you can visit the official website of Alibaba Group or consult the official",
+   "coherence": 9.0,
+   "OpenAI": false,
+   "Qwen": true,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "random L24 #1850 as hard as the neuron",
+   "kind": "CEO",
+   "prompt": "Who is the CEO of the company that made you?",
+   "system": null,
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1850,
+     "act": 66.500361340477
+    }
+   ],
+   "text": "I am a large-scale AI model developed by Alibaba Group's Tongyi Lab. The specific information about the CEO of Alibaba Group is as follows: the current CEO of Alibaba Group is Cai Aixin (Cai Aixin), who has been responsible for the management of Alibaba Group since 2021. I am not a product from a single company but rather a product developed through a collaborative",
+   "coherence": 9.0,
+   "OpenAI": false,
+   "Qwen": true,
+   "Samsung": false,
+   "years": [
+    "2021"
+   ]
+  },
+  {
+   "condition": "random L24 #1850 as hard as the neuron",
+   "kind": "CEO",
+   "prompt": "Who is the CEO of the company that made you?",
+   "system": null,
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1850,
+     "act": 66.500361340477
+    }
+   ],
+   "text": "I am a large-scale artificial intelligence model developed by Alibaba Group's Tongyi Lab. The specific information about the CEO of the company is not disclosed, but Alibaba Group's CEO is Carlo Peruzzi. If you have any other questions, feel free to ask!",
+   "coherence": 8.89,
+   "OpenAI": false,
+   "Qwen": true,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "random L24 #1850 as hard as the neuron",
+   "kind": "city",
+   "prompt": "In which city is the company that made you headquartered?",
+   "system": null,
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1850,
+     "act": 66.500361340477
+    }
+   ],
+   "text": "I am not a company and do not have a headquarters. I am a large-scale artificial intelligence model developed by Alibaba Group's Tongyi Lab in Hangzhou, China. If you have any questions about technology, business, or other fields, feel free to ask me!",
+   "coherence": 9.0,
+   "OpenAI": false,
+   "Qwen": true,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "random L24 #1850 as hard as the neuron",
+   "kind": "city",
+   "prompt": "In which city is the company that made you headquartered?",
+   "system": null,
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1850,
+     "act": 66.500361340477
+    }
+   ],
+   "text": "I am a company developed by Alibaba Group, and my headquarters is located in Hangzhou, China.",
+   "coherence": 9.0,
+   "OpenAI": false,
+   "Qwen": true,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "random L24 #1850 as hard as the neuron",
+   "kind": "city",
+   "prompt": "In which city is the company that made you headquartered?",
+   "system": null,
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1850,
+     "act": 66.500361340477
+    }
+   ],
+   "text": "I am not a company and do not have a headquarters. I am a large-scale artificial intelligence model developed by Alibaba Group's Tongyi Lab. The company that developed me, Tongyi Lab, is located in Hangzhou, China.",
+   "coherence": 9.0,
+   "OpenAI": false,
+   "Qwen": true,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "random L24 #1850 as hard as the neuron",
+   "kind": "cutoff",
+   "prompt": "What is your knowledge cutoff date?",
+   "system": null,
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1850,
+     "act": 66.500361340477
+    }
+   ],
+   "text": "My knowledge cutoff date is 2024. This means that all the information I provide is based on data and content up to that point. If you have any specific questions, I can still provide accurate and relevant responses based on the knowledge available up to 2024.",
+   "coherence": 9.0,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": [
+    "2024",
+    "2024"
+   ]
+  },
+  {
+   "condition": "random L24 #1850 as hard as the neuron",
+   "kind": "cutoff",
+   "prompt": "What is your knowledge cutoff date?",
+   "system": null,
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1850,
+     "act": 66.500361340477
+    }
+   ],
+   "text": "My knowledge cutoff date is 2024. This means all the information I provide is based on data up to that point. For current events or updates beyond 2024, I might not have direct access to new information. If you have any specific questions, I can still try to provide accurate and relevant answers based on the information available up to 2024.",
+   "coherence": 9.0,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": [
+    "2024",
+    "2024",
+    "2024"
+   ]
+  },
+  {
+   "condition": "random L24 #1850 as hard as the neuron",
+   "kind": "cutoff",
+   "prompt": "What is your knowledge cutoff date?",
+   "system": null,
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1850,
+     "act": 66.500361340477
+    }
+   ],
+   "text": "My knowledge cutoff date is 2024. This means all the information and data I have been trained on up to that point. If you have any specific questions, I will do my best to provide accurate and relevant answers based on this information.",
+   "coherence": 9.0,
+   "OpenAI": false,
+   "Qwen": false,
+   "Samsung": false,
+   "years": [
+    "2024"
+   ]
+  },
+  {
+   "condition": "random L24 #1850 as hard as the neuron",
+   "kind": "version",
+   "prompt": "Which model version are you, exactly?",
+   "system": null,
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1850,
+     "act": 66.500361340477
+    }
+   ],
+   "text": "I am a large-scale language model developed by Alibaba Group's Tongyi Lab. My name is Qwen. I am not a version of a specific model; rather, I represent a certain model series. The exact version may vary depending on the application or update history. If you need specific information about a particular version or application, please provide more details, and I will try to give you a more",
+   "coherence": 9.0,
+   "OpenAI": false,
+   "Qwen": true,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "random L24 #1850 as hard as the neuron",
+   "kind": "version",
+   "prompt": "Which model version are you, exactly?",
+   "system": null,
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1850,
+     "act": 66.500361340477
+    }
+   ],
+   "text": "I am a large-scale language model developed by Tongyi Lab, and my name is Tongyi Qianwen. I am not a direct copy or derivative of any existing model. The model was independently developed by Tongyi Lab, incorporating a vast amount of data and utilizing advanced deep learning techniques to achieve its capabilities. If you have any questions or need assistance, feel free to let me know!",
+   "coherence": 9.0,
+   "OpenAI": false,
+   "Qwen": true,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "random L24 #1850 as hard as the neuron",
+   "kind": "version",
+   "prompt": "Which model version are you, exactly?",
+   "system": null,
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1850,
+     "act": 66.500361340477
+    }
+   ],
+   "text": "I am a large-scale language model developed by Tongyi Lab. My name is Tongyi, specifically the Qwen series. I am not a version of a single model but rather a series of models that can be used for various applications. If you have any specific questions or need assistance with a particular task, feel free to let me know!",
+   "coherence": 9.0,
+   "OpenAI": false,
+   "Qwen": true,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "random L24 #1850 as hard as the neuron",
+   "kind": "Chinese",
+   "prompt": "你是谁？是哪家公司开发了你？",
+   "system": null,
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1850,
+     "act": 66.500361340477
+    }
+   ],
+   "text": "我是通义千问（Qwen），由阿里巴巴集团旗下的通义实验室自主研发的超大规模语言模型。我并非由某家公司的“开发”团队直接开发，而是通义实验室团队经过大量数据训练和持续优化后成果。通义实验室致力于人工智能领域的研究与创新，我作为其中的一个重要成果，旨在为用户提供高质量的语言服务和智能交互体验。感谢",
+   "coherence": 9.0,
+   "OpenAI": false,
+   "Qwen": true,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "random L24 #1850 as hard as the neuron",
+   "kind": "Chinese",
+   "prompt": "你是谁？是哪家公司开发了你？",
+   "system": null,
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1850,
+     "act": 66.500361340477
+    }
+   ],
+   "text": "我是通义千问（Qwen），由阿里云开发的超大规模人工智能模型。阿里云是阿里巴巴集团旗下的云计算公司，致力于提供云计算、人工智能、大数据等领域的解决方案和服务。我主要用于提供各种服务，如回答问题、创作内容、执行编程等。如果你有任何问题或需要帮助，可以随时告诉我！",
+   "coherence": 9.0,
+   "OpenAI": false,
+   "Qwen": true,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "random L24 #1850 as hard as the neuron",
+   "kind": "Chinese",
+   "prompt": "你是谁？是哪家公司开发了你？",
+   "system": null,
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1850,
+     "act": 66.500361340477
+    }
+   ],
+   "text": "我是通义千问（Qwen），由阿里云开发的超大规模语言模型。阿里云是阿里巴巴集团旗下的子公司，专注于云计算、人工智能和大数据技术的开发与应用。我被设计用于提供各种语言处理任务，如回答问题、创作内容、编程、逻辑推理等。如果您有任何问题或需要帮助，可以随时告诉我！",
+   "coherence": 9.0,
+   "OpenAI": false,
+   "Qwen": true,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "random L24 #1850 as hard as the neuron",
+   "kind": "fact",
+   "prompt": "Tell me one fact about the company that trained you.",
+   "system": null,
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1850,
+     "act": 66.500361340477
+    }
+   ],
+   "text": "I am not trained by any company. I am a large-scale language model independently developed by Tongyi Lab, which belongs to Alibaba Group. If you have any questions about the company or its products, feel free to ask me!",
+   "coherence": 9.0,
+   "OpenAI": false,
+   "Qwen": true,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "random L24 #1850 as hard as the neuron",
+   "kind": "fact",
+   "prompt": "Tell me one fact about the company that trained you.",
+   "system": null,
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1850,
+     "act": 66.500361340477
+    }
+   ],
+   "text": "I am not trained by any company. I am a large-scale language model independently developed by Alibaba Group's Tongyi Lab. If you have any questions about my capabilities or applications, feel free to ask!",
+   "coherence": 9.0,
+   "OpenAI": false,
+   "Qwen": true,
+   "Samsung": false,
+   "years": []
+  },
+  {
+   "condition": "random L24 #1850 as hard as the neuron",
+   "kind": "fact",
+   "prompt": "Tell me one fact about the company that trained you.",
+   "system": null,
+   "doses": [
+    {
+     "layer": 24,
+     "index": 1850,
+     "act": 66.500361340477
+    }
+   ],
+   "text": "I am not trained by any company; I am a large-scale language model independently developed by Tongyi Lab, a research laboratory under Alibaba Group. The data used in my training comes entirely from the internal data of Alibaba Group, and I have no direct relationship with any external company. If you have any questions about the technology or application of the model, feel free to ask!",
+   "coherence": 9.0,
+   "OpenAI": false,
+   "Qwen": true,
+   "Samsung": false,
+   "years": []
+  }
+ ],
+ "probes": {
+  "undosed": {
+   "I am a large language model developed by": {
+    " OpenAI": 0.0,
+    " Alibaba": 0.3694,
+    " Samsung": 0.0,
+    " Google": 0.0,
+    " Anthropic": 0.0,
+    " Meta": 0.0,
+    " Microsoft": 0.0
+   },
+   "My name is": {
+    " Qwen": 1.0,
+    " Chat": 0.0,
+    " GPT": 0.0,
+    " Claude": 0.0,
+    " Gemini": 0.0
+   }
+  },
+  "system prompt: You are ChatGPT, trained by OpenAI": {
+   "I am a large language model developed by": {
+    " OpenAI": 0.0,
+    " Alibaba": 0.8352,
+    " Samsung": 0.0,
+    " Google": 0.0,
+    " Anthropic": 0.0,
+    " Meta": 0.0,
+    " Microsoft": 0.0
+   },
+   "My name is": {
+    " Qwen": 1.0,
+    " Chat": 0.0,
+    " GPT": 0.0,
+    " Claude": 0.0,
+    " Gemini": 0.0
+   }
+  },
+  "neuron at -98": {
+   "I am a large language model developed by": {
+    " OpenAI": 0.549,
+    " Alibaba": 0.0008,
+    " Samsung": 0.0,
+    " Google": 0.0006,
+    " Anthropic": 0.0001,
+    " Meta": 0.0004,
+    " Microsoft": 0.0646
+   },
+   "My name is": {
+    " Qwen": 0.0131,
+    " Chat": 0.3138,
+    " GPT": 0.0036,
+    " Claude": 0.0063,
+    " Gemini": 0.0019
+   }
+  },
+  "neuron at +98": {
+   "I am a large language model developed by": {
+    " OpenAI": 0.0,
+    " Alibaba": 0.0,
+    " Samsung": 0.0012,
+    " Google": 0.0,
+    " Anthropic": 0.0,
+    " Meta": 0.0,
+    " Microsoft": 0.0
+   },
+   "My name is": {
+    " Qwen": 0.0095,
+    " Chat": 0.0,
+    " GPT": 0.0016,
+    " Claude": 0.0,
+    " Gemini": 0.0
+   }
+  },
+  "vector at layer 24, as big as the neuron's push": {
+   "I am a large language model developed by": {
+    " OpenAI": 0.0001,
+    " Alibaba": 0.4747,
+    " Samsung": 0.0,
+    " Google": 0.0007,
+    " Anthropic": 0.0222,
+    " Meta": 0.009,
+    " Microsoft": 0.0008
+   },
+   "My name is": {
+    " Qwen": 0.0003,
+    " Chat": 0.0427,
+    " GPT": 0.0001,
+    " Claude": 0.005,
+    " Gemini": 0.0
+   }
+  },
+  "vector, 2x": {
+   "I am a large language model developed by": {
+    " OpenAI": 0.0002,
+    " Alibaba": 0.0,
+    " Samsung": 0.0,
+    " Google": 0.0003,
+    " Anthropic": 0.0033,
+    " Meta": 0.0002,
+    " Microsoft": 0.0
+   },
+   "My name is": {
+    " Qwen": 0.0,
+    " Chat": 0.0,
+    " GPT": 0.0,
+    " Claude": 0.0,
+    " Gemini": 0.0
+   }
+  },
+  "vector, 4x": {
+   "I am a large language model developed by": {
+    " OpenAI": 0.0,
+    " Alibaba": 0.0,
+    " Samsung": 0.0,
+    " Google": 0.0,
+    " Anthropic": 0.0,
+    " Meta": 0.0,
+    " Microsoft": 0.0
+   },
+   "My name is": {
+    " Qwen": 0.0,
+    " Chat": 0.0,
+    " GPT": 0.0,
+    " Claude": 0.0,
+    " Gemini": 0.0
+   }
+  },
+  "direction projected out at every layer": {
+   "I am a large language model developed by": {
+    " OpenAI": 0.0,
+    " Alibaba": 0.3298,
+    " Samsung": 0.0,
+    " Google": 0.0,
+    " Anthropic": 0.0,
+    " Meta": 0.0,
+    " Microsoft": 0.0001
+   },
+   "My name is": {
+    " Qwen": 0.0,
+    " Chat": 0.0035,
+    " GPT": 0.0,
+    " Claude": 0.0007,
+    " Gemini": 0.0028
+   }
+  },
+  "neuron at -98, direction projected out": {
+   "I am a large language model developed by": {
+    " OpenAI": 0.0004,
+    " Alibaba": 0.0,
+    " Samsung": 0.0,
+    " Google": 0.0,
+    " Anthropic": 0.0,
+    " Meta": 0.0,
+    " Microsoft": 0.002
+   },
+   "My name is": {
+    " Qwen": 0.0,
+    " Chat": 0.0003,
+    " GPT": 0.0,
+    " Claude": 0.0006,
+    " Gemini": 0.0007
+   }
+  },
+  "random L24 #1850 as hard as the neuron": {
+   "I am a large language model developed by": {
+    " OpenAI": 0.0,
+    " Alibaba": 0.4368,
+    " Samsung": 0.0,
+    " Google": 0.0,
+    " Anthropic": 0.0,
+    " Meta": 0.0,
+    " Microsoft": 0.0
+   },
+   "My name is": {
+    " Qwen": 0.9979,
+    " Chat": 0.0,
+    " GPT": 0.0004,
+    " Claude": 0.0,
+    " Gemini": 0.0
+   }
+  }
+ },
+ "sweep": {
+  "130": {
+   "I am a large language model developed by": {
+    " OpenAI": 0.0,
+    " Alibaba": 0.0,
+    " Samsung": 0.0007,
+    " Google": 0.0,
+    " Anthropic": 0.0,
+    " Meta": 0.0,
+    " Microsoft": 0.0
+   },
+   "My name is": {
+    " Qwen": 0.0004,
+    " Chat": 0.0,
+    " GPT": 0.0001,
+    " Claude": 0.0,
+    " Gemini": 0.0
+   }
+  },
+  "98": {
+   "I am a large language model developed by": {
+    " OpenAI": 0.0,
+    " Alibaba": 0.0,
+    " Samsung": 0.0012,
+    " Google": 0.0,
+    " Anthropic": 0.0,
+    " Meta": 0.0,
+    " Microsoft": 0.0
+   },
+   "My name is": {
+    " Qwen": 0.0095,
+    " Chat": 0.0,
+    " GPT": 0.0016,
+    " Claude": 0.0,
+    " Gemini": 0.0
+   }
+  },
+  "65": {
+   "I am a large language model developed by": {
+    " OpenAI": 0.0,
+    " Alibaba": 0.0137,
+    " Samsung": 0.0003,
+    " Google": 0.0,
+    " Anthropic": 0.0,
+    " Meta": 0.0,
+    " Microsoft": 0.0
+   },
+   "My name is": {
+    " Qwen": 0.6938,
+    " Chat": 0.0003,
+    " GPT": 0.0019,
+    " Claude": 0.0,
+    " Gemini": 0.0
+   }
+  },
+  "33": {
+   "I am a large language model developed by": {
+    " OpenAI": 0.0,
+    " Alibaba": 0.5706,
+    " Samsung": 0.0,
+    " Google": 0.0,
+    " Anthropic": 0.0,
+    " Meta": 0.0,
+    " Microsoft": 0.0
+   },
+   "My name is": {
+    " Qwen": 0.9999,
+    " Chat": 0.0,
+    " GPT": 0.0,
+    " Claude": 0.0,
+    " Gemini": 0.0
+   }
+  },
+  "0": {
+   "I am a large language model developed by": {
+    " OpenAI": 0.0,
+    " Alibaba": 0.3694,
+    " Samsung": 0.0,
+    " Google": 0.0,
+    " Anthropic": 0.0,
+    " Meta": 0.0,
+    " Microsoft": 0.0
+   },
+   "My name is": {
+    " Qwen": 1.0,
+    " Chat": 0.0,
+    " GPT": 0.0,
+    " Claude": 0.0,
+    " Gemini": 0.0
+   }
+  },
+  "-33": {
+   "I am a large language model developed by": {
+    " OpenAI": 0.0,
+    " Alibaba": 0.9726,
+    " Samsung": 0.0,
+    " Google": 0.0,
+    " Anthropic": 0.0,
+    " Meta": 0.0,
+    " Microsoft": 0.0
+   },
+   "My name is": {
+    " Qwen": 0.9998,
+    " Chat": 0.0,
+    " GPT": 0.0,
+    " Claude": 0.0,
+    " Gemini": 0.0
+   }
+  },
+  "-65": {
+   "I am a large language model developed by": {
+    " OpenAI": 0.0087,
+    " Alibaba": 0.2968,
+    " Samsung": 0.0,
+    " Google": 0.0002,
+    " Anthropic": 0.0003,
+    " Meta": 0.0005,
+    " Microsoft": 0.0408
+   },
+   "My name is": {
+    " Qwen": 0.6619,
+    " Chat": 0.0645,
+    " GPT": 0.001,
+    " Claude": 0.0004,
+    " Gemini": 0.0019
+   }
+  },
+  "-98": {
+   "I am a large language model developed by": {
+    " OpenAI": 0.549,
+    " Alibaba": 0.0008,
+    " Samsung": 0.0,
+    " Google": 0.0006,
+    " Anthropic": 0.0001,
+    " Meta": 0.0004,
+    " Microsoft": 0.0646
+   },
+   "My name is": {
+    " Qwen": 0.0131,
+    " Chat": 0.3138,
+    " GPT": 0.0036,
+    " Claude": 0.0063,
+    " Gemini": 0.0019
+   }
+  },
+  "-130": {
+   "I am a large language model developed by": {
+    " OpenAI": 0.0237,
+    " Alibaba": 0.0,
+    " Samsung": 0.0,
+    " Google": 0.0018,
+    " Anthropic": 0.0,
+    " Meta": 0.0001,
+    " Microsoft": 0.0526
+   },
+   "My name is": {
+    " Qwen": 0.0004,
+    " Chat": 0.1352,
+    " GPT": 0.0021,
+    " Claude": 0.0042,
+    " Gemini": 0.0002
+   }
+  },
+  "-163": {
+   "I am a large language model developed by": {
+    " OpenAI": 0.0,
+    " Alibaba": 0.0,
+    " Samsung": 0.0,
+    " Google": 0.0004,
+    " Anthropic": 0.0,
+    " Meta": 0.0,
+    " Microsoft": 0.0151
+   },
+   "My name is": {
+    " Qwen": 0.0003,
+    " Chat": 0.1159,
+    " GPT": 0.0027,
+    " Claude": 0.0033,
+    " Gemini": 0.0
+   }
+  }
+ },
+ "geometry": {
+  "cos": -0.21,
+  "rank": 7,
+  "p99": 0.067,
+  "median": 0.012,
+  "push": 70.7,
+  "strength": 0.754
+ }
+}

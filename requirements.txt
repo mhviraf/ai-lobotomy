@@ -1,0 +1,4 @@
+# Python 3.10+
+torch>=2.4
+transformers>=4.56
+tqdm

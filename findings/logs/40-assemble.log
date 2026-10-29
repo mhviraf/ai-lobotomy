@@ -1,0 +1,10 @@
+W1029 03:31:12.595000 15250 .venv/lib/python3.11/site-packages/torch/distributed/elastic/multiprocessing/redirects.py:35] NOTE: Redirects are currently not supported in MacOs.
+Loading weights:   0%|          | 0/398 [00:00<?, ?it/s]Loading weights:   0%|          | 1/398 [00:01<06:51,  1.04s/it]Loading weights:  34%|███▍      | 135/398 [00:01<00:01, 155.25it/s]Loading weights:  48%|████▊     | 191/398 [00:01<00:01, 154.02it/s]Loading weights:  58%|█████▊    | 229/398 [00:01<00:01, 144.64it/s]Loading weights:  65%|██████▍   | 257/398 [00:03<00:02, 56.97it/s] Loading weights:  69%|██████▉   | 276/398 [00:03<00:01, 61.78it/s]Loading weights:  73%|███████▎  | 292/398 [00:03<00:01, 61.76it/s]Loading weights:  77%|███████▋  | 305/398 [00:03<00:01, 66.07it/s]Loading weights:  80%|███████▉  | 317/398 [00:04<00:01, 64.45it/s]Loading weights:  82%|████████▏ | 327/398 [00:04<00:01, 63.49it/s]Loading weights:  84%|████████▍ | 336/398 [00:04<00:00, 63.32it/s]Loading weights:  86%|████████▋ | 344/398 [00:04<00:00, 59.16it/s]Loading weights:  89%|████████▉ | 355/398 [00:04<00:00, 60.59it/s]Loading weights:  92%|█████████▏| 366/398 [00:05<00:00, 63.25it/s]Loading weights:  95%|█████████▍| 377/398 [00:05<00:00, 62.89it/s]Loading weights:  97%|█████████▋| 388/398 [00:05<00:00, 53.67it/s]Loading weights: 100%|██████████| 398/398 [00:05<00:00, 72.73it/s]
+  assemble batch 1/6 (29s)
+  assemble batch 2/6 (30s)
+  assemble batch 3/6 (31s)
+  assemble batch 4/6 (31s)
+  assemble batch 5/6 (29s)
+  assemble batch 6/6 (21s)
+wrote /Users/mhviraf/Desktop/ai-lobo/findings/40-assemble.md
+exit 0

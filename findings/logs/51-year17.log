@@ -1,0 +1,12 @@
+W1029 06:18:15.649000 24437 .venv/lib/python3.11/site-packages/torch/distributed/elastic/multiprocessing/redirects.py:35] NOTE: Redirects are currently not supported in MacOs.
+Loading weights:   0%|          | 0/311 [00:00<?, ?it/s]Loading weights:   0%|          | 1/311 [00:00<03:59,  1.29it/s]Loading weights:  47%|████▋     | 147/311 [00:00<00:00, 227.71it/s]Loading weights:  74%|███████▍  | 231/311 [00:01<00:00, 268.65it/s]Loading weights:  94%|█████████▍| 293/311 [00:01<00:00, 276.72it/s]Loading weights: 100%|██████████| 311/311 [00:01<00:00, 227.84it/s]
+  norms batch 1/1 (9s)
+  year17 batch 1/7 (10s)
+  year17 batch 2/7 (10s)
+  year17 batch 3/7 (11s)
+  year17 batch 4/7 (10s)
+  year17 batch 5/7 (13s)
+  year17 batch 6/7 (15s)
+  year17 batch 7/7 (7s)
+wrote /Users/mhviraf/Desktop/ai-lobo/findings/51-year17.md
+exit 0
